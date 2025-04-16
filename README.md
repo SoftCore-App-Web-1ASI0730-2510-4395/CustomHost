@@ -179,7 +179,7 @@
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-|Alison Arrieta 	![Imagen del compañero](img/Alison%20Arrieta.png)|U202312031|Ingenieria de software|C++, Python, JavaScript, MySql|
+|Alison Arrieta 	![Imagen del compañero](img/docs/Alison%20Arrieta.png)|U202312031|Ingenieria de software|C++, Python, JavaScript, MySql|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
