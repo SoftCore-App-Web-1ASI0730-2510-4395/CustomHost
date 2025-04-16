@@ -176,6 +176,13 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+SoftCore es una prometedora startup conformada por estudiantes de la Universidad Peruana de Ciencia Aplicadas (UPC) en Lima, Perú, unidos por la visión de transformar la experiencia hotelera a través de la tecnología. Este equipo combina su conocimiento en desarrollo de software, diseño de interfaces y gran interes en la industria hotelera para crear una innovadora aplicación de gestión. Su objetivo principal es empoderar a los huéspedes, permitiéndoles personalizar su estadía y convertir cada habitación en un espacio inteligente y adaptado a sus preferencias individuales.
+
+La propuesta de SoftCore se centra en la integración de tecnologías emergentes como el Internet de las Cosas (IoT), la biometría y la domótica. A través de su aplicación, los usuarios podrán definir sus preferencias antes o durante su llegada al hotel, lo que se traducirá en un entorno de habitación que responda automáticamente a sus necesidades. Esta solución no solo busca mejorar la comodidad y satisfacción del huésped, sino también proporcionar al personal administrativo herramientas eficientes para gestionar estas preferencias y optimizar las operaciones del hotel.
+
+Con un enfoque inicial en el mercado hotelero de Lima, SoftCore aspira a convertirse en un referente de la innovación en el sector. La mentalidad disruptiva forma parte de nuestra filosofía y gracias a esto es posible abordar los desafíos de la industria con soluciones creativas y centradas en el usuario. La startup busca demostrar cómo la tecnología puede elevar la experiencia del cliente y generar valor tanto para los huéspedes como para los establecimientos hoteleros, marcando el camino hacia una nueva era de "hoteles inteligentes" en la capital peruana.
+
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
