@@ -186,7 +186,7 @@ Con un enfoque inicial en el mercado hotelero de Lima, SoftCore aspira a convert
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-|Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Ordoñez Ricaldi, Axel Randall 	![Imagen del compañero](Assets/img/chapter-1/Axel-photo.jpg)|U202216827|Ingenieria de software|C++, SQL, MongoDB, Python. Paciencia y buen trabajo en equipo|
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
