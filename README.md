@@ -341,20 +341,8 @@ Texto ubiquo: Definicion de este
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1:
-
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
-
-Segmento 2:
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+![To-Be Scenario Mapping](/Assets/img/Chapter-3/To-Be-Segmento1.png)
+![To-Be Scenario Mapping](/Assets/img/Chapter-3/To-Be-Segmento2.png)
 
 ## 3.2. User Stories.
 
