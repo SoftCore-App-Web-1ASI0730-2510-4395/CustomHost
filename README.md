@@ -185,6 +185,11 @@
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+Nuestro contexto demanda soluciones tecnológicas innovadoras para optimizar la experiencia hotelera de los huéspedes, permitiéndoles personalizar su entorno y disfrutar de una estadía adaptada a sus necesidades individuales. A través de nuestra aplicación de gestión hotelera, buscamos brindar una plataforma integral que permita a los usuarios ingresar sus preferencias y que estas se traduzcan en una habitación inteligente y personalizada desde el momento en que reciben la llave.
+
+Hemos observado un factor importante que afecta la satisfacción de los huéspedes, el cual se manifiesta en la falta de personalización y adaptación de las habitaciones a sus gustos y requerimientos específicos, limitando la sensación de confort y exclusividad durante su estadía.
+
+¿Cómo podemos desarrollar una aplicación de gestión hotelera que se adapte a las necesidades individuales de cada huésped, integrando tecnologías como IoT, biometría y domótica para ofrecer una experiencia personalizada y optimizada en hoteles inteligentes de Lima?
 #### 1.2.2.2. Lean UX Assumptions.
 |Business Assumptions|User Assumptions|
 |-|-|
