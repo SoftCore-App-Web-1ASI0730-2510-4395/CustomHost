@@ -462,8 +462,18 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-1.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-2.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-3.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-4.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-5.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-6.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-7.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-8.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-9.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-10.jpg)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
