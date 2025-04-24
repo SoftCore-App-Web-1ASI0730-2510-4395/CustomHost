@@ -548,43 +548,127 @@ Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f90
 |39|TS16|Visualización Condicional de Interfaces|Como desarrollador, quiero adaptar la interfaz según el rol del usuario, para mostrar solo las opciones relevantes a cada perfil.|5|
 
 # Capítulo IV: Product Design
-## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
 
 #### **Tipografía (Inter)**
 La tipografía elegida para nuestra marca es Inter, por su estilo moderno, funcional y altamente legible. Su diseño limpio se adapta a distintos formatos, tanto digitales como impresos, garantizando una comunicación clara y profesional.
 
+Gracias a su versatilidad, Inter funciona bien en títulos y textos extensos, reflejando los valores de innovación y accesibilidad de nuestra marca. Al ser de código abierto, también refuerza nuestro compromiso con soluciones sostenibles y colaborativas en un entorno digital dinámico.
+
+#### **Colores**
+La selección de nuestra paleta de colores para nuestro proyecto responde a una estrategia visual cuidadosamente diseñada para transmitir tecnología, confianza y sofisticación, elementos esenciales en la propuesta de valor de SoftCore.
+
+![Imagen de la paleta de colores del landing page](Assets/img/Chapter%204/Paleta-de-Colores.png)
+
+El color primario, un azul petróleo **(#37474F)**, establece la base visual del sitio y representa atributos como tecnología, profesionalismo y solidez. Este tono transmite autoridad, siendo ideal para productos tecnológicos dirigidos a usuarios que buscan eficiencia y modernidad en sus experiencias digitales.
+
+Como color de acento, se emplea un verde petróleo oscuro **(#00796B)** que comunica estabilidad, frescura y eficiencia. Este tono complementa perfectamente al color primario, añadiendo un contraste equilibrado que dinamiza la interfaz y aporta un toque distintivo a la identidad visual de la aplicación. Su variante más oscura **(#00695C)** se aplica en estados hover, creando una interacción suave y coherente, reforzando la sensación de fluidez y respuesta inmediata en la navegación.
+
+Los fondos claros como el gris azulado **(#ECEFF1)** y el degradado de gris medio a gris claro **(#CFD8DC --> #B0BEC5)** ofrecen una superficie limpia y luminosa, diseñada para mejorar la legibilidad, reducir la fatiga visual y mantener una atmósfera clara y ordenada. Estos colores funcionan como base sobre la cual los componentes interactivos y los bloques de contenido pueden destacar de manera natural, manteniendo siempre una estética elegante y balanceada.
+
+En las secciones inferiores, como el footer, se utiliza un tono grafito elegante **(#263238)** que proporciona un contraste fuerte y ayuda a separar visualmente los contenidos. Este fondo oscuro refuerza la jerarquía visual y da un cierre sólido a la estructura de la página.
+
+El texto principal está diseñado con un gris oscuro neutral **(#2E3C43)**, que garantiza una lectura cómoda, clara y accesible, especialmente en pantallas digitales. Además, se aplican sombras sutiles **(rgba(0, 0, 0, 0.1))** para generar profundidad y separación entre elementos, brindando una interfaz visualmente dinámica sin caer en la saturación.
+
+Finalmente, para situaciones que requieren llamar la atención del usuario, como advertencias o notificaciones importantes, se utiliza un naranja vibrante **(#FB8C00)**. Este color aporta energía y urgencia, destacando eficazmente en contraste con el resto de la paleta, sin comprometer la coherencia estética general.
+
+#### **Lenguaje**
+En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación para transformar la experiencia hotelera mediante tecnología inteligente. Buscamos conectar tanto con huéspedes como con profesionales del sector, manteniendo una comunicación clara, cercana y profesional. La combinación de tonos que emplearemos es la siguiente:
+
+1. **Profesional pero accesible:** Queremos transmitir seriedad y conocimiento en el desarrollo de soluciones tecnológicas aplicadas a la hotelería, sin dejar de ser comprensibles para todos los usuarios. Nuestra comunicación mostrará dominio técnico, pero con un lenguaje claro y cercano que invite a explorar nuestra propuesta sin barreras.
+2. **Formal pero cálido:** Aunque mantenemos un tono formal que refleje el compromiso y la confiabilidad de nuestra marca, también nos dirigimos a nuestros usuarios con cercanía. Nuestra intención es establecer una conexión humana y auténtica, transmitiendo confianza y empatía desde el primer contacto.
+3. **Respetuoso y empático:** Nos comunicamos con respeto hacia todos nuestros usuarios, reconociendo la diversidad de necesidades de huéspedes, administradores y personal hotelero. Nuestro lenguaje será inclusivo y considerado, promoviendo una relación de colaboración y apoyo constante.
+4. **Inspirador y optimista:** En SoftCore creemos que la tecnología puede mejorar profundamente la experiencia de hospedaje. Por ello, hablaremos con entusiasmo y convicción, motivando a nuestros usuarios a imaginar y vivir una nueva forma de hospedarse: más cómoda, personalizada e inteligente.
+
+#### **Branding**
+Nuestro logotipo representa de forma clara y minimalista la esencia de CustomHost. En él se aprecia la silueta de un hotel, acompañado por un ícono de señal inalámbrica en la parte superior, simbolizando la conectividad inteligente y el uso de tecnologías dentro de las habitaciones. Este diseño busca transmitir desde el primer vistazo el enfoque tecnológico de nuestro producto, que transforma la experiencia tradicional de hospedaje en una experiencia personalizada y digital.
+
+![Imagen del logo de nuestra startup](Assets/img/Chapter%204/CustomHost-Logo.jpg)
+
+### 4.1.2. Web Style Guidelines.
+
+#### **Descripción General**
+Este diseño corresponde a la aplicación web de CustomHost, una plataforma inteligente que permite a los huéspedes personalizar su estadía y a los hoteles optimizar su gestión mediante tecnologías como domótica y biometría. El diseño incluye la pantalla de inicio, la cual mantiene un estilo visual coherente utilizando una paleta de colores sobrios y tecnológicos como el azul petróleo y el verde oscuro. Además, se aplica una tipografía definida que refuerza la imagen moderna y profesional de la marca.
+<br>
+
+#### **1. Pantalla de Inicio**
+**Header:**
+- Logo (esquina superior izquierda).
+- Menú de navegación con opciones: Home, SmartStay, About Us y Contact Us.
+- Botones "Log In" y "Sign Up".
+- Número y correo de contacto.
+
+![Imagen del Header del landing page](Assets/img/Chapter%204/Header.png)
+<br>
+
+**Home:**
+- Texto de bienvedida a nuestra aplicación web.
+- Descripción acerca de lo que se puede hacer en nuestro hotel.
+
+![Imagen de la sección Home del landing page](Assets/img/Chapter%204/Home.png)
+<br>
+
+**SmartStay:**
+En esta sección se le presenta a los usuarios una introducción visual e informativa de los principales beneficios de usar CustomHost durante su estadía en un hotel inteligente.
+
+![Imagen de la sección SmartStay del landing page](Assets/img/Chapter%204/SmartStay.png)
+<br>
+
+**About Us:**
+En esta sección se presenta una introducción a la startup SoftCore. Los usuarios conocen quiénes están detrás del proyecto, cuál es su propósito y qué los motiva.
+
+![Imagen de la sección About Us del landing page](Assets/img/Chapter%204/About_Us.png)
+<br>
+
+**Contact Us**
+En esta sección se presenta un formulario solicitando los datos al usuario como su nombre, su correo y el mensaje que desea enviarnos para poder contactarse con nosotros.
+
+![Imagen de la sección Contact Us del landing page](Assets/img/Chapter%204/Contact_Us.png)
+<br>
+
+**Footer**
+- El logo junto con correo y numero de contacto.
+- Secciones de partes de CustomHost como "Home", “SmartStay”, "About Us" y "Contact Us”.
+- Ayuda el usuario como “Preguntas frecuentes”, “Términos de servicio”, Reportar un problema” y “Política de privacidad”.
+- Algunos contactos y las redes sociales.
+
+![Imagen del Footer del landing page](Assets/img/Chapter%204/Footer.png)
+<br>
 
 ## 4.2. Information Architecture.
+La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
+
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
+*Organización visual del contenido*
+Se empleará una estructura jerárquica visual clara en la Landing Page y en cada sección de la plataformaweb. Se priorizará la presentación de información clave como el panel de preferencias del huésped, el estado de las habitaciones, y accesos rápidos a funciones como check-in, control domótico o comunicación con el personal.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
-
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+Estos son los principios de etiquetado aplicados en la plataforma:
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+*Claridad y simplicidad*
+Se emplea un lenguaje accesible para los usuarios, evitando tecnicismos innecesarios en la interfaz del huésped. En el caso del personal técnico y administrativo, se mantienen ciertos términos específicos, especialmente en la gestión de dispositivos inteligentes y mantenimiento.
+
+*Brevedad*
+Las etiquetas de botones, menús y opciones se mantienen breves y directas, facilitando la navegación ágil desde cualquier dispositivo.
+
 ### 4.2.3. SEO Tags and Meta Tags
-
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+- Título: <title> CustomHost | Personaliza tu estadía con tecnología inteligente </title>
+- Descripción: <meta name = "description" content = "Plataforma que permite a huéspedes y hoteles personalizar habitaciones con domótica, IoT y acceso biométrico. Vive una experiencia única e inteligente."/>
+- Palabras Clave: <meta name = "keyword" content = "Hoteles inteligentes, domótica hotelera, IoT en hoteles, personalización de estadía, check-in digital, habitaciones automatizadas"/>
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+Al ingresar, el usuario será recibido con una pantalla de bienvenida donde se encontrará con dos botones en la parte superior derecha, uno para registrarse y otro para inicar sesión. Una vez iniciada la sesión, la navegación dentro de la aplicación estará organizada para facilitar una experiencia fluida e intuitiva.
+
+Los usuarios contarán con una barra de navegación superior que les permitirá acceder fácilmente a las principales funciones. Desde allí podrán personalizar su estadía, controlar su entorno, solicitar ayuda o gestionar su salida del hotel.
+
+La navegación estará reforzada con íconos, etiquetas breves y estados activos visuales, para garantizar que los usuarios siempre sepan dónde están y cómo volver o avanzar en sus acciones.
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+Al ingresar al sitio web de CustomHost, el usuario visualizará una barra de navegación fija en la parte superior de la pantalla, la cual facilitará el acceso directo a las secciones más importantes del sitio.
+
+![Imagen del Header del landing page](Assets/img/chapter%204/Header.png)
+
+Esta barra permanecerá visible durante toda la navegación, sin importar la sección visitada, asegurando así un acceso ágil y constante a todos los servicios y recursos que ofrece CustomHost.
 
 ## 4.3. Landing Page UI Design.
 En esta sección se presentan los diseños correspondientes a nuestra Landing Page, los cuales se encuentran divididos en dos partes: por un lado, los wireframes que muestran una estructura simplificada de la interfaz, y por otro, el mock-up visual que servirá como referencia estética y funcional para el desarrollo final de la página.
