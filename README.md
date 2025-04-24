@@ -493,8 +493,11 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 ![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-10.jpg)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+
+![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-1.jpg)
+![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-2.jpg)
+
+
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
