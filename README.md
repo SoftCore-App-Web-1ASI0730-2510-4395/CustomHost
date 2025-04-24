@@ -410,6 +410,53 @@ Nuestro logotipo representa de forma clara y minimalista la esencia de CustomHos
 
 ![Imagen del logo de nuestra startup](Assets/img/Chapter%204/CustomHost-Logo.jpg)
 
+#### **Descripción General**
+Este diseño corresponde a la aplicación web de CustomHost, una plataforma inteligente que permite a los huéspedes personalizar su estadía y a los hoteles optimizar su gestión mediante tecnologías como domótica y biometría. El diseño incluye la pantalla de inicio, la cual mantiene un estilo visual coherente utilizando una paleta de colores sobrios y tecnológicos como el azul petróleo y el verde oscuro. Además, se aplica una tipografía definida que refuerza la imagen moderna y profesional de la marca.
+<br>
+
+#### **1. Pantalla de Inicio**
+**Header:**
+- Logo (esquina superior izquierda).
+- Menú de navegación con opciones: Home, SmartStay, About Us y Contact Us.
+- Botones "Log In" y "Sign Up".
+- Número y correo de contacto.
+
+![Imagen del Header del landing page](Assets/img/Chapter%204/Header.png)
+<br>
+
+**Home:**
+- Texto de bienvedida a nuestra aplicación web.
+- Descripción acerca de lo que se puede hacer en nuestro hotel.
+
+![Imagen de la sección Home del landing page](Assets/img/Chapter%204/Home.png)
+<br>
+
+**SmartStay:**
+En esta sección se le presenta a los usuarios una introducción visual e informativa de los principales beneficios de usar CustomHost durante su estadía en un hotel inteligente.
+
+![Imagen de la sección SmartStay del landing page](Assets/img/Chapter%204/SmartStay.png)
+<br>
+
+**About Us:**
+En esta sección se presenta una introducción a la startup SoftCore. Los usuarios conocen quiénes están detrás del proyecto, cuál es su propósito y qué los motiva.
+
+![Imagen de la sección About Us del landing page](Assets/img/Chapter%204/About_Us.png)
+<br>
+
+**Contact Us**
+En esta sección se presenta un formulario solicitando los datos al usuario como su nombre, su correo y el mensaje que desea enviarnos para poder contactarse con nosotros.
+
+![Imagen de la sección Contact Us del landing page](Assets/img/Chapter%204/Contact_Us.png)
+<br>
+
+**Footer**
+- El logo junto con correo y numero de contacto.
+- Secciones de partes de CustomHost como "Home", “SmartStay”, "About Us" y "Contact Us”.
+- Ayuda el usuario como “Preguntas frecuentes”, “Términos de servicio”, Reportar un problema” y “Política de privacidad”.
+- Algunos contactos y las redes sociales.
+
+![Imagen del Footer del landing page](Assets/img/Chapter%204/Footer.png)
+<br>
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
