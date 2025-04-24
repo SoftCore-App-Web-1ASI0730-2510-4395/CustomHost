@@ -505,13 +505,19 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 ### 4.6.1. Software Architecture Context Diagram.
 ![Context Diagram](Assets/img/Chapter%204/structurizr-101614-SystemContext-001-fixed.png)
 
-[> Click aquí para acceder al diagrama <](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
    
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+![Container Diagram](Assets/img/Chapter%204/structurizr-101614-Container-001.png)
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-001.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-002.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-003.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-004.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-005.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-006.png)
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
