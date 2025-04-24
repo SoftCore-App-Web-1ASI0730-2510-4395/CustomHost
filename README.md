@@ -426,15 +426,25 @@ Basicamente aqui definimos como funciona la navegacion del web app
 **Hierarchical Navigation System:** Main page a destination pages.
 **Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
 **Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
-## 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+## 4.3. Landing Page UI Design.
+En esta sección se presentan los diseños correspondientes a nuestra Landing Page, los cuales se encuentran divididos en dos partes: por un lado, los wireframes que muestran una estructura simplificada de la interfaz, y por otro, el mock-up visual que servirá como referencia estética y funcional para el desarrollo final de la página.
+
+### 4.3.1. Landing Page Wireframe.
+[Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
+
+![Imagen del Wireframe 1](Assets/img/Chapter%204/Wireframe_1.png)
+![Imagen del Wireframe 2](Assets/img/Chapter%204/Wireframe_2.png)
+![Imagen del Wireframe 3](Assets/img/Chapter%204/Wireframe_3.png)
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+[Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
+
+![Imagen del Mock-Up 1](Assets/img/Chapter%204/Mock-Up_1.png)
+![Imagen del Mock-Up 2](Assets/img/Chapter%204/Mock-Up_2.png)
+![Imagen del Mock-Up 3](Assets/img/Chapter%204/Mock-Up_3.png)
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 lo funcional de cada aspecto del wireframe 
