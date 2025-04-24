@@ -374,28 +374,43 @@ Segmento 2:
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+#### **Tipografía (Inter)**
+La tipografía elegida para nuestra marca es Inter, por su estilo moderno, funcional y altamente legible. Su diseño limpio se adapta a distintos formatos, tanto digitales como impresos, garantizando una comunicación clara y profesional.
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
-### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
+Gracias a su versatilidad, Inter funciona bien en títulos y textos extensos, reflejando los valores de innovación y accesibilidad de nuestra marca. Al ser de código abierto, también refuerza nuestro compromiso con soluciones sostenibles y colaborativas en un entorno digital dinámico.
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+#### **Colores**
+La selección de nuestra paleta de colores para nuestro proyecto responde a una estrategia visual cuidadosamente diseñada para transmitir tecnología, confianza y sofisticación, elementos esenciales en la propuesta de valor de SoftCore.
+
+![Imagen de la paleta de colores del landing page](Assets/img/Chapter%204/Paleta-de-Colores.png)
+
+El color primario, un azul petróleo **(#37474F)**, establece la base visual del sitio y representa atributos como tecnología, profesionalismo y solidez. Este tono transmite autoridad, siendo ideal para productos tecnológicos dirigidos a usuarios que buscan eficiencia y modernidad en sus experiencias digitales.
+
+Como color de acento, se emplea un verde petróleo oscuro **(#00796B)** que comunica estabilidad, frescura y eficiencia. Este tono complementa perfectamente al color primario, añadiendo un contraste equilibrado que dinamiza la interfaz y aporta un toque distintivo a la identidad visual de la aplicación. Su variante más oscura **(#00695C)** se aplica en estados hover, creando una interacción suave y coherente, reforzando la sensación de fluidez y respuesta inmediata en la navegación.
+
+Los fondos claros como el gris azulado **(#ECEFF1)** y el degradado de gris medio a gris claro **(#CFD8DC --> #B0BEC5)** ofrecen una superficie limpia y luminosa, diseñada para mejorar la legibilidad, reducir la fatiga visual y mantener una atmósfera clara y ordenada. Estos colores funcionan como base sobre la cual los componentes interactivos y los bloques de contenido pueden destacar de manera natural, manteniendo siempre una estética elegante y balanceada.
+
+En las secciones inferiores, como el footer, se utiliza un tono grafito elegante **(#263238)** que proporciona un contraste fuerte y ayuda a separar visualmente los contenidos. Este fondo oscuro refuerza la jerarquía visual y da un cierre sólido a la estructura de la página.
+
+El texto principal está diseñado con un gris oscuro neutral **(#2E3C43)**, que garantiza una lectura cómoda, clara y accesible, especialmente en pantallas digitales. Además, se aplican sombras sutiles **(rgba(0, 0, 0, 0.1))** para generar profundidad y separación entre elementos, brindando una interfaz visualmente dinámica sin caer en la saturación.
+
+Finalmente, para situaciones que requieren llamar la atención del usuario, como advertencias o notificaciones importantes, se utiliza un naranja vibrante **(#FB8C00)**. Este color aporta energía y urgencia, destacando eficazmente en contraste con el resto de la paleta, sin comprometer la coherencia estética general.
+
+#### **Lenguaje**
+En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación para transformar la experiencia hotelera mediante tecnología inteligente. Buscamos conectar tanto con huéspedes como con profesionales del sector, manteniendo una comunicación clara, cercana y profesional. La combinación de tonos que emplearemos es la siguiente:
+
+1. **Profesional pero accesible:** Queremos transmitir seriedad y conocimiento en el desarrollo de soluciones tecnológicas aplicadas a la hotelería, sin dejar de ser comprensibles para todos los usuarios. Nuestra comunicación mostrará dominio técnico, pero con un lenguaje claro y cercano que invite a explorar nuestra propuesta sin barreras.
+2. **Formal pero cálido:** Aunque mantenemos un tono formal que refleje el compromiso y la confiabilidad de nuestra marca, también nos dirigimos a nuestros usuarios con cercanía. Nuestra intención es establecer una conexión humana y auténtica, transmitiendo confianza y empatía desde el primer contacto.
+3. **Respetuoso y empático:** Nos comunicamos con respeto hacia todos nuestros usuarios, reconociendo la diversidad de necesidades de huéspedes, administradores y personal hotelero. Nuestro lenguaje será inclusivo y considerado, promoviendo una relación de colaboración y apoyo constante.
+4. **Inspirador y optimista:** En SoftCore creemos que la tecnología puede mejorar profundamente la experiencia de hospedaje. Por ello, hablaremos con entusiasmo y convicción, motivando a nuestros usuarios a imaginar y vivir una nueva forma de hospedarse: más cómoda, personalizada e inteligente.
+
+#### **Branding**
+Nuestro logotipo representa de forma clara y minimalista la esencia de CustomHost. En él se aprecia la silueta de un hotel, acompañado por un ícono de señal inalámbrica en la parte superior, simbolizando la conectividad inteligente y el uso de tecnologías dentro de las habitaciones. Este diseño busca transmitir desde el primer vistazo el enfoque tecnológico de nuestro producto, que transforma la experiencia tradicional de hospedaje en una experiencia personalizada y digital.
+
+![Imagen del logo de nuestra startup](Assets/img/Chapter%204/CustomHost-Logo.jpg)
+
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
