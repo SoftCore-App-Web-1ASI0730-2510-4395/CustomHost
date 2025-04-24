@@ -203,14 +203,55 @@ Por lo tanto, existe una necesidad continua de que los hoteles en Lima adopten e
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+Nuestro contexto demanda soluciones tecnológicas innovadoras para optimizar la experiencia hotelera de los huéspedes, permitiéndoles personalizar su entorno y disfrutar de una estadía adaptada a sus necesidades individuales. A través de nuestra aplicación de gestión hotelera, buscamos brindar una plataforma integral que permita a los usuarios ingresar sus preferencias y que estas se traduzcan en una habitación inteligente y personalizada desde el momento en que reciben la llave.
+
+Hemos observado un factor importante que afecta la satisfacción de los huéspedes, el cual se manifiesta en la falta de personalización y adaptación de las habitaciones a sus gustos y requerimientos específicos, limitando la sensación de confort y exclusividad durante su estadía.
+
+¿Cómo podemos desarrollar una aplicación de gestión hotelera que se adapte a las necesidades individuales de cada huésped, integrando tecnologías como IoT, biometría y domótica para ofrecer una experiencia personalizada y optimizada en hoteles inteligentes de Lima?
 #### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
+##### Business Assumptions
+
+|Assumption|Description|
 |-|-|
-|1. - 12. |1. - 6.|
+| Aumento de satisfacción      | La aplicación incrementará la satisfacción del cliente, promoviendo su fidelización y recomendaciones.        |
+| Rentabilidad de IoT          | La inversión en domótica e IoT será rentable a mediano plazo por la diferenciación y optimización de recursos.|
+| Adaptación del personal      | El personal administrativo podrá adaptarse fácilmente al dashboard y usarlo en su rutina diaria.              | 
+| Colaboración con proveedores | Habrá una cooperación fluida con proveedores de domótica para integración y mantenimiento.                    |
+| Diferenciación competitiva   | La idea de un "hotel inteligente" destacará frente a otros hoteles en Lima.                                   |
+| Versión móvil eficiente      | La versión móvil facilitará la interacción del huésped en todas las etapas de su experiencia.                 |
+
+
+##### User Assumptions
+|Assumption|Description|
+|-|-|
+| Interés en personalización | Los turistas estarán interesados en la propuesta de personalización vía app.           |
+| Valoración del control     | Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular.|
+| Facilidad de uso           | Los usuarios verán la app como intuitiva y fácil de usar.                              |
+| Confianza en biometría     | Habrá confianza en el uso de tecnología biométrica para acceso y personalización.      |
+| Tiempo para configurar     | Los turistas estarán dispuestos a configurar preferencias antes o al llegar.           |
+| Percepción de valor        | Los huéspedes verán el hotel inteligente como un valor agregado significativo.         |
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+1. Creemos que ofrecer a los huéspedes la capacidad de personalizar su habitación a través de una aplicación móvil antes de su llegada aumentará su satisfacción general con la estadía.
+Sabremos que hemos tenido éxito cuando observemos un aumento del 15% en las puntuaciones de satisfacción del cliente relacionadas con la comodidad y personalización de la habitación en las encuestas post-estancia.
+
+2. Creemos que la implementación de un dashboard intuitivo para el personal administrativo que centralice las preferencias de los huéspedes optimizará la gestión del hotel y reducirá el tiempo dedicado a tareas relacionadas con la personalización de habitaciones.
+Sabremos que hemos tenido éxito cuando el personal administrativo reporte una reducción del 10% en el tiempo promedio dedicado a la preparación y ajuste de las habitaciones según las preferencias de los huéspedes.
+
+3. Creemos que la integración de tecnología biométrica para el acceso a la habitación y la personalización del entorno aumentará la percepción de seguridad y exclusividad entre los huéspedes.
+Sabremos que hemos tenido éxito cuando al menos el 80% de los huéspedes que utilicen la función biométrica la califiquen positivamente en términos de seguridad y conveniencia en las encuestas post-estancia.
+
+4. Creemos que ofrecer control domótico de la habitación a través de la aplicación (iluminación, temperatura, etc.) mejorará la comodidad y la experiencia general de los huéspedes durante su estadía.
+Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en el uso de las funciones de control domótico dentro de la aplicación por parte de los huéspedes activos.
+
+5. Creemos que al proporcionar una plataforma que permite a los proveedores de domótica monitorear el funcionamiento de sus dispositivos en tiempo real, se facilitará el mantenimiento preventivo y se minimizarán los problemas técnicos en las habitaciones.
+Sabremos que hemos tenido éxito cuando se registre una disminución del 5% en el número de reportes de fallas de los dispositivos de domótica en las habitaciones inteligentes.
+
+6. Creemos que la disponibilidad de una versión móvil de la aplicación aumentará la interacción de los huéspedes con la plataforma antes, durante y después de su estadía, fomentando la exploración de los servicios del hotel y posibles reservas futuras.
+Sabremos que hemos tenido éxito cuando observemos un aumento del 10% en el número de usuarios activos en la versión móvil de la aplicación y un incremento del 5% en las consultas o reservas realizadas a través de la misma.
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+
+![Lean ux canvas img](assets/chapter-one/lean-ux-canvas.jpg)
+
 ## 1.3. Segmentos objetivo.
 | | Segmento 1 | Segmento 2  |
 | - | - |-|
