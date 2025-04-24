@@ -410,9 +410,49 @@ Texto ubiquo: Definicion de este
 
 ## 3.4. Product Backlog.
 
+Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f903a3b4af1efa73604221d6aE9912258/customhost-product-backlog
+
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
+|1|US01|Visualización de servicios del hotel|Como visitante del sitio, quiero visualizar los servicios que ofrece el hotel, para saber lo que ofrece antes de hacer una reserva.|2|
+|2|US02|Acceso a información de contacto|	Como visitante del sitio, quiero acceder fácilmente a los datos de contacto del hotel, para poder comunicarme si tengo dudas o necesito ayuda.|1|
+|3|US03|Acceso a Testimonios de Huéspedes|	Como visitante del sitio, quiero leer opiniones de otros huéspedes, para tener mayor confianza al momento de decidir si reservar.|3|
+|4|US04|Acceso Rápido al Formulario de Reserva|Como visitante del sitio, quiero encontrar fácilmente un botón para reservar una habitación, para iniciar rápidamente el proceso si me interesa.|2|
+|5|US05|Sección "Sobre Nosotros"|	Como visitante del sitio, quiero conocer la historia y valores del hotel, para tener mayor conexión y confianza con la empresa.|2|
+|6|US06|Visualización del Formulario de Registro|Como huésped, quiero ver un formulario de registro bien estructurado, para poder registrarme en el sistema.|2|
+|7|US07|Validación de Datos de Registro|Como huésped, quiero que el sistema valide mis datos al registrarme, para evitar errores en mi cuenta.|3|
+|8|US08|Configuración de Preferencias de habitación|Como huésped, quiero seleccionar mis preferencias de habitación desde la plataforma web, para personalizar mi estadía.|5|
+|9|US09|Personalización de Horarios de Servicio|Como huésped, quiero establecer mis horarios de preferencia para servicios como limpieza o desayuno.|5|
+|10|US10|Solicitud de Servicios de Limpieza|Como huésped, quiero solicitar un servicio de limpieza directamente desde la plataforma web, para mantener mi habitación limpia.|3|
+|11|US11|Solicitud de Desayuno en la Habitación|Como huésped, quiero poder solicitar un desayuno en mi habitación a través de la plataforma web.|3|
+|12|US14|Notificación de solicitud atendida|Como huésped, quiero recibir alertas cuando mi solicitud se atienda, para estar informado.|5|
+|13|US16|Enviar evaluación de estadía|Como huésped, quiero calificar mi experiencia al final de la estadía, para dar retroalimentación al hotel.|2|
+|14|US18|Visualizar puntos acumulados|Como huésped, quiero ver cuántos puntos de fidelidad tengo, para saber qué recompensas puedo obtener.|3|
+|15|US19|Canjear puntos por recompensa|Como huésped, quiero canjear mis puntos por beneficios, para aprovechar el programa de fidelidad.|5|
+|16|US20|Cambiar el idioma de la interfaz|Como huésped internacional, quiero cambiar el idioma de la interfaz, para comprender mejor la plataforma web.|2|
+|17|US21|Recordar el idioma seleccionado|Como huésped, quiero que la plataforma recuerde mi idioma preferido, para no tener que cambiarlo cada vez.|2|
+|18|US22|Iniciar chat con soporte|Como huésped, quiero iniciar un chat con soporte, para resolver dudas rápidamente.|5|
+|19|US23|Consultar preguntas frecuentes|Como huésped, quiero revisar preguntas frecuentes, para resolver dudas sin contactar soporte.|2|
+|20|US12|Gestión de Solicitudes Pendientes|Como personal administrativo, quiero poder ver las solicitudes pendientes para atenderlas rápidamente.|3|
+|21|US13|Modificación de Estado de la Solicitud|	Como personal administrativo, quiero poder cambiar el estado de una solicitud, para gestionarla mejor.|2|
+|22|US15|Alerta de emergencia en el hotel|Como personal, quiero recibir alertas inmediatas sobre emergencias, para reaccionar rápido.|5|
+|23|US17|Ver historial de evaluaciones|Como personal administrativo, quiero consultar las evaluaciones recibidas, para mejorar la calidad del servicio.|3|
+|24|TS01|Modificar preferencias|Como desarrollador, quiero que el sistema guarde los cambios de preferencias de los huéspedes en una base de datos, para tener un registro de sus elecciones.|3|
+|25|TS02|Consultar historial de preferencias|Como desarrollador, quiero que el sistema muestre el historial de cambios de preferencias de un huésped, para mejorar la experiencia de usuario basado en sus elecciones pasadas.|3|
+|26|TS03|Eliminar preferencias obsoletas|Como desarrollador, quiero que el sistema permita eliminar preferencias antiguas o incorrectas de un huésped, para mantener la base de datos limpia y actualizada.|2|
+|27|TS04|Actualización de estado de habitaciones|Como desarrollador, quiero que el sistema permita actualizar el estado de las habitaciones (disponible / ocupado / en mantenimiento), para reflejar la disponibilidad de las reservas.|5|
+|28|TS05|Reasignación de habitaciones|Como desarrollador, quiero que el sistema permita reasignar una habitación ocupada a otro huésped, para optimizar el uso de espacios según necesidades cambiantes.|5|
+|29|TS06|Consulta de disponibilidad de habitaciones|Como desarrollador, quiero implementar un sistema de consulta de habitaciones disponibles con filtros, para que el personal pueda encontrar rápidamente espacios según filtros específicos.|5|
+|30|TS07|Sistema de Registro de Reservas|Como desarrollador, quiero una funcionalidad para almacenar nuevas reservas en la base de datos, para que el sistema pueda gestionar las reservas de los huéspedes.|5|
+|31|TS08|Módulo de Modificación de Reservas|Como desarrollador, quiero modificar las reservas existentes, para permitir a los huéspedes ajustar sus reservas según cambios en sus planes.|5|
+|32|TS09|Consulta de reservas activas|Como desarrollador, quiero implementar la funcionalidad para consultar reservas activas, para que los huéspedes y administradores puedan ver el estado de las reservas.|3|
+|33|TS10|Eliminación Segura de Datos de Usuarios|Como desarrollador, quiero implementar una opción para eliminar todos los datos personales de un usuario, para cumplir con políticas de privacidad.|5|
+|34|TS11|Registro de Actividades Sospechosas|Como desarrollador, quiero registrar intentos de acceso fallidos y actividades inusuales, para detectar y responder a posibles brechas de seguridad.|3|
+|35|TS12|Implementación de Políticas de Cookies y Consentimiento|Como desarrollador, quiero implementar un sistema de gestión de cookies, para informar a los usuarios y obtener su consentimiento antes de almacenar datos.|3|
+|36|TS13|Encriptación de Datos Sensibles en Base de Datos|Como desarrollador, quiero encriptar información sensible del usuario, para mantener la información segura de los usuarios.|5|
+|37|TS14|Actualización de Perfiles de Usuario|Como desarrollador, quiero implementar un sistema seguro para actualizar información de perfiles, para que los usuarios puedan modificar sus datos personales y preferencias.|3|
+|38|TS15|Gestión de Roles y Permisos|Como desarrollador, quiero crear un sistema de asignación de roles, para controlar accesos y funcionalidades según el tipo de usuario.|5|
+|39|TS16|Visualización Condicional de Interfaces|Como desarrollador, quiero adaptar la interfaz según el rol del usuario, para mostrar solo las opciones relevantes a cada perfil.|5|
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
