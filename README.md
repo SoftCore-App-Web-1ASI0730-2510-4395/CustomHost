@@ -480,8 +480,18 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 ![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow2.jpg)
 
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-1.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-2.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-3.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-4.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-5.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-6.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-7.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-8.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-9.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-10.jpg)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
