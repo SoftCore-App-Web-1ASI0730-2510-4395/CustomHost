@@ -231,7 +231,9 @@ Sabremos que hemos tenido éxito cuando se registre una disminución del 5% en e
 6. Creemos que la disponibilidad de una versión móvil de la aplicación aumentará la interacción de los huéspedes con la plataforma antes, durante y después de su estadía, fomentando la exploración de los servicios del hotel y posibles reservas futuras.
 Sabremos que hemos tenido éxito cuando observemos un aumento del 10% en el número de usuarios activos en la versión móvil de la aplicación y un incremento del 5% en las consultas o reservas realizadas a través de la misma.
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+
+![Lean ux canvas img](assets/chapter-one/lean-ux-canvas.jpg)
+
 ## 1.3. Segmentos objetivo.
 | | Segmento 1 | Segmento 2  |
 | - | - |-|
