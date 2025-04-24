@@ -36,7 +36,11 @@
 
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 09/04/2025 |SoftCore |Se crea el documento |  
+| TB1 | 23/04/2025 | Axel Randall Ordoñez Ricaldi | - Product baclog<br> - Imapct Mapping<br> - Domain Driver Software Architecture |  
+| TB1 | 23/04/2025 | Fabrizio Martin Panta Castro | - To-be Scenario Mapping<br> - User Stories<br> - Style Guidelines<br> - Information Architecture |  
+| TB1 | 23/04/2025 | Brayan Roberto Ccarita Cruz | - Startup Profile<br> - Solution Profile<br> - Segmentos objetivos<br> - Software Object-Priented Design |  
+| TB1 | 23/04/2025 | Alison Jimena Arrieta Quispe | - Competidores<br> - Entrevistas<br> - Landing Page UI Design<br> -  Landing Page|  
+| TB1 | 23/04/2025 | Andreow Jomark Santiago Peña | - Needfinding<br> - Ubiquitous Language<br> - Web Application UX/UI Design |
 
 </center>
 
