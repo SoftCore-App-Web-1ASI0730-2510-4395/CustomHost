@@ -21,12 +21,11 @@
 
 | Member                           | Code       |
 |----------------------------------|------------|
-| Ordoñez Ricaldi, Axel Randall  | U202216827 |
-|        |  |
-|       |  |
-|  |  |
-|              |  |
-|          |  |
+| Ordoñez Ricaldi, Axel Randall    | U202216827 |
+| Panta Castro, Fabrizio Martin    | U20231A810 |
+| Ccarita Cruz, Brayan Roberto     | U20221C218 |
+| Arrieta Quispe, Alison Jimena    | U202312031 |
+| Santiago Peña, Andreow Jomark    | U202317362 |
 
 <br> ABRIL 2025
 </center>  
