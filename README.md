@@ -550,28 +550,11 @@ Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f90
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+#### **Tipografía (Inter)**
+La tipografía elegida para nuestra marca es Inter, por su estilo moderno, funcional y altamente legible. Su diseño limpio se adapta a distintos formatos, tanto digitales como impresos, garantizando una comunicación clara y profesional.
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
-### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
@@ -602,54 +585,340 @@ Basicamente aqui definimos como funciona la navegacion del web app
 **Hierarchical Navigation System:** Main page a destination pages.
 **Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
 **Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
-## 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+## 4.3. Landing Page UI Design.
+En esta sección se presentan los diseños correspondientes a nuestra Landing Page, los cuales se encuentran divididos en dos partes: por un lado, los wireframes que muestran una estructura simplificada de la interfaz, y por otro, el mock-up visual que servirá como referencia estética y funcional para el desarrollo final de la página.
+
+### 4.3.1. Landing Page Wireframe.
+[Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
+
+![Imagen del Wireframe 1](Assets/img/Chapter%204/Wireframe_1.png)
+![Imagen del Wireframe 2](Assets/img/Chapter%204/Wireframe_2.png)
+![Imagen del Wireframe 3](Assets/img/Chapter%204/Wireframe_3.png)
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+[Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
+
+![Imagen del Mock-Up 1](Assets/img/Chapter%204/Mock-Up_1.png)
+![Imagen del Mock-Up 2](Assets/img/Chapter%204/Mock-Up_2.png)
+![Imagen del Mock-Up 3](Assets/img/Chapter%204/Mock-Up_3.png)
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-1.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-2.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-3.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-4.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-5.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-6.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-7.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-8.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-9.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-10.jpg)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+
+![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow1.jpg)
+![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow2.jpg)
+
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-1.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-2.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-3.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-4.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-5.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-6.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-7.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-8.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-9.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-10.jpg)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+
+![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-1.jpg)
+![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-2.jpg)
+
+
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+[URL del Prototipo (Hecho en figma)](https://https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Source?node-id=0-1&p=f&t=XYETOEAUmnls4kjW-0)
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
+![Context Diagram](Assets/img/Chapter%204/structurizr-101614-SystemContext-001-fixed.png)
 
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
    
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+![Container Diagram](Assets/img/Chapter%204/structurizr-101614-Container-001.png)
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-001.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-002.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-003.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-004.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-005.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-006.png)
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+
+![Class diagram img](Assets/img/chapter-4/class-diagram.png)
+
+[> Click aquí para acceder al diagrama <](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
+
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+
+# Class Dictionary
+
+## 1. GuestAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con los huéspedes.
+- **Relationships**:
+  - Contiene `Guest` (1:1).
+  - Contiene `Card` (0..1).
+  - Contiene `Preference` (0..*).
+  - Contiene `ServiceRequest` (0..*).
+
+---
+
+## 2. Guest
+- **Type**: Entity
+- **Attributes**:
+  - `GuestId`: Identity (Identificador único del huésped).
+  - `Name`: string (Nombre del huésped).
+  - `Email`: string (Correo electrónico del huésped).
+  - `CheckInDate`: DateTime (Fecha de entrada).
+  - `CheckOutDate`: DateTime (Fecha de salida).
+- **Methods**:
+  - `CreatePreference(preferenceType, value)`: Crea una nueva preferencia para el huésped.
+  - `RequestService(type)`: Solicita un servicio para el huésped.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+  - Tiene `Reservation` (0..*).
+  - Tiene `ServiceRequest` (0..*).
+  - Tiene `Preference` (0..*).
+
+---
+
+## 3. Card
+- **Type**: Entity
+- **Attributes**:
+  - `CardId`: Identity (Identificador único de la tarjeta).
+  - `IsActive`: boolean (Indica si la tarjeta está activa).
+- **Methods**:
+  - `Activate()`: Activa la tarjeta.
+  - `Deactivate()`: Desactiva la tarjeta.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+
+---
+
+## 4. RoomAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con las habitaciones.
+- **Relationships**:
+  - Contiene `Room` (1:1).
+  - Contiene `Reservation` (0..*).
+
+---
+
+## 5. Room
+- **Type**: Entity
+- **Attributes**:
+  - `RoomId`: Identity (Identificador único de la habitación).
+  - `Number`: string (Número de la habitación).
+- **Methods**:
+  - `AssignDevice(device)`: Asigna un dispositivo a la habitación.
+- **Relationships**:
+  - Pertenece a `RoomAggregate`.
+  - Tiene `Reservation` (0..*).
+  - Tiene `Device` (0..*).
+
+---
+
+## 6. Reservation
+- **Type**: Entity
+- **Attributes**:
+  - `ReservationId`: Identity (Identificador único de la reserva).
+  - `PaymentStatus`: PaymentStatusEnum (Estado de pago de la reserva).
+- **Methods**:
+  - `UpdatePaymentStatus(status)`: Actualiza el estado de pago de la reserva.
+- **Relationships**:
+  - Pertenece a `RoomAggregate`.
+  - Está relacionada con `Guest` (1:0..*).
+  - Está relacionada con `Room` (1:0..*).
+
+---
+
+## 7. StaffAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con el personal.
+- **Relationships**:
+  - Contiene `Staff` (1:1).
+  - Contiene `MaintenanceLog` (0..*).
+
+---
+
+## 8. Staff
+- **Type**: Entity
+- **Attributes**:
+  - `StaffId`: Identity (Identificador único del miembro del personal).
+  - `Name`: string (Nombre del miembro del personal).
+  - `Role`: string (Rol del miembro del personal).
+  - `AccessLevel`: AccessLevelEnum (Nivel de acceso del miembro del personal).
+- **Methods**:
+  - `HandleServiceRequest(request)`: Maneja una solicitud de servicio.
+  - `PerformDeviceMaintenance(device, action)`: Realiza mantenimiento en un dispositivo.
+- **Relationships**:
+  - Pertenece a `StaffAggregate`.
+  - Tiene `MaintenanceLog` (0..*).
+  - Maneja `ServiceRequest` (0..*).
+
+---
+
+## 9. DeviceAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con los dispositivos.
+- **Relationships**:
+  - Contiene `Device` (1:1).
+  - Contiene `StatusLog` (0..*).
+
+---
+
+## 10. Device
+- **Type**: Entity
+- **Attributes**:
+  - `DeviceId`: Identity (Identificador único del dispositivo).
+  - `CurrentSetting`: DeviceSetting (Configuración actual del dispositivo).
+- **Methods**:
+  - `UpdateSetting(setting)`: Actualiza la configuración del dispositivo.
+  - `LogStatus(status)`: Registra el estado del dispositivo.
+- **Relationships**:
+  - Pertenece a `DeviceAggregate`.
+  - Está instalado en `Room` (1:0..*).
+  - Tiene `DeviceType` (1:1).
+  - Tiene `MaintenanceLog` (0..*).
+  - Tiene `StatusLog` (0..*).
+
+---
+
+## 11. ServiceRequest
+- **Type**: Entity
+- **Attributes**:
+  - `RequestId`: Identity (Identificador único de la solicitud de servicio).
+  - `Type`: string (Tipo de solicitud de servicio).
+  - `Status`: RequestStatusEnum (Estado de la solicitud de servicio).
+  - `Timestamp`: DateTime (Marca de tiempo de la solicitud).
+- **Methods**:
+  - `AssignStaff(staff)`: Asigna un miembro del personal a la solicitud.
+  - `UpdateStatus(status)`: Actualiza el estado de la solicitud.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+  - Es manejada por `Staff` (0..1).
+
+---
+
+## 12. DeviceType
+- **Type**: Value Object
+- **Attributes**:
+  - `DeviceTypeId`: Identity (Identificador único del tipo de dispositivo).
+  - `Name`: string (Nombre del tipo de dispositivo).
+- **Relationships**:
+  - Está relacionado con `Device` (1:0..*).
+  - Aplica a `PreferenceType` (0..*).
+
+---
+
+## 13. PreferenceType
+- **Type**: Value Object
+- **Attributes**:
+  - `PreferenceTypeId`: Identity (Identificador único del tipo de preferencia).
+  - `Name`: string (Nombre del tipo de preferencia).
+- **Relationships**:
+  - Está relacionado con `Preference` (1:0..*).
+  - Se aplica a `DeviceType` (0..*).
+
+---
+
+## 14. Preference
+- **Type**: Value Object
+- **Attributes**:
+  - `PreferenceId`: Identity (Identificador único de la preferencia).
+  - `Value`: string (Valor de la preferencia).
+- **Relationships**:
+  - Pertenece a `Guest` (1:0..*).
+  - Está relacionado con `PreferenceType` (1:1).
+
+---
+
+## 15. DeviceSetting
+- **Type**: Value Object
+- **Attributes**:
+  - `SettingData`: Map<string, string> (Datos de configuración del dispositivo).
+- **Relationships**:
+  - Es utilizado por `Device` (1:1).
+
+---
+
+## 16. MaintenanceLog
+- **Type**: Value Object
+- **Attributes**:
+  - `LogId`: Identity (Identificador único del registro de mantenimiento).
+  - `Action`: string (Acción realizada durante el mantenimiento).
+  - `Timestamp`: DateTime (Marca de tiempo del registro).
+- **Relationships**:
+  - Es realizado por `Staff` (1:0..*).
+  - Es recibido por `Device` (1:0..*).
+
+---
+
+## 17. StatusLog
+- **Type**: Value Object
+- **Attributes**:
+  - `StatusLogId`: Identity (Identificador único del registro de estado).
+  - `Status`: string (Estado registrado).
+  - `Timestamp`: DateTime (Marca de tiempo del registro).
+- **Relationships**:
+  - Es registrado por `Device` (1:0..*).
+
+---
+
+## 18. AccessLevelEnum
+- **Type**: Enumeration
+- **Values**:
+  - `BASIC = 1`
+  - `INTERMEDIATE = 2`
+  - `ADMIN = 3`
+
+---
+
+## 19. RequestStatusEnum
+- **Type**: Enumeration
+- **Values**:
+  - `PENDING`
+  - `IN_PROGRESS`
+  - `COMPLETED`
+  - `CANCELLED`
+
+---
+
+## 20. PaymentStatusEnum
+- **Type**: Enumeration
+- **Values**:
+  - `PENDING`
+  - `PAID`
+  - `REFUNDED`
+  - `CANCELLED`
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+
+![Database diagram img](Assets/img/chapter-4/database-diagram.png)
+
+[> Click aquí para acceder al diagrama <](https://my.vertabelo.com/public-model-view/n0NImX9sR1voJyd33Hr1iawsHgx7swpzz7jOBxA2VjOTE3i8WLuZf64ZQlNCyCLB?x=2736&y=2923&zoom=0.4375)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
