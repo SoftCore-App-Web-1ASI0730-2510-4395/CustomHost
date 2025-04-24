@@ -473,7 +473,10 @@ Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usad
 Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+
+![Database diagram img](Assets/img/chapter-4/database-diagram.png)
+
+[> Click aquí para acceder al diagrama <](https://my.vertabelo.com/public-model-view/n0NImX9sR1voJyd33Hr1iawsHgx7swpzz7jOBxA2VjOTE3i8WLuZf64ZQlNCyCLB?x=2736&y=2923&zoom=0.4375)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
