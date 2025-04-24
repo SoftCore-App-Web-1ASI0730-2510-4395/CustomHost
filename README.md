@@ -553,22 +553,29 @@ del landing page.
         </tr>
     </tbody>
 </table>
+
 #### 5.2.1.2. Sprint Backlog 1.
 
 ![SprintBacklog n](/Assets/img/Chapter-5/sprint-backlog.jpg)
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
+Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
+Sprint 1: En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager. El link de la Landing Page es el siguiente: https://softcore-app-web-1asi0730-2510-4395.github.io/CustomHost/.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
+En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embargo, al ser Landing Page no requiere de documentación relacionada a Web Services
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
+En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+- Github pages: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+![Sprint review Team Collaboration Insights](/Assets/img/Chapter-5/contributors.jpg) 
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
