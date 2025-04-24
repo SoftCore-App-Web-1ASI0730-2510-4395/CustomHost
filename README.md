@@ -253,13 +253,40 @@ Sabremos que hemos tenido éxito cuando observemos un aumento del 10% en el núm
 ![Lean ux canvas img](assets/chapter-one/lean-ux-canvas.jpg)
 
 ## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+##### Segmento 1: Huéspedes que desean hospedarse en un hotel
+
+Este segmento incluye a individuos de diversos perfiles demográficos y socioeconómicos que tienen la necesidad o el deseo de alojarse en un hotel en Lima, ya sea por motivos de turismo, negocios u otros.
+
+**Características demográficas:**
+
+- **Rango de edad:** Amplio, desde jóvenes adultos hasta personas mayores.
+- **Geografía:** Principalmente turistas nacionales e internacionales que visitan Lima, así como residentes locales que buscan una experiencia diferente.
+- **Intereses:** Búsqueda de comodidad, conveniencia, experiencias personalizadas y, específicamente para nuestro caso, interés en la innovación tecnológica y la domótica en hoteles.
+
+**Problema:** Estos huéspedes buscan una experiencia hotelera que vaya más allá de la simple pernoctación, deseando un entorno que se adapte a sus preferencias individuales para una estadía más confortable y memorable.
+
+##### Segmento 2: Personal administrativo del hotel
+
+Este segmento comprende a los empleados del hotel encargados de la gestión operativa, la atención al cliente y el mantenimiento de las instalaciones.
+
+**Características demográficas:**
+
+- **Roles:** Gerentes, recepcionistas, personal de mantenimiento, personal de limpieza, etc.
+- **Necesidades:** Herramientas eficientes para la gestión de reservas, la atención a los huéspedes, la organización de las habitaciones y el seguimiento del estado de los dispositivos.
+- **Objetivos:** Optimizar la eficiencia operativa, mejorar la satisfacción del cliente y reducir la carga de trabajo manual.
+
+**Problema:** El personal del hotel tiene problemas para saber qué le gusta a cada huésped y asegurarse de que su estadía sea tal como la prefieren. Esto es difícil porque no tienen un sistema fácil y único para guardar y usar esa información.
+
+##### Segmento 3: Proveedores de dispositivos de domótica
+
+Este segmento incluye a las empresas que desarrollan, fabrican y distribuyen dispositivos y sistemas de domótica (iluminación inteligente, control de temperatura, cerraduras electrónicas, etc.).
+
+**Características demográficas:**
+
+- **Tipo de empresas:** Desde startups tecnológicas hasta grandes corporaciones especializadas en IoT y automatización del hogar/edificios.
+- **Intereses:** Expandir su mercado, integrar sus productos en nuevos entornos (como hoteles), obtener datos sobre el rendimiento de sus dispositivos en un contexto de uso real y establecer alianzas estratégicas.
+
+**Problema:** Estos proveedores buscan canales efectivos para introducir sus tecnologías en el sector hotelero y necesitan plataformas que faciliten la integración y el monitoreo de sus dispositivos en las instalaciones de sus clientes.
 
 ---
 
