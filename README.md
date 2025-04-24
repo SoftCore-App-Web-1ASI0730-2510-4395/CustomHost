@@ -467,6 +467,8 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
 ![Class diagram img](Assets/img/chapter-4/class-diagram.png)
 
+[> Click aquí para acceder al diagrama <](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
+
 ### 4.7.2. Class Dictionary.
 
 # Class Dictionary
