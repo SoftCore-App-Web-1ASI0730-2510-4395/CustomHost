@@ -489,13 +489,255 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+
+![Class diagram img](Assets/img/chapter-4/class-diagram.png)
+
+[> Click aquí para acceder al diagrama <](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
+
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+
+# Class Dictionary
+
+## 1. GuestAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con los huéspedes.
+- **Relationships**:
+  - Contiene `Guest` (1:1).
+  - Contiene `Card` (0..1).
+  - Contiene `Preference` (0..*).
+  - Contiene `ServiceRequest` (0..*).
+
+---
+
+## 2. Guest
+- **Type**: Entity
+- **Attributes**:
+  - `GuestId`: Identity (Identificador único del huésped).
+  - `Name`: string (Nombre del huésped).
+  - `Email`: string (Correo electrónico del huésped).
+  - `CheckInDate`: DateTime (Fecha de entrada).
+  - `CheckOutDate`: DateTime (Fecha de salida).
+- **Methods**:
+  - `CreatePreference(preferenceType, value)`: Crea una nueva preferencia para el huésped.
+  - `RequestService(type)`: Solicita un servicio para el huésped.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+  - Tiene `Reservation` (0..*).
+  - Tiene `ServiceRequest` (0..*).
+  - Tiene `Preference` (0..*).
+
+---
+
+## 3. Card
+- **Type**: Entity
+- **Attributes**:
+  - `CardId`: Identity (Identificador único de la tarjeta).
+  - `IsActive`: boolean (Indica si la tarjeta está activa).
+- **Methods**:
+  - `Activate()`: Activa la tarjeta.
+  - `Deactivate()`: Desactiva la tarjeta.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+
+---
+
+## 4. RoomAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con las habitaciones.
+- **Relationships**:
+  - Contiene `Room` (1:1).
+  - Contiene `Reservation` (0..*).
+
+---
+
+## 5. Room
+- **Type**: Entity
+- **Attributes**:
+  - `RoomId`: Identity (Identificador único de la habitación).
+  - `Number`: string (Número de la habitación).
+- **Methods**:
+  - `AssignDevice(device)`: Asigna un dispositivo a la habitación.
+- **Relationships**:
+  - Pertenece a `RoomAggregate`.
+  - Tiene `Reservation` (0..*).
+  - Tiene `Device` (0..*).
+
+---
+
+## 6. Reservation
+- **Type**: Entity
+- **Attributes**:
+  - `ReservationId`: Identity (Identificador único de la reserva).
+  - `PaymentStatus`: PaymentStatusEnum (Estado de pago de la reserva).
+- **Methods**:
+  - `UpdatePaymentStatus(status)`: Actualiza el estado de pago de la reserva.
+- **Relationships**:
+  - Pertenece a `RoomAggregate`.
+  - Está relacionada con `Guest` (1:0..*).
+  - Está relacionada con `Room` (1:0..*).
+
+---
+
+## 7. StaffAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con el personal.
+- **Relationships**:
+  - Contiene `Staff` (1:1).
+  - Contiene `MaintenanceLog` (0..*).
+
+---
+
+## 8. Staff
+- **Type**: Entity
+- **Attributes**:
+  - `StaffId`: Identity (Identificador único del miembro del personal).
+  - `Name`: string (Nombre del miembro del personal).
+  - `Role`: string (Rol del miembro del personal).
+  - `AccessLevel`: AccessLevelEnum (Nivel de acceso del miembro del personal).
+- **Methods**:
+  - `HandleServiceRequest(request)`: Maneja una solicitud de servicio.
+  - `PerformDeviceMaintenance(device, action)`: Realiza mantenimiento en un dispositivo.
+- **Relationships**:
+  - Pertenece a `StaffAggregate`.
+  - Tiene `MaintenanceLog` (0..*).
+  - Maneja `ServiceRequest` (0..*).
+
+---
+
+## 9. DeviceAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con los dispositivos.
+- **Relationships**:
+  - Contiene `Device` (1:1).
+  - Contiene `StatusLog` (0..*).
+
+---
+
+## 10. Device
+- **Type**: Entity
+- **Attributes**:
+  - `DeviceId`: Identity (Identificador único del dispositivo).
+  - `CurrentSetting`: DeviceSetting (Configuración actual del dispositivo).
+- **Methods**:
+  - `UpdateSetting(setting)`: Actualiza la configuración del dispositivo.
+  - `LogStatus(status)`: Registra el estado del dispositivo.
+- **Relationships**:
+  - Pertenece a `DeviceAggregate`.
+  - Está instalado en `Room` (1:0..*).
+  - Tiene `DeviceType` (1:1).
+  - Tiene `MaintenanceLog` (0..*).
+  - Tiene `StatusLog` (0..*).
+
+---
+
+## 11. ServiceRequest
+- **Type**: Entity
+- **Attributes**:
+  - `RequestId`: Identity (Identificador único de la solicitud de servicio).
+  - `Type`: string (Tipo de solicitud de servicio).
+  - `Status`: RequestStatusEnum (Estado de la solicitud de servicio).
+  - `Timestamp`: DateTime (Marca de tiempo de la solicitud).
+- **Methods**:
+  - `AssignStaff(staff)`: Asigna un miembro del personal a la solicitud.
+  - `UpdateStatus(status)`: Actualiza el estado de la solicitud.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+  - Es manejada por `Staff` (0..1).
+
+---
+
+## 12. DeviceType
+- **Type**: Value Object
+- **Attributes**:
+  - `DeviceTypeId`: Identity (Identificador único del tipo de dispositivo).
+  - `Name`: string (Nombre del tipo de dispositivo).
+- **Relationships**:
+  - Está relacionado con `Device` (1:0..*).
+  - Aplica a `PreferenceType` (0..*).
+
+---
+
+## 13. PreferenceType
+- **Type**: Value Object
+- **Attributes**:
+  - `PreferenceTypeId`: Identity (Identificador único del tipo de preferencia).
+  - `Name`: string (Nombre del tipo de preferencia).
+- **Relationships**:
+  - Está relacionado con `Preference` (1:0..*).
+  - Se aplica a `DeviceType` (0..*).
+
+---
+
+## 14. Preference
+- **Type**: Value Object
+- **Attributes**:
+  - `PreferenceId`: Identity (Identificador único de la preferencia).
+  - `Value`: string (Valor de la preferencia).
+- **Relationships**:
+  - Pertenece a `Guest` (1:0..*).
+  - Está relacionado con `PreferenceType` (1:1).
+
+---
+
+## 15. DeviceSetting
+- **Type**: Value Object
+- **Attributes**:
+  - `SettingData`: Map<string, string> (Datos de configuración del dispositivo).
+- **Relationships**:
+  - Es utilizado por `Device` (1:1).
+
+---
+
+## 16. MaintenanceLog
+- **Type**: Value Object
+- **Attributes**:
+  - `LogId`: Identity (Identificador único del registro de mantenimiento).
+  - `Action`: string (Acción realizada durante el mantenimiento).
+  - `Timestamp`: DateTime (Marca de tiempo del registro).
+- **Relationships**:
+  - Es realizado por `Staff` (1:0..*).
+  - Es recibido por `Device` (1:0..*).
+
+---
+
+## 17. StatusLog
+- **Type**: Value Object
+- **Attributes**:
+  - `StatusLogId`: Identity (Identificador único del registro de estado).
+  - `Status`: string (Estado registrado).
+  - `Timestamp`: DateTime (Marca de tiempo del registro).
+- **Relationships**:
+  - Es registrado por `Device` (1:0..*).
+
+---
+
+## 18. AccessLevelEnum
+- **Type**: Enumeration
+- **Values**:
+  - `BASIC = 1`
+  - `INTERMEDIATE = 2`
+  - `ADMIN = 3`
+
+---
+
+## 19. RequestStatusEnum
+- **Type**: Enumeration
+- **Values**:
+  - `PENDING`
+  - `IN_PROGRESS`
+  - `COMPLETED`
+  - `CANCELLED`
+
+---
+
+## 20. PaymentStatusEnum
+- **Type**: Enumeration
+- **Values**:
+  - `PENDING`
+  - `PAID`
+  - `REFUNDED`
+  - `CANCELLED`
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
