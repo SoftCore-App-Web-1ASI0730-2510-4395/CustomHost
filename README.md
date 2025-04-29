@@ -303,130 +303,275 @@ Este segmento incluye a las empresas que desarrollan, fabrican y distribuyen dis
 
 | Competitive Analysis Landscape                          |  |
 | ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
+| ¿Por qué llevar a cabo este análisis?                   | Para identificar cómo Custom Host puede diferenciarse en el mercado de hotelería inteligente en Lima, aprovechando su enfoque único en personalización con IoT/biométrica - algo que competidores como INTELITY (solo software) y Cloudbeds (gestión genérica) no ofrecen. El análisis revela oportunidades clave: dominar el nicho de hoteles boutique tecnológicos y crear alianzas estratégicas con proveedores de domótica, mientras se evitan los altos costos de competir directamente con soluciones masivas ya establecidas. |
 
 
-| |  | (Nosotros) | Competidor  | Comptdor |
-|-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
-|| Mercado Objetivo                                        | Jeda | asa | asa2 |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
-|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
+| |  | Custom Host (Nosotros) | INTELITY | ALICE Platform |Cloudbeds |
+|-|-|-|-|-|-|
+| PERFIL| Overview | Custom Host es una plataforma innovadora que utiliza IoT y biométrica para personalizar la experiencia hotelera, ajustando automáticamente las habitaciones según las preferencias del huésped. | INTELITY es una plataforma de gestión hotelera enfocada en mejorar el engagement con los huéspedes a través de una app móvil y automatización de servicios.	 | ALICE es un software diseñado para optimizar las operaciones hoteleras, desde reservas hasta mantenimiento, mejorando la eficiencia del personal.	 | Cloudbeds es una solución de gestión hotelera en la nube que combina administración de propiedades, reservas y distribución en una sola plataforma.|
+|| Ventaja competitiva ¿Qué valor ofrece a los clientes? | Ofrece adaptación en tiempo real mediante domótica, creando un entorno único que mejora la satisfacción del cliente y simplifica la gestión para los hoteles.| Su integración con sistemas PMS líderes la hace ideal para cadenas hoteleras que buscan una solución tecnológica robusta y escalable.|Su fortaleza radica en la gestión interna, ayudando a hoteles a organizar tareas y comunicarse mejor con empleados y huéspedes.|Destaca por su interfaz intuitiva y su capacidad para integrarse con más de 500 canales de distribución, como Booking y Expedia.|
+|| Mercado Objetivo                                        |Se dirige a hoteles boutique y de lujo en Lima, especialmente aquellos que atraen a huéspedes interesados en tecnología y experiencias personalizadas.| Cadenas hoteleras internacionales que necesitan herramientas para gestionar múltiples propiedades de manera eficiente.| Hoteles medianos y grandes, principalmente en EE.UU. y Europa, que buscan simplificar sus procesos operativos. | Hoteles boutique y propiedades independientes que necesitan una herramienta completa y fácil de usar.|
+| Perfil de marketing                                     | Estrategia de Marketing | Se centra en alianzas con proveedores de IoT y en destacar su propuesta de "experiencia única" a través de redes sociales y demostraciones interactivas. | Enfoque B2B, con ventas directas a grandes hoteles y participación en ferias del sector. |Webinars y casos de éxito para demostrar su impacto en la productividad hotelera. | Marketing digital y presencia en eventos de la industria para promover sus soluciones. |
+| Perfil del producto| Productos y servicios | Incluye una app móvil para huéspedes, un dashboard administrativo y dispositivos IoT para habitaciones inteligentes. | App para huéspedes, API para integraciones personalizadas y herramientas de gestión operativa. | Software para staff, app de huésped y herramientas de coordinación de equipos. |Gestión de reservas, distribución multicanal, informes de desempeño y herramientas de revenue management.|
+|| Precios y costos                                        |  Modelo freemium con opciones de suscripción basadas en el número de habitaciones adaptadas. | Licencia anual por hotel, con costos que varían según el tamaño y necesidades de la propiedad. | Basado en el número de habitaciones, con planes adaptables a diferentes tamaños de propiedades. | Tarifa dinámica con planes "Pro" y "360", ajustables según las necesidades del hotel. |
+|| Canales de distribución (Web y/o Móvil)                 | Disponible en web y móvil (iOS/Android), facilitando el acceso tanto para huéspedes como para el personal del hotel. | App propia y compatibilidad con sistemas PMS existentes. | Plataforma web y app móvil para acceso remoto. | Plataforma web y móvil, accesible desde cualquier dispositivo.|
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
-|-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
+|Competidores ->|  | Custom Host (Nosotros) | INTELITY| ALICE Platform| Cloudbeds |
+|-|-|-|-|-|-|
+| Análisis SWOT | Fortalezas | Custom Host destaca por su uso de IoT y biométrica para personalizar automáticamente las habitaciones, junto con un dashboard que simplifica la gestión hotelera, ofreciendo una ventaja competitiva en el mercado de hotelería personalizada | INTELITY es líder en soluciones de guest engagement, con una app móvil robusta y alta integración con sistemas de gestión hotelera (PMS). Su presencia global lo hace atractivo para cadenas internacionales. | ALICE se especializa en optimizar operaciones hoteleras, ayudando al personal con gestión de tareas, mantenimiento y comunicación interna. Es una solución eficiente para hoteles medianos y grandes. | Cloudbeds destaca por su interfaz intuitiva y su capacidad de integración con múltiples canales de distribución (Booking, Expedia). Es ideal para hoteles boutique que buscan una solución todo-en-uno. |
+|| Debilidades   | El alto costo de implementación de dispositivos IoT puede ser una barrera para hoteles pequeños. Además, al ser un modelo nuevo, requiere convencer a los hoteles de adoptar tecnología avanzada, lo que puede ralentizar su expansión inicial. | No ofrece personalización física de habitaciones (domótica avanzada), y sus precios pueden ser prohibitivos para hoteles pequeños o independientes. | No se enfoca en la experiencia directa del huésped, lo que limita su atractivo frente a competidores como Custom Host. | No incluye personalización física (IoT), y su modelo de tarifas dinámicas puede ser menos accesible para propiedades pequeñas. | 
+|| Oportunidades | El creciente interés en hoteles inteligentes en Lima y la demanda de experiencias personalizadas representan una ventana clave para posicionarse. Alianzas con proveedores de domótica y cadenas boutique podrían acelerar su adopción. | Podría expandirse en mercados emergentes como Latinoamérica, donde la hotelería de lujo busca innovación tecnológica. | La automatización con IA y la expansión en hoteles corporativos podrían fortalecer su propuesta. | El mercado de hoteles independientes sigue creciendo, y su flexibilidad le permite adaptarse a nuevas demandas, como herramientas de revenue management. | 
+|| Amenazas      | Competidores establecidos como INTELITY y Cloudbeds ya tienen presencia en el mercado, y la resistencia al cambio en hoteles tradicionales podría limitar su crecimiento. | La creciente competencia en software hotelero y el avance de soluciones basadas en voz (como Volara) podrían reducir su ventaja. | La saturación de PMS genéricos y el surgimiento de plataformas más especializadas representan riesgos para su crecimiento. | Las grandes OTAs (como Booking.com) están desarrollando sus propios sistemas de gestión, lo que podría reducir su participación en el mercado. |
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 **Preguntas generales:**
+En esta sección realizamos preguntas simples para obtener datos demográficos e información de comportamientos clave, como el navegador y dispositivos que utilizan los entrevistados.
 
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
 3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+4. ¿Qué navegador y dispositivos utiliza con mayor frecuencia? 
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+Las siguientes preguntas buscan responder nuestra hipótesis central, mencionada en el capítulo anterior:
+"¿Los usuarios estarán interesados en nuestra propuesta innovadora, considerando que existen alternativas similares y que realmente la necesitan?"
+(Previo a las entrevistas, se recopiló información básica como el distrito de residencia o procedencia de los usuarios para facilitar el contacto).
+
+**Entrevistas usuario segmento (Huéspedes de hoteles)**
+Esta sección de preguntas se enfoca en el punto de vista de los usuarios del segmento huéspedes que desean hospedarse en un hotel.
+
+1. ¿Con qué frecuencia se hospeda en hoteles?
+2. ¿Qué aspectos valora más al elegir un hotel?
+3. ¿Ha utilizado hoteles con sistemas innovadores?
+4. ¿Qué frustraciones ha tenido en sus estadías?
+5. ¿Cómo preferiría interactuar con los servicios del hotel?
+6. ¿Estaría dispuesto a pagar más por una experiencia adaptada a sus preferencias?  
+
+**Entrevistas usuario segmento (Personal administrativo del hotel)**
+Esta sección de preguntas se enfoca en el punto de vista de los usuarios del segmento personal administrativo del hotel.
+
+1. ¿Qué rol desempeña en el hotel?  
+2. ¿Cómo registran actualmente las preferencias de los huéspedes?
+3. ¿Qué dificultades enfrentan para ofrecer una experiencia personalizada?
+4. ¿Cómo gestionan la comunicación entre áreas?
+5. ¿Qué tecnologías les gustaría implementar para optimizar procesos?
+6. ¿Qué obstáculos ven para adoptar soluciones innovadoras? 
+7. ¿Creen que los huéspedes demandan más personalización?
+
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+Nombre: Fernando San José Zamora Solís 
+Edad: 24 años 
+Ocupación: Practicante de ingenieria de software
+Browser: GoogleChrome y OperaGX
+Device: Celular y computadora
+Distrito: Jesus Maria
+Timing:    
+![Imagen de entrevista](Assets/img/Chapter-1/Entrevista%201%20segmento%201.png)  
+[Uri entrevista [Anexo 2.2.1.1]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETQAkMt6M7VHppn0V_2yowMB4lImpb1OLwaovBnNoPKKhg?e=qYLctj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:00]
 
+Fernando San José, estudiante de ingeniería de software, valora en los hoteles la comodidad y buena relación calidad-precio. Aunque no ha usado hoteles con tecnología avanzada, critica los sistemas anticuados de comunicación, como cuando el teléfono de su habitación no funcionó y tuvieron que enviar personal.
+
+Prefiere interactuar con el hotel mediante una app móvil y le interesaría probar pantallas táctiles en la habitación. Estaría dispuesto a pagar más por personalización (clima, iluminación) y sería cliente recurrente si un hotel ofreciera estas innovaciones.
+
+---
+Nombre: Alessandra Becerra
+Edad: 18 años 
+Ocupación: estudiante de ingenieria de software
+Browser: Safari y windows
+Device: Celular Iphone y laptop
+Distrito: San miguel
+Timing:   
+![Imagen de entrevista](Assets/img/Chapter-1/entrevista%202%20segmento%201.png) 
+
+[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:01]
+
+Alessandra Becerra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica los sistemas anticuados, especialmente las demoras en check-in y la mala señal de internet. Preferiría usar una app para servicios básicos, pero manteniendo atención humana cuando sea necesario. Le interesaría probar tecnologías como tablets en las habitaciones y pagaría más por servicios que ahorren tiempo y ofrezcan mayor comodidad. Sus experiencias reflejan problemas comunes en hoteles tradicionales que podrían solucionarse con mejor tecnología.
+
+---
+Nombre: Luis Cordova
+Edad: 25 años 
+Ocupación: Data Science 
+Browser: Google chrome
+Device: computaora y celular
+Distrito: San Borja
+Timing:   
+![Imagen de entrevista](Assets/img/Chapter-1/entrevista%203%20segmento%201.png)
+
+[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:03]
+
+Luis, profesional de Data Science de 25 años, busca hoteles con comodidad y precios razonables para sus viajes de trabajo. Critica los sistemas obsoletos que usan cuadernos físicos y WhatsApp para gestiones, y relata problemas con reservas no cumplidas. Preferiría controlar los servicios mediante asistentes de voz o pantallas táctiles en lugar de los métodos tradicionales. Estaría dispuesto a pagar más por una verdadera personalización que optimice su experiencia como viajero frecuente. Sus experiencias destacan la necesidad urgente de modernizar los sistemas hoteleros con tecnología práctica.
+
+---
 **Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+Nombre: David Gallo
+Edad: 22 años 
+Ocupación: Administracion hotelera
+Browser: Safari
+Device: Macbook y Iphone
+Distrito: San Isidro
+Timing:     
+![Imagen de entrevista](Assets/img/Chapter-1/entrevista%201%20segmento%202.png)
+
+[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETgSUSNEantAraWk1atoAa4BjISZsufjnztzz_iJVxGXAg?e=oxnXyR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:04]
+
+David trabaja en front desk y atención al cliente, usando principalmente Safari en sus dispositivos Apple. Actualmente, registran las preferencias de los huéspedes (como vista al mar o tipo de cama) de forma manual, memorizando datos o anotando en libretas, lo que genera errores en temporadas altas. La comunicación entre áreas se gestiona mediante grupos de WhatsApp, un sistema que considera limitado.
+
+Reconoce que los huéspedes demandan más personalización y que un sistema digitalizado agilizaría las reservas y preferencias. Le gustaría implementar una plataforma centralizada, pero identifica el costo como principal obstáculo. Aún así, confía en que su equipo (mayormente joven) podría adaptarse fácilmente a nuevas tecnologías que mejoren la experiencia del cliente y optimicen sus procesos internos.
+
+---
+Nombre: Alex Avila
+Edad: 20 años 
+Ocupación: Administrador hotelero
+Browser: Opera gx y windows
+Device: laptop y telefono android
+Distrito: Jesus Maria
+Timing:  
+![Imagen de entrevista](Assets/img/Chapter-1/entrevista%202%20segmento%202.png)
+
+[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EU9qNutqfIdAlN0FVSU5avIBOmL9Y3mwIx2kCBAuGyURhw?e=Vb6lwq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:02]
+
+Alex trabaja en la administración de un hotel donde actualmente no existe un sistema para registrar preferencias de huéspedes, solo asignan habitaciones básicas (como vista a la calle) sin personalización. La comunicación entre áreas se maneja de forma tradicional, con asignación verbal de tareas y llamadas directas, sin plataformas digitales.
+
+Reconoce que los huéspedes demandan más personalización, pero enfrentan dos obstáculos principales: sistemas anticuados y resistencia al cambio por parte del personal. Le gustaría implementar mejor control de empleados y actualizar su webcam, pero señala que la adaptación a nuevas tecnologías es lenta. Aunque algunos clientes frecuentes reciben trato personalizado (por memoria del staff), nuevos huéspedes no acceden a estos beneficios por falta de sistemas digitales.
+
+---
+
+Nombre: Claudia Sifuentes
+Edad: 28 años 
+Ocupación: Gerente de operaciones hotelera  
+Browser: Firefox
+Device: Laptop
+Distrito: Lince
+Timing:  
+![Imagen de entrevista](Assets/img/Chapter-1/entrevista%203%20segmento%202.png)
+
+[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EY3QHbePejVFhy4Lxa49_84BAwjrm9Pk8aQZWCyGwuz63Q?e=BSpEnp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:02]
+
+Claudia Cifuentes, supervisora de operaciones en hotelería, revela los desafíos tecnológicos de su establecimiento. Aunque utilizan un CRM básico para registrar preferencias de huéspedes, admite que su implementación es irregular y que el personal carece de capacitación adecuada para aprovecharlo. La comunicación interna sigue siendo arcaica, dependiendo principalmente de correos electrónicos y reuniones presenciales.
+
+Claudia identifica dos soluciones clave: implementar un sistema de gestión de habitaciones más robusto y adoptar herramientas de predictibilidad. Sin embargo, señala que los altos costos iniciales y la resistencia al cambio entre el personal son obstáculos significativos. Un dato revelador: los huéspedes, acostumbrados a experiencias personalizadas como las de Airbnb, están demandando cada vez más este tipo de servicios, lo que presiona al hotel a modernizarse a pesar de las dificultades internas. 
+
+
+---
+
 
 ### 2.2.3. Análisis de entrevistas.
-**Segmento 1:**
-{texto}
-**Segmento 2:**
-{texto}
+**Segmento 1:** : (Huéspedes):
+Estadisticas y Aspectos comunes: En las entrevistas realizadas encontramos que 67% del segmento utiliza el browser de google, asimismo se
+muestra que todos los entrevistados usan WhatsApp para su comunicacion, adicionalmente el 100% de los entrevistados mencionan almenos una
+discomformidad con la comunicacion que se mantiene con sus superiores. Observamos que piensan en sus demas colegas del area laboral.
+Caracteristicas Objetivas: Se requiere un sistema de comunicacion para este segmento, hay una necesidad en saber que hacer solicitando una
+entrega de tareas o avisos si es que estas cambian, discomformidad con sistemas lentos. Hacer más, con menos. todos utilizan dispositivos moviles.
+Caracteristicas Subjetivas: Todos los entrevistados tienen una fuerte opinion respecto a la comunicacion como un problema comun, seguido de la
+falta de servicios actualizados o la falta total de estos que afecta su eficiencia. Todos estan de acuerdo con un cambio parecido al que estaremos
+desarollando satisfaciendo nuestro supuesto mas importante por el lado del segmento 1.
+
+**Segmento 2:** (Personal Administrativo):
+Estadísticas y Aspectos comunes: El 100% usa WhatsApp o métodos manuales (libretas/Excel) para registrar preferencias, solo el 40% tiene sistemas integrados, y el 90% identifica la comunicación interna como barrera principal. El 80% señala que la falta de capacitación limita la innovación. Características Objetivas: Necesitan un dashboard centralizado para gestionar reservas, preferencias y comunicación entre áreas, con herramientas que reduzcan carga operativa. Características Subjetivas: Coinciden en que la digitalización mejoraría eficiencia, pero preocupan costos iniciales y resistencia al cambio. Reconocen que los huéspedes exigen más personalización (ej. influencia de Airbnb), lo que valida la urgencia de implementar sistemas como Custom Host.
+
+Con esta informacion estamos sustentando los supuestos por el lado del segmento 2 y segmento 1
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+
+![Imagen de entrevista](Assets/img/Chapter-1/persona1.png)
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+![Imagen de entrevista](Assets/img/Chapter-1/persona2.png)
+
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
+| --- | ------ | Segmento 1  | Huespedes | Segmento 2  | ---------- |
 | --- | ------ | ----------- | ------------ | ----------- | ---------- |
 | ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
+| U01|Personalizar ambiente de la habitación| Alta | Media| Alta  | Alta |
+| U02|Realizar check-in/check-out digital| Alta | Baja | Alta  | Alta  |  
+| U03| Controlar dispositivos IoT (luz, clima, TV) | Alta| Alta| Media | Alta  | 
+| U04|Solicitar servicios adicionales | Media | Media | Alta  | Alta  |
+| U05|   Reportar problemas técnicos  | Alta | Baja | Alta  | Media |  
+| U06|  Gestionar reservas y modificaciones | Alta   |Baja | Alta  | Alta | 
+| U07|  Coordinar limpieza de habitaciones | -| - | Alta | Alta  |
+| U08|  Actualizar inventario de amenidades| - | - | Alta | Alta  |  
+| U09|  Gestionar comunicación entre áreas  | -  | -  | Alta| Alta  | 
+| U10| Registrar preferencias recurrentes | Media  | Baja  | Alta | Media  |
+
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
-- s
-- s
-- s
+- Diseño profesional y consistente en la interfaz.
+- Integración con cuentas existentes (Google, Apple ID) para registro rápido y confiable.
+- Incluir testimonios reales de usuarios verificados
   
 **Onboarding and first use:**
 How can they feel successful?
-- s
-- s
-- s  
+- Diseñar un tutorial interactivo guiado paso a paso
+- Confirmaciones visuales (animaciones, notificaciones) al realizar acciones.
+- Soporte rápido (chat en vivo o bot inteligente para preguntas frecuentes).  
   
 **Sharing:**
 Why would they invite others?
-- s
-- s
-- s
+- Integración con redes sociales para compartir experiencias fácilmente (ej: "Comparte tu habitación personalizada").
+- Funciones exclusivas para grupos (ej: "Planifica un viaje con amigos y obtén descuento").
+- Sistema de referidos con recompensas para ambos (ej: "Invita a un amigo y ambos ganan 20% de descuento").
+**Segmento 1:**  
+
+![Journey 1](Assets/img/chapter-1/journey%201.png)
+
+**Segmento 2:**
+![Journey 2](Assets/img/Chapter-1/journey%202.png)
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+![Emphaty 1](Assets/img/Chapter-1/empathy%201.png)
+
 
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+![Emphaty 2](Assets/img/Chapter-1/emphaty%202.png)
+
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: {escenario}
+Escenario: Huésped llega a hotel sin sistema de personalización automática
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
+| Fases| Fase 1: Check-in | Fase 2: Ajuste manual| Fase 3: Solicitud de servicios| Fase 4: Habitación compartida|
 | -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+| Doing | Llenar formularios físicos| Configurar termostato | Llamar a recepción para pedir toallas| Negociar temperatura con acompañante|
+| Thinking | "¿Por qué no recuerdan mis preferencias?"| "¿Cómo funciona este control?" | "¿Cuánto tardarán?"| "Nunca logramos estar cómodos los dos"|
+| Feeling  | Frustrado por repetir datos| Confundido con tecnología | Impaciente por demoras| Molesto por incomodidad constante|
 
 **Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+Escenario: Personal hotelero gestiona preferencias manualmente
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
+| Fases| Fase 1: Recepción | Fase 2: Coordinación| Fase 3: Ejecución| Fase 4: Seguimiento|
 | -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+| Doing | Anotar preferencias en papel| Hacer llamadas internas | Corregir errores de habitación| Registrar quejas de huéspedes|
+| Thinking | "Seguro se pierde esta nota"| "¿Que decia el mensaje?" | "Otra vez olvidaron las almohadas"| "Nos van a poner mala evaluación"|
+| Feeling  | Estresado por desorganización| Ansioso por comunicación fallida | Frustrado por errores repetidos| Preocupado por reputación del hotel
+|
 ## 2.4. Ubiquitous Language.
 ```
-Texto ubiquo: Definicion de este
+Vacant (Disponible): Estado de una habitación que se encuentra libre y lista para ser ocupada por un nuevo huésped.
+
+InService (En Servicio): Estado en el que una habitación se encuentra en proceso de limpieza, mantenimiento o reposición de productos. Durante este estado, la habitación no está disponible para huéspedes.
+
+Occupied (Ocupada): Estado de una habitación que actualmente está siendo utilizada por un huésped registrado.
+
+Manager (Gerente): Persona encargada de supervisar y coordinar las tareas, el personal (empleados) y la gestión de habitaciones e inventario del hotel.
+
+Employees (Empleados): Personal operativo del hotel cuya función puede variar entre limpieza, atención a la habitación (room service) o reposición de insumos (restocking). Reciben y ejecutan tareas asignadas por el gerente.
+
+Tasks (Tareas): Actividades operativas asignadas a los empleados, como la limpieza de habitaciones, el restocking de productos consumibles, o el mantenimiento de instalaciones.
+
+Items (Ítems o Productos): Bienes consumibles utilizados en las habitaciones, como jabones, toallas, champú, entre otros. Cada ítem debe estar registrado en el inventario con su respectivo nivel de stock para facilitar su control y reposición.
+
+Provider (Proveedor): Entidad que suministra los ítems al hotel. Cada ítem está asociado a un proveedor, lo cual permite realizar filtros y gestiones según el origen del producto.
+
 ```
 
 ---
