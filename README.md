@@ -581,61 +581,127 @@ Provider (Proveedor): Entidad que suministra los ítems al hotel. Cada ítem est
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1:
-
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
-
-Segmento 2:
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
+![To-Be Scenario Mapping](/Assets/img/Chapter-3/To-Be-Segmento1.png)
+![To-Be Scenario Mapping](/Assets/img/Chapter-3/To-Be-Segmento2.png)
 
 ## 3.2. User Stories.
 
-| HU0X | Historia Usuario | "Descripcion"  |
-|-|-|-|
+| HUX  |    Historia de Usuario / Epica    | Descripción  | Criterios de Aceptación | Relacionado con (Epic ID) |
+|------|-----------------------------------|--------------|-------------------------|---------------------------|
+| EP01 |Crear cuenta|Como huésped o personal administrativo, quiero crear una cuenta para acceder a las funcionalidades de la aplicación|  **Escenario 1:**<br> Given que el usuario aún no tiene una cuenta, <br> When completa el formulario de registro con sus datos válidos <br>And pulsa el botón "Registrarse",<br>Then debe crearse su cuenta y redirigirse a la pantalla principal de su perfil. <br><br>**Escenario 2:** <br> Given que el usuario ya está registrado, <br> When ingresa su correo y contraseña correctamente en la pantalla de inicio de sesión, <br> Then debe acceder a la plataforma con su sesión iniciada según su rol (huésped o personal)                       |                           |
+| EP02 |Configuración de Preferencias del Huésped|Como huésped, quiero establecer mis preferencias de iluminación y temperatura, para que mi habitación se adapte automáticamente.|**Escenario 1:** <br> Given que el huésped accede a la sección de preferencias en su perfil, <br> When selecciona su temperatura, tipo de luz y guarda los cambios, <br> Then la plataforma debe almacenar estas preferencias de forma personalizada. <br><br> **Escenario 2:** <br> Given que el huésped ingresa a su habitación con sesión activa, <br> When se detecta su presencia en la habitación, <br> Then los dispositivos deben ajustarse automáticamente según las preferencias registradas.|                           |
+| EP03 |Gestión de Solicitudes de Servicios|Como huésped, quiero poder solicitar servicios desde la aplicación para tener una atención personalizada a mis gustos.|**Escenario 1:** <br>Given que el huésped desea solicitar un servicio,<br>When accede a la sección de "Solicitudes" y selecciona el tipo de servicio requerido,<br>Then debe enviarse la solicitud <br> And mostrar una confirmación con el estado "Pendiente".<br><br>**Escenario 2:** <br>Given que el huésped quiere revisar el estado de su solicitud, <br>When abre la sección de solicitudes activas en la aplicación,<br>Then debe poder visualizar el estado actualizado (pendiente, en proceso, completado) de cada solicitud.|                           |
+| EP04 |Panel de control|Como personal administrativo, quiero tener un dashboard con información en tiempo real sobre las solicitudes de los huéspedes, para  poder gestionarlos mejor.|**Escenario 1:** <br>Given que el personal administrativo está en el panel de control, <br>When accede a la sección de solicitudes de los huéspedes <br>Then debe visualizar en tiempo real las nuevas solicitudes recibidas y su estado actual. <br><br>**Escenario 2:** <br>Given que el personal está gestionando una solicitud, <br>When cambia el estado de una solicitud a “En proceso” o “Completado”,<br>Then el huésped debe recibir una notificación con el nuevo estado actualizado.|                           |
+| EP05 |Notificaciones en tiempo real|Como huésped o personal del hotel, quiero recibir notificaciones en tiempo real, para poder saber sobre eventos importantes o problemas técnicos.|**Escenario 1:**<br>Given que el huésped está conectado a la aplicación móvil,<br>When se genera un evento importante (como una promoción o evento del hotel),<br>Then debe recibir una notificación en tiempo real con el contenido del evento.|                           |
+| EP06 |Seguimiento de Historial de Preferencias|Como developer, quiero tener acceso al historial de preferencia de los huéspedes, para mejorar la aplicación en base a las preferencias de los usuarios.| **Escenario 1:** <br> Given que un huésped modifica sus preferencias,<br>When guarda los cambios,<br>Then el sistema debe registrar los cambios<br><br>**Escenario 2:**<br>Given que el desarrollador accede al panel de administración,<br>When selecciona el perfil de un huésped,<br>Then debe visualizar el historial de preferencias registradas y fechas de modificación.|                           |
+| EP07 |Gestión de habitaciones|Como developer, quiero implementar un sistema de gestión de habitaciones, para que permita modificar y asignar habitaciones disponibles.|**Escenario 1:**<br>Given que el administrador accede al sistema de gestión de habitaciones,<br>When selecciona una habitación ocupada,<br>Then debe visualizar sus datos, estado actual y tener la opción de reasignar a otro huésped.<br><br>**Escenario 2:** <br>Given que hay habitaciones nuevas disponibles,<br>When el personal técnico o administrativo actualiza su estado en el sistema,<br>Then estas deben mostrarse como disponibles para nuevas reservas|                           |
+| EP08 |Implementacion de la landing page informativa|Como huésped, quiero tener acceso a una plataforma web, para conocer los servicios que brindan en el hotel.|**Escenario 1:** <br>Given que el visitante se encuentra en la página principal de la plataforma, <br>When accede a la sección inferior del sitio, <br>Then debe visualizar la información de contacto, incluyendo dirección, teléfono, correo y enlaces a redes sociales. <br><br>**Escenario 2:** <br>Given que el visitante necesita hacer una consulta, <br>When accede al icono de contacto disponible en la interfaz, <br>Then se debe mostrar un formulario emergente para que pueda enviar su mensaje directamente desde la landing.|                           |
+| EP09 |Gestión de Reservas|Como developer, quiero desarrollar un sistema de gestión de reservas, para que los huéspedes puedan realizar, modificar o cancelar la reserva de sus habitaciones.|**Escenario 1:** <br>Given que el huésped desea reservar una habitación, <br>When selecciona una fecha y habitación disponible y confirma la reserva, <br>Then el sistema debe registrar la reserva y mostrar un resumen con los detalles. <br><br>**Escenario 2:** <br>Given que el huésped ya tiene una reserva confirmada, <br>When accede a la sección de “Mis reservas” y selecciona la opción de modificar o cancelar, <br>Then debe poder editar la información o anular la reserva según disponibilidad.|                           |
+| EP10 |Evaluación de la Experiencia del Huésped|Como huésped, quiero poder calificar mi experiencia, para compartir mis opiniones sobre el servicio recibido.|**Escenario 1:** <br>Given que el huésped ha finalizado su estadía, <br>When recibe la notificación para calificar el servicio, <br>Then debe poder acceder a un formulario con estrellas y comentarios para evaluar su experiencia. <br><br>**Escenario 2:** <br>Given que el huésped ya completó una evaluación, <br>When accede a su historial de reservas, <br>Then debe poder visualizar sus calificaciones anteriores y los comentarios registrados.|                           |
+| EP11 |Sistema de Recompensas y Fidelización|Como huésped, quiero recibir puntos o beneficios por mis visitas, para sentirme valorado y motivado a volver.|**Escenario 1:** <br>Given que el huésped ha realizado una nueva reserva, <br>When completa su estadía sin cancelaciones, <br>Then debe acumular puntos de fidelidad visibles en su perfil. <br><br>**Escenario 2:** <br>Given que el huésped ha acumulado puntos suficientes, <br>When accede a la sección de recompensas, <br>Then debe poder canjear sus puntos por beneficios o descuentos disponibles.|                           |
+| EP12 |Gestión Multilingüe de la Plataforma|Como huésped quiero que la plataforma esté disponible en más de un idioma para poder usar el idioma de mi preferencia.|**Escenario 1:** <br>Given que el huésped está en la pantalla principal, <br>When accede al selector de idioma y elige otro idioma disponible, <br>Then toda la interfaz debe traducirse automáticamente al idioma seleccionado. <br><br>**Escenario 2:** <br>Given que el huésped configura su idioma preferido en el perfil, <br>When inicia sesión en una nueva ocasión, <br>Then la plataforma debe cargar automáticamente en su idioma predeterminado.|                           |
+| EP13 |Seguridad y Privacidad de Datos|Como developer, quiero implementar, mecanismos de seguridad y privacidad de datos, para proteger la información de los usuarios.|**Escenario 1:** <br>Given que el usuario está ingresando sus datos personales, <br>When completa el formulario de registro, <br>Then el sistema debe asegurar la transmisión cifrada de los datos mediante protocolo HTTPS. <br><br>**Escenario 2:** <br>Given que un usuario desea eliminar su cuenta, <br>When confirma la eliminación desde la configuración, <br>Then todos sus datos personales deben eliminarse según la política de privacidad.|                           |
+| EP14 |Soporte en Línea para el Usuario|Como huésped quiero tener un soporte personalizado y que responda inmediatamente para poder resolver mis problemas o mis consultas.|**Escenario 1:** <br>Given que el huésped tiene una consulta relacionada con su experiencia en el hotel, <br>When accede a la funcionalidad de soporte, <br>Then debe iniciarse una conversación en tiempo real con un agente disponible. <br><br>**Escenario 2:** <br>Given que no hay agentes disponibles, <br>When el huésped solicita asistencia fuera del horario de atención, <br>Then debe visualizarse un formulario para dejar su consulta y recibir una respuesta por correo electrónico.|                           |
+| EP15 |Gestión de perfiles|Como developer, quiero implementar un sistema de gestión de perfiles de usuario que permita editar la información y preferencias, para que cada tipo de usuario tenga una experiencia personalizada.|**Escenario 1:** <br>Given que el usuario desea actualizar su información, <br>When accede a su perfil y edita su nombre, correo o preferencias, <br>Then los cambios deben guardarse y reflejarse inmediatamente en su cuenta. <br><br>**Escenario 2:** <br>Given que el sistema tiene diferentes tipos de usuarios, <br>When un administrador crea un nuevo perfil, <br>Then debe poder asignar el rol (huésped, técnico, administrativo) para determinar su acceso y permisos.|                           |
+| HU01 |Visualización de Información de Servicios.|Como visitante del sitio, quiero visualizar los servicios que ofrece el hotel, para saber lo que ofrece antes de hacer una reserva.|**Escenario 1:** <br>Given que el visitante ha accedido a la landing page del sitio web, <br>When navega hacia la sección de servicios en la página, <br>Then el sistema debe mostrar un listado claro de los principales servicios.| EP08 |
+| HU02 |Acceso a Información de Contacto.|Como visitante del sitio, quiero acceder fácilmente a los datos de contacto del hotel, para poder comunicarme si tengo dudas o necesito ayuda.|**Escenario 1:** <br>Given que el visitante visualiza la plataforma del hotel, <br>When revisa la parte inferior del sitio, <br>Then debe encontrar la información de contacto completa del hotel. <br><br>**Escenario 2:** <br>Given que el visitante necesita realizar una consulta rápida, <br>When utiliza la opción de contacto en la interfaz, <br>Then debe mostrarse un formulario emergente para enviar su mensaje.| EP08 |
+| HU03 |Acceso a Testimonios de Huéspedes.|Como visitante del sitio, quiero leer opiniones de otros huéspedes, para tener mayor confianza al momento de decidir si reservar.|**Escenario 1:** <br>Given que el visitante está explorando la página de inicio, <br>When visualiza la sección de testimonios, <br>Then debe encontrar opiniones ordenadas cronológicamente, con nombre, fecha de estadía y contenido. <br><br>**Escenario 2:** <br>Given que hay múltiples testimonios disponibles, <br>When el visitante solicita ver más opiniones, <br>Then el sistema debe cargar contenido adicional dinámicamente, sin recargar la página.| EP08 |
+| HU04 |Acceso Rápido al Formulario de Reserva.|Como visitante del sitio, quiero encontrar fácilmente un botón para reservar una habitación, para iniciar rápidamente el proceso si me interesa.|**Escenario 1:** <br>Given que el visitante se encuentra en la landing page del sitio web, <br>When llega a la sección de servicios o al final de la página, <br>Then debe ver un botón fijo "Reservar ahora" que redirige al formulario de reservas.| EP08 |
+| HU05 |Sección "Sobre Nosotros".|Como visitante del sitio, quiero conocer la historia y valores del hotel, para tener mayor conexión y confianza con la empresa.|**Escenario 1:** <br>Given que el visitante está explorando la landing page, <br>When llega a la sección “Sobre Nosotros”, <br>Then debe visualizar una descripción breve de la historia del hotel, su equipo y valores, acompañada de imágenes. <br><br>**Escenario 2:** <br>Given que hay contenido multimedia sobre la historia del hotel, <br>When el visitante interactúa con el video informativo, <br>Then el video debe reproducirse en el mismo entorno visual, sin redirigir a otras páginas.| EP08 |
+| HU06 |Visualización del Formulario de Registro.|Como huésped, quiero ver un formulario de registro bien estructurado, para poder registrarme en el sistema.|**Escenario 1:** <br>Given que el huésped nuevo accede a la plataforma web, <br>When decide registrarse como nuevo usuario, <br>Then el sistema debe mostrar un formulario de registro claro, accesible y fácil de completar. <br><br>**Escenario 2:** <br>Given que el huésped ha accedido al formulario de registro, <br>When intenta enviar los datos sin completar todos los campos obligatorios, <br>Then el sistema debe mostrar un mensaje que indique qué campos deben completarse.| EP01 |
+| HU07 |Validación de Datos de Registro.|Como huésped, quiero que el sistema valide mis datos al registrarme, para evitar errores en mi cuenta.|**Escenario 1:** <br>Given que el huésped ha completado correctamente todos los campos del formulario de registro, <br>When envía los datos para su registro, <br>Then el sistema debe validar la información y redirigirlo a la página de confirmación de cuenta. <br><br>**Escenario 2:** <br>Given que el huésped ha ingresado un correo electrónico ya registrado, <br>When intenta registrar su cuenta, <br>Then el sistema debe notificar que el correo electrónico ya está en uso y sugerir opciones para recuperar la cuenta o cambiar el correo.| EP01 |
+| HU08 |Configuración de Preferencias de habitación.|Como huésped, quiero seleccionar mis preferencias de habitación desde la plataforma web, para personalizar mi estadía.|**Escenario 1:** <br>Given que el huésped accede a la sección de configuración personal, <br>When define sus preferencias de temperatura y luz, <br>Then el sistema debe guardar las configuraciones y reflejarlas en su perfil de usuario. <br><br>**Escenario 2:** <br>Given que el huésped accede a la configuración de preferencias, <br>When elige restablecer los valores personalizados, <br>Then el sistema debe restablecer todas las opciones a sus valores predeterminados.| EP02 |
+| HU09 |Personalización de Horarios de Servicio.|Como huésped, quiero establecer mis horarios de preferencia para servicios como limpieza o desayuno.|**Escenario 1:** <br>Given que el huésped accede a la sección de "Preferencias", <br>When selecciona el horario de limpieza para la mañana, <br>Then el sistema debe actualizar sus preferencias con el nuevo horario. <br><br>**Escenario 2:** <br>Given que el huésped selecciona un horario para el servicio de desayuno, <br>When guarda los cambios, <br>Then el sistema debe confirmar la actualización.| EP02 |
+| HU10 |Solicitud de Servicios de Limpieza.|Como huésped, quiero solicitar un servicio de limpieza directamente desde la plataforma web, para mantener mi habitación limpia.|**Escenario 1:** <br>Given que el huésped accede a la sección de "Servicios", <br>When selecciona "Solicitar limpieza", <br>Then el sistema debe enviar una solicitud de limpieza y confirmar la solicitud con un mensaje.<br><br>**Escenario 2:** <br>Given que el huésped intenta solicitar un servicio fuera de horario, <br>When seleccione "Solicitar limpieza", <br>Then el sistema debe mostrar un mensaje informando sobre los horarios.| EP03 |
+| HU11 |Solicitud de Desayuno en la Habitación.|Como huésped, quiero poder solicitar un desayuno en mi habitación a través de la plataforma web.|**Escenario 1:** <br>Given que el huésped entra a la sección "Solicitar desayuno", <br>When elige "Desayuno en la habitación" y selecciona el horario, <br>Then el sistema debe procesar la solicitud y confirmar el envío. <br><br>**Escenario 2:** <br>Given que el huésped selecciona "Desayuno en la habitación", <br>When selecciona un horario fuera de los disponibles, <br>Then el sistema debe mostrar un mensaje de error.| EP03 |
+| HU12 |Gestión de Solicitudes Pendientes.|Como personal administrativo, quiero poder ver las solicitudes pendientes para atenderlas rápidamente.|**Escenario 1:** <br>Given que el miembro del personal administrativo accede a la sección de "Solicitudes", <br>When ve una lista de solicitudes, <br>Then el sistema debe mostrar las solicitudes ordenadas por urgencia y fecha. <br><br>**Escenario 2:** <br>Given que el miembro del personal administrativo tiene una solicitud nueva, <br>When selecciona "Ver detalles", <br>Then el sistema debe mostrar la información completa de la solicitud.| EP04 |
+| HU13 |Modificación de Estado de la Solicitud.|Como personal administrativo, quiero poder cambiar el estado de una solicitud, para gestionarla mejor.|**Escenario 1:** <br>Given que el miembro del personal accede a la solicitud de un huésped, <br>When selecciona "Marcar como atendida", <br>Then el sistema debe cambiar el estado de la solicitud y mostrar el mensaje de confirmación. <br><br>**Escenario 2:** <br>Given que el miembro del personal ve que una solicitud está pendiente, <br>When selecciona "Marcar como pendiente", <br>Then el sistema debe confirmar el cambio de estado.| EP04 |
+| HU14 |Notificación de solicitud atendida.|Como huésped, quiero recibir alertas cuando mi solicitud se atienda, para estar informado.|**Escenario 1:** <br>Given que el personal completa una solicitud, <br>When el estado cambia es atendido, <br>Then el huésped recibe una notificación inmediata. <br><br>**Escenario 2:** <br>Given que el sistema tiene un error, <br>When el estado cambia, <br>Then el huésped no recibe ninguna notificación.| EP05 |
+| HU15 |Alerta de emergencia en el hotel.|Como personal, quiero recibir alertas inmediatas sobre emergencias, para reaccionar rápido.|**Escenario 1:** <br>Given que se activa una alerta de emergencia como un incendio, <br>When se emite desde el sistema, <br>Then todo el personal recibe una notificación urgente. <br><br>**Escenario 2:** <br>Given que se realiza una prueba del sistema, <br>When se lanza la alerta, <br>Then el mensaje indica claramente "Simulación de emergencia".| EP05 |
+| HU16 |Enviar evaluación de estadía.|Como huésped, quiero calificar mi experiencia al final de la estadía, para dar retroalimentación al hotel.|**Escenario 1:** <br>Given que el huésped ha finalizado su estadía, <br>When completa el formulario de evaluación y lo envía, <br>Then el sistema registra la evaluación y muestra "Gracias por tu opinión". <br><br>**Escenario 2:** <br>Given que el huésped no llena todos los campos, <br>When intenta enviar, <br>Then el sistema muestra un mensaje indicando que debe completar todos los campos obligatorios.| EP10 |
+| HU17 |Ver historial de evaluaciones.|Como personal administrativo, quiero consultar las evaluaciones recibidas, para mejorar la calidad del servicio.|**Escenario 1:** <br>Given que el personal accede a la sección de evaluaciones, <br>When selecciona un rango de fechas, <br>Then se muestran las evaluaciones correspondientes. <br><br>**Escenario 2:** <br>Given que no existen evaluaciones en ese periodo, <br>When consulta, <br>Then el sistema muestra "No se encontraron evaluaciones en este periodo".| EP10 |
+| HU18 |Visualizar puntos acumulados.|Como huésped, quiero ver cuántos puntos de fidelidad tengo, para saber qué recompensas puedo obtener.|**Escenario 1:** <br>Given que el huésped accede a su cuenta, <br>When navega a la sección de recompensas, <br>Then puede visualizar su total de puntos acumulados. <br><br>**Escenario 2:** <br>Given que el huésped aún no ha generado puntos, <br>When accede a la sección, <br>Then el sistema muestra "Todavía no tienes puntos acumulados".| EP11 |
+| HU19 |Canjear puntos por recompensa.|Como huésped, quiero canjear mis puntos por beneficios, para aprovechar el programa de fidelidad.|**Escenario 1:** <br>Given que el huésped tiene suficientes puntos, <br>When selecciona una recompensa y confirma el canje, <br>Then el sistema descuenta los puntos y entrega el beneficio. <br><br>**Escenario 2:** <br>Given que el huésped no tiene los puntos requeridos, <br>When intenta realizar el canje, <br>Then el sistema muestra "No tienes suficientes puntos para esta recompensa".| EP11 |
+| HU20 |Cambiar el idioma de la interfaz.|Como huésped internacional, quiero cambiar el idioma de la interfaz, para comprender mejor la plataforma web.|**Escenario 1:** <br>Given que el huésped se encuentra en la configuración de idioma, <br>When selecciona “inglés”, <br>Then toda la interfaz se traduce automáticamente. <br><br>**Escenario 2:** <br>Given que el huésped intenta seleccionar un idioma no disponible, <br>When realiza el cambio, <br>Then el sistema muestra "Idioma no disponible actualmente".| EP12 |
+| HU21 |Recordar el idioma seleccionado.|Como huésped, quiero que la plataforma recuerde mi idioma preferido, para no tener que cambiarlo cada vez.|**Escenario 1:** <br>Given que el huésped ha seleccionado un idioma, <br>When vuelve a iniciar sesión, <br>Then la plataforma carga directamente en ese idioma. <br><br>**Escenario 2:** <br>Given un problema técnico, <br>When el huésped cambia el idioma, <br>Then la plataforma vuelve a aparecer con el idioma predeterminado.| EP12 |
+| HU22 |Iniciar chat con soporte.|Como huésped, quiero iniciar un chat con soporte, para resolver dudas rápidamente.|**Escenario 1:** <br>Given que el huésped accede a la sección de ayuda, <br>When presiona el botón de chat, <br>Then se abre una ventana con un agente disponible. <br><br>**Escenario 2:** <br>Given que no hay agentes en línea, <br>When intenta iniciar el chat, <br>Then el sistema muestra "No hay agentes disponibles, por favor inténtelo más tarde".| EP14 |
+| HU23 |Consultar preguntas frecuentes.|Como huésped, quiero revisar preguntas frecuentes, para resolver dudas sin contactar soporte.|**Escenario 1:** <br>Given que el huésped accede al FAQ, <br>When busca “cómo solicitar limpieza”, <br>Then el sistema muestra artículos relacionados. <br><br>**Escenario 2:** <br>Given que busca una pregunta no registrada, <br>When realiza la búsqueda, <br>Then el sistema le mostrará preguntas similares a la realizada.| EP14 |
+| TS01 |Modificar preferencias|Como desarrollador, quiero que el sistema guarde los cambios de preferencias de los huéspedes en una base de datos, para tener un registro de sus elecciones.|**Escenario 1:** <br>Given que un huésped modifica su preferencia ,<br> When el sistema recibe la solicitud de actualización  <br>And el sistema valida los datos modificados <br>And verifica que el huesped esta registrado<br>Then el sistema guarda los datos modificados en la tabla preferencias <br>And devuelve el mensaje: "Preferencias actualizadas correctamente" <br><br>**Escenario 2:** <br>Given que un huesped deja un campo vacio,<br>When el sistema recibe la sulicitud de guardar,<br>And detecta que algún campo es vacio o null<br>Then el sistema no guarda los cambios en la base de datos <br>And envia un mensaje de error: "Completar todos los campos"|EP06|
+|TS02|Consultar historial de preferencias|Como desarrollador, quiero que el sistema muestre el historial cambios de preferencias de un huésped, para mejorar la experiencia de usuario basado en sus elecciones pasadas|**Escenario 1:** <br> Given que un administrador accede al perfil de un huésped registrado,<br>When el sistema recibe la solicitud para mostrar el historial de un usuario <br> Then el sistema devuelve la información de preferencias del usuario seleccionado <br>And tambien muestra la fecha en la que se modifico por ultima vez <br><br>**Escenario 2:**<br>Given que el huésped aun no ha realizado una modificación en sus preferencias,<br> When el sistema solicita su historial, <br> Then el sistema devuelve el mensaje: "Aun no se han registrado modificaciones" |EP06|
+|TS03|Eliminar preferencias obsoletas|Como desarrollador, quiero que el sistema permita eliminar preferencias antiguas o incorrectas de un huésped, para mantener la base de datos limpia y actualizada.|**Escenario 1:**<br>Given que un administrador identifica una preferencia que no es valida <br>When el sistema recibe una solicitud de eliminar preferencia <br>And el sistema verifica que el id le pertenece a un huesped <br>Then elimina el registro de las preferencias del usuario <br> And registra las acciones realizadas en una tabla auditoria <br> And devuelve un mensaje: "Preferencia eliminada correctamente"<br><br>**Escenario 2:** <br>Given que un usuario que no tiene rol de administrador intenta eliminar una preferencia,<br>When el sistema valida sus permisos,<br>Then el sistema rechaza la acción con: "Acceso no autorizado".|EP06|
+|TS04|Actualización de estado de habitaciones|Como desarrollador, quiero que el sistema permita actualizar el estado de las habitaciones (disponible / ocupado / en mantenimiento), para reflejar la disponibilidad de las reservar.|**Escenario 1:** <br>Given que el administrador selecciona una habitación, <br>When modifica su estado a "en mantenimiento" <br>And confirma la acción, <br>Then el sistema actualiza el estado en la base de datos, <br> And el sistema notifica: "Actualizado correctamente". <br><br> **Escenario 2:**<br>Given que se ingresa una habitación que no existe en la,<br>When el sistema busca el registro, <br>And no encuentra la habitación, <br>Then muestra el error: "Habitación no registrada".|EP07|
+|TS05|Reasignación de habitaciones|Como desarrollador, quiero que el sistema permita reasignar una habitación ocupada a otro huésped, para optimizar el uso de espacios según necesidades cambiantes.|**Escenario 1:**<br>Given que el administrador selecciona una habitación ocupada,<br>When se asigna la habitación a un nuevo huésped y confirma, <br> Then el sistema libera la habitación del huésped previo, <br>And se registra al nuevo huésped, <br> And el sistema actualiza el historial de cambios. <br><br>**Escenario 2:** <br>Given que se ingresa un ID de huésped no registrado,<br>When el sistema valida si el huesped esta registrado en la base de datos, <br>Then se cancela la acción y notifica el error: "Huesped no encontrado".|EP07|
+|TS06|Consulta de disponibilidad de habitaciones|Como desarrollador, quiero implementar un sistema de consulta de habitaciones disponibles con filtros, para que el personal pueda encontrar rápidamente espacios según filtros específicos.|**Escenario 1:** <br>Given que el administrador ingresa filtros de busqueda <br> When el sistema recibe los filtros de busqueda, <br> Then devuelve una lista de habitaciones disponibles que coincidan con los filtros,<br>And muestra las caracteristicas de la habitación.<br><br>**Escenario 2:**<br>Given que no hay habitaciones disponibles para los filtros aplicados,<br>When el sistema completa la búsqueda,<br>And no encuentra los filtros aplicados<br>Then devuelve un mensaje: "No se encontraron habitaciones con esos criterios".|EP07|
+|TS07|Sistema de Registro de Reservas en Base de Datos|Como desarrollador, quiero una funcionalidad para almacenar nuevas reservas en la base de datos, para que el sistema pueda gestionar las reservas de los huéspedes.|**Escenario 1:** <br>Given que un huésped selecciona una habitación disponible y completa el formulario de reserva, <br>When el sistema valida que las fechas están disponibles, <br>And todos llos campos fueron completados, <br>And el huesped existe en el sistema,<br> Then el sistema guarda la reserva en la base de datos, <br>And actualiza el estado de la habitación, <br>And muestra al huésped un mensaje de confirmación con su número de reserva. <br><br> **Escenario 2:** <br> Given que un huésped intenta reservar una habitación ya ocupada para las fechas seleccionadas, <br> When el sistema verifica la disponibilidad de la habitación, <br>Then el sistema no guarda la reserva, <br>And muestra el mensaje: "Habitación no disponible", <br>And sugiere otras habitaciones disponibles|EP09|
+|TS08|Módulo de Modificación de Reservas|Como desarrollador, quiero modificar las reservas existentes, para permitir a los huéspedes ajustar sus reservas según cambios en sus planes.|**Escenario 1:** <br> Given que un huésped solicita modificar una reserva confirmada, <br>When el sistema verifica que la nueva habitación está disponible,<br>And las nuevas fechas están disponibles,<br> And la reserva no ha sido cancelada previamente,<br>Then el sistema actualiza los datos de la reserva, <br>Envía un correo de confirmación con los nuevos detalles. <br><br> **Escenario 2:**<br>Given que un huésped intenta modificar una reserva pero no hay disponibilidad,<br>When el sistema valida los nuevos datos y no encuentra alguna coincidencia,<br>Then se mostrara el siguiente mensaje: "No hay disponibilidad para los cambios solicitados",<br>And ofrece opciones alternativas.|EP09|
+|TS09|Consulta de reservas activas|Como desarrollador, quiero implementar la funcionalidad para consultar reservas activas, para que los huéspedes y administradores puedan ver el estado de las reservas.|**Escenario 1:** <br> Given que huésped o administrador accede al sistema, <br>When solicita ver las reservas que se encuntran activas, <br> Then el sistema muestra los detalles de la habitación junto al número de la reserva <br>And muestra el estado de la reserva ("Confirmada","Cancelada")<br><br>**Escenario 2:** <br> Given que un huésped no tiene reservas activas, <br>When xonsulta el historial de reservas, <br>Then el sistema muestra el mensaje: "No tiene reservas activas actualmente"|EP09|
+|TS10|Eliminación Segura de Datos de Usuarios|Como desarrollador, quiero implementar una opción para eliminar todos los datos personales de un usuario, para cumplir con políticas de privacidad|**Escenario 1:** <br>Given que un usuario solicita eliminar su cuenta, <br>When se confirma el envio de la acción, <br>Then el sistema borra los datos de la tabla, <br>And conserva los registros en estado anónimo. <br><br>**Escenario 2:** <br>Given que un administrador intenta eliminar manualmente una cuenta, <br> When el sistema detecta que tiene datos de reserva asociados, <br>Then se solicita una confirmación adicional antes de eliminar la cuenta.|EP13|
+|TS11|Registro de Actividades Sospechosas|Como desarrollador, quiero registrar intentos de acceso fallidos y actividades inusuales, para detectar y responder a posibles brechas de seguridad.|**Escenario 1:** <br>Given que un usuario falla al ingresar su contraseña 3 veces, <br>When el sistema registra el evento, <br>Then bloquea temporalmente la cuenta y notifica al administrador.|EP13|
+|TS12|Implementación de Políticas de Cookies y Consentimiento|Como desarrollador, quiero implementar un sistema de gestión de cookies, para informar a los usuarios y obtener su consentimiento antes de almacenar datos.|**Escenario 1:** <br> Given que un usuario visita el sitio por primera vez, <br> When el sistema detecta que no hay preferencias guardadas, <br>Then muestra un banner preguntando al usuario para usar sus cookies,<br>And le muestra opciones para aceptar/rechazar.|EP13|
+|TS13|Encriptación de Datos Sensibles en Base de Datos|Como desarrollador, quiero encriptrar información sensible del usuario, para mantener la información segura de los usuarios.|**Escenario 1:** <br>Given que un usuario ingresa su número de tarjeta en un formulario,<br>When el sistema guarda los datos,<br>Then almacena los datos y los encripta en la base de datos. <br><br> **Escenario 2:** <br> Given que un administrador consulta la base de datos directamente, <br>When revisa los campos encriptados,<br>Then ve valores cifrados en lugar de datos originales. |EP13|
+|TS14| Actualización de Perfiles de Usuario|Como desarrollador,<br>quiero implementar un sistema seguro para actualizar información de perfiles,<br>para que los usuarios puedan modificar sus datos personales y preferencias.|**Escenario 1:**<br>Given que un usuario autenticado envía una solicitud para actualizar los datos perfil,<br>When el sistema valida los nuevos datos, <br>Then actualiza la información en la base de datos,<br>And devuelve una confirmación al frontend. <br><br>**Escenario 2:** <br>Given que un usuario intenta actualizar su perfil con un correo ya registrado, <br>When el sistema detecta el duplicado, <br>Then el sistema rechaza la actualización y notifica con el mensaje: "El correo ya está en uso". |EP15|
+|TS15|Gestión de Roles y Permisos|Como desarrollador, quiero crear un sistema de asignación de roles, para controlar accesos y funcionalidades según el tipo de usuario.|**Escenario 1:** <br>Given que un administrador asigna un rol a un nuevo usuario, <br>When el sistema procesa la solicitud,<br>Then guarda el rol en la base de datos, <br>And aplica automáticamente los permisos asociados. <br><br>**Escenario 2:** <br>Given que un usuario sin privilegios intenta asignar roles,<br>When el sistema verifica sus permisos,<br>Then bloquea la acción y registra el intento en logs. |EP15|
+|TS16|Visualización Condicional de Interfaces|Como desarrollador, quiero adaptar la interfaz según el rol del usuario, para mostrar solo las opciones relevantes a cada perfil.|**Escenario 1:** <br> Given que un huésped inicia sesión,<br>When el sistema carga su perfil,<br>Then muestra solo secciones como "Mis reservas" y "Preferencias". <br><br>**Escenario 2:** <br>Given que un administrador accede al sistema, <br>When se renderiza la interfaz, <br>Then incluye pestañas como "Gestión de usuarios" y "Reportes". |EP15|
 
 ## 3.3. Impact Mapping.
 
-![Impact Mapping](image.jpg)
+![Impact Mapping](/Assets/img/Chapter-3/Impact-map-Administrador-de-hotel.png)
+![Impact Mapping](/Assets/img/Chapter-3/Impact-map-huésped.png)
 
 ## 3.4. Product Backlog.
 
+Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f903a3b4af1efa73604221d6aE9912258/customhost-product-backlog
+
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
+|1|US01|Visualización de servicios del hotel|Como visitante del sitio, quiero visualizar los servicios que ofrece el hotel, para saber lo que ofrece antes de hacer una reserva.|2|
+|2|US02|Acceso a información de contacto|	Como visitante del sitio, quiero acceder fácilmente a los datos de contacto del hotel, para poder comunicarme si tengo dudas o necesito ayuda.|1|
+|3|US03|Acceso a Testimonios de Huéspedes|	Como visitante del sitio, quiero leer opiniones de otros huéspedes, para tener mayor confianza al momento de decidir si reservar.|3|
+|4|US04|Acceso Rápido al Formulario de Reserva|Como visitante del sitio, quiero encontrar fácilmente un botón para reservar una habitación, para iniciar rápidamente el proceso si me interesa.|2|
+|5|US05|Sección "Sobre Nosotros"|	Como visitante del sitio, quiero conocer la historia y valores del hotel, para tener mayor conexión y confianza con la empresa.|2|
+|6|US06|Visualización del Formulario de Registro|Como huésped, quiero ver un formulario de registro bien estructurado, para poder registrarme en el sistema.|2|
+|7|US07|Validación de Datos de Registro|Como huésped, quiero que el sistema valide mis datos al registrarme, para evitar errores en mi cuenta.|3|
+|8|US08|Configuración de Preferencias de habitación|Como huésped, quiero seleccionar mis preferencias de habitación desde la plataforma web, para personalizar mi estadía.|5|
+|9|US09|Personalización de Horarios de Servicio|Como huésped, quiero establecer mis horarios de preferencia para servicios como limpieza o desayuno.|5|
+|10|US10|Solicitud de Servicios de Limpieza|Como huésped, quiero solicitar un servicio de limpieza directamente desde la plataforma web, para mantener mi habitación limpia.|3|
+|11|US11|Solicitud de Desayuno en la Habitación|Como huésped, quiero poder solicitar un desayuno en mi habitación a través de la plataforma web.|3|
+|12|US14|Notificación de solicitud atendida|Como huésped, quiero recibir alertas cuando mi solicitud se atienda, para estar informado.|5|
+|13|US16|Enviar evaluación de estadía|Como huésped, quiero calificar mi experiencia al final de la estadía, para dar retroalimentación al hotel.|2|
+|14|US18|Visualizar puntos acumulados|Como huésped, quiero ver cuántos puntos de fidelidad tengo, para saber qué recompensas puedo obtener.|3|
+|15|US19|Canjear puntos por recompensa|Como huésped, quiero canjear mis puntos por beneficios, para aprovechar el programa de fidelidad.|5|
+|16|US20|Cambiar el idioma de la interfaz|Como huésped internacional, quiero cambiar el idioma de la interfaz, para comprender mejor la plataforma web.|2|
+|17|US21|Recordar el idioma seleccionado|Como huésped, quiero que la plataforma recuerde mi idioma preferido, para no tener que cambiarlo cada vez.|2|
+|18|US22|Iniciar chat con soporte|Como huésped, quiero iniciar un chat con soporte, para resolver dudas rápidamente.|5|
+|19|US23|Consultar preguntas frecuentes|Como huésped, quiero revisar preguntas frecuentes, para resolver dudas sin contactar soporte.|2|
+|20|US12|Gestión de Solicitudes Pendientes|Como personal administrativo, quiero poder ver las solicitudes pendientes para atenderlas rápidamente.|3|
+|21|US13|Modificación de Estado de la Solicitud|	Como personal administrativo, quiero poder cambiar el estado de una solicitud, para gestionarla mejor.|2|
+|22|US15|Alerta de emergencia en el hotel|Como personal, quiero recibir alertas inmediatas sobre emergencias, para reaccionar rápido.|5|
+|23|US17|Ver historial de evaluaciones|Como personal administrativo, quiero consultar las evaluaciones recibidas, para mejorar la calidad del servicio.|3|
+|24|TS01|Modificar preferencias|Como desarrollador, quiero que el sistema guarde los cambios de preferencias de los huéspedes en una base de datos, para tener un registro de sus elecciones.|3|
+|25|TS02|Consultar historial de preferencias|Como desarrollador, quiero que el sistema muestre el historial de cambios de preferencias de un huésped, para mejorar la experiencia de usuario basado en sus elecciones pasadas.|3|
+|26|TS03|Eliminar preferencias obsoletas|Como desarrollador, quiero que el sistema permita eliminar preferencias antiguas o incorrectas de un huésped, para mantener la base de datos limpia y actualizada.|2|
+|27|TS04|Actualización de estado de habitaciones|Como desarrollador, quiero que el sistema permita actualizar el estado de las habitaciones (disponible / ocupado / en mantenimiento), para reflejar la disponibilidad de las reservas.|5|
+|28|TS05|Reasignación de habitaciones|Como desarrollador, quiero que el sistema permita reasignar una habitación ocupada a otro huésped, para optimizar el uso de espacios según necesidades cambiantes.|5|
+|29|TS06|Consulta de disponibilidad de habitaciones|Como desarrollador, quiero implementar un sistema de consulta de habitaciones disponibles con filtros, para que el personal pueda encontrar rápidamente espacios según filtros específicos.|5|
+|30|TS07|Sistema de Registro de Reservas|Como desarrollador, quiero una funcionalidad para almacenar nuevas reservas en la base de datos, para que el sistema pueda gestionar las reservas de los huéspedes.|5|
+|31|TS08|Módulo de Modificación de Reservas|Como desarrollador, quiero modificar las reservas existentes, para permitir a los huéspedes ajustar sus reservas según cambios en sus planes.|5|
+|32|TS09|Consulta de reservas activas|Como desarrollador, quiero implementar la funcionalidad para consultar reservas activas, para que los huéspedes y administradores puedan ver el estado de las reservas.|3|
+|33|TS10|Eliminación Segura de Datos de Usuarios|Como desarrollador, quiero implementar una opción para eliminar todos los datos personales de un usuario, para cumplir con políticas de privacidad.|5|
+|34|TS11|Registro de Actividades Sospechosas|Como desarrollador, quiero registrar intentos de acceso fallidos y actividades inusuales, para detectar y responder a posibles brechas de seguridad.|3|
+|35|TS12|Implementación de Políticas de Cookies y Consentimiento|Como desarrollador, quiero implementar un sistema de gestión de cookies, para informar a los usuarios y obtener su consentimiento antes de almacenar datos.|3|
+|36|TS13|Encriptación de Datos Sensibles en Base de Datos|Como desarrollador, quiero encriptar información sensible del usuario, para mantener la información segura de los usuarios.|5|
+|37|TS14|Actualización de Perfiles de Usuario|Como desarrollador, quiero implementar un sistema seguro para actualizar información de perfiles, para que los usuarios puedan modificar sus datos personales y preferencias.|3|
+|38|TS15|Gestión de Roles y Permisos|Como desarrollador, quiero crear un sistema de asignación de roles, para controlar accesos y funcionalidades según el tipo de usuario.|5|
+|39|TS16|Visualización Condicional de Interfaces|Como desarrollador, quiero adaptar la interfaz según el rol del usuario, para mostrar solo las opciones relevantes a cada perfil.|5|
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+#### **Tipografía (Inter)**
+La tipografía elegida para nuestra marca es Inter, por su estilo moderno, funcional y altamente legible. Su diseño limpio se adapta a distintos formatos, tanto digitales como impresos, garantizando una comunicación clara y profesional.
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
-### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
@@ -666,59 +732,363 @@ Basicamente aqui definimos como funciona la navegacion del web app
 **Hierarchical Navigation System:** Main page a destination pages.
 **Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
 **Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
-## 4.3. Landing Page UI Design.
-### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+## 4.3. Landing Page UI Design.
+En esta sección se presentan los diseños correspondientes a nuestra Landing Page, los cuales se encuentran divididos en dos partes: por un lado, los wireframes que muestran una estructura simplificada de la interfaz, y por otro, el mock-up visual que servirá como referencia estética y funcional para el desarrollo final de la página.
+
+### 4.3.1. Landing Page Wireframe.
+[Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
+
+![Imagen del Wireframe 1](Assets/img/Chapter%204/Wireframe_1.png)
+![Imagen del Wireframe 2](Assets/img/Chapter%204/Wireframe_2.png)
+![Imagen del Wireframe 3](Assets/img/Chapter%204/Wireframe_3.png)
+
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+[Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
+
+![Imagen del Mock-Up 1](Assets/img/Chapter%204/Mock-Up_1.png)
+![Imagen del Mock-Up 2](Assets/img/Chapter%204/Mock-Up_2.png)
+![Imagen del Mock-Up 3](Assets/img/Chapter%204/Mock-Up_3.png)
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-1.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-2.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-3.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-4.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-5.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-6.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-7.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-8.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-9.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-10.jpg)
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+
+![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow1.jpg)
+![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow2.jpg)
+
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-1.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-2.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-3.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-4.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-5.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-6.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-7.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-8.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-9.jpg)
+![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-10.jpg)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+
+![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-1.jpg)
+![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-2.jpg)
+
+
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+[URL del Prototipo (Hecho en figma)](https://https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Source?node-id=0-1&p=f&t=XYETOEAUmnls4kjW-0)
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
+![Context Diagram](Assets/img/Chapter%204/structurizr-101614-SystemContext-001-fixed.png)
 
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
    
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+![Container Diagram](Assets/img/Chapter%204/structurizr-101614-Container-001.png)
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-001.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-002.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-003.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-004.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-005.png)
+![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-006.png)
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+
+![Class diagram img](Assets/img/chapter-4/class-diagram.png)
+
+[> Click aquí para acceder al diagrama <](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
+
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+
+# Class Dictionary
+
+## 1. GuestAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con los huéspedes.
+- **Relationships**:
+  - Contiene `Guest` (1:1).
+  - Contiene `Card` (0..1).
+  - Contiene `Preference` (0..*).
+  - Contiene `ServiceRequest` (0..*).
+
+---
+
+## 2. Guest
+- **Type**: Entity
+- **Attributes**:
+  - `GuestId`: Identity (Identificador único del huésped).
+  - `Name`: string (Nombre del huésped).
+  - `Email`: string (Correo electrónico del huésped).
+  - `CheckInDate`: DateTime (Fecha de entrada).
+  - `CheckOutDate`: DateTime (Fecha de salida).
+- **Methods**:
+  - `CreatePreference(preferenceType, value)`: Crea una nueva preferencia para el huésped.
+  - `RequestService(type)`: Solicita un servicio para el huésped.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+  - Tiene `Reservation` (0..*).
+  - Tiene `ServiceRequest` (0..*).
+  - Tiene `Preference` (0..*).
+
+---
+
+## 3. Card
+- **Type**: Entity
+- **Attributes**:
+  - `CardId`: Identity (Identificador único de la tarjeta).
+  - `IsActive`: boolean (Indica si la tarjeta está activa).
+- **Methods**:
+  - `Activate()`: Activa la tarjeta.
+  - `Deactivate()`: Desactiva la tarjeta.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+
+---
+
+## 4. RoomAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con las habitaciones.
+- **Relationships**:
+  - Contiene `Room` (1:1).
+  - Contiene `Reservation` (0..*).
+
+---
+
+## 5. Room
+- **Type**: Entity
+- **Attributes**:
+  - `RoomId`: Identity (Identificador único de la habitación).
+  - `Number`: string (Número de la habitación).
+- **Methods**:
+  - `AssignDevice(device)`: Asigna un dispositivo a la habitación.
+- **Relationships**:
+  - Pertenece a `RoomAggregate`.
+  - Tiene `Reservation` (0..*).
+  - Tiene `Device` (0..*).
+
+---
+
+## 6. Reservation
+- **Type**: Entity
+- **Attributes**:
+  - `ReservationId`: Identity (Identificador único de la reserva).
+  - `PaymentStatus`: PaymentStatusEnum (Estado de pago de la reserva).
+- **Methods**:
+  - `UpdatePaymentStatus(status)`: Actualiza el estado de pago de la reserva.
+- **Relationships**:
+  - Pertenece a `RoomAggregate`.
+  - Está relacionada con `Guest` (1:0..*).
+  - Está relacionada con `Room` (1:0..*).
+
+---
+
+## 7. StaffAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con el personal.
+- **Relationships**:
+  - Contiene `Staff` (1:1).
+  - Contiene `MaintenanceLog` (0..*).
+
+---
+
+## 8. Staff
+- **Type**: Entity
+- **Attributes**:
+  - `StaffId`: Identity (Identificador único del miembro del personal).
+  - `Name`: string (Nombre del miembro del personal).
+  - `Role`: string (Rol del miembro del personal).
+  - `AccessLevel`: AccessLevelEnum (Nivel de acceso del miembro del personal).
+- **Methods**:
+  - `HandleServiceRequest(request)`: Maneja una solicitud de servicio.
+  - `PerformDeviceMaintenance(device, action)`: Realiza mantenimiento en un dispositivo.
+- **Relationships**:
+  - Pertenece a `StaffAggregate`.
+  - Tiene `MaintenanceLog` (0..*).
+  - Maneja `ServiceRequest` (0..*).
+
+---
+
+## 9. DeviceAggregate
+- **Type**: Aggregate Root
+- **Description**: Raíz del agregado relacionado con los dispositivos.
+- **Relationships**:
+  - Contiene `Device` (1:1).
+  - Contiene `StatusLog` (0..*).
+
+---
+
+## 10. Device
+- **Type**: Entity
+- **Attributes**:
+  - `DeviceId`: Identity (Identificador único del dispositivo).
+  - `CurrentSetting`: DeviceSetting (Configuración actual del dispositivo).
+- **Methods**:
+  - `UpdateSetting(setting)`: Actualiza la configuración del dispositivo.
+  - `LogStatus(status)`: Registra el estado del dispositivo.
+- **Relationships**:
+  - Pertenece a `DeviceAggregate`.
+  - Está instalado en `Room` (1:0..*).
+  - Tiene `DeviceType` (1:1).
+  - Tiene `MaintenanceLog` (0..*).
+  - Tiene `StatusLog` (0..*).
+
+---
+
+## 11. ServiceRequest
+- **Type**: Entity
+- **Attributes**:
+  - `RequestId`: Identity (Identificador único de la solicitud de servicio).
+  - `Type`: string (Tipo de solicitud de servicio).
+  - `Status`: RequestStatusEnum (Estado de la solicitud de servicio).
+  - `Timestamp`: DateTime (Marca de tiempo de la solicitud).
+- **Methods**:
+  - `AssignStaff(staff)`: Asigna un miembro del personal a la solicitud.
+  - `UpdateStatus(status)`: Actualiza el estado de la solicitud.
+- **Relationships**:
+  - Pertenece a `GuestAggregate`.
+  - Es manejada por `Staff` (0..1).
+
+---
+
+## 12. DeviceType
+- **Type**: Value Object
+- **Attributes**:
+  - `DeviceTypeId`: Identity (Identificador único del tipo de dispositivo).
+  - `Name`: string (Nombre del tipo de dispositivo).
+- **Relationships**:
+  - Está relacionado con `Device` (1:0..*).
+  - Aplica a `PreferenceType` (0..*).
+
+---
+
+## 13. PreferenceType
+- **Type**: Value Object
+- **Attributes**:
+  - `PreferenceTypeId`: Identity (Identificador único del tipo de preferencia).
+  - `Name`: string (Nombre del tipo de preferencia).
+- **Relationships**:
+  - Está relacionado con `Preference` (1:0..*).
+  - Se aplica a `DeviceType` (0..*).
+
+---
+
+## 14. Preference
+- **Type**: Value Object
+- **Attributes**:
+  - `PreferenceId`: Identity (Identificador único de la preferencia).
+  - `Value`: string (Valor de la preferencia).
+- **Relationships**:
+  - Pertenece a `Guest` (1:0..*).
+  - Está relacionado con `PreferenceType` (1:1).
+
+---
+
+## 15. DeviceSetting
+- **Type**: Value Object
+- **Attributes**:
+  - `SettingData`: Map<string, string> (Datos de configuración del dispositivo).
+- **Relationships**:
+  - Es utilizado por `Device` (1:1).
+
+---
+
+## 16. MaintenanceLog
+- **Type**: Value Object
+- **Attributes**:
+  - `LogId`: Identity (Identificador único del registro de mantenimiento).
+  - `Action`: string (Acción realizada durante el mantenimiento).
+  - `Timestamp`: DateTime (Marca de tiempo del registro).
+- **Relationships**:
+  - Es realizado por `Staff` (1:0..*).
+  - Es recibido por `Device` (1:0..*).
+
+---
+
+## 17. StatusLog
+- **Type**: Value Object
+- **Attributes**:
+  - `StatusLogId`: Identity (Identificador único del registro de estado).
+  - `Status`: string (Estado registrado).
+  - `Timestamp`: DateTime (Marca de tiempo del registro).
+- **Relationships**:
+  - Es registrado por `Device` (1:0..*).
+
+---
+
+## 18. AccessLevelEnum
+- **Type**: Enumeration
+- **Values**:
+  - `BASIC = 1`
+  - `INTERMEDIATE = 2`
+  - `ADMIN = 3`
+
+---
+
+## 19. RequestStatusEnum
+- **Type**: Enumeration
+- **Values**:
+  - `PENDING`
+  - `IN_PROGRESS`
+  - `COMPLETED`
+  - `CANCELLED`
+
+---
+
+## 20. PaymentStatusEnum
+- **Type**: Enumeration
+- **Values**:
+  - `PENDING`
+  - `PAID`
+  - `REFUNDED`
+  - `CANCELLED`
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+
+![Database diagram img](Assets/img/chapter-4/database-diagram.png)
+
+[> Click aquí para acceder al diagrama <](https://my.vertabelo.com/public-model-view/n0NImX9sR1voJyd33Hr1iawsHgx7swpzz7jOBxA2VjOTE3i8WLuZf64ZQlNCyCLB?x=2736&y=2923&zoom=0.4375)
 # Capítulo V: Product Implementation, Validation & Deployment
+En este último capítulo, nos centraremos en la implementación, validación y despliegue de nuestro proyecto. Al igual que explicar los puntos y pasos necesarios que hemos tomado para lograr su realización.
 ## 5.1. Software Configuration Management.
+Durante el desarrollo del proyecto utilizaremos las siguientes convenciones o reglas para mantener consistencia en todo momento:
+|Contexto|Convención|
+|-|-|
+|Nombre de archivos|Todos los archivos tendrán nombres en minúscula, sin espacios, usando kebab-case.|
+|Convenciones de nomenclatura| Variables y funciones: lowerCamelCase; clases y componentes: PascalCase; constantes: UPPER_SNAKE_CASE; archivos: kebab-case.|
+|Estructura del código|Usar estructura modular siguiendo el patrón feature/module, con carpetas como components/, assets/, pages/, services/, etc. Separar por responsabilidades.|
+|Estilo de codificación|Seguir las reglas de ESLint y Prettier: Sangría de 2 espacios; comillas simples; punto y coma obligatorio; y orden alfabético en CSS.|
+|Documentación|Comentar solo en funciones complejas o integraciones externas. Usar formato descripción y mantener el README.md claro y actualizado.|
+|Control de versiones|GitHub Flow: ramas por feature, uso de Pull Requests, revisiones antes de merge. Formato de commits: feat, fix, chore, etc.|
+|Gestión de dependencias|	Usar npm. Mantener package.json ordenado y actualizado. Preferir dependencias estables y con comunidad activa. Ejecutar npm audit regularmente.|
+|Convenciones de prueba|Tests en archivos .spec.js si aplica. Enfoque en pruebas visuales/manuales en componentes clave como BookingForm, RoomCard, ServiceRequest.|
+|Convenciones de seguridad|Validación de entradas en frontend. Autenticación vía tokens (JWT). No incluir secretos en el código. Usar sanitización para evitar XSS.|
+|Convenciones de colaboración| Comunicación por Discord o Teams. Gestión en Trello o GitHub Projects. Documentar avances, pedir feedback constante y promover buenas prácticas. |
 ### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+|Producto|Descripción|Próposito de Uso
+|-|-|-|
+|Rider (JetBrains)|Entorno de desarrollo especializado en .NET, ideal para construir aplicaciones robustas de escritorio, móviles y servicios web.|Se emplea para el desarrollo de WebServices en C# y tecnología .NET, aprovechando su rendimiento, seguridad y compatibilidad multiplataforma.|
+|MySQL|Sistema de gestión de bases de datos relacional, de código abierto y ampliamente soportado.|Brinda una base de datos confiable para manejar reservas, huéspedes, dispositivos y servicios del hotel, con capacidad de gestión local o en la nube.|
+|Postman	|Plataforma de colaboración para pruebas de APIs REST. Permite simular, probar y documentar endpoints rápidamente.|Ideal para probar servicios de la web como reservas, preferencias de usuario, solicitudes de habitación y más.|
+|Git|Sistema de control de versiones distribuido, esencial para llevar un historial organizado del desarrollo del software.|Administra cambios en el código, facilita el trabajo colaborativo y permite restaurar versiones anteriores si se requiere.|
 ### 5.1.2. Source Code Management.
 El gitjab donde tengamos el proyecto
 ### 5.1.3. Source Code Style Guide & Conventions.
@@ -727,23 +1097,95 @@ supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para co
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación
+del landing page.
+
+**Sprint Backlog 1**
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 15/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 17:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Softcore team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo Softcore.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 0 Review Summary</td>
+            <td> Debido a que es el primer sprint que se ha hecho, no existen sprints pasados a este.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+        Durante este sprint, se creó el landing page empleando HTML, CSS y JavaScript. También se abordaron las conversaciones sobre el contenido textual que se integró en el landing page, así como el diseño previamente establecido en Figma. Al finalizar este sprint, el landing page se subió a GitHub Pages , permitiendo que cualquier usuario pueda acceder y visualizar la página a través del enlace proporcionado. Además, se realizaron pruebas exhaustivas para asegurar que el sitio esté completamente funcional y se vea correctamente en cualquier dispositivo, garantizando una experiencia óptima tanto en computadoras de escritorio como en tablets y teléfonos móviles.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 1 Velocity</td>
+            <td> 14
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 14
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+![SprintBacklog n](/Assets/img/Chapter-5/sprint-backlog.jpg)
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+Sprint 1: En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager. El link de la Landing Page es el siguiente: https://softcore-app-web-1asi0730-2510-4395.github.io/CustomHost/.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embargo, al ser Landing Page no requiere de documentación relacionada a Web Services
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
+- Github pages: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+![Sprint review Team Collaboration Insights](/Assets/img/Chapter-5/contributors.jpg) 
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
