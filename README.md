@@ -369,7 +369,7 @@ Browser: GoogleChrome y OperaGX
 Device: Celular y computadora
 Distrito: Jesus Maria
 Timing:    
-![Segmento 1 de la entrevista](Assets/img/Chapter-1/Entrevista_1_segmento_1.png) 
+![Imagen](Assets/img/Chapter-1/entrevista%201%20segmento%201.png)  
 
 **[Entrevista a Uri (Anexo 2.2.1.1)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETQAkMt6M7VHppn0V_2yowMB4lImpb1OLwaovBnNoPKKhg?e=qYLctj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**  
  minuto [00:00]
