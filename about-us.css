@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ECEFF1;
+    color: #2C3E50;
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    color: #eceff1;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Top Bar */
+.top-bar {
+    margin-top: 1rem;
+    padding: 0.3rem 2rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.nav-contact {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    font-size: 0.85rem;
+
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+/* Main Navigation */
+.nav-main {
+
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    display: flex;
+    margin-left: 3rem;
+    height: 4rem;
+
+}
+
+.nav-links {
+    display: flex;
+    gap: 10rem;
+}
+
+.nav-links a {
+    color: #eceff1;
+    text-decoration: none;
+    font-weight: 350;
+    font-size: 1rem;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+.nav-actions {
+    display: flex;
+    gap: 2rem;
+    margin-right: 3.2rem;
+
+}
+
+
+
+
+
+.hero {
+    height: 60rem;
+    background-image: url('Assets/img/Index/Hero.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header{
+    background-color: red !important;
+    display: flex;
+}
+
+
+
