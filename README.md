@@ -480,10 +480,11 @@ Con esta informacion estamos sustentando los supuestos por el lado del segmento 
 ### 2.3.1. User Personas.
 **Segmento 1:**  
 
-![Imagen de entrevista](Assets/img/Chapter-1/persona1.png)
+![Imagen User Persona](Assets/img/chapter-1/persona1.png)
 
 **Segmento 2:**
-![Imagen de entrevista](Assets/img/Chapter-1/persona2.png)
+
+![Imagen User Persona](Assets/img/chapter-1/persona2.png)
 
 
 ### 2.3.2. User Task Matrix.
