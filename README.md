@@ -524,7 +524,8 @@ Why would they invite others?
 ![Journey 1](Assets/img/chapter-1/journey%201.png)
 
 **Segmento 2:**
-![Journey 2](Assets/img/Chapter-1/journey%202.png)
+
+![Journey 2](Assets/img/chapter-1/journey%202.png)
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
