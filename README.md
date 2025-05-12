@@ -519,6 +519,7 @@ Why would they invite others?
 - Integración con redes sociales para compartir experiencias fácilmente (ej: "Comparte tu habitación personalizada").
 - Funciones exclusivas para grupos (ej: "Planifica un viaje con amigos y obtén descuento").
 - Sistema de referidos con recompensas para ambos (ej: "Invita a un amigo y ambos ganan 20% de descuento").
+
 **Segmento 1:**  
 
 ![Journey 1](Assets/img/chapter-1/journey%201.png)
