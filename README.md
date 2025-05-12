@@ -527,12 +527,15 @@ Why would they invite others?
 ![Journey 2](Assets/img/Chapter-1/journey%202.png)
 
 ### 2.3.4. Empathy Mapping.
+
 **Segmento 1:**
-![Emphaty 1](Assets/img/Chapter-1/empathy%201.png)
+
+![Emphaty 1](Assets/img/chapter-1/empathy%201.png)
 
 
 **Segmento 2:**
-![Emphaty 2](Assets/img/Chapter-1/emphaty%202.png)
+
+![Emphaty 2](Assets/img/chapter-1/emphaty%202.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
