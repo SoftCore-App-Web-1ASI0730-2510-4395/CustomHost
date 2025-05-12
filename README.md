@@ -638,6 +638,8 @@ En esta sección se presenta un formulario solicitando los datos al usuario como
 ## 4.2. Information Architecture.
 La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
 
+La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
+
 ### 4.2.1. Organization Systems.
 *Organización visual del contenido*
 Se empleará una estructura jerárquica visual clara en la Landing Page y en cada sección de la plataformaweb. Se priorizará la presentación de información clave como el panel de preferencias del huésped, el estado de las habitaciones, y accesos rápidos a funciones como check-in, control domótico o comunicación con el personal.
@@ -657,6 +659,11 @@ Las etiquetas de botones, menús y opciones se mantienen breves y directas, faci
 - Palabras Clave: <meta name = "keyword" content = "Hoteles inteligentes, domótica hotelera, IoT en hoteles, personalización de estadía, check-in digital, habitaciones automatizadas"/>
 
 ### 4.2.4. Searching Systems.
+Al ingresar, el usuario será recibido con una pantalla de bienvenida donde se encontrará con dos botones en la parte superior derecha, uno para registrarse y otro para inicar sesión. Una vez iniciada la sesión, la navegación dentro de la aplicación estará organizada para facilitar una experiencia fluida e intuitiva.
+
+Los usuarios contarán con una barra de navegación superior que les permitirá acceder fácilmente a las principales funciones. Desde allí podrán personalizar su estadía, controlar su entorno, solicitar ayuda o gestionar su salida del hotel.
+
+La navegación estará reforzada con íconos, etiquetas breves y estados activos visuales, para garantizar que los usuarios siempre sepan dónde están y cómo volver o avanzar en sus acciones.
 Al ingresar, el usuario será recibido con una pantalla de bienvenida donde se encontrará con dos botones en la parte superior derecha, uno para registrarse y otro para inicar sesión. Una vez iniciada la sesión, la navegación dentro de la aplicación estará organizada para facilitar una experiencia fluida e intuitiva.
 
 Los usuarios contarán con una barra de navegación superior que les permitirá acceder fácilmente a las principales funciones. Desde allí podrán personalizar su estadía, controlar su entorno, solicitar ayuda o gestionar su salida del hotel.
