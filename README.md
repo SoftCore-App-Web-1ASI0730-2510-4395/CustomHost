@@ -369,7 +369,7 @@ Browser: GoogleChrome y OperaGX
 Device: Celular y computadora
 Distrito: Jesus Maria
 Timing:    
-![Imagen de entrevista](/Assets/img/chapter-1/entrevista%201%20segmento%201.png)  
+![Imagen de entrevista](/Assets/img/chapter-1/entrevista%201%20segmento%201.png)
 
 **[Entrevista a Uri (Anexo 2.2.1.1)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETQAkMt6M7VHppn0V_2yowMB4lImpb1OLwaovBnNoPKKhg?e=qYLctj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**  
  minuto [00:00]
@@ -386,7 +386,7 @@ Browser: Safari y windows
 Device: Celular Iphone y laptop
 Distrito: San miguel
 Timing:   
-![Imagen de entrevista](/Assets/img/chapter-1/entrevista%202%20segmento%201.png) 
+![Imagen de entrevista](/Assets/img/chapter-1/entrevista%202%20segmento%201.png)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:01]
 
