@@ -369,8 +369,10 @@ Browser: GoogleChrome y OperaGX
 Device: Celular y computadora
 Distrito: Jesus Maria
 Timing:    
-![Imagen de entrevista](Assets/img/Chapter-1/Entrevista%201%20segmento%201.png)  
-[Uri entrevista [Anexo 2.2.1.1]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETQAkMt6M7VHppn0V_2yowMB4lImpb1OLwaovBnNoPKKhg?e=qYLctj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:00]
+![Imagen](Assets/img/Chapter-1/entrevista%201%20segmento%201.png)  
+
+**[Entrevista a Uri (Anexo 2.2.1.1)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETQAkMt6M7VHppn0V_2yowMB4lImpb1OLwaovBnNoPKKhg?e=qYLctj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**  
+ minuto [00:00]
 
 Fernando San José, estudiante de ingeniería de software, valora en los hoteles la comodidad y buena relación calidad-precio. Aunque no ha usado hoteles con tecnología avanzada, critica los sistemas anticuados de comunicación, como cuando el teléfono de su habitación no funcionó y tuvieron que enviar personal.
 
