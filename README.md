@@ -369,7 +369,7 @@ Browser: GoogleChrome y OperaGX
 Device: Celular y computadora
 Distrito: Jesus Maria
 Timing:    
-![Imagen](Assets/img/Chapter-1/entrevista%201%20segmento%201.png)  
+![Imagen de entrevista](/Assets/img/chapter-1/Entrevista%201%20segmento%201.png)
 
 **[Entrevista a Uri (Anexo 2.2.1.1)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETQAkMt6M7VHppn0V_2yowMB4lImpb1OLwaovBnNoPKKhg?e=qYLctj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**  
  minuto [00:00]
@@ -386,7 +386,7 @@ Browser: Safari y windows
 Device: Celular Iphone y laptop
 Distrito: San miguel
 Timing:   
-![Imagen de entrevista](Assets/img/Chapter-1/entrevista%202%20segmento%201.png) 
+![Imagen de entrevista](/Assets/img/chapter-1/entrevista%202%20segmento%201.png)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:01]
 
@@ -397,12 +397,12 @@ Nombre: Luis Cordova
 Edad: 25 años 
 Ocupación: Data Science 
 Browser: Google chrome
-Device: computaora y celular
+Device: computadora y celular
 Distrito: San Borja
 Timing:   
-![Imagen de entrevista](Assets/img/Chapter-1/entrevista%203%20segmento%201.png)
+![Imagen de entrevista](/Assets/img/chapter-1/entrevista%203%20segmento%201.png)
 
-[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:03]
+[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegmento%201%20%2D%20Luis%20Cordova%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee82cd9e2%2D078e%2D4cb0%2D80cf%2D3200ebfdab04) minuto [00:03]
 
 Luis, profesional de Data Science de 25 años, busca hoteles con comodidad y precios razonables para sus viajes de trabajo. Critica los sistemas obsoletos que usan cuadernos físicos y WhatsApp para gestiones, y relata problemas con reservas no cumplidas. Preferiría controlar los servicios mediante asistentes de voz o pantallas táctiles en lugar de los métodos tradicionales. Estaría dispuesto a pagar más por una verdadera personalización que optimice su experiencia como viajero frecuente. Sus experiencias destacan la necesidad urgente de modernizar los sistemas hoteleros con tecnología práctica.
 
@@ -415,7 +415,7 @@ Browser: Safari
 Device: Macbook y Iphone
 Distrito: San Isidro
 Timing:     
-![Imagen de entrevista](Assets/img/Chapter-1/entrevista%201%20segmento%202.png)
+![Imagen de entrevista](/Assets/img/chapter-1/entrevista%201%20segmento%202.png)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETgSUSNEantAraWk1atoAa4BjISZsufjnztzz_iJVxGXAg?e=oxnXyR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:04]
 
@@ -431,7 +431,7 @@ Browser: Opera gx y windows
 Device: laptop y telefono android
 Distrito: Jesus Maria
 Timing:  
-![Imagen de entrevista](Assets/img/Chapter-1/entrevista%202%20segmento%202.png)
+![Imagen de entrevista](/Assets/img/chapter-1/entrevista%202%20segmento%202.png)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EU9qNutqfIdAlN0FVSU5avIBOmL9Y3mwIx2kCBAuGyURhw?e=Vb6lwq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:02]
 
@@ -448,7 +448,7 @@ Browser: Firefox
 Device: Laptop
 Distrito: Lince
 Timing:  
-![Imagen de entrevista](Assets/img/Chapter-1/entrevista%203%20segmento%202.png)
+![Imagen de entrevista](/Assets/img/chapter-1/entrevista%203%20segmento%202.png)
 
 [Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EY3QHbePejVFhy4Lxa49_84BAwjrm9Pk8aQZWCyGwuz63Q?e=BSpEnp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:02]
 
@@ -480,10 +480,11 @@ Con esta informacion estamos sustentando los supuestos por el lado del segmento 
 ### 2.3.1. User Personas.
 **Segmento 1:**  
 
-![Imagen de entrevista](Assets/img/Chapter-1/persona1.png)
+![Imagen User Persona](Assets/img/chapter-1/persona1.png)
 
 **Segmento 2:**
-![Imagen de entrevista](Assets/img/Chapter-1/persona2.png)
+
+![Imagen User Persona](Assets/img/chapter-1/persona2.png)
 
 
 ### 2.3.2. User Task Matrix.
@@ -519,20 +520,25 @@ Why would they invite others?
 - Integración con redes sociales para compartir experiencias fácilmente (ej: "Comparte tu habitación personalizada").
 - Funciones exclusivas para grupos (ej: "Planifica un viaje con amigos y obtén descuento").
 - Sistema de referidos con recompensas para ambos (ej: "Invita a un amigo y ambos ganan 20% de descuento").
+
 **Segmento 1:**  
 
 ![Journey 1](Assets/img/chapter-1/journey%201.png)
 
 **Segmento 2:**
-![Journey 2](Assets/img/Chapter-1/journey%202.png)
+
+![Journey 2](Assets/img/chapter-1/journey%202.png)
 
 ### 2.3.4. Empathy Mapping.
+
 **Segmento 1:**
-![Emphaty 1](Assets/img/Chapter-1/empathy%201.png)
+
+![Emphaty 1](Assets/img/chapter-1/empathy%201.png)
 
 
 **Segmento 2:**
-![Emphaty 2](Assets/img/Chapter-1/emphaty%202.png)
+
+![Emphaty 2](Assets/img/chapter-1/emphaty%202.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
