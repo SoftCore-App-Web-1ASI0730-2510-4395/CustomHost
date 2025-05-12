@@ -189,7 +189,6 @@ Con un enfoque inicial en el mercado hotelero de Lima, SoftCore aspira a convert
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-=======
 |Ordoñez Ricaldi, Axel Randall 	![Imagen del compañero](Assets/img/chapter-1/Axel-photo.jpg)|U202216827|Ingenieria de software|C++, SQL, MongoDB, Python. Paciencia y buen trabajo en equipo|
 |Panta Castro, Fabrizio Martin 	![Imagen del compañero](Assets/img/chapter-1/Fabrizio%20Martin%20Panta%20Castro.jpg)|U20231A810|Ingenieria de software|SQL, Pyhton, C++. Compañerismo y responsable con las entregas.|
 |Ccarita Cruz, Brayan Roberto 	![Imagen del compañero](Assets/img/chapter-1/Roberto-photo.jpg)|U20221C218|Ingenieria de software|Astro.js, Svelte, Golang, Design Sprint. Perseverante y puntual|
