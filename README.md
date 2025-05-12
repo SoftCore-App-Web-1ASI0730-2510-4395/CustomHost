@@ -483,6 +483,7 @@ Con esta informacion estamos sustentando los supuestos por el lado del segmento 
 ![Imagen User Persona](Assets/img/chapter-1/persona1.png)
 
 **Segmento 2:**
+
 ![Imagen User Persona](Assets/img/chapter-1/persona2.png)
 
 
