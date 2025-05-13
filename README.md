@@ -542,26 +542,10 @@ Why would they invite others?
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**Segmento 1**  
-Escenario: Huésped llega a hotel sin sistema de personalización automática
+![Imagen del as-is scenario mapping segmento 1](Assets/img/chapter-2/As-Is-Segmento1.png)
 
-As Is:
-| Fases| Fase 1: Check-in | Fase 2: Ajuste manual| Fase 3: Solicitud de servicios| Fase 4: Habitación compartida|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | Llenar formularios físicos| Configurar termostato | Llamar a recepción para pedir toallas| Negociar temperatura con acompañante|
-| Thinking | "¿Por qué no recuerdan mis preferencias?"| "¿Cómo funciona este control?" | "¿Cuánto tardarán?"| "Nunca logramos estar cómodos los dos"|
-| Feeling  | Frustrado por repetir datos| Confundido con tecnología | Impaciente por demoras| Molesto por incomodidad constante|
+![Imagen del as-is scenario mapping segmento 1](Assets/img/chapter-2/As-Is-Segmento2.png)
 
-**Segmento 2**  
-Escenario: Personal hotelero gestiona preferencias manualmente
-
-As Is:
-| Fases| Fase 1: Recepción | Fase 2: Coordinación| Fase 3: Ejecución| Fase 4: Seguimiento|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | Anotar preferencias en papel| Hacer llamadas internas | Corregir errores de habitación| Registrar quejas de huéspedes|
-| Thinking | "Seguro se pierde esta nota"| "¿Que decia el mensaje?" | "Otra vez olvidaron las almohadas"| "Nos van a poner mala evaluación"|
-| Feeling  | Estresado por desorganización| Ansioso por comunicación fallida | Frustrado por errores repetidos| Preocupado por reputación del hotel
-|
 ## 2.4. Ubiquitous Language.
 ```
 Vacant (Disponible): Estado de una habitación que se encuentra libre y lista para ser ocupada por un nuevo huésped.
