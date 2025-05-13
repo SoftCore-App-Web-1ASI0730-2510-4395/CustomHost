@@ -698,6 +698,7 @@ Aquí se presenta el backlog desarrollado a partir del Sprint 2.
 #### 5.2.2.4. Development Evidence for Sprint Review.
 Esta sección registra las evidencias del desarrollo del Sprint.
 
+
 | Repository     | Branch                    | Commit Message                          | Committed on (Date) |
 |----------------|----------------------------|------------------------------------------|---------------------|
 | customhost     | develop                    | Merge pull request #5 from feature/home-page | 13/05/2024          |
@@ -708,7 +709,12 @@ Esta sección registra las evidencias del desarrollo del Sprint.
 | customhost     | feature/home-page          | feat: designed and structured homepage layout | 13/05/2024          |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
-Sprint 2: En este entregable, hemos logrado desarrollar el Frontend de la aplicación para nuestra StartUp Sweet Manager. El link de la aplicación es el siguiente: https://customhost.netlify.app/
+Sprint 2: En este entregable, hemos logrado desarrollar el Frontend de la aplicación para nuestra StartUp Sweet Manager. El link de la aplicación es el siguiente: https://aaaavue-hallzyxs-projects.vercel.app/rooms
+
+![Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113513.png)
+![Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113736.png)
+![Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113825.png)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 Durante este sprint se avanzó en el desarrollo de la interfaz de usuario de la aplicación utilizando Vue como lenguaje de front end, enfocándose principalmente en la construcción de componentes visuales y estructurales.
 En esta fase no se integraron servicios reales (API REST), ya que los datos utilizados en los componentes fueron simulados localmente para efectos de diseño y validación visual.
@@ -720,7 +726,9 @@ En este sprint, se completó el desarrollo del landing page y se utilizó un con
 - Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del front-end application.
 - GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del front-end application.
 - GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del front-end application.
-- Netlify: Utilizado como plataforma para automatizar el despliegue del front-end application.
+- Vercel: Utilizado como plataforma para automatizar el despliegue del front-end application.
+
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 # Bibliografía
