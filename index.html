@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,148 +7,227 @@
   <link rel="stylesheet" href="styles.css" />
   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
-
 </head>
 <body>
-  
-  <header class="navbar">
-    <!-- Top Bar (Contact Info) -->
-    <div class="top-bar">
-      <div class="nav-contact">
 
-        <div class="contact-item call">
-          <span class="material-symbols-outlined">call</span>
-          <span>934-4000</span>
-        </div>
-        <div class="contact-item email">
-          <span class="material-symbols-outlined">mail</span>
-          <span>reservas@customhost.com</span>
-        </div>
-
+<header class="navbar">
+  <!-- Top Bar (Contact Info) -->
+  <div class="top-bar">
+    <div class="nav-contact">
+      <div class="contact-item call">
+        <span class="material-symbols-outlined">call</span>
+        <span>934-4000</span>
+      </div>
+      <div class="contact-item email">
+        <span class="material-symbols-outlined">mail</span>
+        <span>reservas@customhost.com</span>
       </div>
     </div>
-    
-  
-    <!-- Main Navigation -->
-    <div class="nav-main">
-      <div class="logo">
-        <img src="Assets/img/Index/LightLogo.png" alt="CustomHost Logo" />
-      </div>
-  
+  </div>
+
+  <!-- Main Navigation -->
+  <div class="nav-main">
+    <div class="logo">
+      <img src="Assets/img/Index/LightLogo.png" alt="CustomHost Logo" />
+    </div>
+
+    <div class="nav-menu">
       <nav class="nav-links">
-        <a href="#">Home ▾</a>
-        <a href="#">SmartStay</a>
-        <a href="#">About Us</a>
-        <a href="#">Contact Us</a>
+        <a href="#Home">Home ▾</a>
+        <a href="#smartstay">Our Services</a>
+        <a href="#about">About Us</a>
+        <a href="#habitaciones">Our Rooms</a>
       </nav>
-  
+
       <div class="nav-actions">
         <button class="btn-login">Log In</button>
         <button class="btn-signup">Sign Up</button>
       </div>
     </div>
-  </header>
-  
 
-  <section class="hero">
+    <!-- Hamburger Button -->
+    <div class="hamburger" onclick="toggleMenu()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+</header>
 
-  </section>
+<section class="hero"></section>
 
-  <section class="welcome">
-    <h2>WELCOME TO CUSTOMHOST</h2>
-    <p>No solo reservas una habitación… vives una experiencia hecha a tu medida.</p>
-    <p>Imagina llegar y que todo esté listo tal como te gusta: la temperatura perfecta, tu espacio ideal, el confort que mereces. En CustomHost, la tecnología se anticipa a ti para que tú solo te preocupes por disfrutar.</p>
-  </section>
+<section class="welcome">
+  <h2>WELCOME TO CUSTOMHOST</h2>
+  <p>You're not just booking a room… you're experiencing something tailored to you.</p>
+  <p>Imagine arriving and everything is ready just the way you like it: the perfect temperature, your ideal space, the comfort you deserve. At CustomHost, technology anticipates your needs so you can simply enjoy.</p>
+</section>
 
-  <section class="smartstay">
-    <h2>SMARTSTAY EXPERIENCE</h2>
-    <p>El confort del futuro, hoy</p>
-  </section>
+<section class="smartstay" id="smartstay">
+  <h2>Our Services</h2>
+  <p>The comfort of the future, today</p>
+</section>
 
-  <section class="feature-section">
-    <div class="feature feature-right">
-      
-      <img src="Assets/img/Index/Feature-two.jpg" alt="Tazas y agua" class="feature-img">
-      <div class="feature-text">
-        <h3>DILE SÍ A LA PERSONALIZACIÓN AUTOMÁTICA</h3>
-        <p>Ambiente ideal desde tu llegada: aire, agua y confort adaptados a tu perfil.</p>
-        <button class="btn-primary">VER MÁS</button>
-        
+<section class="feature-section">
+  <div class="feature feature-right">
+    <img src="Assets/img/Index/Feature-two.jpg" alt="Cups and water" class="feature-img">
+    <div class="feature-text">
+      <h3>AUTOMATIC PERSONALIZATION</h3>
+      <p>Ideal environment from the moment you arrive: air, water, and comfort tailored to your profile.</p>
+      <button class="btn-primary">SEE MORE</button>
+    </div>
+  </div>
+
+  <div class="feature feature-left">
+    <div class="feature-text">
+      <h3>FAST AND SECURE ACCESS</h3>
+      <p>Your card gives you exclusive and secure access to your room and services.</p>
+      <button class="btn-primary">SEE MORE</button>
+    </div>
+    <img src="Assets/img/Index/Feature one.jpg" alt="Card access" class="feature-img">
+  </div>
+</section>
+
+<section class="about" id="about">
+  <h2>ABOUT US</h2>
+  <div class="about-content">
+    <img src="Assets/img/Index/StartUp.jpg" alt="SoftCore Team" class="about-img">
+    <p>
+      We are SoftCore, a tech startup passionate about redefining how people interact with spaces through intelligent experiences.
+      We create innovative solutions that integrate software, home automation, and user experience to transform every stay into something unique.<br><br>
+      Technology that thinks of you, developed by people who understand what it means to feel at home.
+    </p>
+  </div>
+</section>
+
+<section class="habitaciones" id="habitaciones">
+  <h2>Our Rooms</h2>
+  <div class="contenido">
+    <div class="habitaciones-lista">
+      <div class="habitacion">
+        <h3>Double Room</h3>
+        <p>8.4 - Excellent (430) <span>📍 Region</span></p>
+        <p class="detalle">Placeholder text here</p>
       </div>
-      <button class="btn-secondary"><span class="material-symbols-outlined">arrow_forward</span></button>
-    </div>
-
-    <div class="feature feature-left">
-      <button class="btn-secondary"><span class="material-symbols-outlined">arrow_back</span></button>
-      <div class="feature-text">
-        <h3>DILE SÍ AL ACCESO RÁPIDO Y SEGURO</h3>
-        <p>Tu tarjeta te da acceso exclusivo y seguro a tu habitación y servicios.</p>
-        <button class="btn-primary">VER MÁS</button>
-        
+      <div class="habitacion">
+        <h3>Double Room</h3>
+        <p>8.4 - Excellent (430) <span>📍 Region</span></p>
+        <p class="detalle">Placeholder text here</p>
       </div>
-      <img src="Assets/img/Index/Feature one.jpg" alt="Acceso con tarjeta" class="feature-img">
+      <div class="habitacion">
+        <h3>Double Room</h3>
+        <p>8.4 - Excellent (430) <span>📍 Region</span></p>
+        <p class="detalle">Placeholder text here</p>
+      </div>
     </div>
-  </section>
+    <div class="imagen-habitacion">
+      <img src="Assets/img/Index/OurRooms.jpg" alt="Double Room" />
+    </div>
+  </div>
+  <div class="boton-container">
+    <button class="boton-personaliza">✨ PERSONALIZE YOUR EXPERIENCE NOW</button>
+  </div>
+</section>
 
-  <section class="about">
-    <h2>ABOUT US</h2>
-    <div class="about-content">
-      <img src="Assets/img/Index/StartUp.jpg" alt="Equipo SoftCore" class="about-img">
-      <p>
-        Somos SoftCore, convertimos ideas en experiencias inteligentes, una startup tecnológica apasionada por redefinir la forma en que las personas interactan con los espacios.
-        Creamos soluciones innovadoras que integran software, domótica y experiencia de usuario para transformar cada estancia en algo único.<br><br>
-        Tecnología que piensa en ti, desarrollada por personas que entienden lo que significa sentirse como en casa.
-      </p>
+<section class="testimonios" id="testimonios">
+  <h2>TESTIMONIALS</h2>
+  <div class="testimonios-container">
+    <div class="testimonio">
+      <img src="Assets/img/Index/user3.jpg" alt="Juan Velásquez">
+      <h4>Juan Velásquez</h4>
+      <p>I think it's an innovative system to manage hotels. I loved the service.</p>
     </div>
-  </section>
-  <section class="contact">
-    <h2>CONTACT US</h2>
-    <div class="contact-form">
-      <h3>SEND MESSAGE</h3>
-      <form>
-        <input type="text" placeholder="Name" required>
-        <input type="email" placeholder="Email" required>
-        <textarea rows="5" placeholder="Message" required></textarea>
-        <button type="submit" class="btn-secondary">Send</button>
-      </form>
+    <div class="testimonio">
+      <img src="Assets/img/Index/user1.jpg" alt="Christina Aguilera">
+      <h4>Christina Aguilera</h4>
+      <p>The system is super easy to use and understand. I had no issues at all.</p>
     </div>
-  </section>
-  
-  <!-- Footer -->
-  <footer class="footer">
-    <div class="footer-col">
-      <img src="Assets/img/Index/LightLogo.png" alt="CustomHost Logo" class="footer-logo">
-      <p>contact@customhost.com<br>+51 995 589 830</p>
+    <div class="testimonio">
+      <img src="Assets/img/Index/user2.jpg" alt="Abigail Guzman">
+      <h4>Abigail Guzman</h4>
+      <p>The system made it much easier to personalize my stay—very comfortable.</p>
     </div>
-    <div class="footer-col">
-      <h4>SECTIONS</h4>
-      <ul>
-        <li>Home</li>
-        <li>SmartStay</li>
-        <li>About Us</li>
-        <li>Contact Us</li>
-      </ul>
+  </div>
+</section>
+
+<section class="soporte" id="soporte">
+  <h2>Support</h2>
+  <div class="soporte-container">
+
+    <!-- FAQs -->
+    <div class="soporte-card">
+      <h3>FREQUENTLY ASKED QUESTIONS</h3>
+      <hr>
+      <p>Find quick answers</p>
+      <select>
+        <option>Room Personalization</option>
+      </select>
+      <select>
+        <option>Technology & Automation</option>
+      </select>
+      <select>
+        <option>Reservations & Payments</option>
+      </select>
+      <button class="btn-orange">🔍 Search FAQs</button>
     </div>
-    <div class="footer-col">
-      <h4>HELP</h4>
-      <ul>
-        <li>Preguntas frecuentes</li>
-        <li>Términos de servicio</li>
-        <li>Reportar un problema</li>
-        <li>Política de privacidad</li>
-      </ul>
+
+    <!-- Direct Contact -->
+    <div class="soporte-card contacto">
+      <h3>DIRECT CONTACT</h3>
+      <hr>
+      <p>Need personalized help?</p>
+      <button class="btn-orange">Start chat with support</button>
+      <button class="btn-orange">Contact</button>
     </div>
-    <div class="footer-col">
-      <h4>FOLLOW US</h4>
-      <ul>
-        <li>Facebook</li>
-        <li>Twitter</li>
-        <li>Instagram</li>
-        <li>YouTube</li>
-      </ul>
-    </div>
-    <div class="footer-bottom">© Todos los derechos reservados a SoftCore</div>
-  </footer>
+
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+  <div class="footer-col">
+    <img src="Assets/img/Index/LightLogo.png" alt="CustomHost Logo" class="footer-logo">
+    <p>contact@customhost.com<br>+51 995 589 830</p>
+  </div>
+  <div class="footer-col">
+    <h4>SECTIONS</h4>
+    <ul>
+      <li>Home</li>
+      <li>Services</li>
+      <li>About Us</li>
+      <li>Contact Us</li>
+    </ul>
+  </div>
+  <div class="footer-col">
+    <h4>HELP</h4>
+    <ul>
+      <li>FAQs</li>
+      <li>Terms of Service</li>
+      <li>Report a Problem</li>
+      <li>Privacy Policy</li>
+    </ul>
+  </div>
+  <div class="footer-col">
+    <h4>FOLLOW US</h4>
+    <ul>
+      <li>Facebook</li>
+      <li>Twitter</li>
+      <li>Instagram</li>
+      <li>YouTube</li>
+    </ul>
+  </div>
+  <div class="footer-bottom">© All rights reserved by SoftCore</div>
+</footer>
+
+<script>
+  window.addEventListener('scroll', function () {
+    const navbar = document.querySelector('.navbar');
+    if (window.scrollY > 10) {
+      navbar.classList.add('scrolled');
+    } else {
+      navbar.classList.remove('scrolled');
+    }
+  });
+</script>
 
 </body>
 </html>
