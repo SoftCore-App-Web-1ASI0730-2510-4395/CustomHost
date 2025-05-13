@@ -560,17 +560,18 @@ La selección de nuestra paleta de colores para nuestro proyecto responde a una 
 
 ![Imagen de la paleta de colores del landing page](Assets/img/Chapter%204/Paleta-de-Colores.png)
 
-El color primario, un azul petróleo **(#37474F)**, establece la base visual del sitio y representa atributos como tecnología, profesionalismo y solidez. Este tono transmite autoridad, siendo ideal para productos tecnológicos dirigidos a usuarios que buscan eficiencia y modernidad en sus experiencias digitales.
+En la pantalla de inicio, el azul grafito profundo **(#263238)** se emplea estratégicamente como color de fondo del encabezado, aportando una sensación de solidez, enfoque y profesionalismo desde el primer momento. Su intensidad transmite autoridad y seriedad, lo que permite estructurar visualmente la interfaz con jerarquía clara y coherente.
 
-Como color de acento, se emplea un verde petróleo oscuro **(#00796B)** que comunica estabilidad, frescura y eficiencia. Este tono complementa perfectamente al color primario, añadiendo un contraste equilibrado que dinamiza la interfaz y aporta un toque distintivo a la identidad visual de la aplicación. Su variante más oscura **(#00695C)** se aplica en estados hover, creando una interacción suave y coherente, reforzando la sensación de fluidez y respuesta inmediata en la navegación.
+Complementando esta base, el naranja suave **(#FFB74D)** destaca como color principal en los títulos, el nombre de usuario y el pie de página. Este tono cálido y luminoso introduce cercanía y vitalidad, equilibrando la sobriedad del fondo con una energía accesible. Su presencia aporta dinamismo sin resultar invasiva, ayudando a guiar la atención del usuario hacia elementos clave de navegación e identidad.
 
-Los fondos claros como el gris azulado **(#ECEFF1)** y el degradado de gris medio a gris claro **(#CFD8DC --> #B0BEC5)** ofrecen una superficie limpia y luminosa, diseñada para mejorar la legibilidad, reducir la fatiga visual y mantener una atmósfera clara y ordenada. Estos colores funcionan como base sobre la cual los componentes interactivos y los bloques de contenido pueden destacar de manera natural, manteniendo siempre una estética elegante y balanceada.
+Para los subtítulos y elementos secundarios, se recurre al azul oscuro intenso **(#1A237E)**, un color que proyecta estabilidad y profundidad. Este tono se emplea en encabezados intermedios, etiquetas y bloques de contenido que necesitan diferenciarse sin competir visualmente con los títulos principales. Gracias a su contraste y elegancia, mantiene la coherencia visual y refuerza la sensación de estructura.
 
-En las secciones inferiores, como el footer, se utiliza un tono grafito elegante **(#263238)** que proporciona un contraste fuerte y ayuda a separar visualmente los contenidos. Este fondo oscuro refuerza la jerarquía visual y da un cierre sólido a la estructura de la página.
+El negro absoluto **(#000000)** se reserva para el texto general en la interfaz. Su claridad sobre fondos claros o coloridos garantiza una lectura nítida y sin esfuerzo, facilitando la comprensión de información extensa o técnica. Esta elección subraya la importancia del contenido textual en la experiencia del usuario.
 
-El texto principal está diseñado con un gris oscuro neutral **(#2E3C43)**, que garantiza una lectura cómoda, clara y accesible, especialmente en pantallas digitales. Además, se aplican sombras sutiles **(rgba(0, 0, 0, 0.1))** para generar profundidad y separación entre elementos, brindando una interfaz visualmente dinámica sin caer en la saturación.
+Como color de acento, el rojo coral vibrante **(#EF5350)** se aplica a detalles relevantes como íconos de advertencia, enlaces activos o indicadores visuales. Su intensidad introduce contraste y urgencia cuando es necesario captar la atención del usuario rápidamente, sin saturar la interfaz ni romper la armonía cromática general.
 
-Finalmente, para situaciones que requieren llamar la atención del usuario, como advertencias o notificaciones importantes, se utiliza un naranja vibrante **(#FB8C00)**. Este color aporta energía y urgencia, destacando eficazmente en contraste con el resto de la paleta, sin comprometer la coherencia estética general.
+Finalmente, el verde esmeralda **(#10B981)** se utiliza en botones interactivos y llamadas a la acción. Este color transmite una sensación de progreso, aprobación y accesibilidad, invitando al usuario a interactuar con confianza. Su luminosidad y frescura lo convierten en un acento funcional que estimula la acción sin imponerse.
+
 
 #### **Lenguaje**
 En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación para transformar la experiencia hotelera mediante tecnología inteligente. Buscamos conectar tanto con huéspedes como con profesionales del sector, manteniendo una comunicación clara, cercana y profesional. La combinación de tonos que emplearemos es la siguiente:
@@ -579,11 +580,6 @@ En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación 
 2. **Formal pero cálido:** Aunque mantenemos un tono formal que refleje el compromiso y la confiabilidad de nuestra marca, también nos dirigimos a nuestros usuarios con cercanía. Nuestra intención es establecer una conexión humana y auténtica, transmitiendo confianza y empatía desde el primer contacto.
 3. **Respetuoso y empático:** Nos comunicamos con respeto hacia todos nuestros usuarios, reconociendo la diversidad de necesidades de huéspedes, administradores y personal hotelero. Nuestro lenguaje será inclusivo y considerado, promoviendo una relación de colaboración y apoyo constante.
 4. **Inspirador y optimista:** En SoftCore creemos que la tecnología puede mejorar profundamente la experiencia de hospedaje. Por ello, hablaremos con entusiasmo y convicción, motivando a nuestros usuarios a imaginar y vivir una nueva forma de hospedarse: más cómoda, personalizada e inteligente.
-
-#### **Branding**
-Nuestro logotipo representa de forma clara y minimalista la esencia de CustomHost. En él se aprecia la silueta de un hotel, acompañado por un ícono de señal inalámbrica en la parte superior, simbolizando la conectividad inteligente y el uso de tecnologías dentro de las habitaciones. Este diseño busca transmitir desde el primer vistazo el enfoque tecnológico de nuestro producto, que transforma la experiencia tradicional de hospedaje en una experiencia personalizada y digital.
-
-![Imagen del logo de nuestra startup](Assets/img/Chapter%204/CustomHost-Logo.jpg)
 
 ### 4.1.2. Web Style Guidelines.
 
@@ -635,6 +631,40 @@ En esta sección se presenta un formulario solicitando los datos al usuario como
 ![Imagen del Footer del landing page](Assets/img/Chapter%204/Footer.png)
 <br>
 
+#### **2. Pantalla Home**
+- En la primera sección de esta pantalla se pueden ver 5 cards las cuales muestran información importante para el hotel como la cantidad de habitaciones ocupadas, las reservas del día, las solicitudes urgentes, Check-outs pendientes y los dispositivos IoT inactivos.
+- En la siguiente sección tenemos una gráfica que muestra las cantidad de habitaciones reservadas en los últimos treinta días.
+- Y por último una tabla con los húespedes actuales, mostrando su habitación, nombre y las fechas de check-in y check-out. <br>
+![Imagen del Home_1 del frontend](Assets/img/Chapter%204/Home_1.png)
+![Imagen del Home_2 del frontend](Assets/img/Chapter%204/Home_2.png)
+
+#### **3. Pantalla Rooms Managment**
+- En esta página vemos una tabla con las habitaciones que hay en el hotel, mostrando el número de la habitación, el tipo (Suite, Deluxe o Familiar), el status (disponible, ocupado o en limpieza), el precio, el piso en el que se encuentra y las opciones de editar o borra.<br>
+![Imagen del Rooms_1 del frontend](Assets/img/Chapter%204/Rooms_1.png)
+![Imagen del Rooms_2 del frontend](Assets/img/Chapter%204/Rooms_2.png)
+
+#### **4. Pantalla Iot Device**
+- En esta pantalla tenemos cards en las que nos dice con que dispositivos IoT cuenta cada habitación, tambipen nos muestra si los dispositivos están encendidos, apagados o en mantenimiento.<br>
+![Imagen del Iot_1 del frontend](Assets/img/Chapter%204/Iot_1.png)
+![Imagen del Iot_2 del frontend](Assets/img/Chapter%204/Iot_2.png)
+
+#### **5. Pantalla Customer Request**
+- En esta página tenemos dos tablas, la primera muestra que habitaciones están en mantenimiento o están ocupadas y la cantidad de peticiones que han hecho los huespedes de esa habitación.
+- En la segunta tabla, nos muestra las peticiones pendientes.<br> 
+![Imagen del Customer_Request del frontend](Assets/img/Chapter%204/Customer_Request.png)
+
+#### **6. Pantalla Booking Tracker**
+- En esta pantalla tenemos una tabla con los húespedes actuales, mostrando su habitación, nombre, las fechas de check-in y check-out y las opciones de editar o borrar. <br>
+![Imagen del Booking_Tracker del frontend](Assets/img/Chapter%204/Booking_Tracker.png)
+
+#### **7. Pantalla Request Staff**
+- En esta pantalla hay una tabla el nombre de un trabajador del hotel asignadole una solicitu realizado por un huésped. <br>
+![Imagen del Request_Staff del frontend](Assets/img/Chapter%204/Request_Staff.png)
+
+#### **8. Pantalla Profile**
+- En esta página tenemos dos cards mostrando los datos personales del administrador y el hotel que trabaja con nosotros. <br>
+![Imagen del Profile del frontend](Assets/img/Chapter%204/Profile.png)
+
 ## 4.2. Information Architecture.
 La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
 
@@ -647,16 +677,14 @@ Se empleará una estructura jerárquica visual clara en la Landing Page y en cad
 ### 4.2.2. Labeling Systems.
 Estos son los principios de etiquetado aplicados en la plataforma:
 
-*Claridad y simplicidad*
-Se emplea un lenguaje accesible para los usuarios, evitando tecnicismos innecesarios en la interfaz del huésped. En el caso del personal técnico y administrativo, se mantienen ciertos términos específicos, especialmente en la gestión de dispositivos inteligentes y mantenimiento.
+**Claridad y simplicidad:** Se emplea un lenguaje accesible para los usuarios, evitando tecnicismos innecesarios en la interfaz del huésped. En el caso del personal técnico y administrativo, se mantienen ciertos términos específicos, especialmente en la gestión de dispositivos inteligentes y mantenimiento.
 
-*Brevedad*
-Las etiquetas de botones, menús y opciones se mantienen breves y directas, facilitando la navegación ágil desde cualquier dispositivo.
+**Brevedad:** Las etiquetas de botones, menús y opciones se mantienen breves y directas, facilitando la navegación ágil desde cualquier dispositivo.
 
 ### 4.2.3. SEO Tags and Meta Tags
-- Título: <title> CustomHost | Personaliza tu estadía con tecnología inteligente </title>
-- Descripción: <meta name = "description" content = "Plataforma que permite a huéspedes y hoteles personalizar habitaciones con domótica, IoT y acceso biométrico. Vive una experiencia única e inteligente."/>
-- Palabras Clave: <meta name = "keyword" content = "Hoteles inteligentes, domótica hotelera, IoT en hoteles, personalización de estadía, check-in digital, habitaciones automatizadas"/>
+- Título: ```<title> CustomHost | Personaliza tu estadía con tecnología inteligente </title>```
+- Descripción: ```<meta name = "description" content = "Plataforma que permite a huéspedes y hoteles personalizar habitaciones con domótica, IoT y acceso biométrico. Vive una experiencia única e inteligente."/>```
+- Palabras Clave: ```<meta name = "keyword" content = "Hoteles inteligentes, domótica hotelera, IoT en hoteles, personalización de estadía, check-in digital, habitaciones automatizadas"/>```
 
 ### 4.2.4. Searching Systems.
 Al ingresar, el usuario será recibido con una pantalla de bienvenida donde se encontrará con dos botones en la parte superior derecha, uno para registrarse y otro para inicar sesión. Una vez iniciada la sesión, la navegación dentro de la aplicación estará organizada para facilitar una experiencia fluida e intuitiva.
