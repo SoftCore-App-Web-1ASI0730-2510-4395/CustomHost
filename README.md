@@ -46,8 +46,6 @@
 # Project Report Collaboration Insights
 URL del repositorio: https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost
 
-(Imagenes de los commits cada entrega)
-
 
 # Contenido
 
