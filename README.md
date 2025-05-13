@@ -786,24 +786,22 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 
 
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Source?node-id=0-1&p=f&t=XYETOEAUmnls4kjW-0)
+URL del Prototipo https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Source?node-id=0-1&p=f&t=XYETOEAUmnls4kjW-0
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-![Context Diagram](Assets/img/Chapter%204/structurizr-101614-SystemContext-001-fixed.png)
+![Context Diagram](/Assets/img/Chapter%204/Captura%20de%20pantalla%202025-05-09%20001732.png)
 
    
 ### 4.6.2. Software Architecture Container Diagrams.
-![Container Diagram](Assets/img/Chapter%204/structurizr-101614-Container-001.png)
+![Container Diagram](/Assets/img/Chapter%204/structurizr-101614-Container-001%20(2)web.png)
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-001.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-002.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-003.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-004.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-005.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-006.png)
+![Components Diagram](/Assets/img/Chapter%204/Component-OpenSource-GuestExperience.png)
+![Components Diagram](/Assets/img/Chapter%204/Component-OpenSource-CRM.png)
+![Components Diagram](/Assets/img/Chapter%204/Component-OpenSource-ProfileV2.png)
+![Components Diagram](/Assets/img/Chapter%204/Component-OpenSource-Auth.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
