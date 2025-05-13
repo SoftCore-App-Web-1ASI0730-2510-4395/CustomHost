@@ -1450,6 +1450,12 @@ En este sprint, se completó el desarrollo del landing page y se utilizó un con
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
+![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114710.png)
+![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114752.png)
+![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114811.png)
+![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114817.png)
+![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114829.png)
+
 # Bibliografía
 
 ``` 
