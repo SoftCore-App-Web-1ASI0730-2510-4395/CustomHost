@@ -33,15 +33,43 @@
 # Registro de Versiones del Informe
 <center>
 
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| TB1 | 23/04/2025 | Axel Randall Ordoñez Ricaldi | - Product baclog<br> - Imapct Mapping<br> - Domain Driver Software Architecture |  
-| TB1 | 23/04/2025 | Fabrizio Martin Panta Castro | - To-be Scenario Mapping<br> - User Stories<br> - Style Guidelines<br> - Information Architecture |  
-| TB1 | 23/04/2025 | Brayan Roberto Ccarita Cruz | - Startup Profile<br> - Solution Profile<br> - Segmentos objetivos<br> - Software Object-Priented Design |  
-| TB1 | 23/04/2025 | Alison Jimena Arrieta Quispe | - Competidores<br> - Entrevistas<br> - Landing Page UI Design<br> -  Landing Page|  
-| TB1 | 23/04/2025 | Andreow Jomark Santiago Peña | - Needfinding<br> - Ubiquitous Language<br> - Web Application UX/UI Design |
+<center>
+
+| Version | Fecha | Autor | Descripción de Modificación |
+|---------|-------|-------|-----------------------------|
+| 37df2071341cd84629f2039d48fd65598ddc1aa6 | 13/05/2025 | Alison Arrieta | - Merge pull request #54: Integración de correcciones de idioma |
+| 3cc67aa988b547d0b8357beb7771e5bb14bef186 | 13/05/2025 | Alison Arrieta | - Corrección de problemas específicos en el proyecto |
+| 8cc209b1a865318b27090925900d1ed53942ae09 | 13/05/2025 | Alison Arrieta | - Nueva funcionalidad implementada |
+| 0278b9a1fee8d9e8cbd518677fe448f34caaaf89 | 13/05/2025 | Alison Arrieta | - Adición de nueva característica al proyecto |
+| a7f3d0f66b7057b3929ce7cb5fb1b6dfa8acc613 | 02/05/2025 | Axel Ordoñez | - Documentación: Adición de URL del repositorio en GitHub |
+| e0002193b362123d13184676f1ee2f6d8bc1e5e8 | 27/04/2025 | Alison Arrieta | - Corrección en documentación: Eliminación de partes duplicadas en README de miembros del equipo |
+| 51d732242d47258f3786ba6c117fc0bf7a936b83 | 24/04/2025 | Alison Arrieta | - Merge pull request #51: Integración de capítulo cinco |
+| 6f547c0a6075724aabd1004998a21986d1cb53c7 | 24/04/2025 | Alison Arrieta | - Merge pull request #50: Integración de capítulo cuatro |
+| 90074392c35579c6c96e5d95b48a1cb67f63afbf | 24/04/2025 | Alison Arrieta | - Merge pull request #49: Integración de capítulo tres |
+| 14fd66c1dff383401d1aa128549ceb167ee503aa | 24/04/2025 | Alison Arrieta | - Merge pull request #48: Integración de capítulo dos |
+| 27acb9437e3bf51fe214d69345ad3fa2f29559ed | 24/04/2025 | Alison Arrieta | - Merge pull request #47: Integración de capítulo uno |
+| 6e98d097405ab2941af8d0cc6edb5cba197c3941 | 24/04/2025 | Axel Ordoñez | - Documentación: Adición de información personal de Andrew al perfil del equipo |
+| aff9fddc6b127cfabe8ab15eb8d20c5bc80d4359 | 24/04/2025 | Andrew Santiago | - Actualización de README.md con información relevante |
+| 07adccfa412b261a1ec7bee9d8f8119ea8da35ec | 24/04/2025 | Axel Ordoñez | - Documentación: Adición de user flow al proyecto |
+| 17f921903c17d9b2a2d85bf1804970ff1f73f4d2 | 24/04/2025 | Axel Ordoñez | - Documentación: Adición de wireflow al proyecto |
+| 43607ac13e1a74c27c1467795072ea38e994b67e | 24/04/2025 | Axel Ordoñez | - Documentación: Adición de mockup de aplicación web |
+| 32e9fb6f6423fda89a3e4fdaf7c61f16f280e95d | 24/04/2025 | Alison Arrieta | - Implementación de la página principal (index) |
+| ad154cb0c56179167f46ce222c57e72b5dfac94c | 24/04/2025 | Fabrizio Panta | - Documentación: Diseño de UI de la landing page, wireframes y mockups |
+| 6ba5391316c6bbf6aafe805993c4db189b8093f4 | 24/04/2025 | Alison Arrieta | - Implementación de la landing page |
+| c823eeda46bac8090e23e78c768c0ad4da1f576c | 24/04/2025 | Brayan Roberto Ccarita Cruz | - Documentación: Adición de diagrama de base de datos |
+| 6180f026db886841a16c592c058c0f27c5110f6a | 24/04/2025 | Brayan Roberto Ccarita Cruz | - Documentación: Adición de diccionario de clases |
+| f48baf0b2f6a18311a788aa35e34f9a27c90c802 | 24/04/2025 | Brayan Roberto Ccarita Cruz | - Documentación: Adición de diagramas de clases |
+| b2e90351889db1c3819a6ddae15e46cc3f823c55 | 24/04/2025 | Fabrizio Panta | - Documentación: Guías de estilo web del proyecto |
+| 977286d44170f50e3710176d92ea24657e85a6d1 | 24/04/2025 | Andrew Santiago | - Merge pull request #26: Integración de la página principal |
+| 260c5c8527efc95c0685303896f332dc3ecbb963 | 23/04/2025 | Fabrizio Panta | - Documentación: Sección de branding y logo de la startup |
+| 8e65f515a750940338a2c410146011b79cd4d06e | 23/04/2025 | Axel Ordoñez | - Documentación: Adición de product backlog |
+| 8eef255fce12fca46885e581445335b4c79dacc5 | 22/04/2025 | Axel Ordoñez | - Documentación: Escenario de impact mapping |
+| 419da33c3696f9ddb535a8a8e814a2b5000c7c40 | 22/04/2025 | Fabrizio Panta | - Documentación: Mapeo de escenario to-be |
+| 157c40486ad79d959434a2a74e8b0778118555e8 | 21/04/2025 | Axel Ordoñez | - Documentación: Actualización de historias de usuario y técnicas |
+| 8f2a4e0c3129e71f2b7245cc00dbfaa302e9bdc9 | 07/04/2025 | Axel Ordoñez | - Configuración inicial del repositorio |
 
 </center>
+
 
 # Project Report Collaboration Insights
 URL del repositorio: https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost
