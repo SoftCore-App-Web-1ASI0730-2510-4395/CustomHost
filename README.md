@@ -681,6 +681,7 @@ Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f90
 |39|TS16|Visualización Condicional de Interfaces|Como desarrollador, quiero adaptar la interfaz según el rol del usuario, para mostrar solo las opciones relevantes a cada perfil.|5|
 
 # Capítulo IV: Product Design
+## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
 
 #### **Tipografía (Inter)**
@@ -691,19 +692,36 @@ Gracias a su versatilidad, Inter funciona bien en títulos y textos extensos, re
 #### **Colores**
 La selección de nuestra paleta de colores para nuestro proyecto responde a una estrategia visual cuidadosamente diseñada para transmitir tecnología, confianza y sofisticación, elementos esenciales en la propuesta de valor de SoftCore.
 
-![Imagen de la paleta de colores del landing page](Assets/img/Chapter%204/Paleta-de-Colores.png)
+- **Landing Page** <br>
+![Imagen de la paleta de colores del landing page](Assets/img/chapter-4/Paleta-de-Colores_1.png)
 
-El color primario, un azul petróleo **(#37474F)**, establece la base visual del sitio y representa atributos como tecnología, profesionalismo y solidez. Este tono transmite autoridad, siendo ideal para productos tecnológicos dirigidos a usuarios que buscan eficiencia y modernidad en sus experiencias digitales.
+En la pantalla de inicio, el blanco puro **(#FFFFFF)** se emplea estratégicamente para los textos que necesitan máxima claridad y contraste, especialmente cuando se superponen sobre fondos oscuros. Su neutralidad transmite limpieza, simplicidad y enfoque, permitiendo que el mensaje principal resalte sin distracciones y facilite la primera interacción del usuario con la aplicación.
 
-Como color de acento, se emplea un verde petróleo oscuro **(#00796B)** que comunica estabilidad, frescura y eficiencia. Este tono complementa perfectamente al color primario, añadiendo un contraste equilibrado que dinamiza la interfaz y aporta un toque distintivo a la identidad visual de la aplicación. Su variante más oscura **(#00695C)** se aplica en estados hover, creando una interacción suave y coherente, reforzando la sensación de fluidez y respuesta inmediata en la navegación.
+Complementando esto, se incorpora el azul grafito **(#263238)** en los títulos principales, tanto en la pantalla de bienvenida como en otras áreas destacadas. Este tono oscuro proyecta autoridad y estructura, guiando visualmente al usuario con jerarquía clara y coherente. Su alto contraste con los fondos claros permite marcar secciones clave y transmitir una sensación de profesionalismo desde el primer momento.
 
-Los fondos claros como el gris azulado **(#ECEFF1)** y el degradado de gris medio a gris claro **(#CFD8DC --> #B0BEC5)** ofrecen una superficie limpia y luminosa, diseñada para mejorar la legibilidad, reducir la fatiga visual y mantener una atmósfera clara y ordenada. Estos colores funcionan como base sobre la cual los componentes interactivos y los bloques de contenido pueden destacar de manera natural, manteniendo siempre una estética elegante y balanceada.
+En el cuerpo general, el azul grisáceo **(#37474F)** asume un rol protagonista en los textos informativos y títulos secundarios. Este color mantiene una legibilidad excelente sin resultar demasiado rígido, lo que lo convierte en una opción ideal para contenidos extensos. Su carácter neutro aporta equilibrio y favorece una estética sobria y tecnológica, ajustándose perfectamente a entornos que requieren claridad y funcionalidad.
 
-En las secciones inferiores, como el footer, se utiliza un tono grafito elegante **(#263238)** que proporciona un contraste fuerte y ayuda a separar visualmente los contenidos. Este fondo oscuro refuerza la jerarquía visual y da un cierre sólido a la estructura de la página.
+Como color de acento, el naranja vibrante **(#FB8C00)** aporta dinamismo y atención. Se reserva para botones principales, notificaciones urgentes y elementos que requieren una acción inmediata por parte del usuario. Su brillo genera un contraste fuerte con el resto de la paleta, facilitando la toma de decisiones rápidas sin romper la armonía visual.
 
-El texto principal está diseñado con un gris oscuro neutral **(#2E3C43)**, que garantiza una lectura cómoda, clara y accesible, especialmente en pantallas digitales. Además, se aplican sombras sutiles **(rgba(0, 0, 0, 0.1))** para generar profundidad y separación entre elementos, brindando una interfaz visualmente dinámica sin caer en la saturación.
+Para estructurar visualmente el fondo de la aplicación web, se utilizan dos tonos complementarios. El gris azulado **(#ECEFF1)** funciona como base principal en pantallas, tarjetas y formularios, generando una atmósfera limpia, aireada y sin distracciones. Este fondo neutral mejora la legibilidad y permite que los componentes destacados brillen con claridad. Por su parte, el gris claro **(#CFD8DC)**, ligeramente más oscuro, se emplea para crear contraste entre secciones, encabezados secundarios o áreas informativas. Esta variación sutil mantiene la jerarquía y el orden visual, aportando dinamismo sin romper la cohesión estética general.
 
-Finalmente, para situaciones que requieren llamar la atención del usuario, como advertencias o notificaciones importantes, se utiliza un naranja vibrante **(#FB8C00)**. Este color aporta energía y urgencia, destacando eficazmente en contraste con el resto de la paleta, sin comprometer la coherencia estética general.
+Finalmente, el uso coordinado de estos seis colores garantiza una experiencia visual agradable, estructurada y efectiva. La combinación de tonos neutros, contrastes cuidadosamente definidos y acentos vibrantes permite construir una interfaz clara, moderna y adaptable, que guía al usuario con naturalidad mientras transmite profesionalismo, eficiencia y confianza.
+
+- **Front-End** <br>
+![Imagen de la paleta de colores del landing page](Assets/img/chapter-4/Paleta-de-Colores.png)
+
+En la pantalla de inicio, el azul grafito profundo **(#263238)** se emplea estratégicamente como color de fondo del encabezado, aportando una sensación de solidez, enfoque y profesionalismo desde el primer momento. Su intensidad transmite autoridad y seriedad, lo que permite estructurar visualmente la interfaz con jerarquía clara y coherente.
+
+Complementando esta base, el naranja suave **(#FFB74D)** destaca como color principal en los títulos, el nombre de usuario y el pie de página. Este tono cálido y luminoso introduce cercanía y vitalidad, equilibrando la sobriedad del fondo con una energía accesible. Su presencia aporta dinamismo sin resultar invasiva, ayudando a guiar la atención del usuario hacia elementos clave de navegación e identidad.
+
+Para los subtítulos y elementos secundarios, se recurre al azul oscuro intenso **(#1A237E)**, un color que proyecta estabilidad y profundidad. Este tono se emplea en encabezados intermedios, etiquetas y bloques de contenido que necesitan diferenciarse sin competir visualmente con los títulos principales. Gracias a su contraste y elegancia, mantiene la coherencia visual y refuerza la sensación de estructura.
+
+El negro absoluto **(#000000)** se reserva para el texto general en la interfaz. Su claridad sobre fondos claros o coloridos garantiza una lectura nítida y sin esfuerzo, facilitando la comprensión de información extensa o técnica. Esta elección subraya la importancia del contenido textual en la experiencia del usuario.
+
+Como color de acento, el rojo coral vibrante **(#EF5350)** se aplica a detalles relevantes como íconos de advertencia, enlaces activos o indicadores visuales. Su intensidad introduce contraste y urgencia cuando es necesario captar la atención del usuario rápidamente, sin saturar la interfaz ni romper la armonía cromática general.
+
+Finalmente, el verde esmeralda **(#10B981)** se utiliza en botones interactivos y llamadas a la acción. Este color transmite una sensación de progreso, aprobación y accesibilidad, invitando al usuario a interactuar con confianza. Su luminosidad y frescura lo convierten en un acento funcional que estimula la acción sin imponerse.
+
 
 #### **Lenguaje**
 En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación para transformar la experiencia hotelera mediante tecnología inteligente. Buscamos conectar tanto con huéspedes como con profesionales del sector, manteniendo una comunicación clara, cercana y profesional. La combinación de tonos que emplearemos es la siguiente:
@@ -712,11 +730,6 @@ En SoftCore, utilizaremos un lenguaje que refleje nuestra visión y dedicación 
 2. **Formal pero cálido:** Aunque mantenemos un tono formal que refleje el compromiso y la confiabilidad de nuestra marca, también nos dirigimos a nuestros usuarios con cercanía. Nuestra intención es establecer una conexión humana y auténtica, transmitiendo confianza y empatía desde el primer contacto.
 3. **Respetuoso y empático:** Nos comunicamos con respeto hacia todos nuestros usuarios, reconociendo la diversidad de necesidades de huéspedes, administradores y personal hotelero. Nuestro lenguaje será inclusivo y considerado, promoviendo una relación de colaboración y apoyo constante.
 4. **Inspirador y optimista:** En SoftCore creemos que la tecnología puede mejorar profundamente la experiencia de hospedaje. Por ello, hablaremos con entusiasmo y convicción, motivando a nuestros usuarios a imaginar y vivir una nueva forma de hospedarse: más cómoda, personalizada e inteligente.
-
-#### **Branding**
-Nuestro logotipo representa de forma clara y minimalista la esencia de CustomHost. En él se aprecia la silueta de un hotel, acompañado por un ícono de señal inalámbrica en la parte superior, simbolizando la conectividad inteligente y el uso de tecnologías dentro de las habitaciones. Este diseño busca transmitir desde el primer vistazo el enfoque tecnológico de nuestro producto, que transforma la experiencia tradicional de hospedaje en una experiencia personalizada y digital.
-
-![Imagen del logo de nuestra startup](Assets/img/Chapter%204/CustomHost-Logo.jpg)
 
 ### 4.1.2. Web Style Guidelines.
 
@@ -727,46 +740,87 @@ Este diseño corresponde a la aplicación web de CustomHost, una plataforma inte
 #### **1. Pantalla de Inicio**
 **Header:**
 - Logo (esquina superior izquierda).
-- Menú de navegación con opciones: Home, SmartStay, About Us y Contact Us.
-- Botones "Log In" y "Sign Up".
-- Número y correo de contacto.
+- Menú de navegación con las opciones: Nosotros, Servicios, Habitaciones y Contact Us.
+- Selector de idioma (inglés y español), número y correo de contacto.
+- Botones "Inicia sesión" y "Registrate".
 
-![Imagen del Header del landing page](Assets/img/Chapter%204/Header.png)
+![Imagen del Header del landing page](Assets/img/chapter-4/Header.png)
 <br>
 
 **Home:**
-- Texto de bienvedida a nuestra aplicación web.
-- Descripción acerca de lo que se puede hacer en nuestro hotel.
+- Frase de bienvedida a nuestra aplicación web junto al botón "Ver habitaciones" que te mostrará el tipo de habitaciones con las que contamos.
+- Menú horizontal donde podrás elegir el hotel en el que te ospedarás, fecha de llegada y salida, cantidad de adultos y niños que se ospedarán, código promocional y el botón de "Reservar ahora".
 
-![Imagen de la sección Home del landing page](Assets/img/Chapter%204/Home.png)
+![Imagen de la sección Home del landing page](Assets/img/chapter-4/Home.png)
 <br>
 
-**SmartStay:**
-En esta sección se le presenta a los usuarios una introducción visual e informativa de los principales beneficios de usar CustomHost durante su estadía en un hotel inteligente.
+**About Us:** En esta sección se presenta una pequeña introducción a Custom Host. También se encontrará el botón "Saber Mas" el cual redirecciona a los usuarios a una ventana con más información sobre nosotros.
 
-![Imagen de la sección SmartStay del landing page](Assets/img/Chapter%204/SmartStay.png)
+![Imagen de la sección SmartStay del landing page](Assets/img/chapter-4/About_Us.png)
 <br>
 
-**About Us:**
-En esta sección se presenta una introducción a la startup SoftCore. Los usuarios conocen quiénes están detrás del proyecto, cuál es su propósito y qué los motiva.
+**Our Services:** En esta sección estará un botón que nos redireccionara a la lista de nuestros servicios en nuestro front-end.
 
-![Imagen de la sección About Us del landing page](Assets/img/Chapter%204/About_Us.png)
+![Imagen de la sección About Us del landing page](Assets/img/chapter-4/Our_Services.png)
 <br>
 
-**Contact Us**
-En esta sección se presenta un formulario solicitando los datos al usuario como su nombre, su correo y el mensaje que desea enviarnos para poder contactarse con nosotros.
+**Our Rooms** En esta sección estará un botón que nos redireccionara a la lista de nuestras habitaciones en nuestro front-end.
 
-![Imagen de la sección Contact Us del landing page](Assets/img/Chapter%204/Contact_Us.png)
+![Imagen de la sección Contact Us del landing page](Assets/img/chapter-4/Our_Rooms.png)
+<br>
+
+**Statements** En esta sección se encuentran las opiniones y comentarios de los usuarios que usaron nuestra aplicación web para que futuros huespedes tengan información del servicio brindado.
+
+![Imagen de la sección Contact Us del landing page](Assets/img/chapter-4/Statement.png)
+<br>
+
+**Support** Esta seccion está dividida en dos pequeñas secciones, en la primera sección encontrarán las preguntas frecuentes y en segunda sección encontrarán la forma de contactarno como el chat con el soporte del hotel.
+
+![Imagen de la sección Contact Us del landing page](Assets/img/chapter-4/Support.png)
 <br>
 
 **Footer**
 - El logo junto con correo y numero de contacto.
-- Secciones de partes de CustomHost como "Home", “SmartStay”, "About Us" y "Contact Us”.
-- Ayuda el usuario como “Preguntas frecuentes”, “Términos de servicio”, Reportar un problema” y “Política de privacidad”.
-- Algunos contactos y las redes sociales.
+- Secciones de partes de CustomHost como "Home", "SmartStay" y "About Us".
+- Ayuda el usuario como "Contacto", "Preguntas frecuentes", "Términos de servicio" y "Política de privacidad".
+- Las redes sociales con las que cuenta Custom Host.
 
 ![Imagen del Footer del landing page](Assets/img/Chapter%204/Footer.png)
 <br>
+
+#### **2. Pantalla Home**
+- En la primera sección de esta pantalla se pueden ver 5 cards las cuales muestran información importante para el hotel como la cantidad de habitaciones ocupadas, las reservas del día, las solicitudes urgentes, Check-outs pendientes y los dispositivos IoT inactivos.
+- En la siguiente sección tenemos una gráfica que muestra las cantidad de habitaciones reservadas en los últimos treinta días.
+- Y por último una tabla con los húespedes actuales, mostrando su habitación, nombre y las fechas de check-in y check-out. <br>
+![Imagen del Home_1 del frontend](Assets/img/chapter-4/Home_1.png)
+![Imagen del Home_2 del frontend](Assets/img/chapter-4/Home_2.png)
+
+#### **3. Pantalla Rooms Managment**
+- En esta página vemos una tabla con las habitaciones que hay en el hotel, mostrando el número de la habitación, el tipo (Suite, Deluxe o Familiar), el status (disponible, ocupado o en limpieza), el precio, el piso en el que se encuentra y las opciones de editar o borra.<br>
+![Imagen del Rooms_1 del frontend](Assets/img/chapter-4/Rooms_1.png)
+![Imagen del Rooms_2 del frontend](Assets/img/chapter-4/Rooms_2.png)
+
+#### **4. Pantalla Iot Device**
+- En esta pantalla tenemos cards en las que nos dice con que dispositivos IoT cuenta cada habitación, tambipen nos muestra si los dispositivos están encendidos, apagados o en mantenimiento.<br>
+![Imagen del Iot_1 del frontend](Assets/img/chapter-4/Iot_1.png)
+![Imagen del Iot_2 del frontend](Assets/img/chapter-4/Iot_2.png)
+
+#### **5. Pantalla Customer Request**
+- En esta página tenemos dos tablas, la primera muestra que habitaciones están en mantenimiento o están ocupadas y la cantidad de peticiones que han hecho los huespedes de esa habitación.
+- En la segunta tabla, nos muestra las peticiones pendientes.<br> 
+![Imagen del Customer_Request del frontend](Assets/img/chapter-4/Customer_Request.png)
+
+#### **6. Pantalla Booking Tracker**
+- En esta pantalla tenemos una tabla con los húespedes actuales, mostrando su habitación, nombre, las fechas de check-in y check-out y las opciones de editar o borrar. <br>
+![Imagen del Booking_Tracker del frontend](Assets/img/chapter-4/Booking_Tracker.png)
+
+#### **7. Pantalla Request Staff**
+- En esta pantalla hay una tabla el nombre de un trabajador del hotel asignadole una solicitu realizado por un huésped. <br>
+![Imagen del Request_Staff del frontend](Assets/img/chapter-4/Request_Staff.png)
+
+#### **8. Pantalla Profile**
+- En esta página tenemos dos cards mostrando los datos personales del administrador y el hotel que trabaja con nosotros. <br>
+![Imagen del Profile del frontend](Assets/img/chapter-4/Profile.png)
 
 ## 4.2. Information Architecture.
 La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
@@ -780,16 +834,14 @@ Se empleará una estructura jerárquica visual clara en la Landing Page y en cad
 ### 4.2.2. Labeling Systems.
 Estos son los principios de etiquetado aplicados en la plataforma:
 
-*Claridad y simplicidad*
-Se emplea un lenguaje accesible para los usuarios, evitando tecnicismos innecesarios en la interfaz del huésped. En el caso del personal técnico y administrativo, se mantienen ciertos términos específicos, especialmente en la gestión de dispositivos inteligentes y mantenimiento.
+**Claridad y simplicidad:** Se emplea un lenguaje accesible para los usuarios, evitando tecnicismos innecesarios en la interfaz del huésped. En el caso del personal técnico y administrativo, se mantienen ciertos términos específicos, especialmente en la gestión de dispositivos inteligentes y mantenimiento.
 
-*Brevedad*
-Las etiquetas de botones, menús y opciones se mantienen breves y directas, facilitando la navegación ágil desde cualquier dispositivo.
+**Brevedad:** Las etiquetas de botones, menús y opciones se mantienen breves y directas, facilitando la navegación ágil desde cualquier dispositivo.
 
 ### 4.2.3. SEO Tags and Meta Tags
-- Título: <title> CustomHost | Personaliza tu estadía con tecnología inteligente </title>
-- Descripción: <meta name = "description" content = "Plataforma que permite a huéspedes y hoteles personalizar habitaciones con domótica, IoT y acceso biométrico. Vive una experiencia única e inteligente."/>
-- Palabras Clave: <meta name = "keyword" content = "Hoteles inteligentes, domótica hotelera, IoT en hoteles, personalización de estadía, check-in digital, habitaciones automatizadas"/>
+- Título: ```<title> CustomHost | Personaliza tu estadía con tecnología inteligente </title>```
+- Descripción: ```<meta name = "description" content = "Plataforma que permite a huéspedes y hoteles personalizar habitaciones con domótica, IoT y acceso biométrico. Vive una experiencia única e inteligente."/>```
+- Palabras Clave: ```<meta name = "keyword" content = "Hoteles inteligentes, domótica hotelera, IoT en hoteles, personalización de estadía, check-in digital, habitaciones automatizadas"/>```
 
 ### 4.2.4. Searching Systems.
 Al ingresar, el usuario será recibido con una pantalla de bienvenida donde se encontrará con dos botones en la parte superior derecha, uno para registrarse y otro para inicar sesión. Una vez iniciada la sesión, la navegación dentro de la aplicación estará organizada para facilitar una experiencia fluida e intuitiva.
@@ -806,7 +858,7 @@ La navegación estará reforzada con íconos, etiquetas breves y estados activos
 ### 4.2.5. Navigation Systems.
 Al ingresar al sitio web de CustomHost, el usuario visualizará una barra de navegación fija en la parte superior de la pantalla, la cual facilitará el acceso directo a las secciones más importantes del sitio.
 
-![Imagen del Header del landing page](Assets/img/chapter%204/Header.png)
+![Imagen del Header del landing page](Assets/img/chapter-4/Header.png)
 
 Esta barra permanecerá visible durante toda la navegación, sin importar la sección visitada, asegurando así un acceso ágil y constante a todos los servicios y recursos que ofrece CustomHost.
 
@@ -816,16 +868,16 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 ### 4.3.1. Landing Page Wireframe.
 [Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
 
-![Imagen del Wireframe 1](Assets/img/Chapter%204/Wireframe_1.png)
-![Imagen del Wireframe 2](Assets/img/Chapter%204/Wireframe_2.png)
-![Imagen del Wireframe 3](Assets/img/Chapter%204/Wireframe_3.png)
+![Imagen del Wireframe 1](Assets/img/chapter-4/Wireframe_1.png)
+![Imagen del Wireframe 2](Assets/img/chapter-4/Wireframe_2.png)
+![Imagen del Wireframe 3](Assets/img/chapter-4/Wireframe_3.png)
 
 ### 4.3.2. Landing Page Mock-up.
 [Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
 
-![Imagen del Mock-Up 1](Assets/img/Chapter%204/Mock-Up_1.png)
-![Imagen del Mock-Up 2](Assets/img/Chapter%204/Mock-Up_2.png)
-![Imagen del Mock-Up 3](Assets/img/Chapter%204/Mock-Up_3.png)
+![Imagen del Mock-Up 1](Assets/img/chapter-4/Mock-Up_1.png)
+![Imagen del Mock-Up 2](Assets/img/chapter-4/Mock-Up_2.png)
+![Imagen del Mock-Up 3](Assets/img/chapter-4/Mock-Up_3.png)
 
 
 ## 4.4. Web Applications UX/UI Design.
@@ -867,24 +919,22 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 
 
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Source?node-id=0-1&p=f&t=XYETOEAUmnls4kjW-0)
+URL del Prototipo https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Source?node-id=0-1&p=f&t=XYETOEAUmnls4kjW-0
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-![Context Diagram](Assets/img/Chapter%204/structurizr-101614-SystemContext-001-fixed.png)
+![Context Diagram](/Assets/img/Chapter%204/Captura%20de%20pantalla%202025-05-09%20001732.png)
 
    
 ### 4.6.2. Software Architecture Container Diagrams.
-![Container Diagram](Assets/img/Chapter%204/structurizr-101614-Container-001.png)
+![Container Diagram](/Assets/img/Chapter%204/structurizr-101614-Container-001%20(2)web.png)
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-001.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-002.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-003.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-004.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-005.png)
-![Components Diagram](Assets/img/Chapter%204/structurizr-101614-Component-006.png)
+![Components Diagram](/Assets/img/Chapter%204/Component-OpenSource-GuestExperience.png)
+![Components Diagram](/Assets/img/Chapter%204/Component-OpenSource-CRM.png)
+![Components Diagram](/Assets/img/Chapter%204/Component-OpenSource-ProfileV2.png)
+![Components Diagram](/Assets/img/Chapter%204/Component-OpenSource-Auth.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
