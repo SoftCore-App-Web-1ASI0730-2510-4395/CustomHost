@@ -548,6 +548,7 @@ Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f90
 |39|TS16|Visualización Condicional de Interfaces|Como desarrollador, quiero adaptar la interfaz según el rol del usuario, para mostrar solo las opciones relevantes a cada perfil.|5|
 
 # Capítulo IV: Product Design
+## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
 
 #### **Tipografía (Inter)**
