@@ -559,6 +559,22 @@ Gracias a su versatilidad, Inter funciona bien en títulos y textos extensos, re
 #### **Colores**
 La selección de nuestra paleta de colores para nuestro proyecto responde a una estrategia visual cuidadosamente diseñada para transmitir tecnología, confianza y sofisticación, elementos esenciales en la propuesta de valor de SoftCore.
 
+- **Landing Page** <br>
+![Imagen de la paleta de colores del landing page](Assets/img/chapter-4/Paleta-de-Colores_1.png)
+
+En la pantalla de inicio, el blanco puro **(#FFFFFF)** se emplea estratégicamente para los textos que necesitan máxima claridad y contraste, especialmente cuando se superponen sobre fondos oscuros. Su neutralidad transmite limpieza, simplicidad y enfoque, permitiendo que el mensaje principal resalte sin distracciones y facilite la primera interacción del usuario con la aplicación.
+
+Complementando esto, se incorpora el azul grafito **(#263238)** en los títulos principales, tanto en la pantalla de bienvenida como en otras áreas destacadas. Este tono oscuro proyecta autoridad y estructura, guiando visualmente al usuario con jerarquía clara y coherente. Su alto contraste con los fondos claros permite marcar secciones clave y transmitir una sensación de profesionalismo desde el primer momento.
+
+En el cuerpo general, el azul grisáceo **(#37474F)** asume un rol protagonista en los textos informativos y títulos secundarios. Este color mantiene una legibilidad excelente sin resultar demasiado rígido, lo que lo convierte en una opción ideal para contenidos extensos. Su carácter neutro aporta equilibrio y favorece una estética sobria y tecnológica, ajustándose perfectamente a entornos que requieren claridad y funcionalidad.
+
+Como color de acento, el naranja vibrante **(#FB8C00)** aporta dinamismo y atención. Se reserva para botones principales, notificaciones urgentes y elementos que requieren una acción inmediata por parte del usuario. Su brillo genera un contraste fuerte con el resto de la paleta, facilitando la toma de decisiones rápidas sin romper la armonía visual.
+
+Para estructurar visualmente el fondo de la aplicación web, se utilizan dos tonos complementarios. El gris azulado **(#ECEFF1)** funciona como base principal en pantallas, tarjetas y formularios, generando una atmósfera limpia, aireada y sin distracciones. Este fondo neutral mejora la legibilidad y permite que los componentes destacados brillen con claridad. Por su parte, el gris claro **(#CFD8DC)**, ligeramente más oscuro, se emplea para crear contraste entre secciones, encabezados secundarios o áreas informativas. Esta variación sutil mantiene la jerarquía y el orden visual, aportando dinamismo sin romper la cohesión estética general.
+
+Finalmente, el uso coordinado de estos seis colores garantiza una experiencia visual agradable, estructurada y efectiva. La combinación de tonos neutros, contrastes cuidadosamente definidos y acentos vibrantes permite construir una interfaz clara, moderna y adaptable, que guía al usuario con naturalidad mientras transmite profesionalismo, eficiencia y confianza.
+
+- **Front-End** <br>
 ![Imagen de la paleta de colores del landing page](Assets/img/chapter-4/Paleta-de-Colores.png)
 
 En la pantalla de inicio, el azul grafito profundo **(#263238)** se emplea estratégicamente como color de fondo del encabezado, aportando una sensación de solidez, enfoque y profesionalismo desde el primer momento. Su intensidad transmite autoridad y seriedad, lo que permite estructurar visualmente la interfaz con jerarquía clara y coherente.
@@ -591,43 +607,50 @@ Este diseño corresponde a la aplicación web de CustomHost, una plataforma inte
 #### **1. Pantalla de Inicio**
 **Header:**
 - Logo (esquina superior izquierda).
-- Menú de navegación con opciones: Home, SmartStay, About Us y Contact Us.
-- Botones "Log In" y "Sign Up".
-- Número y correo de contacto.
+- Menú de navegación con las opciones: Nosotros, Servicios, Habitaciones y Contact Us.
+- Selector de idioma (inglés y español), número y correo de contacto.
+- Botones "Inicia sesión" y "Registrate".
 
-![Imagen del Header del landing page](Assets/img/Chapter%204/Header.png)
+![Imagen del Header del landing page](Assets/img/chapter-4/Header.png)
 <br>
 
 **Home:**
-- Texto de bienvedida a nuestra aplicación web.
-- Descripción acerca de lo que se puede hacer en nuestro hotel.
+- Frase de bienvedida a nuestra aplicación web junto al botón "Ver habitaciones" que te mostrará el tipo de habitaciones con las que contamos.
+- Menú horizontal donde podrás elegir el hotel en el que te ospedarás, fecha de llegada y salida, cantidad de adultos y niños que se ospedarán, código promocional y el botón de "Reservar ahora".
 
-![Imagen de la sección Home del landing page](Assets/img/Chapter%204/Home.png)
+![Imagen de la sección Home del landing page](Assets/img/chapter-4/Home.png)
 <br>
 
-**SmartStay:**
-En esta sección se le presenta a los usuarios una introducción visual e informativa de los principales beneficios de usar CustomHost durante su estadía en un hotel inteligente.
+**About Us:** En esta sección se presenta una pequeña introducción a Custom Host. También se encontrará el botón "Saber Mas" el cual redirecciona a los usuarios a una ventana con más información sobre nosotros.
 
-![Imagen de la sección SmartStay del landing page](Assets/img/Chapter%204/SmartStay.png)
+![Imagen de la sección SmartStay del landing page](Assets/img/chapter-4/About_Us.png)
 <br>
 
-**About Us:**
-En esta sección se presenta una introducción a la startup SoftCore. Los usuarios conocen quiénes están detrás del proyecto, cuál es su propósito y qué los motiva.
+**Our Services:** En esta sección estará un botón que nos redireccionara a la lista de nuestros servicios en nuestro front-end.
 
-![Imagen de la sección About Us del landing page](Assets/img/Chapter%204/About_Us.png)
+![Imagen de la sección About Us del landing page](Assets/img/chapter-4/Our_Services.png)
 <br>
 
-**Contact Us**
-En esta sección se presenta un formulario solicitando los datos al usuario como su nombre, su correo y el mensaje que desea enviarnos para poder contactarse con nosotros.
+**Our Rooms** En esta sección estará un botón que nos redireccionara a la lista de nuestras habitaciones en nuestro front-end.
 
-![Imagen de la sección Contact Us del landing page](Assets/img/Chapter%204/Contact_Us.png)
+![Imagen de la sección Contact Us del landing page](Assets/img/chapter-4/Our_Rooms.png)
+<br>
+
+**Statements** En esta sección se encuentran las opiniones y comentarios de los usuarios que usaron nuestra aplicación web para que futuros huespedes tengan información del servicio brindado.
+
+![Imagen de la sección Contact Us del landing page](Assets/img/chapter-4/Statement.png)
+<br>
+
+**Support** Esta seccion está dividida en dos pequeñas secciones, en la primera sección encontrarán las preguntas frecuentes y en segunda sección encontrarán la forma de contactarno como el chat con el soporte del hotel.
+
+![Imagen de la sección Contact Us del landing page](Assets/img/chapter-4/Support.png)
 <br>
 
 **Footer**
 - El logo junto con correo y numero de contacto.
-- Secciones de partes de CustomHost como "Home", “SmartStay”, "About Us" y "Contact Us”.
-- Ayuda el usuario como “Preguntas frecuentes”, “Términos de servicio”, Reportar un problema” y “Política de privacidad”.
-- Algunos contactos y las redes sociales.
+- Secciones de partes de CustomHost como "Home", "SmartStay" y "About Us".
+- Ayuda el usuario como "Contacto", "Preguntas frecuentes", "Términos de servicio" y "Política de privacidad".
+- Las redes sociales con las que cuenta Custom Host.
 
 ![Imagen del Footer del landing page](Assets/img/Chapter%204/Footer.png)
 <br>
@@ -702,7 +725,7 @@ La navegación estará reforzada con íconos, etiquetas breves y estados activos
 ### 4.2.5. Navigation Systems.
 Al ingresar al sitio web de CustomHost, el usuario visualizará una barra de navegación fija en la parte superior de la pantalla, la cual facilitará el acceso directo a las secciones más importantes del sitio.
 
-![Imagen del Header del landing page](Assets/img/chapter%204/Header.png)
+![Imagen del Header del landing page](Assets/img/chapter-4/Header.png)
 
 Esta barra permanecerá visible durante toda la navegación, sin importar la sección visitada, asegurando así un acceso ágil y constante a todos los servicios y recursos que ofrece CustomHost.
 
@@ -712,16 +735,16 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 ### 4.3.1. Landing Page Wireframe.
 [Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
 
-![Imagen del Wireframe 1](Assets/img/Chapter%204/Wireframe_1.png)
-![Imagen del Wireframe 2](Assets/img/Chapter%204/Wireframe_2.png)
-![Imagen del Wireframe 3](Assets/img/Chapter%204/Wireframe_3.png)
+![Imagen del Wireframe 1](Assets/img/chapter-4/Wireframe_1.png)
+![Imagen del Wireframe 2](Assets/img/chapter-4/Wireframe_2.png)
+![Imagen del Wireframe 3](Assets/img/chapter-4/Wireframe_3.png)
 
 ### 4.3.2. Landing Page Mock-up.
 [Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
 
-![Imagen del Mock-Up 1](Assets/img/Chapter%204/Mock-Up_1.png)
-![Imagen del Mock-Up 2](Assets/img/Chapter%204/Mock-Up_2.png)
-![Imagen del Mock-Up 3](Assets/img/Chapter%204/Mock-Up_3.png)
+![Imagen del Mock-Up 1](Assets/img/chapter-4/Mock-Up_1.png)
+![Imagen del Mock-Up 2](Assets/img/chapter-4/Mock-Up_2.png)
+![Imagen del Mock-Up 3](Assets/img/chapter-4/Mock-Up_3.png)
 
 
 ## 4.4. Web Applications UX/UI Design.
