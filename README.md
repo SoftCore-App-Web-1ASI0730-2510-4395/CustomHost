@@ -559,7 +559,7 @@ Gracias a su versatilidad, Inter funciona bien en títulos y textos extensos, re
 #### **Colores**
 La selección de nuestra paleta de colores para nuestro proyecto responde a una estrategia visual cuidadosamente diseñada para transmitir tecnología, confianza y sofisticación, elementos esenciales en la propuesta de valor de SoftCore.
 
-![Imagen de la paleta de colores del landing page](Assets/img/Chapter%204/Paleta-de-Colores.png)
+![Imagen de la paleta de colores del landing page](Assets/img/chapter-4/Paleta-de-Colores.png)
 
 En la pantalla de inicio, el azul grafito profundo **(#263238)** se emplea estratégicamente como color de fondo del encabezado, aportando una sensación de solidez, enfoque y profesionalismo desde el primer momento. Su intensidad transmite autoridad y seriedad, lo que permite estructurar visualmente la interfaz con jerarquía clara y coherente.
 
@@ -636,18 +636,18 @@ En esta sección se presenta un formulario solicitando los datos al usuario como
 - En la primera sección de esta pantalla se pueden ver 5 cards las cuales muestran información importante para el hotel como la cantidad de habitaciones ocupadas, las reservas del día, las solicitudes urgentes, Check-outs pendientes y los dispositivos IoT inactivos.
 - En la siguiente sección tenemos una gráfica que muestra las cantidad de habitaciones reservadas en los últimos treinta días.
 - Y por último una tabla con los húespedes actuales, mostrando su habitación, nombre y las fechas de check-in y check-out. <br>
-![Imagen del Home_1 del frontend](Assets/img/Chapter%204/Home_1.png)
-![Imagen del Home_2 del frontend](Assets/img/Chapter%204/Home_2.png)
+![Imagen del Home_1 del frontend](Assets/img/chapter-4/Home_1.png)
+![Imagen del Home_2 del frontend](Assets/img/chapter-4/Home_2.png)
 
 #### **3. Pantalla Rooms Managment**
 - En esta página vemos una tabla con las habitaciones que hay en el hotel, mostrando el número de la habitación, el tipo (Suite, Deluxe o Familiar), el status (disponible, ocupado o en limpieza), el precio, el piso en el que se encuentra y las opciones de editar o borra.<br>
-![Imagen del Rooms_1 del frontend](Assets/img/Chapter%204/Rooms_1.png)
-![Imagen del Rooms_2 del frontend](Assets/img/Chapter%204/Rooms_2.png)
+![Imagen del Rooms_1 del frontend](Assets/img/chapter-4/Rooms_1.png)
+![Imagen del Rooms_2 del frontend](Assets/img/chapter-4/Rooms_2.png)
 
 #### **4. Pantalla Iot Device**
 - En esta pantalla tenemos cards en las que nos dice con que dispositivos IoT cuenta cada habitación, tambipen nos muestra si los dispositivos están encendidos, apagados o en mantenimiento.<br>
-![Imagen del Iot_1 del frontend](Assets/img/Chapter%204/Iot_1.png)
-![Imagen del Iot_2 del frontend](Assets/img/Chapter%204/Iot_2.png)
+![Imagen del Iot_1 del frontend](Assets/img/chapter-4/Iot_1.png)
+![Imagen del Iot_2 del frontend](Assets/img/chapter-4/Iot_2.png)
 
 #### **5. Pantalla Customer Request**
 - En esta página tenemos dos tablas, la primera muestra que habitaciones están en mantenimiento o están ocupadas y la cantidad de peticiones que han hecho los huespedes de esa habitación.
@@ -656,15 +656,15 @@ En esta sección se presenta un formulario solicitando los datos al usuario como
 
 #### **6. Pantalla Booking Tracker**
 - En esta pantalla tenemos una tabla con los húespedes actuales, mostrando su habitación, nombre, las fechas de check-in y check-out y las opciones de editar o borrar. <br>
-![Imagen del Booking_Tracker del frontend](Assets/img/Chapter%204/Booking_Tracker.png)
+![Imagen del Booking_Tracker del frontend](Assets/img/chapter-4/Booking_Tracker.png)
 
 #### **7. Pantalla Request Staff**
 - En esta pantalla hay una tabla el nombre de un trabajador del hotel asignadole una solicitu realizado por un huésped. <br>
-![Imagen del Request_Staff del frontend](Assets/img/Chapter%204/Request_Staff.png)
+![Imagen del Request_Staff del frontend](Assets/img/chapter-4/Request_Staff.png)
 
 #### **8. Pantalla Profile**
 - En esta página tenemos dos cards mostrando los datos personales del administrador y el hotel que trabaja con nosotros. <br>
-![Imagen del Profile del frontend](Assets/img/Chapter%204/Profile.png)
+![Imagen del Profile del frontend](Assets/img/chapter-4/Profile.png)
 
 ## 4.2. Information Architecture.
 La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
