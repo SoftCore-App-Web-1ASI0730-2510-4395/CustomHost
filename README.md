@@ -572,16 +572,27 @@ del landing page.
     </tbody>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 1.
+#### 5.2.1.2. Aspect Leaders and Collaborators.
+
+|Team Member|GitHub Username|UX-UI<br>Leader(L)/Collaborator(C)| 
+|-|-|-|
+|Arrieta Quispe, Alison Jimena|alisoft08|C|L|C|
+|Ccarita Cruz, Roberto Brayan|hallzyx|C|C|L|
+|Ordoñez Ricaldi, Axel Randall|nOOmzzzz|C|C|C|
+|Panta Castro, Fabrizio Martin|F4brizio24|C|C|C|
+|Santiago Peña, Andreow Jomark|andrew65411|L|C|C|
+
+#### 5.2.1.3. Sprint Backlog 1.
 
 ![SprintBacklog n](/Assets/img/Chapter-5/sprint-backlog.jpg)
 
-#### 5.2.1.3. Development Evidence for Sprint Review.
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
+
+#### 5.2.1.4. Development Evidence for Sprint Review.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 Sprint 1: En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager. El link de la Landing Page es el siguiente: https://softcore-app-web-1asi0730-2510-4395.github.io/CustomHost/.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embargo, al ser Landing Page no requiere de documentación relacionada a Web Services
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
@@ -597,20 +608,130 @@ El equipo desarrolló el sistema de gestión hotelera utilizando una estrategia 
 ![Sprint review Team Collaboration Insights](/Assets/img/Chapter-5/collabInsight.png) 
 
 
+### 5.2.2. Sprint 2
+
+En este sprint como equipo nos hemos enfocado en el desarrollo frontend de la aplicación.
+
+
+#### 5.2.2.1.Sprint Planning 2.
+
+A continuación se presenta los detalles de la planificación del segundo sprint.
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 07/05/2025 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Lima, Reunion virtual por Discord
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Softcore team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Roberto Brayan Ccarita Cruz <br> Andreow Jomark Santiago Peña <br> Alison Jimena Arrieta Quispe <br> Fabrizio Martin Panta Castro <br> Axel Randall Ordoñez Ricaldi
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Sprint 1: En el anterior sprint hemos diseñado un langing page con seccion hero, beneficios, introduccion, valores y contacto. Hemos cumplido con todas las historias de usuario formuladas.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+                Sprint 1: En el anterior sprint hemos diseñado una landing page, tuvimos algunos problemas al incio pero luego supimos manejar y ordenar todo por branches y lograr llegar a un buen resultado con uso de html, css y js.  
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+<td> Desarrollar y completar el frontend de la aplicación, asegurando una interfaz de usuario intuitiva y funcional que cumpla con los requisitos y especificaciones establecidas.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 2 Velocity</td>
+            <td> 15
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 23
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+
+|Team Member|GitHub Username|Performance<br>Leader(L)/Collaborator(C)|UX-UI<br>Leader(L)/Collaborator(C)|Funcionalidad<br>Leader(L)/Collaborator(C)| 
+|-|-|-|-|-|
+|Arrieta Quispe, Alison Jimena|alisoft08|C|L|C|
+|Ccarita Cruz, Roberto Brayan|hallzyx|C|C|L|
+|Ordoñez Ricaldi, Axel Randall|nOOmzzzz|C|C|C|
+|Panta Castro, Fabrizio Martin|F4brizio24|C|C|C|
+|Santiago Peña, Andreow Jomark|andrew65411|L|C|C|
+
+#### 5.2.2.3. Sprint Backlog 2.
+
+Aquí se presenta el backlog desarrollado a partir del Sprint 2.
+
+![SprintBacklog-2](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20074220.png)
+
+#### 5.2.2.4. Development Evidence for Sprint Review.
+Esta sección registra las evidencias del desarrollo del Sprint.
+
+| Repository     | Branch                    | Commit Message                          | Committed on (Date) |
+|----------------|----------------------------|------------------------------------------|---------------------|
+| customhost     | develop                    | Merge pull request #5 from feature/home-page | 13/05/2024          |
+| customhost     | feature/basic-routing      | feat: added Angular basic routing module | 10/05/2024          |
+| customhost     | feature/i18n               | feat: integrated ngx-translate and language switcher | 11/05/2024          |
+| customhost     | feature/json               | feat: added assets json for dynamic data | 11/05/2024          |
+| customhost     | feature/guest-experience   | feat: created guest experience component | 12/05/2024          |
+| customhost     | feature/home-page          | feat: designed and structured homepage layout | 13/05/2024          |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+Sprint 2: En este entregable, hemos logrado desarrollar el Frontend de la aplicación para nuestra StartUp Sweet Manager. El link de la aplicación es el siguiente: https://customhost.netlify.app/
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+Durante este sprint se avanzó en el desarrollo de la interfaz de usuario de la aplicación utilizando Vue como lenguaje de front end, enfocándose principalmente en la construcción de componentes visuales y estructurales.
+En esta fase no se integraron servicios reales (API REST), ya que los datos utilizados en los componentes fueron simulados localmente para efectos de diseño y validación visual.
+
+La integración con servicios back-end está prevista para un sprint posterior, una vez finalizada la implementación de la estructura base de la aplicación. Por ello, no se incluye evidencia de documentación de servicios en esta etapa.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
+
+- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del front-end application.
+- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del front-end application.
+- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del front-end application.
+- Netlify: Utilizado como plataforma para automatizar el despliegue del front-end application.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
 # Bibliografía
-qoomon. (2021, 11 enero). Conventional Commit Messages. Gist.
-Recuperado 20 de junio de 2022, de [LINK](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
-LeaseIN. (2018). Importancia de contar con un equipo de soporte
-técnico. [Entrada en blog]. Recuperado de:
-[LINK](https://leasein.pe/blog/branding-empresarial-importanciasoporte-tecnico/)
 ``` 
-formato
+MINCETUR. (2024). Arribos, pernoctaciones y oferta hotelera en establecimientos de hospedaje. https://datosturismo.mincetur.gob.pe/appdatosturismo/content3.html
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+Cántaro Márquez, A. L., Miranda Vásquez, G. F., & Ángeles Barrantes, D. (2023). Análisis de las eco-innovaciones en establecimientos de hospedaje peruanos. Sustainability, 15(8), 6700. https://doi.org/10.3390/su15086700
 
 ```
+
 # Anexos
 
 datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
