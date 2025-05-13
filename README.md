@@ -652,7 +652,7 @@ En esta sección se presenta un formulario solicitando los datos al usuario como
 #### **5. Pantalla Customer Request**
 - En esta página tenemos dos tablas, la primera muestra que habitaciones están en mantenimiento o están ocupadas y la cantidad de peticiones que han hecho los huespedes de esa habitación.
 - En la segunta tabla, nos muestra las peticiones pendientes.<br> 
-![Imagen del Customer_Request del frontend](Assets/img/Chapter%204/Customer_Request.png)
+![Imagen del Customer_Request del frontend](Assets/img/chapter-4/Customer_Request.png)
 
 #### **6. Pantalla Booking Tracker**
 - En esta pantalla tenemos una tabla con los húespedes actuales, mostrando su habitación, nombre, las fechas de check-in y check-out y las opciones de editar o borrar. <br>
