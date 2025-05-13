@@ -593,7 +593,8 @@ En este sprint, se completó el desarrollo del landing page y se utilizó un con
 - Github pages: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](/Assets/img/Chapter-5/contributors.jpg) 
+El equipo desarrolló el sistema de gestión hotelera utilizando una estrategia basada en ramas para cada componente o funcionalidad. Esta metodología permitió que cada miembro del equipo trabajara de forma independiente en elementos como la página de inicio, el selector de idioma, la gestión de peticiones y el panel de administración, sin interferir con el trabajo de los demás. Una vez finalizada cada funcionalidad, se verificó que no existieran conflictos con la rama principal (main) y se generó una pull request para integrar los cambios de forma controlada. A continuación, se adjunta una imagen que evidencia la colaboración del equipo en GitHub.
+![Sprint review Team Collaboration Insights](/Assets/img/Chapter-5/collabInsight.png) 
 
 
 # Bibliografía
