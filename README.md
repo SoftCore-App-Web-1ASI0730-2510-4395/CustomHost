@@ -22,6 +22,7 @@
 
 <center>
 
+
 | Member                           | Code       |
 |----------------------------------|------------|
 | Ordoñez Ricaldi, Axel Randall    | U202216827 |
@@ -30,49 +31,163 @@
 | Arrieta Quispe, Alison Jimena    | U202312031 |
 | Santiago Peña, Andreow Jomark    | U202317362 |
 
-</center>
-
+</center>  
 <center>
 <br> ABRIL 2025
+</center>  
+
 
 # Registro de Versiones del Informe
 
 
-<center>
 
 | Version | Fecha      | Autor            | Descripción de Modificación                                                                                                                      |
 |---------|------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0.0     | 12/04/2025 | Andreow Santiago | Creacion del documento                                                                                                                           |
-| 0.1     | 15/04/2025 | Alison Arrieta   | Se completa el capitulo I siguiendo las mejoras del profesor                                                                                     |
-| 0.2     | 25/04/2025 | Axel Ordoñez     | Se aplican mejoras a las seccion del capitulo I y II siendo especificamente Journey Mapping, Entrevistas y competidores                          |
-| 0.3     | 28/04/2025 | Andreow Santiago | Se realiza un review a los mockupc y wireframes                                                                                                  |
-| 0.4     | 01/05/2025 | Brayan Ccarita   | Realiza cambios en diagramas de clases y user flow                                                                                               |
-| 0.5     | 05/05/2025 | Fabrizio Panta   | Se realizan cambios en el capitulo IV siendo especificamente en el style guidelines, se mejora la redaccion y se agregan imagenes de los mockups |
-| 0.6     | 06/05/2025 | Andreow Santiago | Se realizan cambios a la investigacion y el lean UX                                                                                              |
-| 0.7     | 07/05/2025 | Alison Arrieta   | Se realizan cambios a toda la seccion 5.1                                                                                                        |
-| 0.8     | 13/05/2025 | Andreow Santiago | Se realizan mejoras a la redaccion y se agregan imagenes de los mockups                                                                          |
-| 1.1     | 17/05/2025 | Alex Ordoñez     | Realiza correciones observadas en clase                                                                                                          |
-| 1.2     | 19/05/2025 | Fabrizio Panta   | Finaliza el proceso Lean UX corregido                                                                                                            |
-| 1.3     | 21/05/2025 | Andreow Santiago | Se realizan correcciones de redaccion y se agrega el capitulo V                                                                                  |
-| 1.4     | 22/05/2025 | Andreow Santiago | Se realizan cambios en la seccion de entrevistas 2.2.2                                                                                           |
-| 1.5     | 25/05/2025 | Alison Arrieta   | Realiza correciones observadas en user personas                                                                                                  |
-| 1.6     | 25/05/2025 | Brayan Ccarita   | Realiza cambios en la bibliografia, cambio de forrmato APA                                                                                       |
-| 1.7     | 28/05/2025 | Axel ordoñez     | Realiza cambios en los user stories                                                                                                              |
-| 1.8     | 29/05/2025 | Fabrizio Panta   | Se realizan cambios en la seccion de user flow                                                                                                   |
-| 1.9     | 30/05/2025 | Brayan Ccarita   | Actualizacion de los diagramas C4 model                                                                                                          |
+| 0.0     | 07/04/2025 | Andreow Santiago | Creacion del documento                                                                                                                           |
+| 0.1     | 13/04/2025 | Alison Arrieta   | Se completa el capitulo I siguiendo las mejoras del profesor                                                                                     |
+| 0.2     | 17/04/2025 | Axel Ordoñez     | Se aplican mejoras a las seccion del capitulo I y II siendo especificamente Journey Mapping, Entrevistas y competidores                          |
+| 0.3     | 21/04/2025 | Andreow Santiago | Se realiza un review a los mockupc y wireframes                                                                                                  |
+| 0.4     | 23/04/2025 | Brayan Ccarita   | Realiza cambios en diagramas de clases y user flow                                                                                               |
+| 0.5     | 26/04/2025 | Fabrizio Panta   | Se realizan cambios en el capitulo IV siendo especificamente en el style guidelines, se mejora la redaccion y se agregan imagenes de los mockups |
+| 0.6     | 27/04/2025 | Andreow Santiago | Se realizan cambios a la investigacion y el lean UX                                                                                              |
+| 0.7     | 28/04/2025 | Alison Arrieta   | Se realizan cambios a toda la seccion 5.1                                                                                                        |
+| 0.8     | 28/05/2025 | Andreow Santiago | Se realizan mejoras a la redaccion y se agregan imagenes de los mockups                                                                          |
+| 1.1     | 01/05/2025 | Alex Ordoñez     | Realiza correciones observadas en clase                                                                                                          |
+| 1.2     | 18/05/2025 | Fabrizio Panta   | Finaliza el proceso Lean UX corregido                                                                                                            |
+| 1.3     | 18/05/2025 | Andreow Santiago | Se realizan correcciones de redaccion y se agrega el capitulo V                                                                                  |
+| 1.4     | 19/05/2025 | Andreow Santiago | Se realizan cambios en la seccion de entrevistas 2.2.2                                                                                           |
+| 1.5     | 19/05/2025 | Alison Arrieta   | Realiza correciones observadas en user personas                                                                                                  |
+| 1.6     | 20/05/2025 | Brayan Ccarita   | Realiza cambios en la bibliografia, cambio de forrmato APA                                                                                       |
+| 1.7     | 21/05/2025 | Axel ordoñez     | Realiza cambios en los user stories                                                                                                              |
+| 1.8     | 25/05/2025 | Fabrizio Panta   | Se realizan cambios en la seccion de user flow                                                                                                   |
+| 1.9     | 31/05/2025 | Brayan Ccarita   | Actualizacion de los diagramas C4 model                                                                                                          |
 | 1.10    | 01/06/2025 | Axel Ordoñez     | Se realizan cambios en la seccion de product backlog                                                                                             |
-|2.1     | 03/06/2025 | Andreow Santiago | Actualiza los impact map de los segmentos                                                                                                        |
-| 2.2     | 04/06/2025 | Alison Arrieta   | Realiza mejoras en los impact map                                                                                                                |
+|2.1     | 06/06/2025 | Andreow Santiago | Actualiza los impact map de los segmentos                                                                                                        |
+| 2.2     | 07/06/2025 | Alison Arrieta   | Realiza mejoras en los impact map                                                                                                                |
+
+
 
 
 
 # Project Report Collaboration Insights
-URL del repositorio: https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost
+En esta sección, el equipo presenta un análisis detallado de la colaboración realizada durante el desarrollo del informe del proyecto. A continuación,
+se describe el progreso alcanzado a lo largo de las distintas entregas (TB1, TP1 y TB2), 
+destacando tanto el trabajo individual como el esfuerzo colectivo, los commits realizados 
+y las evidencias gráficas del flujo colaborativo en GitHub.
+
+Este análisis tiene como finalidad mantener coherencia con el Registro de Versiones del 
+Informe , asegurando que cada actualización realizada en el documento haya sido respaldada 
+por cambios reales y colaborativos dentro del repositorio del proyecto.
+
+A través de esta sección, se podrá observar cómo todos los miembros del equipo han
+participado activamente en la elaboración del informe, contribuyendo en diferentes 
+capítulos, corrigiendo detalles, mejorando el diseño general y revisando contenido técnico,
+siempre bajo un enfoque colaborativo y organizado.
+
+URL del repositorio:
+https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost
+
+El equipo ha trabajado de forma colaborativa en el desarrollo del informe final,
+distribuyendo tareas de manera equitativa entre sus integrantes. Para garantizar 
+calidad, claridad y control de versiones, se han utilizado ramas específicas para 
+cada entrega (TB1, TP1, TB2) y se han implementado Pull Requests para revisar y validar los cambios antes de fusionarlos en la rama principal (develop o main).
+
+A continuación, se detalla el trabajo realizado durante cada entrega, acompañado de 
+evidencias visuales de participación en GitHub y un resumen de los principales commits 
+realizados por los miembros del equipo.
+
+## TB1
+
+Para la entrega del TB1, se dividieron las tareas por capítulo, asignando responsabilidades claras 
+a cada miembro del equipo. Cada integrante trabajó en su respectiva sección, siguiendo un flujo de 
+trabajo claro y colaborativo. Se utilizaron ramas específicas para cada tarea, y 
+los cambios fueron revisados mediante Pull Requests antes de fusionarse en la rama principal.
+
+### Actividad en GitHub - TB1 (Abril - Mayo 2025)
+
+Se muestra el gráfico de actividad en GitHub durante la preparación del TB1:
+
+![Gráfico de colaboración TB1](Assets/img/cover/GH%20-%20TB1%20period.png)
+
+### Commits para TB1
+
+![Commits de colaboración TB1](Assets/img/cover/TB1%20commits.png)
+
+
+Estos commits reflejan el progreso constante y la colaboración entre los miembros del equipo.
+
+### Coherencia con el Registro de Versiones del Informe
+
+Los cambios realizados durante la etapa del TB1 están documentados en las siguientes versiones del informe:
+
+| Versión | Fecha      | Autor            | Descripción de Modificación                                                                                                                      |
+|---------|------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.0     | 07/04/2025 | Andreow Santiago | Creación del documento                                                                                                                           |
+| 0.1     | 13/04/2025 | Alison Arrieta   | Se completa el capítulo I siguiendo las mejoras del profesor                                                                                     |
+| 0.2     | 17/04/2025 | Axel Ordoñez     | Se aplican mejoras a las secciones del capítulo I y II siendo específicamente Journey Mapping, Entrevistas y competidores                        |
+| 0.3     | 21/04/2025 | Andreow Santiago | Se realiza un review a los mockups y wireframes                                                                                                  |
+| 0.4     | 23/04/2025 | Brayan Ccarita   | Realiza cambios en diagramas de clases y user flow                                                                                               |
+| 0.5     | 26/04/2025 | Fabrizio Panta   | Se realizan cambios en el capítulo IV siendo específicamente en el style guidelines, se mejora la redacción y se agregan imágenes de los mockups |
+| 0.6     | 27/04/2025 | Andreow Santiago | Se realizan cambios a la investigación y el lean UX                                                                                              |
+| 0.7     | 28/04/2025 | Alison Arrieta   | Se realizan cambios a toda la sección 5.1                                                                                                        |
+
+Este historial de actualizaciones coincide con el trabajo realizado durante el TB1, mostrando cómo el equipo fue avanzando en la elaboración del informe de forma continua y colaborativa.
+
+## TP1
+Durante la entrega del TP1, el equipo continuó trabajando de forma 
+colaborativa, enfocándose en el desarrollo frontend del sistema y 
+la implementación técnica del producto. Se realizaron correcciones 
+basadas en retroalimentación recibida, se mejoraron artefactos 
+previos y se avanzó en la documentación funcional y técnica del proyecto.
+
+Al igual que en el TB1, se utilizaron ramas específicas para cada tarea y Pull Requests para revisar los cambios antes de fusionarlos en la rama principal (develop), asegurando calidad y control de versiones.
+
+### Actividad en GitHub - TP1 (Abril - Mayo 2025)
+Se muestra el gráfico de actividad en GitHub durante la preparación del TP1:
+
+![Gráfico de colaboración TP1](Assets/img/cover/GH%20-%20TP1%20period.png)
+
+### Commits para TP1
+
+![Commits de colaboración TP1](Assets/img/cover/TP1%20commits.png)
+
+Estos commits reflejan un trabajo constante y distribuido entre todos los miembros del equipo, con un enfoque en el desarrollo técnico, diseño UX/UI y mejora continua del informe.
+
+### Coherencia con el Registro de Versiones del Informe
+
+Los cambios realizados durante la etapa del **TP1** están documentados en las siguientes versiones del informe:
+
+| Versión | Fecha      | Autor            | Descripción de Modificación                                                                 |
+|--------|------------|------------------|-------------------------------------------------------------------------------------------|
+| 1.1    | 01/05/2025 | Alex Ordoñez     | Realiza correcciones observadas en clase                                                     |
+| 1.2    | 18/05/2025 | Fabrizio Panta   | Finaliza el proceso Lean UX corregido                                                       |
+| 1.3    | 18/05/2025 | Andreow Santiago | Se realizan correcciones de redacción y se agrega el Capítulo V                             |
+| 1.4    | 19/05/2025 | Andreow Santiago | Se realizan cambios en la sección de entrevistas 2.2.2                                      |
+| 1.5    | 19/05/2025 | Alison Arrieta   | Realiza correcciones observadas en user personas                                             |
+| 1.6    | 20/05/2025 | Brayan Ccarita   | Realiza cambios en la bibliografía, cambio de formato APA                                    |
+| 1.7    | 21/05/2025 | Axel Ordoñez     | Realiza cambios en los user stories                                                         |
+| 1.8    | 25/05/2025 | Fabrizio Panta   | Se realizan cambios en la sección de user flow                                              |
+| 1.9    | 31/05/2025 | Brayan Ccarita   | Actualización de los diagramas C4 model                                                    |
+| 1.10   | 01/06/2025 | Axel Ordoñez     | Se realizan cambios en la sección de product backlog                                         |
+
+Estas actualizaciones reflejan el trabajo técnico, colaborativo y documental realizado durante el TP1, mostrando cómo el equipo fue consolidando el producto final con un enfoque profesional y organizado.
+
+## TB2
+
+Para la entrega del TB2, el equipo continuó trabajando de manera colaborativa, enfocándose en mejorar y 
+expandir el informe basándose en la retroalimentación recibida del TP1. Se realizaron ajustes en varias secciones y se agregaron nuevos contenidos, como el registro de versiones actualizado y la sección de análisis de competidores.
+
+### Actividad en GitHub TB2 (Mayo - Junio 2025)
+
+### Commits para TB2
+
+### Coherencia con el Registro de Versiones del Informe
+
+
+
 
 
 # Contenido
-
-
 
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 
@@ -221,13 +336,41 @@ Con un enfoque inicial en el mercado hotelero de Lima, SoftCore aspira a convert
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
-La industria hotelera ha experimentado una notable evolución tecnológica, donde la implementación de soluciones digitales se ha vuelto crucial para mejorar tanto la eficiencia operativa como la experiencia del cliente. Inicialmente, los sistemas eran manuales, progresando hacia los Sistemas de Gestión de Propiedades (PMS) y, más tarde, a soluciones en la nube. Hoy en día, la inteligencia artificial (IA) está transformando el sector, optimizando procesos y personalizando la interacción con los huéspedes. Sin embargo, la adopción de estas tecnologías, especialmente en lugares como Lima, enfrenta desafíos relacionados con la inversión y la infraestructura (Analysis of Eco-Innovations in Peruvian Accommodation Establishments, 2023).
+La industria hotelera ha experimentado una notable evolución tecnológica, donde la implementación de 
+soluciones digitales se ha vuelto crucial para mejorar tanto la eficiencia operativa como la 
+experiencia del cliente. Inicialmente, los sistemas eran manuales, progresando hacia los Sistemas 
+de Gestión de Propiedades (PMS) y, más tarde, a soluciones en la nube. Hoy en día, la inteligencia 
+artificial (IA) está transformando el sector, optimizando procesos y personalizando la interacción
+con los huéspedes. Sin embargo, la adopción de estas tecnologías, especialmente en lugares como Lima, 
+enfrenta desafíos relacionados con la inversión y la infraestructura (Analysis of Eco-Innovations in
+Peruvian Accommodation Establishments, 2023).
 
-La personalización se ha convertido en una expectativa fundamental para los viajeros, quienes buscan experiencias adaptadas a sus preferencias. El Internet de las Cosas (IoT) juega un papel esencial al permitir la adaptación de las habitaciones a las necesidades individuales y al agilizar procesos como el check-in y el servicio en la habitación. A pesar de los beneficios, la implementación de IoT presenta retos como los costos iniciales y las preocupaciones de seguridad (Analysis of Eco-Innovations in Peruvian Accommodation Establishments, 2023).
+La personalización se ha convertido en una expectativa fundamental para los viajeros, quienes
+buscan experiencias adaptadas a sus preferencias. El Internet de las Cosas (IoT) juega un papel
+esencial al permitir la adaptación de las habitaciones a las necesidades individuales y al agilizar 
+procesos como el check-in y el servicio en la habitación. A pesar de los beneficios, la implementación 
+de IoT presenta retos como los costos iniciales y las preocupaciones de seguridad (Analysis of 
+Eco-Innovations in Peruvian Accommodation Establishments, 2023).
 
-La pandemia de COVID-19 generó una drástica caída en el turismo peruano, evidenciada en el desplome de las llegadas de huéspedes tanto nacionales como extranjeros en el año 2020. Los datos del MINCETUR muestran que los arribos de turistas nacionales se redujeron significativamente de 54.9 millones en 2019 a tan solo 34.6 millones en 2020, mientras que el turismo extranjero experimentó un descenso aún más alarmante, pasando de 8.3 millones a un mínimo histórico de 1.8 millones en el mismo periodo (MINCETUR, 2024). Si bien en los años posteriores se observa una tendencia de recuperación gradual en ambos segmentos, con un aumento constante en las cifras de arribos, aún no se alcanzan los niveles prepandemia, especialmente en el caso del turismo internacional. Esta situación resalta la necesidad de revitalizar el sector a través de la innovación, donde la Inteligencia Artificial (IA) y la domótica emergen como herramientas clave. La IA puede personalizar la experiencia del viajero, optimizar la gestión de recursos y predecir tendencias, mientras que la domótica puede mejorar la eficiencia y el confort en los alojamientos, ofreciendo experiencias más seguras, personalizadas y atractivas para los visitantes en la nueva normalidad.
+La pandemia de COVID-19 generó una drástica caída en el turismo peruano, evidenciada en el desplome 
+de las llegadas de huéspedes tanto nacionales como extranjeros en el año 2020. Los datos del MINCETUR
+muestran que los arribos de turistas nacionales se redujeron significativamente de 54.9 millones en 
+2019 a tan solo 34.6 millones en 2020, mientras que el turismo extranjero experimentó un descenso aún 
+más alarmante, pasando de 8.3 millones a un mínimo histórico de 1.8 millones en el mismo periodo 
+(MINCETUR, 2024). Si bien en los años posteriores se observa una tendencia de recuperación gradual
+en ambos segmentos, con un aumento constante en las cifras de arribos, aún no se alcanzan los niveles
+prepandemia, especialmente en el caso del turismo internacional. Esta situación resalta la necesidad 
+de revitalizar el sector a través de la innovación, donde la Inteligencia Artificial (IA) y la domótica
+emergen como herramientas clave. La IA puede personalizar la experiencia del viajero, optimizar 
+la gestión de recursos y predecir tendencias, mientras que la domótica puede mejorar la eficiencia 
+y el confort en los alojamientos, ofreciendo experiencias más seguras, personalizadas y atractivas
+para los visitantes en la nueva normalidad.
 
-Por lo tanto, existe una necesidad continua de que los hoteles en Lima adopten e integren tecnologías avanzadas para personalizar la experiencia del huésped y mejorar la eficiencia. A pesar de los desafíos económicos y de infraestructura, la transformación digital y la adopción de IoT son fundamentales para satisfacer las expectativas de los turistas y mantener la competitividad en el mercado hotelero.
+Por lo tanto, existe una necesidad continua de que los hoteles en Lima adopten e integren tecnologías 
+avanzadas para personalizar la experiencia del huésped y mejorar la eficiencia. A pesar de 
+los desafíos económicos y de infraestructura, la transformación digital y la adopción de IoT 
+son fundamentales para satisfacer las expectativas de los turistas y mantener la competitividad 
+en el mercado hotelero.
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
