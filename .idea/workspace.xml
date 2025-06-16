@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8a6be43f-5238-44b9-844b-d0f9716002fb" name="Changes" comment="feat:  add new styles to the landing page.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/README.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.us.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +41,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "chore/remove-unneeded-files",
+    "git-widget-placeholder": "feature/project-report-collaboration-insights",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -79,6 +71,7 @@
       <workItem from="1749277971330" duration="604000" />
       <workItem from="1749278613928" duration="49000" />
       <workItem from="1749341432333" duration="8082000" />
+      <workItem from="1750030095871" duration="5675000" />
     </task>
     <task id="LOCAL-00001" summary="feat:  add new styles to the landing page.">
       <option name="closed" value="true" />

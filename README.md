@@ -15,14 +15,10 @@
 #### Product: **CustomHost**
 
 </center>
-<center>
+
 
 ### <center>Team  Members:</center>
-</center>  
-
-<center>
-
-
+ 
 | Member                           | Code       |
 |----------------------------------|------------|
 | Ordoñez Ricaldi, Axel Randall    | U202216827 |
@@ -31,7 +27,7 @@
 | Arrieta Quispe, Alison Jimena    | U202312031 |
 | Santiago Peña, Andreow Jomark    | U202317362 |
 
-</center>  
+  
 <center>
 <br> ABRIL 2025
 </center>  
@@ -68,29 +64,11 @@
 
 
 
-
 # Project Report Collaboration Insights
 En esta sección, el equipo presenta un análisis detallado de la colaboración realizada durante el desarrollo del informe del proyecto. A continuación,
 se describe el progreso alcanzado a lo largo de las distintas entregas (TB1, TP1 y TB2), 
 destacando tanto el trabajo individual como el esfuerzo colectivo, los commits realizados 
 y las evidencias gráficas del flujo colaborativo en GitHub.
-
-Este análisis tiene como finalidad mantener coherencia con el Registro de Versiones del 
-Informe , asegurando que cada actualización realizada en el documento haya sido respaldada 
-por cambios reales y colaborativos dentro del repositorio del proyecto.
-
-A través de esta sección, se podrá observar cómo todos los miembros del equipo han
-participado activamente en la elaboración del informe, contribuyendo en diferentes 
-capítulos, corrigiendo detalles, mejorando el diseño general y revisando contenido técnico,
-siempre bajo un enfoque colaborativo y organizado.
-
-URL del repositorio:
-https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost
-
-El equipo ha trabajado de forma colaborativa en el desarrollo del informe final,
-distribuyendo tareas de manera equitativa entre sus integrantes. Para garantizar 
-calidad, claridad y control de versiones, se han utilizado ramas específicas para 
-cada entrega (TB1, TP1, TB2) y se han implementado Pull Requests para revisar y validar los cambios antes de fusionarlos en la rama principal (develop o main).
 
 A continuación, se detalla el trabajo realizado durante cada entrega, acompañado de 
 evidencias visuales de participación en GitHub y un resumen de los principales commits 
@@ -98,10 +76,21 @@ realizados por los miembros del equipo.
 
 ## TB1
 
-Para la entrega del TB1, se dividieron las tareas por capítulo, asignando responsabilidades claras 
-a cada miembro del equipo. Cada integrante trabajó en su respectiva sección, siguiendo un flujo de 
-trabajo claro y colaborativo. Se utilizaron ramas específicas para cada tarea, y 
-los cambios fueron revisados mediante Pull Requests antes de fusionarse en la rama principal.
+La entrega del TB1 finalizó con éxito y está documentada en el repositorio de Github perteneciente a la organización del equipo:
+[Reporte del proyecto de CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+
+Durante el desarrollo del informe, se siguieron los siguientes lineamientos:
+
+- Los contenidos asignados a cada miembro fueron redactados y estructurados utilizando el formato Markdown , asegurando una presentación clara y estandarizada.
+- Cada cambio realizado fue respaldado mediante commits en el repositorio, garantizando trazabilidad y control de versiones del avance del proyecto.
+- Se crearon los artefactos necesarios utilizando las herramientas recomendadas. Las imágenes utilizadas fueron obtenidas a través de la carpeta assets o publicadas desde Imgur , para su correcta integración en el informe.
+- Se realizaron reuniones periódicas para coordinar el avance de los elementos del informe y reportar los progresos del Sprint 1, centrado en la definición inicial del alcance del proyecto y el diseño preliminar del sistema.
+
+### Coherencia con el Registro de Versiones del Informe
+Los cambios realizados durante esta etapa están alineados con la evolución del documento, reflejando el trabajo colaborativo y constante refinamiento del contenido por parte del equipo.
+
+Este historial de actualizaciones coincide con el trabajo desarrollado durante el TB1, mostrando cómo el equipo fue avanzando en la elaboración del informe de forma continua y colaborativa.
+
 
 ### Actividad en GitHub - TB1 (Abril - Mayo 2025)
 
@@ -110,67 +99,67 @@ Se muestra el gráfico de actividad en GitHub durante la preparación del TB1:
 ![Gráfico de colaboración TB1](Assets/img/cover/GH%20-%20TB1%20period.png)
 
 ### Commits para TB1
+Estos commits reflejan el progreso constante y la colaboración entre los miembros del equipo.
 
 ![Commits de colaboración TB1](Assets/img/cover/TB1%20commits.png)
 
+### Network graph para TB1
 
-Estos commits reflejan el progreso constante y la colaboración entre los miembros del equipo.
+![Network Graph](Assets/img/cover/network-tb1.png)
 
-### Coherencia con el Registro de Versiones del Informe
-
-Los cambios realizados durante la etapa del TB1 están documentados en las siguientes versiones del informe:
-
-| Versión | Fecha      | Autor            | Descripción de Modificación                                                                                                                      |
-|---------|------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0.0     | 07/04/2025 | Andreow Santiago | Creación del documento                                                                                                                           |
-| 0.1     | 13/04/2025 | Alison Arrieta   | Se completa el capítulo I siguiendo las mejoras del profesor                                                                                     |
-| 0.2     | 17/04/2025 | Axel Ordoñez     | Se aplican mejoras a las secciones del capítulo I y II siendo específicamente Journey Mapping, Entrevistas y competidores                        |
-| 0.3     | 21/04/2025 | Andreow Santiago | Se realiza un review a los mockups y wireframes                                                                                                  |
-| 0.4     | 23/04/2025 | Brayan Ccarita   | Realiza cambios en diagramas de clases y user flow                                                                                               |
-| 0.5     | 26/04/2025 | Fabrizio Panta   | Se realizan cambios en el capítulo IV siendo específicamente en el style guidelines, se mejora la redacción y se agregan imágenes de los mockups |
-| 0.6     | 27/04/2025 | Andreow Santiago | Se realizan cambios a la investigación y el lean UX                                                                                              |
-| 0.7     | 28/04/2025 | Alison Arrieta   | Se realizan cambios a toda la sección 5.1                                                                                                        |
-
-Este historial de actualizaciones coincide con el trabajo realizado durante el TB1, mostrando cómo el equipo fue avanzando en la elaboración del informe de forma continua y colaborativa.
 
 ## TP1
-Durante la entrega del TP1, el equipo continuó trabajando de forma 
-colaborativa, enfocándose en el desarrollo frontend del sistema y 
-la implementación técnica del producto. Se realizaron correcciones 
-basadas en retroalimentación recibida, se mejoraron artefactos 
-previos y se avanzó en la documentación funcional y técnica del proyecto.
+Durante la entrega del TP1, el equipo continuó trabajando de forma colaborativa, centrando sus esfuerzos en el desarrollo frontend del sistema y en la implementación técnica del producto. A continuación, se detallan los aspectos clave del avance realizado:
 
-Al igual que en el TB1, se utilizaron ramas específicas para cada tarea y Pull Requests para revisar los cambios antes de fusionarlos en la rama principal (develop), asegurando calidad y control de versiones.
+- Se realizaron correcciones basadas en retroalimentación recibida, mejorando tanto el diseño como la funcionalidad del sistema.
+- Se mejoraron artefactos previos, asegurando calidad y coherencia en la documentación.
+- Se avanzó significativamente en la documentación funcional y técnica del proyecto, integrando ajustes realizados durante las revisiones.
+
+
+Aquí está el link del repositorio del frontend del proyecto:
+[Repositorio del Front-end de CustomHost](https://https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend)
+ y el del reporte del proyecto:
+[Reporte del proyecto de CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+
+Tal como se hizo durante el TB1, se siguió un flujo de trabajo estructurado utilizando 
+ramas específicas para cada tarea. Los cambios fueron revisados mediante Pull Requests 
+antes de ser fusionados en la rama principal (develop). Este proceso permitió 
+garantizar calidad en el código, así como mantener un control claro y 
+trazable del aporte de cada integrante al desarrollo del proyecto.
+
 
 ### Actividad en GitHub - TP1 (Abril - Mayo 2025)
 Se muestra el gráfico de actividad en GitHub durante la preparación del TP1:
 
+Reporte del proyecto:
+
 ![Gráfico de colaboración TP1](Assets/img/cover/GH%20-%20TP1%20period.png)
 
+Aplicacion frontend del proyecto:
+
+![Gráfico de colaboración TP1 Frontend](Assets/img/cover/gh-frontend-tp1-period.png)
+
 ### Commits para TP1
+Reporte del proyecto:
 
 ![Commits de colaboración TP1](Assets/img/cover/TP1%20commits.png)
 
+Aplicacion frontend del proyecto:
+
+![Commits de colaboración TP1 Frontend](Assets/img/cover/gh-frontend-tp1-commits.png)
+
 Estos commits reflejan un trabajo constante y distribuido entre todos los miembros del equipo, con un enfoque en el desarrollo técnico, diseño UX/UI y mejora continua del informe.
 
-### Coherencia con el Registro de Versiones del Informe
+### Network graph para TP1
+Reporte del proyecto:
 
-Los cambios realizados durante la etapa del **TP1** están documentados en las siguientes versiones del informe:
+![Network Graph](Assets/img/cover/network-tp1.png)
 
-| Versión | Fecha      | Autor            | Descripción de Modificación                                                                 |
-|--------|------------|------------------|-------------------------------------------------------------------------------------------|
-| 1.1    | 01/05/2025 | Alex Ordoñez     | Realiza correcciones observadas en clase                                                     |
-| 1.2    | 18/05/2025 | Fabrizio Panta   | Finaliza el proceso Lean UX corregido                                                       |
-| 1.3    | 18/05/2025 | Andreow Santiago | Se realizan correcciones de redacción y se agrega el Capítulo V                             |
-| 1.4    | 19/05/2025 | Andreow Santiago | Se realizan cambios en la sección de entrevistas 2.2.2                                      |
-| 1.5    | 19/05/2025 | Alison Arrieta   | Realiza correcciones observadas en user personas                                             |
-| 1.6    | 20/05/2025 | Brayan Ccarita   | Realiza cambios en la bibliografía, cambio de formato APA                                    |
-| 1.7    | 21/05/2025 | Axel Ordoñez     | Realiza cambios en los user stories                                                         |
-| 1.8    | 25/05/2025 | Fabrizio Panta   | Se realizan cambios en la sección de user flow                                              |
-| 1.9    | 31/05/2025 | Brayan Ccarita   | Actualización de los diagramas C4 model                                                    |
-| 1.10   | 01/06/2025 | Axel Ordoñez     | Se realizan cambios en la sección de product backlog                                         |
+Aplicacion frontend del proyecto:
 
-Estas actualizaciones reflejan el trabajo técnico, colaborativo y documental realizado durante el TP1, mostrando cómo el equipo fue consolidando el producto final con un enfoque profesional y organizado.
+![Network Graph Frontend](Assets/img/cover/network-tp1-frontend.png)
+
+
 
 ## TB2
 
@@ -310,10 +299,10 @@ expandir el informe basándose en la retroalimentación recibida del TP1. Se rea
 
 # Student Outcome
 
-| Criterio Específico | Acciones Realizadas | Conclusiones |
-|---|---|---|
-| <p style="text-align:left; margin-top: 0;">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</p> |  **Axel Ordoñez:** <br> **TB1:** Colaboró activamente en la planificación del proyecto, especialmente en las secciones relacionadas con Lean UX Process, análisis de competidores, To-Be Scenario Mapping y diagramas técnicos (contenedores, contexto y base de datos). Ayudó a revisar y mejorar partes del informe antes de la entrega final. <br> **TP1:** Participó en el desarrollo frontend del sistema, colaboró en la versión corregida y mejorada de artefactos previos, y apoyó en la documentación técnica del producto. Además, contribuyó en la evidencia de desarrollo, ejecución y despliegue del sistema. <br> **Fabrizio Panta:** <br> **TB1:** Realizó entrevistas, empathy map, user task matrix, product backlog e impact map. También participó en la definición de style guidelines, diseño de wireframes y mockups del frontend web application. <br> **TP1:** Desarrolló componentes clave del frontend, implementó correcciones basadas en retroalimentación recibida, y trabajó en la documentación visual del diseño UX/UI, incluyendo wireframes actualizados y user flow mejorados. <br> **Roberto Ccarita:** <br> **TB1:** Contribuyó en la elaboración de User Personas, Empathy Map y análisis competitivo. Apoyó en el diseño del landing page y su posterior despliegue. <br> **TP1:** Desarrolló componentes asignados del frontend, aplicó correcciones al report project y ayudó a mantener una dinámica colaborativa dentro del equipo durante el desarrollo del TP1. <br> **Alison Arrieta:** <br> **TB1:** Participó en la investigación de competidores, redacción de entrevistas, diseño del landing page y su despliegue inicial. <br> **TP1:** Lideró la mejora del landing page, integró feedback del TB1 y colaboró en la conexión entre diseño UX/UI y funcionalidades desarrolladas en el frontend. <br> **Andreow Santiago:** <br> **TB1:** Contribuyó en la definición de Needfinding, Ubiquitous Language y diseño UX/UI del sistema. Participó en la planificación de sprints iniciales y en la organización de tareas. <br> **TP1:** Implementó user stories en el frontend, trabajó en la conexión entre diseño y lógica funcional, y aplicó correcciones técnicas para mejorar la calidad del producto entregado. | <p style="text-align:left; margin-top: 0;">Durante los entregables TB1 y TP1, todos los integrantes demostraron habilidades efectivas de trabajo en equipo, combinando esfuerzos individuales para lograr un liderazgo compartido. Si bien uno de los miembros asumió formalmente el rol de coordinador, todos aportaron desde sus áreas de especialización, promoviendo una dinámica colaborativa que permitió avanzar ordenadamente en el desarrollo del proyecto. La capacidad de escuchar, delegar y apoyarse mutuamente fue clave para superar desafíos técnicos y organizativos. </p>
-| <p style="text-align:left; margin-top: 0;">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</p> | **Axel Ordoñez:** <br> **TB1:** Estableció metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudó a distribuir tareas entre los compañeros y aseguró que todos tuvieran acceso a información relevante. <br> **TP1:** Revisó y actualizó la planificación del equipo tras recibir retroalimentación, asegurándose de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2. <br> **Fabrizio Panta:** <br> **TB1:** Colaboró en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Su participación fue clave para estructurar las primeras versiones del frontend. <br> **TP1:** Ajustó la planificación del equipo para adaptarse a nuevas necesidades, supervisó el cumplimiento de tareas asignadas y reforzó el ambiente colaborativo mediante reuniones constantes y revisiones grupales. <br> **Brayan Ccarita:** <br> **TB1:** Ayudó en la planificación de aspectos visuales del producto y colaboró en la mejora del landing page. Participó en reuniones de seguimiento para asegurar el avance del equipo. <br> **TP1:** Cumplió con sus tareas técnicas asignadas, ayudó a mantener reuniones efectivas y propuso soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes. <br> **Alison Arrieta:** <br> **TB1:** Fue clave en la definición de metas relacionadas con la experiencia de usuario. Trabajó en la planificación del diseño del sistema y aseguró que cada miembro comprendiera su rol en el avance del proyecto. <br> **TP1:** Refinó el diseño del landing page, ayudó a priorizar tareas del frontend y fomentó un entorno colaborativo y respetuoso dentro del equipo. <br> **Andreow Santiago:** <br> **TB1:** Ayudó a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participó en la planificación de sprints iniciales. <br> **TP1:** Se encargó de priorizar tareas técnicas, aplicó correcciones del TB1 y mantuvo una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint. | <p style="text-align:left; margin-top: 0;">El equipo logró crear un entorno colaborativo e inclusivo donde cada miembro pudo participar activamente en la planificación y ejecución de tareas. Las metas fueron claramente definidas desde el inicio y se trabajó con compromiso para alcanzarlas. La distribución equitativa de roles, el seguimiento constante y la adaptación a nuevas necesidades permitieron cumplir los objetivos establecidos tanto en TB1 como en TP1. Este enfoque colaborativo sentó las bases para futuros entregables, consolidando una dinámica sólida y profesional dentro del equipo.</p> |
+| Criterio Específico                                                                                                                            | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Conclusiones |
+|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| <p style="text-align:left; margin-top: 0;">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</p> | **Axel Ordoñez:** <br><strong>TB1:</strong> Establecimos metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudamos a distribuir tareas entre los compañeros y aseguramos que todos tuvieran acceso a información relevante. <br><strong>TP1:</strong> Revisamos y actualizamos la planificación del equipo tras recibir retroalimentación, asegurándonos de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2. <br><br><strong>Fabrizio Panta:</strong> <br><strong>TB1:</strong> Colaboramos en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Nuestra participación fue clave para estructurar las primeras versiones del frontend. <br><strong>TP1:</strong> Ajustamos la planificación del equipo para adaptarnos a nuevas necesidades, supervisamos el cumplimiento de tareas asignadas y reforzamos el ambiente colaborativo mediante reuniones constantes y revisiones grupales. <br><br><strong>Brayan Ccarita:</strong> <br><strong>TB1:</strong> Ayudamos en la planificación de aspectos visuales del producto y colaboramos en la mejora del landing page. Participamos en reuniones de seguimiento para asegurar el avance del equipo. <br><strong>TP1:</strong> Cumplimos con nuestras tareas técnicas asignadas, ayudamos a mantener reuniones efectivas y propusimos soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes. <br><br><strong>Alison Arrieta:</strong> <br><strong>TB1:</strong> Fuimos clave en la definición de metas relacionadas con la experiencia de usuario. Trabajamos en la planificación del diseño del sistema y aseguramos que cada miembro comprendiera su rol en el avance del proyecto. <br><strong>TP1:</strong> Refinamos el diseño del landing page, ayudamos a priorizar tareas del frontend y fomentamos un entorno colaborativo y respetuoso dentro del equipo. <br><br><strong>Andreow Santiago:</strong> <br><strong>TB1:</strong> Ayudamos a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participamos en la planificación de sprints iniciales. <br><strong>TP1:</strong> Nos encargamos de priorizar tareas técnicas, aplicamos correcciones del TB1 y mantuvimos una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint. | <p style="text-align:left; margin-top: 0;"><strong>TB1:</strong> Desde el inicio del proyecto, trabajamos en equipo distribuyendo roles y responsabilidades de manera equitativa. Aportamos desde nuestras áreas de especialización para construir una base sólida del sistema, promoviendo una dinámica colaborativa e inclusiva. <br><strong>TP1:</strong> En esta etapa, consolidamos el liderazgo compartido dentro del equipo. Coordinamos esfuerzos, revisamos nuestro progreso y ajustamos estrategias según las necesidades del proyecto, logrando avanzar de forma organizada y profesional hacia los objetivos técnicos y de diseño.</p> |
+| <p style="text-align:left; margin-top: 0;">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</p> | **Axel Ordoñez:** <br><strong>TB1:</strong> Establecimos metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudamos a distribuir tareas entre los compañeros y aseguramos que todos tuvieran acceso a información relevante. <br><strong>TP1:</strong> Revisamos y actualizamos la planificación del equipo tras recibir retroalimentación, asegurándonos de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2. <br><br><strong>Fabrizio Panta:</strong> <br><strong>TB1:</strong> Colaboramos en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Nuestra participación fue clave para estructurar las primeras versiones del frontend. <br><strong>TP1:</strong> Ajustamos la planificación del equipo para adaptarnos a nuevas necesidades, supervisamos el cumplimiento de tareas asignadas y reforzamos el ambiente colaborativo mediante reuniones constantes y revisiones grupales. <br><br><strong>Brayan Ccarita:</strong> <br><strong>TB1:</strong> Ayudamos en la planificación de aspectos visuales del producto y colaboramos en la mejora del landing page. Participamos en reuniones de seguimiento para asegurar el avance del equipo. <br><strong>TP1:</strong> Cumplimos con nuestras tareas técnicas asignadas, ayudamos a mantener reuniones efectivas y propusimos soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes. <br><br><strong>Alison Arrieta:</strong> <br><strong>TB1:</strong> Fuimos clave en la definición de metas relacionadas con la experiencia de usuario. Trabajamos en la planificación del diseño del sistema y aseguramos que cada miembro comprendiera su rol en el avance del proyecto. <br><strong>TP1:</strong> Refinamos el diseño del landing page, ayudamos a priorizar tareas del frontend y fomentamos un entorno colaborativo y respetuoso dentro del equipo. <br><br><strong>Andreow Santiago:</strong> <br><strong>TB1:</strong> Ayudamos a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participamos en la planificación de sprints iniciales. <br><strong>TP1:</strong> Nos encargamos de priorizar tareas técnicas, aplicamos correcciones del TB1 y mantuvimos una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint. | <p style="text-align:left; margin-top: 0;"><strong>TB1:</strong> Creamos desde el inicio un entorno colaborativo e inclusivo, con metas bien definidas y una distribución clara de roles. Cada integrante participó activamente en la planificación y ejecución de tareas, sentando las bases para un trabajo organizado y funcional. <br><strong>TP1:</strong> Consolidamos esa dinámica de trabajo, mejoramos procesos según la retroalimentación recibida y logramos avanzar de forma coordinada en el desarrollo frontend y la documentación técnica. La comunicación constante, la adaptabilidad y el compromiso nos permitieron cumplir con los objetivos técnicos y de diseño establecidos.</p> |
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
