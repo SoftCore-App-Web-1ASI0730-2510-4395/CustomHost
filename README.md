@@ -15,14 +15,10 @@
 #### Product: **CustomHost**
 
 </center>
-<center>
+
 
 ### <center>Team  Members:</center>
-</center>  
-
-<center>
-
-
+ 
 | Member                           | Code       |
 |----------------------------------|------------|
 | Ordoñez Ricaldi, Axel Randall    | U202216827 |
@@ -31,7 +27,7 @@
 | Arrieta Quispe, Alison Jimena    | U202312031 |
 | Santiago Peña, Andreow Jomark    | U202317362 |
 
-</center>  
+  
 <center>
 <br> ABRIL 2025
 </center>  
@@ -68,29 +64,11 @@
 
 
 
-
 # Project Report Collaboration Insights
 En esta sección, el equipo presenta un análisis detallado de la colaboración realizada durante el desarrollo del informe del proyecto. A continuación,
 se describe el progreso alcanzado a lo largo de las distintas entregas (TB1, TP1 y TB2), 
 destacando tanto el trabajo individual como el esfuerzo colectivo, los commits realizados 
 y las evidencias gráficas del flujo colaborativo en GitHub.
-
-Este análisis tiene como finalidad mantener coherencia con el Registro de Versiones del 
-Informe , asegurando que cada actualización realizada en el documento haya sido respaldada 
-por cambios reales y colaborativos dentro del repositorio del proyecto.
-
-A través de esta sección, se podrá observar cómo todos los miembros del equipo han
-participado activamente en la elaboración del informe, contribuyendo en diferentes 
-capítulos, corrigiendo detalles, mejorando el diseño general y revisando contenido técnico,
-siempre bajo un enfoque colaborativo y organizado.
-
-URL del repositorio:
-https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost
-
-El equipo ha trabajado de forma colaborativa en el desarrollo del informe final,
-distribuyendo tareas de manera equitativa entre sus integrantes. Para garantizar 
-calidad, claridad y control de versiones, se han utilizado ramas específicas para 
-cada entrega (TB1, TP1, TB2) y se han implementado Pull Requests para revisar y validar los cambios antes de fusionarlos en la rama principal (develop o main).
 
 A continuación, se detalla el trabajo realizado durante cada entrega, acompañado de 
 evidencias visuales de participación en GitHub y un resumen de los principales commits 
@@ -98,10 +76,21 @@ realizados por los miembros del equipo.
 
 ## TB1
 
-Para la entrega del TB1, se dividieron las tareas por capítulo, asignando responsabilidades claras 
-a cada miembro del equipo. Cada integrante trabajó en su respectiva sección, siguiendo un flujo de 
-trabajo claro y colaborativo. Se utilizaron ramas específicas para cada tarea, y 
-los cambios fueron revisados mediante Pull Requests antes de fusionarse en la rama principal.
+La entrega del TB1 finalizó con éxito y está documentada en el repositorio de Github perteneciente a la organización del equipo:
+[Reporte del proyecto de CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+
+Durante el desarrollo del informe, se siguieron los siguientes lineamientos:
+
+- Los contenidos asignados a cada miembro fueron redactados y estructurados utilizando el formato Markdown , asegurando una presentación clara y estandarizada.
+- Cada cambio realizado fue respaldado mediante commits en el repositorio, garantizando trazabilidad y control de versiones del avance del proyecto.
+- Se crearon los artefactos necesarios utilizando las herramientas recomendadas. Las imágenes utilizadas fueron obtenidas a través de la carpeta assets o publicadas desde Imgur , para su correcta integración en el informe.
+- Se realizaron reuniones periódicas para coordinar el avance de los elementos del informe y reportar los progresos del Sprint 1, centrado en la definición inicial del alcance del proyecto y el diseño preliminar del sistema.
+
+### Coherencia con el Registro de Versiones del Informe
+Los cambios realizados durante esta etapa están alineados con la evolución del documento, reflejando el trabajo colaborativo y constante refinamiento del contenido por parte del equipo.
+
+Este historial de actualizaciones coincide con el trabajo desarrollado durante el TB1, mostrando cómo el equipo fue avanzando en la elaboración del informe de forma continua y colaborativa.
+
 
 ### Actividad en GitHub - TB1 (Abril - Mayo 2025)
 
@@ -110,67 +99,67 @@ Se muestra el gráfico de actividad en GitHub durante la preparación del TB1:
 ![Gráfico de colaboración TB1](Assets/img/cover/GH%20-%20TB1%20period.png)
 
 ### Commits para TB1
+Estos commits reflejan el progreso constante y la colaboración entre los miembros del equipo.
 
 ![Commits de colaboración TB1](Assets/img/cover/TB1%20commits.png)
 
+### Network graph para TB1
 
-Estos commits reflejan el progreso constante y la colaboración entre los miembros del equipo.
+![Network Graph](Assets/img/cover/network-tb1.png)
 
-### Coherencia con el Registro de Versiones del Informe
-
-Los cambios realizados durante la etapa del TB1 están documentados en las siguientes versiones del informe:
-
-| Versión | Fecha      | Autor            | Descripción de Modificación                                                                                                                      |
-|---------|------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0.0     | 07/04/2025 | Andreow Santiago | Creación del documento                                                                                                                           |
-| 0.1     | 13/04/2025 | Alison Arrieta   | Se completa el capítulo I siguiendo las mejoras del profesor                                                                                     |
-| 0.2     | 17/04/2025 | Axel Ordoñez     | Se aplican mejoras a las secciones del capítulo I y II siendo específicamente Journey Mapping, Entrevistas y competidores                        |
-| 0.3     | 21/04/2025 | Andreow Santiago | Se realiza un review a los mockups y wireframes                                                                                                  |
-| 0.4     | 23/04/2025 | Brayan Ccarita   | Realiza cambios en diagramas de clases y user flow                                                                                               |
-| 0.5     | 26/04/2025 | Fabrizio Panta   | Se realizan cambios en el capítulo IV siendo específicamente en el style guidelines, se mejora la redacción y se agregan imágenes de los mockups |
-| 0.6     | 27/04/2025 | Andreow Santiago | Se realizan cambios a la investigación y el lean UX                                                                                              |
-| 0.7     | 28/04/2025 | Alison Arrieta   | Se realizan cambios a toda la sección 5.1                                                                                                        |
-
-Este historial de actualizaciones coincide con el trabajo realizado durante el TB1, mostrando cómo el equipo fue avanzando en la elaboración del informe de forma continua y colaborativa.
 
 ## TP1
-Durante la entrega del TP1, el equipo continuó trabajando de forma 
-colaborativa, enfocándose en el desarrollo frontend del sistema y 
-la implementación técnica del producto. Se realizaron correcciones 
-basadas en retroalimentación recibida, se mejoraron artefactos 
-previos y se avanzó en la documentación funcional y técnica del proyecto.
+Durante la entrega del TP1, el equipo continuó trabajando de forma colaborativa, centrando sus esfuerzos en el desarrollo frontend del sistema y en la implementación técnica del producto. A continuación, se detallan los aspectos clave del avance realizado:
 
-Al igual que en el TB1, se utilizaron ramas específicas para cada tarea y Pull Requests para revisar los cambios antes de fusionarlos en la rama principal (develop), asegurando calidad y control de versiones.
+- Se realizaron correcciones basadas en retroalimentación recibida, mejorando tanto el diseño como la funcionalidad del sistema.
+- Se mejoraron artefactos previos, asegurando calidad y coherencia en la documentación.
+- Se avanzó significativamente en la documentación funcional y técnica del proyecto, integrando ajustes realizados durante las revisiones.
+
+
+Aquí está el link del repositorio del frontend del proyecto:
+[Repositorio del Front-end de CustomHost](https://https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend)
+ y el del reporte del proyecto:
+[Reporte del proyecto de CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+
+Tal como se hizo durante el TB1, se siguió un flujo de trabajo estructurado utilizando 
+ramas específicas para cada tarea. Los cambios fueron revisados mediante Pull Requests 
+antes de ser fusionados en la rama principal (develop). Este proceso permitió 
+garantizar calidad en el código, así como mantener un control claro y 
+trazable del aporte de cada integrante al desarrollo del proyecto.
+
 
 ### Actividad en GitHub - TP1 (Abril - Mayo 2025)
 Se muestra el gráfico de actividad en GitHub durante la preparación del TP1:
 
+Reporte del proyecto:
+
 ![Gráfico de colaboración TP1](Assets/img/cover/GH%20-%20TP1%20period.png)
 
+Aplicacion frontend del proyecto:
+
+![Gráfico de colaboración TP1 Frontend](Assets/img/cover/gh-frontend-tp1-period.png)
+
 ### Commits para TP1
+Reporte del proyecto:
 
 ![Commits de colaboración TP1](Assets/img/cover/TP1%20commits.png)
 
+Aplicacion frontend del proyecto:
+
+![Commits de colaboración TP1 Frontend](Assets/img/cover/gh-frontend-tp1-commits.png)
+
 Estos commits reflejan un trabajo constante y distribuido entre todos los miembros del equipo, con un enfoque en el desarrollo técnico, diseño UX/UI y mejora continua del informe.
 
-### Coherencia con el Registro de Versiones del Informe
+### Network graph para TP1
+Reporte del proyecto:
 
-Los cambios realizados durante la etapa del **TP1** están documentados en las siguientes versiones del informe:
+![Network Graph](Assets/img/cover/network-tp1.png)
 
-| Versión | Fecha      | Autor            | Descripción de Modificación                                                                 |
-|--------|------------|------------------|-------------------------------------------------------------------------------------------|
-| 1.1    | 01/05/2025 | Alex Ordoñez     | Realiza correcciones observadas en clase                                                     |
-| 1.2    | 18/05/2025 | Fabrizio Panta   | Finaliza el proceso Lean UX corregido                                                       |
-| 1.3    | 18/05/2025 | Andreow Santiago | Se realizan correcciones de redacción y se agrega el Capítulo V                             |
-| 1.4    | 19/05/2025 | Andreow Santiago | Se realizan cambios en la sección de entrevistas 2.2.2                                      |
-| 1.5    | 19/05/2025 | Alison Arrieta   | Realiza correcciones observadas en user personas                                             |
-| 1.6    | 20/05/2025 | Brayan Ccarita   | Realiza cambios en la bibliografía, cambio de formato APA                                    |
-| 1.7    | 21/05/2025 | Axel Ordoñez     | Realiza cambios en los user stories                                                         |
-| 1.8    | 25/05/2025 | Fabrizio Panta   | Se realizan cambios en la sección de user flow                                              |
-| 1.9    | 31/05/2025 | Brayan Ccarita   | Actualización de los diagramas C4 model                                                    |
-| 1.10   | 01/06/2025 | Axel Ordoñez     | Se realizan cambios en la sección de product backlog                                         |
+Aplicacion frontend del proyecto:
 
-Estas actualizaciones reflejan el trabajo técnico, colaborativo y documental realizado durante el TP1, mostrando cómo el equipo fue consolidando el producto final con un enfoque profesional y organizado.
+![Network Graph Frontend](Assets/img/cover/network-tp1-frontend.png)
+
+
 
 ## TB2
 
