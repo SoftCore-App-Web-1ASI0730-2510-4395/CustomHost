@@ -1770,16 +1770,28 @@ el wireframe de la Landing Page de CustomHost se ha diseñado para ofrecer una e
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-1.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-2.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-3.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-4.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-5.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-6.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-7.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-8.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-9.jpg)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/wireflow-10.jpg)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Login.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Create%20account.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Sidebar%20staff.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20-%20Management.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20-%20Management-1.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/IoT%20Room%20Configuration.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Add%20Iot%20Device.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Iot%20Device%20Setting.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Guest%20Request.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/New%20Guest%20Request.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Bookings%20Tracking.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Staff%20Member.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Administrator’s%20Profile.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Sidebar%20guest.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20Guest.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Select%20Date.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Rservation%20summary.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Item%20Preferences.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Set%20Up.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/My%20Bookings.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Guest%20Service.png)
+![Web Aplication Wireframe](/Assets/img/Chapter%204/Notifications.png)
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
