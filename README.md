@@ -1267,6 +1267,23 @@ Además, se garantiza una **mayor coherencia entre expectativas del huésped y l
 
 ## 3.2. User Stories
 
+Para el desarrollo de la plataforma *Custom Host, se identificaron **10 épicas fundamentales* que cubren el ciclo completo de interacción entre los usuarios y el sistema: desde el registro y personalización de preferencias hasta la gestión operativa por parte del staff y el mantenimiento de dispositivos IoT. Estas épicas fueron definidas bajo el enfoque de Domain-Driven Design, estableciendo bounded contexts claros que facilitan la modularidad, escalabilidad y trazabilidad del sistema.
+
+Cada épica representa un conjunto de funcionalidades que abordan necesidades específicas de los distintos roles definidos en nuestro *Ubiquitous Language: **Huésped, **Personal Administrativo, **Gerente, **Proveedor de Domótica* y *Desarrollador/Arquitecto del Sistema*.
+
+Las *User Stories* fueron elaboradas aplicando los principios de arquitectura hexagonal, diseño centrado en la experiencia del usuario (UX) y servicios RESTful para comunicación entre capas. Cada historia está compuesta por:
+
+- *Funcional:* Define qué desea lograr el usuario, por qué y cómo se relaciona con su rol.
+- *Técnica:* Detalla cómo debe implementarse la funcionalidad, considerando componentes de frontend (Vue), backend (Node.js), o interoperabilidad (API RESTful, base de datos, etc.).
+
+Se usaron criterios como:
+- Consistencia semántica
+- Trazabilidad
+- Claridad de propósito
+- Separación de preocupaciones
+- Reutilización de código
+- Seguridad y privacidad en el flujo de datos
+
 ### Epics
 
 | Epic ID | Título                                       | Descripción                                                                                                                             |
