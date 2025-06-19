@@ -1478,7 +1478,7 @@ Este diseño corresponde a la aplicación web de CustomHost, una plataforma inte
 #### **1. Pantalla de Inicio**
 **Header:**
 - Logo (esquina superior izquierda).
-- Menú de navegación con las opciones: Nosotros, Servicios, Habitaciones y Contact Us.
+- Menú de navegación con las opciones: Nosotros, For Hotels, For guets, testimonios y Soporte.
 - Selector de idioma (inglés y español), número y correo de contacto.
 - Botones "Inicia sesión" y "Registrate".
 
@@ -1492,20 +1492,59 @@ Este diseño corresponde a la aplicación web de CustomHost, una plataforma inte
 ![Imagen de la sección Home del landing page](Assets/img/chapter-4/Home.png)
 <br>
 
-**About Us:** En esta sección se presenta una pequeña introducción a Custom Host. También se encontrará el botón "Saber Mas" el cual redirecciona a los usuarios a una ventana con más información sobre nosotros.
+**About Us:** En esta sección se presenta una pequeña introducción a Custom Host. También se encontrará a nosotros como miembros del CEO.
 
-![Imagen de la sección SmartStay del landing page](Assets/img/chapter-4/About_Us.png)
+![Imagen de la sección About US del landing page](Assets/img/chapter-4/About_Us.png)
 <br>
 
-**Our Services:** En esta sección estará un botón que nos redireccionara a la lista de nuestros servicios en nuestro front-end.
+Aquí puedes visualizar la historia de nuestra aplicación:
 
-![Imagen de la sección About Us del landing page](Assets/img/chapter-4/Our_Services.png)
+![Imagen de la sección About US del landing page](Assets/img/chapter-4/About_Us-1.png)
 <br>
 
-**Our Rooms** En esta sección estará un botón que nos redireccionara a la lista de nuestras habitaciones en nuestro front-end.
+En la imagen se muestra una sección titulada "About the team" (Acerca del equipo), que destaca a los miembros clave de un equipo. La parte superior de la imagen contiene iconos representativos, como Wi-Fi, sistema 24/7, sistema personalizado y piscina, lo que sugiere que esta organización ofrece servicios o productos innovadores con características destacadas, como conectividad constante, disponibilidad las 24 horas del día, personalización y comodidad adicional.
 
-![Imagen de la sección Contact Us del landing page](Assets/img/chapter-4/Our_Rooms.png)
+![Imagen de la sección About US del landing page](Assets/img/chapter-4/About_Us-2.png)
 <br>
+
+**For-Hotel:** En esta sección podemos visualizar los servicios que nuestra aplicacion brinda a los hoteles que quieran contar con nosotros.
+
+![Imagen de la sección For-hotel 1 del landing page](Assets/img/chapter-4/for-hotel%20(4).png)
+<br>
+
+Aqui podemos visualizar detalladamente que servicios ofrecemos a los hoteles
+
+![Imagen de la sección For-hotel 2 del landing page](Assets/img/chapter-4/for-hotel%20(3).png)
+<br>
+
+Mostramos los diferentes precios de nuestros servicios:
+
+![Imagen de la sección For-hotel 3 del landing page](Assets/img/chapter-4/for-hotel%20(2).png)
+<br>
+
+Ademas invitamos a registrarse que no tarda mas de 5 minutos
+
+![Imagen de la sección For-hotel 4 del landing page](Assets/img/chapter-4/for-hotel%20(1).png)
+<br>
+
+**For-guests:** En esta sección podemos visualizar los servicios que nuestra aplicacion brinda a los huéspedes que quieran contar con nosotros.
+
+![Imagen de la sección For-guest 1 del landing page](Assets/img/chapter-4/for-guest%20(1).png)
+<br>
+
+Aquí podemos visualizar detalladamente que servicios ofrecemos a los huéspedes
+
+![Imagen de la sección For-guest 2 del landing page](Assets/img/chapter-4/for-guest%20(4).png)
+
+Aqui podemos visual la diferente variedad de hoteles que puede reservar el huesped
+
+![Imagen de la sección For-guest 3 del landing page](Assets/img/chapter-4/for-guest%20(3).png)
+
+Aqui podemos visual los diferentes tipos de cuarto que el huesped puede reservar
+
+![Imagen de la sección For-guest 4 del landing page](Assets/img/chapter-4/for-guest%20(2).png)
+
+
 
 **Statements** En esta sección se encuentran las opiniones y comentarios de los usuarios que usaron nuestra aplicación web para que futuros huespedes tengan información del servicio brindado.
 
@@ -1526,12 +1565,17 @@ Este diseño corresponde a la aplicación web de CustomHost, una plataforma inte
 ![Imagen del Footer del landing page](Assets/img/Chapter%204/Footer.png)
 <br>
 
-#### **2. Pantalla Home**
-- En la primera sección de esta pantalla se pueden ver 5 cards las cuales muestran información importante para el hotel como la cantidad de habitaciones ocupadas, las reservas del día, las solicitudes urgentes, Check-outs pendientes y los dispositivos IoT inactivos.
-- En la siguiente sección tenemos una gráfica que muestra las cantidad de habitaciones reservadas en los últimos treinta días.
-- Y por último una tabla con los húespedes actuales, mostrando su habitación, nombre y las fechas de check-in y check-out. <br>
-![Imagen del Home_1 del frontend](Assets/img/chapter-4/Home_1.png)
-![Imagen del Home_2 del frontend](Assets/img/chapter-4/Home_2.png)
+#### **2. Pantalla Home Staff**
+- En la primera sección de esta pantalla se pueden ver las cards las cuales muestran información importante para el hotel como la cantidad de habitaciones ocupadas, el grafico de pagos del año y los dispositivos IoT inactivos.
+- En la siguiente sección tenemos una gráfica que muestra la cantidad de pagos individuales.
+![Imagen del Home_1 del frontend](Assets/img/Chapter%204/Home-staff%20(1).png)
+![Imagen del Home_2 del frontend](Assets/img/Chapter%204/Home-staff%20(3).png)
+![Imagen del Home_3 del frontend](Assets/img/Chapter%204/Home-staff%20(2).png)
+
+#### **2. Pantalla Home Guest**
+- En la primera sección de esta pantalla se pueden ver las notificaciones y mis y mis reservaciones.
+  ![Imagen del Home_1 del frontend](Assets/img/Chapter%204/Home'guest%20(1).png)
+  ![Imagen del Home_2 del frontend](Assets/img/Chapter%204/Home'guest%20(2).png)
 
 #### **3. Pantalla Rooms Managment**
 - En esta página vemos una tabla con las habitaciones que hay en el hotel, mostrando el número de la habitación, el tipo (Suite, Deluxe o Familiar), el status (disponible, ocupado o en limpieza), el precio, el piso en el que se encuentra y las opciones de editar o borra.<br>
@@ -1559,6 +1603,46 @@ Este diseño corresponde a la aplicación web de CustomHost, una plataforma inte
 #### **8. Pantalla Profile**
 - En esta página tenemos dos cards mostrando los datos personales del administrador y el hotel que trabaja con nosotros. <br>
 ![Imagen del Profile del frontend](Assets/img/chapter-4/Profile.png)
+
+#### **9. Pantalla Book now**
+
+El huesped puede reservar una habitación desde la aplicación web, para ello debe ingresar a la sección de Book now, donde podrá ver las habitaciones disponibles y los precios de cada una. Una vez que elige la habitación, se le pedirá que ingrese sus datos personales y de pago para completar la reserva.
+
+![Imagen del Profile del Book now](Assets/img/Chapter%204/book%20(3).png)
+
+El huesped puede visualizar en el calendario las fechas disponibles para reservar una habitación, y también puede ver las habitaciones que ya ha reservado anteriormente. Además, puede cancelar o modificar sus reservas si es necesario.
+
+![Imagen del Profile del Book now 2](Assets/img/Chapter%204/book%20(2).png)
+
+El huesped puede pagar su reserva a través de la aplicación web, utilizando diferentes métodos de pago como tarjeta de crédito, débito o PayPal. Una vez que se completa el pago, recibirá una confirmación de su reserva por correo electrónico.
+
+![Imagen del Profile del Book now 3](Assets/img/Chapter%204/book%20(2).png)
+
+#### **10. Pantalla Preferemces**
+
+El huesped puede personalizar su experiencia de hospedaje a través de la sección de Preferences, donde puede ajustar la temperatura de la habitación, la iluminación, el nivel de ruido y otros aspectos del ambiente. También puede seleccionar sus preferencias de limpieza y servicios adicionales.
+
+![Imagen del Profile del Preferences](Assets/img/Chapter%204/preference.png)
+
+#### **11. Pantalla My bookings**
+
+El huesped puede ver sus reservas actuales y pasadas en la sección de My bookings, donde podrá consultar los detalles de cada reserva, como las fechas de check-in y check-out, el tipo de habitación y los servicios adicionales que ha solicitado. También puede cancelar o modificar sus reservas desde esta sección.
+
+![Imagen del Profile del My bookings](Assets/img/Chapter%204/mybookings.png)
+
+#### **12. Pantalla Customer Service**
+
+El huesped puede acceder a la sección de Customer Service para obtener asistencia en caso de problemas o preguntas sobre su estadía. Aquí podrá encontrar información de contacto, como números telefónicos y correos electrónicos, así como un formulario para enviar consultas directamente al personal del hotel.
+
+![Imagen del Profile del Customer Service](Assets/img/Chapter%204/customerservice.png)
+
+#### **13. Pantalla Notifications**
+
+El huesped puede ver las notificaciones importantes relacionadas con su estadía en la sección de Notifications. Aquí recibirá alertas sobre eventos relevantes, como cambios en su reserva, promociones especiales o recordatorios de servicios solicitados. Las notificaciones se mostrarán de manera clara y accesible para que el huésped esté siempre informado.
+
+![Imagen del Profile del Notifications](Assets/img/Chapter%204/notification.png)
+
+
 
 ## 4.2. Information Architecture.
 La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
@@ -1606,16 +1690,26 @@ En esta sección se presentan los diseños correspondientes a nuestra Landing Pa
 ### 4.3.1. Landing Page Wireframe.
 [Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
 
-![Imagen del Wireframe 1](Assets/img/chapter-4/Wireframe_1.png)
-![Imagen del Wireframe 2](Assets/img/chapter-4/Wireframe_2.png)
-![Imagen del Wireframe 3](Assets/img/chapter-4/Wireframe_3.png)
+el wireframe de la Landing Page de CustomHost se ha diseñado para ofrecer una estructura clara y funcional que guíe al usuario a través de la información y servicios disponibles. A continuación, se detallan las principales secciones y elementos incluidos en el wireframe:
+
+![Imagen del Wireframe 1](Assets/img/chapter-4/wireframe%20(1).png)
+![Imagen del Wireframe 1](Assets/img/chapter-4/wireframe%20(7).png)
+![Imagen del Wireframe 1](Assets/img/chapter-4/wireframe%20(6).png)
+![Imagen del Wireframe 1](Assets/img/chapter-4/wireframe%20(3).png)
+![Imagen del Wireframe 1](Assets/img/chapter-4/wireframe%20(2).png)
+![Imagen del Wireframe 1](Assets/img/chapter-4/wireframe%20(5).png)
+![Imagen del Wireframe 1](Assets/img/chapter-4/wireframe%20(4).png)
+
 
 ### 4.3.2. Landing Page Mock-up.
 [Link en Figma]https://www.figma.com/design/3laD7dXkyOejl98KTsmxjj/Aplicaciones-Web?node-id=0-1&t=H1oZeP90awe925yF-1
 
-![Imagen del Mock-Up 1](Assets/img/chapter-4/Mock-Up_1.png)
-![Imagen del Mock-Up 2](Assets/img/chapter-4/Mock-Up_2.png)
-![Imagen del Mock-Up 3](Assets/img/chapter-4/Mock-Up_3.png)
+![Imagen del Mock-Up 1](Assets/img/chapter-4/mockup%20(1).png)
+![Imagen del Mock-Up 2](Assets/img/chapter-4/mockup%20(6).png)
+![Imagen del Mock-Up 3](Assets/img/chapter-4/mockup%20(5).png)
+![Imagen del Mock-Up 4](Assets/img/chapter-4/mockup%20(4).png)
+![Imagen del Mock-Up 5](Assets/img/chapter-4/mockup%20(3).png)
+![Imagen del Mock-Up 4](Assets/img/chapter-4/mockup%20(2).png)
 
 
 ## 4.4. Web Applications UX/UI Design.
