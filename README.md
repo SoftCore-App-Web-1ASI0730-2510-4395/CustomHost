@@ -1473,6 +1473,12 @@ Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f90
 | 54 | US54    | Gestión de Datos Personales                            | Como usuario autenticado, quiero actualizar mis datos personales, para mantener mi perfil al día.                       | 3            |
 | 55 | US55    | Gestión de Roles y Permisos                            | Como administrador, quiero asignar y gestionar roles y permisos de usuarios, para controlar accesos y funcionalidades.  | 5            |
 
+## 3.5. Entity Diagram.
+
+![Entity Diagram](Assets/img/Chapter-3/class-diagram.png)
+
+## 3.5. Entity Diagram.
+
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
