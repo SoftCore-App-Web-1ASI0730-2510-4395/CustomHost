@@ -37,31 +37,43 @@
 
 
 
-| Version | Fecha      | Autor            | Descripción de Modificación                                                                                                                      |
-|---------|------------|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0.0     | 07/04/2025 | Andreow Santiago | Creacion del documento                                                                                                                           |
-| 0.1     | 13/04/2025 | Alison Arrieta   | Se completa el capitulo I siguiendo las mejoras del profesor                                                                                     |
-| 0.2     | 17/04/2025 | Axel Ordoñez     | Se aplican mejoras a las seccion del capitulo I y II siendo especificamente Journey Mapping, Entrevistas y competidores                          |
-| 0.3     | 21/04/2025 | Andreow Santiago | Se realiza un review a los mockupc y wireframes                                                                                                  |
-| 0.4     | 23/04/2025 | Brayan Ccarita   | Realiza cambios en diagramas de clases y user flow                                                                                               |
-| 0.5     | 26/04/2025 | Fabrizio Panta   | Se realizan cambios en el capitulo IV siendo especificamente en el style guidelines, se mejora la redaccion y se agregan imagenes de los mockups |
-| 0.6     | 27/04/2025 | Andreow Santiago | Se realizan cambios a la investigacion y el lean UX                                                                                              |
-| 0.7     | 28/04/2025 | Alison Arrieta   | Se realizan cambios a toda la seccion 5.1                                                                                                        |
-| 0.8     | 28/05/2025 | Andreow Santiago | Se realizan mejoras a la redaccion y se agregan imagenes de los mockups                                                                          |
-| 1.1     | 01/05/2025 | Alex Ordoñez     | Realiza correciones observadas en clase                                                                                                          |
-| 1.2     | 18/05/2025 | Fabrizio Panta   | Finaliza el proceso Lean UX corregido                                                                                                            |
-| 1.3     | 18/05/2025 | Andreow Santiago | Se realizan correcciones de redaccion y se agrega el capitulo V                                                                                  |
-| 1.4     | 19/05/2025 | Andreow Santiago | Se realizan cambios en la seccion de entrevistas 2.2.2                                                                                           |
-| 1.5     | 19/05/2025 | Alison Arrieta   | Realiza correciones observadas en user personas                                                                                                  |
-| 1.6     | 20/05/2025 | Brayan Ccarita   | Realiza cambios en la bibliografia, cambio de forrmato APA                                                                                       |
-| 1.7     | 21/05/2025 | Axel ordoñez     | Realiza cambios en los user stories                                                                                                              |
-| 1.8     | 25/05/2025 | Fabrizio Panta   | Se realizan cambios en la seccion de user flow                                                                                                   |
-| 1.9     | 31/05/2025 | Brayan Ccarita   | Actualizacion de los diagramas C4 model                                                                                                          |
-| 1.10    | 01/06/2025 | Axel Ordoñez     | Se realizan cambios en la seccion de product backlog                                                                                             |
-|2.1     | 06/06/2025 | Andreow Santiago | Actualiza los impact map de los segmentos                                                                                                        |
-| 2.2     | 07/06/2025 | Alison Arrieta   | Realiza mejoras en los impact map                                                                                                                |
-
-
+| Version | Fecha      | Autor            | Descripción de Modificación                                                                                                                    |
+|---------|------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0.1     | 07/04/2025 | Andreow Santiago | Creacion del documento                                                                                                                         |
+| 0.2     | 13/04/2025 | Alison Arrieta   | Se completa el capitulo I siguiendo las mejoras del profesor                                                                                   |
+| 0.3     | 17/04/2025 | Axel Ordoñez     | Se aplican mejoras a las seccion del capitulo I y II siendo especificamente Journey Mapping, Entrevistas y competidores                        |
+| 0.4     | 21/04/2025 | Andreow Santiago | Se realiza un review a los mockupc y wireframes                                                                                                |
+| 0.5     | 23/04/2025 | Brayan Ccarita   | Realiza cambios en diagramas de clases y user flow                                                                                             |
+| 0.6     | 26/04/2025 | Fabrizio Panta   | Se realizan cambios en el capitulo IV siendo especificamente en el style guidelines, se mejora la redaccion y se agregan imagenes de los mockups |
+| 0.7     | 27/04/2025 | Andreow Santiago | Se realizan cambios a la investigacion y el lean UX                                                                                            |
+| 0.8     | 28/04/2025 | Alison Arrieta   | Se realizan cambios a toda la seccion 5.1                                                                                                      |
+| 0.9     | 28/05/2025 | Andreow Santiago | Se realizan mejoras a la redaccion y se agregan imagenes de los mockups                                                                        |
+| 1.1     | 01/05/2025 | Alex Ordoñez     | Realiza correciones observadas en clase                                                                                                        |
+| 1.2     | 18/05/2025 | Fabrizio Panta   | Finaliza el proceso Lean UX corregido                                                                                                          |
+| 1.3     | 18/05/2025 | Andreow Santiago | Se realizan correcciones de redaccion y se agrega el capitulo V                                                                                |
+| 1.4     | 19/05/2025 | Andreow Santiago | Se realizan cambios en la seccion de entrevistas 2.2.2                                                                                         |
+| 1.5     | 19/05/2025 | Alison Arrieta   | Realiza correciones observadas en user personas                                                                                                |
+| 1.6     | 20/05/2025 | Brayan Ccarita   | Realiza cambios en la bibliografia, cambio de forrmato APA                                                                                     |
+| 1.7     | 21/05/2025 | Axel ordoñez     | Realiza cambios en los user stories                                                                                                            |
+| 1.8     | 25/05/2025 | Fabrizio Panta   | Se realizan cambios en la seccion de user flow                                                                                                 |
+| 1.9     | 31/05/2025 | Brayan Ccarita   | Actualizacion de los diagramas C4 model                                                                                                        |
+| 1.10    | 01/06/2025 | Axel Ordoñez     | Se realizan cambios en la seccion de product backlog                                                                                           |
+| 2.1     | 06/06/2025 | Andreow Santiago | Actualiza los impact map de los segmentos                                                                                                      |
+| 2.2     | 07/06/2025 | Alison Arrieta   | Realiza mejoras en los impact map                                                                                                              |
+| 2.3     | 08/06/2025 | Andreow Santiago | Inicio del Sprint 3 – Planificación y actualización de tareas en Jira                                                                          |
+| 2.4     | 10/06/2025 | Alison Arrieta   | Revisión y mejora de la Sección 4 del informe siguiendo las indicciones de la clase                                                            |
+| 2.5     | 11/06/2025 | Axel Ordoñez     | Diseño de guiones para entrevistas de validación                                                                                               |
+| 2.6     | 12/06/2025 | Brayan Ccarita   | Realización de entrevistas de validación con huéspedes y staff                                                                                 |
+| 2.7     | 13/06/2025 | Fabrizio Panta   | Análisis y síntesis de resultados de las entrevistas                                                                                           |
+| 2.8     | 14/06/2025 | Andreow Santiago | Inicio de desarrollo del backend del sistema                                                                                                   |
+| 2.9     | 16/06/2025 | Alison Arrieta   | Configuración del backend siguiendo buenas prácticas (seguridad, logs, etc.)                                                                   |
+| 2.10    | 16/06/2025 | Axel Ordoñez     | Mejoras en la lógica del backend basadas en feedback técnico                                                                                   |
+| 2.11    | 17/06/2025 | Brayan Ccarita   | Deploy del backend a servidor de producción                                                                                                |
+| 2.12    | 17/06/2025 | Fabrizio Panta   | Integración del backend con el frontend existente                                                                                              |
+| 2.13    | 18/06/2025 | Andreow Santiago | Preparación de guiones y grabación del video "About the Product"                                                                               |
+| 2.14    | 18/06/2025 | Alison Arrieta  | Grabación del video "About the Team"                                                                                                           |
+| 2.15    | 18/06/2025 | Brayan Ccarita  | Incorporación de comentarios del docente al informe final                                                                                      |
+| 2.16    | 19/06/2025 | Andreow Santiago  | Revisión general y entrega final del informe                                                                                                   |
 
 
 # Project Report Collaboration Insights
@@ -161,18 +173,57 @@ Aplicacion frontend del proyecto:
 
 
 
-## TB2
+# TB2
 
-Para la entrega del TB2, el equipo continuó trabajando de manera colaborativa, enfocándose en mejorar y 
-expandir el informe basándose en la retroalimentación recibida del TP1. Se realizaron ajustes en varias secciones y se agregaron nuevos contenidos, como el registro de versiones actualizado y la sección de análisis de competidores.
+Durante la entrega del TB2, el equipo continuó trabajando con enfoque técnico y colaborativo, centrando sus esfuerzos en el desarrollo backend del sistema y su integración con el frontend ya desarrollado.
 
-### Actividad en GitHub TB2 (Mayo - Junio 2025)
+- Análisis de resultados y ajustes realizados a funcionalidades del sistema.
+- Inicio del desarrollo del backend siguiendo decisiones arquitectónicas definidas.
+- Configuración del backend aplicando buenas prácticas: seguridad, logs y modularidad.
+- Optimización de la lógica del backend tras recibir feedback técnico del equipo.
+- Despliegue del backend a entorno de producción y verificación de conexión desde el frontend.
+- Integración exitosa del backend con el frontend existente, completando la funcionalidad del sistema.
 
-### Commits para TB2
+Aquí está el link del repositorio del frontend del proyecto:
 
-### Coherencia con el Registro de Versiones del Informe
+🔗 [Repositorio del Frontend - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend)   
 
+Aquí está el link del repositorio del backend del proyecto:
 
+🔗 [Repositorio del Backend - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+
+Tal como se hizo durante entregas anteriores, se utilizó un flujo de trabajo estructurado con ramas específicas para cada tarea. Los cambios fueron revisados mediante Pull Requests antes de ser fusionados a la rama principal (`develop`). Este proceso permitió garantizar la calidad del código y mantener un control claro del aporte de cada integrante.
+
+### Actividad en GitHub TB2 (Mayo - Junio 2025):
+
+Aplicacion frontend del proyecto:
+
+![Gráfico de colaboración TB2 Frontend](Assets/img/cover/gh-frontend-tb2-period.png)
+
+Aplicacion backend del proyecto:
+
+![Gráfico de colaboración TB2 Backend](Assets/img/cover/gh-backend-tb2-period.png)
+
+### Commits para TB2:
+
+Aplicacion frontend del proyecto:
+
+![Commits de colaboración TB2 Frontend](Assets/img/cover/gh-frontend-tb2-commits.png)
+
+Aplicacion backend del proyecto:
+
+![Commits de colaboración TB2 Backend](Assets/img/cover/gh-backend-tb2-commits.png)
+
+Estos commits reflejan un trabajo constante y distribuido entre todos los miembros del equipo, con un enfoque en el desarrollo técnico, diseño UX/UI y mejora continua del informe.
+
+### Network graph para TB2:
+Aplicacion frontend del proyecto:
+
+![Network Graph Frontend](Assets/img/cover/network-tb2-frontend.png)
+
+Aplicacion backend del proyecto:
+
+![Network Graph Backend](Assets/img/cover/network-tb2-backend.png)
 
 
 
@@ -299,9 +350,9 @@ expandir el informe basándose en la retroalimentación recibida del TP1. Se rea
 
 # Student Outcome
 
-| Criterio Específico                                                                                                                            | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Conclusiones |
-|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-| <p style="text-align:left; margin-top: 0;">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</p> | **Axel Ordoñez:** <br><strong>TB1:</strong> Establecimos metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudamos a distribuir tareas entre los compañeros y aseguramos que todos tuvieran acceso a información relevante. <br><strong>TP1:</strong> Revisamos y actualizamos la planificación del equipo tras recibir retroalimentación, asegurándonos de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2. <br><br><strong>Fabrizio Panta:</strong> <br><strong>TB1:</strong> Colaboramos en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Nuestra participación fue clave para estructurar las primeras versiones del frontend. <br><strong>TP1:</strong> Ajustamos la planificación del equipo para adaptarnos a nuevas necesidades, supervisamos el cumplimiento de tareas asignadas y reforzamos el ambiente colaborativo mediante reuniones constantes y revisiones grupales. <br><br><strong>Brayan Ccarita:</strong> <br><strong>TB1:</strong> Ayudamos en la planificación de aspectos visuales del producto y colaboramos en la mejora del landing page. Participamos en reuniones de seguimiento para asegurar el avance del equipo. <br><strong>TP1:</strong> Cumplimos con nuestras tareas técnicas asignadas, ayudamos a mantener reuniones efectivas y propusimos soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes. <br><br><strong>Alison Arrieta:</strong> <br><strong>TB1:</strong> Fuimos clave en la definición de metas relacionadas con la experiencia de usuario. Trabajamos en la planificación del diseño del sistema y aseguramos que cada miembro comprendiera su rol en el avance del proyecto. <br><strong>TP1:</strong> Refinamos el diseño del landing page, ayudamos a priorizar tareas del frontend y fomentamos un entorno colaborativo y respetuoso dentro del equipo. <br><br><strong>Andreow Santiago:</strong> <br><strong>TB1:</strong> Ayudamos a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participamos en la planificación de sprints iniciales. <br><strong>TP1:</strong> Nos encargamos de priorizar tareas técnicas, aplicamos correcciones del TB1 y mantuvimos una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint. | <p style="text-align:left; margin-top: 0;"><strong>TB1:</strong> Desde el inicio del proyecto, trabajamos en equipo distribuyendo roles y responsabilidades de manera equitativa. Aportamos desde nuestras áreas de especialización para construir una base sólida del sistema, promoviendo una dinámica colaborativa e inclusiva. <br><strong>TP1:</strong> En esta etapa, consolidamos el liderazgo compartido dentro del equipo. Coordinamos esfuerzos, revisamos nuestro progreso y ajustamos estrategias según las necesidades del proyecto, logrando avanzar de forma organizada y profesional hacia los objetivos técnicos y de diseño.</p> |
+|Criterio Específico| Acciones Realizadas  | Conclusiones |
+|---------------------|----------------------|--------------|
+| <p style="text-align:left; margin-top: 0;">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</p> | **Axel Ordoñez:**<br><strong>TB1:</strong> Establecimos metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudamos a distribuir tareas entre los compañeros y aseguramos que todos tuvieran acceso a información relevante.<br><strong>TP1:</strong> Revisamos y actualizamos la planificación del equipo tras recibir retroalimentación, asegurándonos de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2.<br><strong>TB2:</strong> Diseñé guiones para las entrevistas de validación con usuarios reales, participé activamente en su realización y contribuí al análisis de resultados, lo cual fue clave para validar funcionalidades del sistema. Además, trabajé en mejoras técnicas del backend basadas en feedback del equipo.<br><br><strong>Fabrizio Panta:</strong><br><strong>TB1:</strong> Colaboramos en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Nuestra participación fue clave para estructurar las primeras versiones del frontend.<br><strong>TP1:</strong> Ajustamos la planificación del equipo para adaptarnos a nuevas necesidades, supervisamos el cumplimiento de tareas asignadas y reforzamos el ambiente colaborativo mediante reuniones constantes y revisiones grupales.<br><strong>TB2:</strong> Realicé el análisis y síntesis de los resultados obtenidos en las entrevistas de validación, lo cual ayudó a identificar áreas de mejora en la experiencia de usuario. También integré el backend con el frontend existente, asegurando una comunicación efectiva entre ambos componentes.<br><br><strong>Brayan Ccarita:</strong><br><strong>TB1:</strong> Ayudamos en la planificación de aspectos visuales del producto y colaboramos en la mejora del landing page. Participamos en reuniones de seguimiento para asegurar el avance del equipo.<br><strong>TP1:</strong> Cumplimos con nuestras tareas técnicas asignadas, ayudamos a mantener reuniones efectivas y propusimos soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes.<br><strong>TB2:</strong> Realicé entrevistas de validación con huéspedes y staff, lo que permitió obtener valiosa retroalimentación sobre la utilidad y usabilidad del sistema. También me encargué del despliegue del backend a un entorno de producción, garantizando su disponibilidad para pruebas y uso real.<br><br><strong>Alison Arrieta:</strong><br><strong>TB1:</strong> Fuimos clave en la definición de metas relacionadas con la experiencia de usuario. Trabajamos en la planificación del diseño del sistema y aseguramos que cada miembro comprendiera su rol en el avance del proyecto.<br><strong>TP1:</strong> Refinamos el diseño del landing page, ayudamos a priorizar tareas del frontend y fomentamos un entorno colaborativo y respetuoso dentro del equipo.<br><strong>TB2:</strong> Revisé y mejoré la Sección 4 del informe siguiendo las indicaciones de clase. También configuré el backend aplicando buenas prácticas de seguridad y logs, lo que garantizó mayor robustez y mantenibilidad del código.<br><br><strong>Andreow Santiago:</strong><br><strong>TB1:</strong> Ayudamos a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participamos en la planificación de sprints iniciales.<br><strong>TP1:</strong> Nos encargamos de priorizar tareas técnicas, aplicamos correcciones del TB1 y mantuvimos una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint.<br><strong>TB2:</strong> Inicié el desarrollo del backend del sistema, coordiné la planificación y actualización de tareas en Jira durante el Sprint 3, preparé guiones y grabé el video “About the Product”, y realicé la revisión general final del informe antes de la entrega oficial. | <p style="text-align:left; margin-top: 0;"><strong>TB1:</strong> Desde el inicio del proyecto, trabajamos en equipo distribuyendo roles y responsabilidades de manera equitativa. Aportamos desde nuestras áreas de especialización para construir una base sólida del sistema, promoviendo una dinámica colaborativa e inclusiva.<br><strong>TP1:</strong> Consolidamos el liderazgo compartido dentro del equipo. Coordinamos esfuerzos, revisamos nuestro progreso y ajustamos estrategias según las necesidades del proyecto, logrando avanzar de forma organizada y profesional hacia los objetivos técnicos y de diseño.<br><strong>TB2:</strong> Durante esta etapa, consolidamos aún más el trabajo en equipo. Llevamos a cabo entrevistas de validación, desarrollamos y configuramos el backend, lo desplegamos a producción y lo integramos con el frontend. Preparamos materiales audiovisuales finales y realizamos una revisión general del informe, incorporando comentarios del docente. Todo este proceso reflejó el compromiso, organización y profesionalismo del equipo.</p> |
 | <p style="text-align:left; margin-top: 0;">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</p> | **Axel Ordoñez:** <br><strong>TB1:</strong> Establecimos metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudamos a distribuir tareas entre los compañeros y aseguramos que todos tuvieran acceso a información relevante. <br><strong>TP1:</strong> Revisamos y actualizamos la planificación del equipo tras recibir retroalimentación, asegurándonos de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2. <br><br><strong>Fabrizio Panta:</strong> <br><strong>TB1:</strong> Colaboramos en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Nuestra participación fue clave para estructurar las primeras versiones del frontend. <br><strong>TP1:</strong> Ajustamos la planificación del equipo para adaptarnos a nuevas necesidades, supervisamos el cumplimiento de tareas asignadas y reforzamos el ambiente colaborativo mediante reuniones constantes y revisiones grupales. <br><br><strong>Brayan Ccarita:</strong> <br><strong>TB1:</strong> Ayudamos en la planificación de aspectos visuales del producto y colaboramos en la mejora del landing page. Participamos en reuniones de seguimiento para asegurar el avance del equipo. <br><strong>TP1:</strong> Cumplimos con nuestras tareas técnicas asignadas, ayudamos a mantener reuniones efectivas y propusimos soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes. <br><br><strong>Alison Arrieta:</strong> <br><strong>TB1:</strong> Fuimos clave en la definición de metas relacionadas con la experiencia de usuario. Trabajamos en la planificación del diseño del sistema y aseguramos que cada miembro comprendiera su rol en el avance del proyecto. <br><strong>TP1:</strong> Refinamos el diseño del landing page, ayudamos a priorizar tareas del frontend y fomentamos un entorno colaborativo y respetuoso dentro del equipo. <br><br><strong>Andreow Santiago:</strong> <br><strong>TB1:</strong> Ayudamos a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participamos en la planificación de sprints iniciales. <br><strong>TP1:</strong> Nos encargamos de priorizar tareas técnicas, aplicamos correcciones del TB1 y mantuvimos una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint. | <p style="text-align:left; margin-top: 0;"><strong>TB1:</strong> Creamos desde el inicio un entorno colaborativo e inclusivo, con metas bien definidas y una distribución clara de roles. Cada integrante participó activamente en la planificación y ejecución de tareas, sentando las bases para un trabajo organizado y funcional. <br><strong>TP1:</strong> Consolidamos esa dinámica de trabajo, mejoramos procesos según la retroalimentación recibida y logramos avanzar de forma coordinada en el desarrollo frontend y la documentación técnica. La comunicación constante, la adaptabilidad y el compromiso nos permitieron cumplir con los objetivos técnicos y de diseño establecidos.</p> |
 
 # Capítulo I: Introducción
@@ -325,136 +376,235 @@ Con un enfoque inicial en el mercado hotelero de Lima, SoftCore aspira a convert
 | Santiago Peña, Andreow Jomark <img src="Assets/img/chapter-1/Andrew-photo.jpg" alt="Imagen del compañero" style="width: 200px; height: auto;" />  | U202317362 | Ingeniería de Software | MySQL, C++, C#, Docker. Perseverante y buen trabajo en equipo. |
 
 
-## 1.2. Solution Profile
-### 1.2.1 Antecedentes y problemática
+# 1.2. Solución Profile
 
-La industria hotelera ha experimentado una notable evolución tecnológica, donde la implementación de 
-soluciones digitales se ha vuelto crucial para mejorar tanto la eficiencia operativa como la 
-experiencia del cliente. Inicialmente, los sistemas eran manuales, progresando hacia los Sistemas 
-de Gestión de Propiedades (PMS) y, más tarde, a soluciones en la nube. Hoy en día, la inteligencia 
-artificial (IA) está transformando el sector, optimizando procesos y personalizando la interacción
-con los huéspedes. Sin embargo, la adopción de estas tecnologías, especialmente en lugares como Lima, 
-enfrenta desafíos relacionados con la inversión y la infraestructura (Analysis of Eco-Innovations in
-Peruvian Accommodation Establishments, 2023).
+## 1.2.1. Antecedentes y Problemática
 
-La personalización se ha convertido en una expectativa fundamental para los viajeros, quienes
-buscan experiencias adaptadas a sus preferencias. El Internet de las Cosas (IoT) juega un papel
-esencial al permitir la adaptación de las habitaciones a las necesidades individuales y al agilizar 
-procesos como el check-in y el servicio en la habitación. A pesar de los beneficios, la implementación 
-de IoT presenta retos como los costos iniciales y las preocupaciones de seguridad (Analysis of 
-Eco-Innovations in Peruvian Accommodation Establishments, 2023).
+Como parte del proceso de identificación de la problemática en el sector hotelero limeño, se aplicó la técnica **The 5 W’s and 2 H’s (Who, What, Where, When, Why, How, How Much)**, permitiendo estructurar de manera clara y estratégica los antecedentes, la situación actual y las oportunidades de innovación tecnológica en el ámbito hotelero.
 
-La pandemia de COVID-19 generó una drástica caída en el turismo peruano, evidenciada en el desplome 
-de las llegadas de huéspedes tanto nacionales como extranjeros en el año 2020. Los datos del MINCETUR
-muestran que los arribos de turistas nacionales se redujeron significativamente de 54.9 millones en 
-2019 a tan solo 34.6 millones en 2020, mientras que el turismo extranjero experimentó un descenso aún 
-más alarmante, pasando de 8.3 millones a un mínimo histórico de 1.8 millones en el mismo periodo 
-(MINCETUR, 2024). Si bien en los años posteriores se observa una tendencia de recuperación gradual
-en ambos segmentos, con un aumento constante en las cifras de arribos, aún no se alcanzan los niveles
-prepandemia, especialmente en el caso del turismo internacional. Esta situación resalta la necesidad 
-de revitalizar el sector a través de la innovación, donde la Inteligencia Artificial (IA) y la domótica
-emergen como herramientas clave. La IA puede personalizar la experiencia del viajero, optimizar 
-la gestión de recursos y predecir tendencias, mientras que la domótica puede mejorar la eficiencia 
-y el confort en los alojamientos, ofreciendo experiencias más seguras, personalizadas y atractivas
-para los visitantes en la nueva normalidad.
+### 1. Who (Quién)
 
-Por lo tanto, existe una necesidad continua de que los hoteles en Lima adopten e integren tecnologías 
-avanzadas para personalizar la experiencia del huésped y mejorar la eficiencia. A pesar de 
-los desafíos económicos y de infraestructura, la transformación digital y la adopción de IoT 
-son fundamentales para satisfacer las expectativas de los turistas y mantener la competitividad 
-en el mercado hotelero.
+Los principales stakeholders identificados son:
+- **Huéspedes**: Viajeros nacionales e internacionales que buscan comodidad, personalización y experiencias memorables durante su estadía.
+- **Personal administrativo del hotel**: Recepcionistas, coordinadores de piso, técnicos de mantenimiento y gerentes responsables de garantizar la operación eficiente y la satisfacción del cliente.
+- **Proveedores de tecnología**: Empresas especializadas en domótica, IoT y soluciones tecnológicas para hoteles inteligentes.
 
-### 1.2.2 Lean UX Process.
-#### 1.2.2.1. Lean UX Problem Statements.
-Nuestro contexto demanda soluciones tecnológicas innovadoras para optimizar la experiencia hotelera de los huéspedes, permitiéndoles personalizar su entorno y disfrutar de una estadía adaptada a sus necesidades individuales. A través de nuestra aplicación de gestión hotelera, buscamos brindar una plataforma integral que permita a los usuarios ingresar sus preferencias y que estas se traduzcan en una habitación inteligente y personalizada desde el momento en que reciben la llave.
+### 2. What (Qué)
 
-Hemos observado un factor importante que afecta la satisfacción de los huéspedes, el cual se manifiesta en la falta de personalización y adaptación de las habitaciones a sus gustos y requerimientos específicos, limitando la sensación de confort y exclusividad durante su estadía.
+Actualmente, existe una brecha significativa entre las expectativas de los huéspedes modernos y la capacidad de los hoteles en Lima para ofrecer una experiencia personalizada y digital. Los sistemas tradicionales no permiten gestionar preferencias individuales, ni integrar tecnologías como la biometría, la domótica o el monitoreo remoto de dispositivos, lo cual limita tanto la comodidad del huésped como la eficiencia operativa del hotel.
 
-¿Cómo podemos desarrollar una aplicación de gestión hotelera que se adapte a las necesidades individuales de cada huésped, integrando tecnologías como IoT, biometría y domótica para ofrecer una experiencia personalizada y optimizada en hoteles inteligentes de Lima?
-#### 1.2.2.2. Lean UX Assumptions.
-##### Business Assumptions
+### 3. Where (Dónde)
 
-|Assumption|Description|
-|-|-|
-| Aumento de satisfacción      | La aplicación incrementará la satisfacción del cliente, promoviendo su fidelización y recomendaciones.        |
-| Rentabilidad de IoT          | La inversión en domótica e IoT será rentable a mediano plazo por la diferenciación y optimización de recursos.|
-| Adaptación del personal      | El personal administrativo podrá adaptarse fácilmente al dashboard y usarlo en su rutina diaria.              | 
-| Colaboración con proveedores | Habrá una cooperación fluida con proveedores de domótica para integración y mantenimiento.                    |
-| Diferenciación competitiva   | La idea de un "hotel inteligente" destacará frente a otros hoteles en Lima.                                   |
-| Versión móvil eficiente      | La versión móvil facilitará la interacción del huésped en todas las etapas de su experiencia.                 |
+La problemática se centra en el mercado hotelero de Lima, específicamente en establecimientos que buscan mejorar su competitividad mediante la adopción de tecnologías digitales. Este problema es especialmente relevante en hoteles de tres a cinco estrellas que compiten por turistas nacionales e internacionales y viajeros de negocios.
 
+### 4. When (Cuándo)
 
-##### User Assumptions
-|Assumption|Description|
-|-|-|
-| Interés en personalización | Los turistas estarán interesados en la propuesta de personalización vía app.           |
-| Valoración del control     | Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular.|
-| Facilidad de uso           | Los usuarios verán la app como intuitiva y fácil de usar.                              |
-| Confianza en biometría     | Habrá confianza en el uso de tecnología biométrica para acceso y personalización.      |
-| Tiempo para configurar     | Los turistas estarán dispuestos a configurar preferencias antes o al llegar.           |
-| Percepción de valor        | Los huéspedes verán el hotel inteligente como un valor agregado significativo.         |
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-1. Creemos que ofrecer a los huéspedes la capacidad de personalizar su habitación a través de una aplicación móvil antes de su llegada aumentará su satisfacción general con la estadía.
-Sabremos que hemos tenido éxito cuando observemos un aumento del 15% en las puntuaciones de satisfacción del cliente relacionadas con la comodidad y personalización de la habitación en las encuestas post-estancia.
+La necesidad ha ido creciendo desde la pandemia, cuando los viajeros comenzaron a priorizar la seguridad, la comodidad sin contacto y la personalización. En los últimos años, ha aumentado la demanda de hoteles inteligentes, y los avances en IA, IoT y domótica han hecho posible su implementación, aunque aún existen barreras de adopción.
 
-2. Creemos que la implementación de un dashboard intuitivo para el personal administrativo que centralice las preferencias de los huéspedes optimizará la gestión del hotel y reducirá el tiempo dedicado a tareas relacionadas con la personalización de habitaciones.
-Sabremos que hemos tenido éxito cuando el personal administrativo reporte una reducción del 10% en el tiempo promedio dedicado a la preparación y ajuste de las habitaciones según las preferencias de los huéspedes.
+### 5. Why (Por qué)
 
-3. Creemos que la integración de tecnología biométrica para el acceso a la habitación y la personalización del entorno aumentará la percepción de seguridad y exclusividad entre los huéspedes.
-Sabremos que hemos tenido éxito cuando al menos el 80% de los huéspedes que utilicen la función biométrica la califiquen positivamente en términos de seguridad y conveniencia en las encuestas post-estancia.
+La falta de integración tecnológica en el sector hotelero genera:
+- Baja satisfacción del huésped debido a la imposibilidad de personalizar su experiencia.
+- Ineficiencia operativa al depender de procesos manuales y desconectados.
+- Costos innecesarios por fallas técnicas no anticipadas.
+- Menor diferenciación frente a competidores que ya están adoptando estas tecnologías.
 
-4. Creemos que ofrecer control domótico de la habitación a través de la aplicación (iluminación, temperatura, etc.) mejorará la comodidad y la experiencia general de los huéspedes durante su estadía.
-Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en el uso de las funciones de control domótico dentro de la aplicación por parte de los huéspedes activos.
+Esta problemática afecta negativamente la reputación del hotel, la fidelización del cliente y la rentabilidad del negocio.
 
-5. Creemos que al proporcionar una plataforma que permite a los proveedores de domótica monitorear el funcionamiento de sus dispositivos en tiempo real, se facilitará el mantenimiento preventivo y se minimizarán los problemas técnicos en las habitaciones.
-Sabremos que hemos tenido éxito cuando se registre una disminución del 5% en el número de reportes de fallas de los dispositivos de domótica en las habitaciones inteligentes.
+### 6. How (Cómo)
 
-6. Creemos que la disponibilidad de una versión móvil de la aplicación aumentará la interacción de los huéspedes con la plataforma antes, durante y después de su estadía, fomentando la exploración de los servicios del hotel y posibles reservas futuras.
-Sabremos que hemos tenido éxito cuando observemos un aumento del 10% en el número de usuarios activos en la versión móvil de la aplicación y un incremento del 5% en las consultas o reservas realizadas a través de la misma.
-#### 1.2.2.4. Lean UX Canvas.
+Actualmente, los hoteles dependen de múltiples herramientas: PMS tradicional, sistemas de control de acceso físico, y en algunos casos, aplicaciones móviles básicas sin conexión entre sí. Esta fragmentación impide centralizar la información del huésped, automatizar tareas y ofrecer una experiencia coherente.
 
-![Lean ux canvas img](assets/chapter-one/lean-ux-canvas.jpg)
+### 7. How Much (Cuánto)
 
-## 1.3. Segmentos objetivo.
-##### Segmento 1: Huéspedes que desean hospedarse en un hotel
+El impacto económico incluye:
+- Costos adicionales por ajustes manuales y errores en la configuración de habitaciones.
+- Pérdida de ingresos por insatisfacción del cliente y bajas calificaciones en plataformas de opinión.
+- Dificultad para justificar inversiones en tecnología por falta de claridad sobre retorno de inversión.
+- Reducción en la productividad del personal por gestión ineficiente de datos.
 
-Este segmento incluye a individuos de diversos perfiles demográficos y socioeconómicos que tienen la necesidad o el deseo de alojarse en un hotel en Lima, ya sea por motivos de turismo, negocios u otros.
+Con base en este análisis preliminar, se identifica como **problemática principal** la ausencia de una plataforma integral que permita personalizar la experiencia del huésped, optimizar la gestión operativa del hotel y facilitar el monitoreo y mantenimiento de dispositivos inteligentes.
 
-**Características demográficas:**
+**Custom Host** se propone como respuesta a esta brecha, diseñando una solución tecnológica que integre en un solo flujo las necesidades de personalización del huésped, gestión eficiente del personal y conectividad con proveedores de tecnología, enfocándose inicialmente en el mercado hotelero de Lima.
 
-- **Rango de edad:** Amplio, desde jóvenes adultos hasta personas mayores.
-- **Geografía:** Principalmente turistas nacionales e internacionales que visitan Lima, así como residentes locales que buscan una experiencia diferente.
-- **Intereses:** Búsqueda de comodidad, conveniencia, experiencias personalizadas y, específicamente para nuestro caso, interés en la innovación tecnológica y la domótica en hoteles.
+### Delimitación del alcance del proyecto:
 
-**Problema:** Estos huéspedes buscan una experiencia hotelera que vaya más allá de la simple pernoctación, deseando un entorno que se adapte a sus preferencias individuales para una estadía más confortable y memorable.
+Este proyecto contempla el diseño y desarrollo de una plataforma web y móvil que permita:
+- Personalización previa a la llegada del huésped (temperatura, iluminación, tipo de almohada, etc.).
+- Dashboard intuitivo para el personal del hotel con visualización de preferencias y alertas en tiempo real.
+- Acceso biométrico a la habitación.
+- Control domótico de la habitación vía app móvil.
+- Plataforma de monitoreo para proveedores de dispositivos inteligentes.
 
-##### Segmento 2: Personal administrativo del hotel
-
-Este segmento comprende a los empleados del hotel encargados de la gestión operativa, la atención al cliente y el mantenimiento de las instalaciones.
-
-**Características demográficas:**
-
-- **Roles:** Gerentes, recepcionistas, personal de mantenimiento, personal de limpieza, etc.
-- **Necesidades:** Herramientas eficientes para la gestión de reservas, la atención a los huéspedes, la organización de las habitaciones y el seguimiento del estado de los dispositivos.
-- **Objetivos:** Optimizar la eficiencia operativa, mejorar la satisfacción del cliente y reducir la carga de trabajo manual.
-
-**Problema:** El personal del hotel tiene problemas para saber qué le gusta a cada huésped y asegurarse de que su estadía sea tal como la prefieren. Esto es difícil porque no tienen un sistema fácil y único para guardar y usar esa información.
-
-##### Segmento 3: Proveedores de dispositivos de domótica
-
-Este segmento incluye a las empresas que desarrollan, fabrican y distribuyen dispositivos y sistemas de domótica (iluminación inteligente, control de temperatura, cerraduras electrónicas, etc.).
-
-**Características demográficas:**
-
-- **Tipo de empresas:** Desde startups tecnológicas hasta grandes corporaciones especializadas en IoT y automatización del hogar/edificios.
-- **Intereses:** Expandir su mercado, integrar sus productos en nuevos entornos (como hoteles), obtener datos sobre el rendimiento de sus dispositivos en un contexto de uso real y establecer alianzas estratégicas.
-
-**Problema:** Estos proveedores buscan canales efectivos para introducir sus tecnologías en el sector hotelero y necesitan plataformas que faciliten la integración y el monitoreo de sus dispositivos en las instalaciones de sus clientes.
+Queda fuera del alcance:
+- Integración con otros sectores hoteleros distintos a los mencionados.
+- Ampliación a otros países en esta fase inicial.
+- Implementación de funcionalidades avanzadas como IA predictiva o asistentes virtuales sin validación previa.
 
 ---
 
+## 1.2.2. Lean UX Process
+
+### 1.2.2.1. Lean UX Problem Statement
+
+**Custom Host** es una plataforma tecnológica que permite a los hoteles de Lima ofrecer una experiencia de hospedaje inteligente, personalizada y centrada en el usuario, integrando soluciones de domótica, biometría y gestión operativa.
+
+**Contexto:** Nuestra solución busca transformar la experiencia hotelera tradicional en una experiencia conectada, donde el huésped pueda personalizar su entorno antes de llegar y disfrutar de un servicio altamente adaptado a sus preferencias.
+
+**Observación del problema:** Sin embargo, hemos identificado que muchos hoteles no pueden ofrecer una experiencia verdaderamente personalizada debido a la falta de herramientas que centralicen las preferencias del huésped y las traduzcan automáticamente en la configuración de la habitación.
+
+**Impacto:** Esta situación genera baja satisfacción del cliente, mayor carga laboral para el personal y menores índices de recomendación y fidelización.
+
+**Necesidad insatisfecha:** Actualmente, los hoteles carecen de una solución que permita gestionar todas las variables de personalización de forma intuitiva, accesible y escalable, integrando además al personal y a los proveedores de tecnología.
+
+**Pregunta de mejora:** ¿Cómo podríamos desarrollar una plataforma que permita a los hoteles ofrecer una experiencia inteligente y personalizada, mejorando la satisfacción del huésped, la eficiencia operativa y la colaboración con proveedores de tecnología?
+
+---
+
+### 1.2.2.2. Lean UX Assumptions
+
+En el desarrollo de Custom Host, se han definido supuestos clave según la metodología Lean UX, orientados a guiar el diseño de producto, minimizar riesgos y validar tempranamente decisiones estratégicas. Estos supuestos se dividen en cinco categorías:
+
+#### User Assumptions
+
+| Supuesto | Descripción |
+|---------|-------------|
+| Interés en personalización | Los huéspedes valoran poder configurar su habitación antes de llegar. |
+| Uso de tecnología móvil | La mayoría de los huéspedes usará la aplicación móvil durante su estadía. |
+| Confianza en biometría | Los usuarios confían en el acceso biométrico como método seguro y conveniente. |
+| Facilidad de uso | La interfaz será percibida como intuitiva por usuarios de diferentes edades. |
+| Disposición a probar nuevas tecnologías | Los huéspedes están dispuestos a usar funciones innovadoras si mejoran su experiencia. |
+
+#### User Outcome Assumptions
+
+| Supuesto | Descripción |
+|---------|-------------|
+| Aumento de satisfacción | Si los huéspedes pueden personalizar su habitación, entonces al menos el 80% reportará alta satisfacción. |
+| Mejora en percepción de exclusividad | Si el acceso es biométrico, entonces al menos el 75% lo considerará una experiencia premium. |
+| Fidelización del cliente | Si la experiencia es personalizada, entonces al menos el 50% regresará o recomendará el hotel. |
+
+#### Business Assumptions
+
+| Supuesto | Descripción |
+|---------|-------------|
+| Rentabilidad de la inversión | La tecnología aumentará la ocupación y reducirá costos operativos. |
+| Adaptación del personal | El equipo hotelero podrá usar el dashboard sin capacitación intensiva. |
+| Colaboración con proveedores | Las empresas de domótica apoyarán la integración técnica. |
+| Diferenciación competitiva | Los hoteles con Custom Host destacarán frente a la competencia. |
+
+#### Business Outcome Assumptions
+
+| Supuesto | Descripción |
+|---------|-------------|
+| Aumento en ocupación hotelera | Al mejorar la experiencia, se espera un aumento del 10% en la ocupación promedio. |
+| Reducción en tiempos operativos | El personal administrativo ahorrará al menos el 10% del tiempo dedicado a preparar habitaciones. |
+| Disminución de fallos técnicos | Gracias al monitoreo en tiempo real, se espera una reducción del 5% en reportes de problemas. |
+
+#### Feature Assumptions
+
+| Supuesto | Descripción |
+|---------|-------------|
+| App móvil intuitiva | Al menos el 90% de los huéspedes usará la app durante su estadía. |
+| Dashboard efectivo | Al menos el 85% del personal hotelero reportará que mejora su trabajo. |
+| Funciones biométricas | Al menos el 80% de los usuarios calificará positivamente el acceso biométrico. |
+| Monitoreo de dispositivos | Al menos el 70% de los proveedores indicarán que la plataforma facilita el mantenimiento. |
+| Control domótico | Al menos el 75% de los huéspedes usará al menos dos funciones de control remoto. |
+
+---
+
+### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. **Creemos que ofrecer a los huéspedes la capacidad de personalizar su habitación a través de una aplicación móvil antes de su llegada aumentará su satisfacción general con la estadía.**  
+   *Sabremos que hemos tenido éxito cuando observemos un aumento del 15% en las puntuaciones de satisfacción del cliente relacionadas con la comodidad y personalización de la habitación en las encuestas post-estancia.*
+
+2. **Creemos que la implementación de un dashboard intuitivo para el personal administrativo que centralice las preferencias de los huéspedes optimizará la gestión del hotel y reducirá el tiempo dedicado a tareas relacionadas con la personalización de habitaciones.**  
+   *Sabremos que hemos tenido éxito cuando el personal administrativo reporte una reducción del 10% en el tiempo promedio dedicado a la preparación y ajuste de las habitaciones según las preferencias de los huéspedes.*
+
+3. **Creemos que la integración de tecnología biométrica para el acceso a la habitación y la personalización del entorno aumentará la percepción de seguridad y exclusividad entre los huéspedes.**  
+   *Sabremos que hemos tenido éxito cuando al menos el 80% de los huéspedes que utilicen la función biométrica la califiquen positivamente en términos de seguridad y conveniencia en las encuestas post-estancia.*
+
+4. **Creemos que ofrecer control domótico de la habitación a través de la aplicación (iluminación, temperatura, etc.) mejorará la comodidad y la experiencia general de los huéspedes durante su estadía.**  
+   *Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en el uso de las funciones de control domótico dentro de la aplicación por parte de los huéspedes activos.*
+
+5. **Creemos que al proporcionar una plataforma que permite a los proveedores de domótica monitorear el funcionamiento de sus dispositivos en tiempo real, se facilitará el mantenimiento preventivo y se minimizarán los problemas técnicos en las habitaciones.**  
+   *Sabremos que hemos tenido éxito cuando se registre una disminución del 5% en el número de reportes de fallas de los dispositivos de domótica en las habitaciones inteligentes.*
+
+6. **Creemos que la disponibilidad de una versión móvil de la aplicación aumentará la interacción de los huéspedes con la plataforma antes, durante y después de su estadía, fomentando la exploración de los servicios del hotel y posibles reservas futuras.**  
+   *Sabremos que hemos tenido éxito cuando observemos un aumento del 10% en el número de usuarios activos en la versión móvil de la aplicación y un incremento del 5% en las consultas o reservas realizadas a través de la misma.*
+#### 1.2.2.4. Lean UX Canvas.
+
+En el apartado de Lean UX Canvas se desarrolló una estructuración completa y académica de las principales hipótesis estratégicas que sustentan la propuesta de valor y la arquitectura de la plataforma Custom Host .
+
+Cada hipótesis fue traducida en un Lean UX Canvas formal, siguiendo un enfoque científico-experimental que articula: el problema de negocio detectado (Business Problem ), las soluciones propuestas a nivel funcional y técnico (Solutions ), los resultados esperados a nivel organizacional (Business Outcomes ), la caracterización de los usuarios objetivos (Users ), los beneficios esperados para estos usuarios (User Outcomes & Benefits ), la formulación de hipótesis de aprendizaje (Hypotheses ), y el diseño de experimentos estratégicos para validar o refutar dichas hipótesis (What's the most important thing we need to learn first? y What's the least amount of work we need to do to learn the next most important thing? ).
+
+Este trabajo metodológico permitió no solo establecer un marco claro de experimentación y validación temprana de las decisiones de diseño y tecnología, sino también alinear todos los esfuerzos de desarrollo a métricas de éxito específicas y medibles. Así, el apartado de Lean UX Canvas representa una pieza fundamental dentro del enfoque de construcción iterativa, ágil y centrada en el usuario de Custom Host , asegurando que cada funcionalidad propuesta responde a necesidades reales, riesgos priorizados y oportunidades de negocio tangibles.
+
+"Anexo: Diagrama de Lean UX Canvas":
+[Lean UX Canvas - CustomHost](https://drive.google.com/drive/folders/1lisWJ5DpLPSO-jhpY3pJzf0qpPOdMhyf?usp=sharing)
+
+![Lean ux canva custom host](Assets/img/chapter-1/lean-ux-canva_custom-host.jpg)
+
+## 1.3. Segmentos objetivo
+
+### Segmento Objetivo #1: Huéspedes que desean hospedarse en un hotel
+
+Este segmento incluye a individuos de diversos perfiles demográficos y socioeconómicos que tienen la necesidad o el deseo de alojarse en un hotel en Lima, ya sea por motivos de turismo, negocios u otros.
+
+#### Aspectos demográficos
+
+- **Sexo:** Sin distinción de género.
+- **Edad:** De 18 a 60 años, con mayor concentración entre jóvenes adultos y adultos profesionales.
+- **Nivel socioeconómico:** Medio a medio-alto, orientados a experiencias cómodas y tecnológicamente avanzadas.
+- **Geografía:** Principalmente turistas nacionales e internacionales que visitan Lima, así como residentes locales interesados en una experiencia diferente.
+
+#### Aspectos psicográficos
+
+- Personas que valoran la comodidad, conveniencia y personalización durante su estadía.
+- Interés en la innovación tecnológica aplicada al sector hotelero, como domótica y acceso biométrico.
+- Disposición a usar herramientas digitales para mejorar su experiencia de hospedaje.
+- En búsqueda de hoteles que ofrezcan una propuesta moderna, segura y memorable.
+
+#### Aspectos conductuales
+
+- Prefieren aplicaciones móviles intuitivas que les permitan configurar preferencias antes de la llegada.
+- Están dispuestos a probar nuevas tecnologías si estas mejoran su experiencia de usuario.
+- Tienen altas expectativas en cuanto a confort, seguridad y atención personalizada.
+- Comparten su experiencia en redes sociales si perciben valor agregado o diferenciación respecto a otros establecimientos.
+
+---
+
+### Segmento Objetivo #2: Personal administrativo del hotel
+
+Este segmento comprende a los empleados del hotel encargados de la gestión operativa, la atención al cliente y el mantenimiento de las instalaciones.
+
+#### Aspectos demográficos
+
+- **Sexo:** Sin distinción de género.
+- **Edad:** De 20 a 55 años, con experiencia laboral en el sector hotelero.
+- **Nivel socioeconómico:** Bajo a medio, dependiendo del rol y antigüedad.
+- **Roles principales:** Recepcionistas, coordinadores de piso, personal de limpieza, técnicos de mantenimiento, supervisores y gerentes.
+
+#### Aspectos psicográficos
+
+- Profesionales orientados a resultados, que buscan herramientas que mejoren su eficiencia diaria.
+- Valoran interfaces intuitivas que simplifiquen procesos repetitivos y reduzcan errores humanos.
+- Motivados por soluciones que faciliten la atención personalizada al huésped sin aumentar su carga laboral.
+- Sensibles a la adopción de tecnología si esta contribuye a agilizar tareas y optimizar recursos.
+
+#### Aspectos conductuales
+
+- Requieren dashboards claros y accesibles que centralicen información relevante (preferencias del huésped, estado de habitaciones, alertas).
+- Dependen de notificaciones y alertas en tiempo real para gestionar cambios y prioridades.
+- Prefieren sistemas fáciles de aprender y rápidos de implementar en su rutina diaria.
+- Se benefician de herramientas que permitan monitorear dispositivos inteligentes y anticipar posibles fallas.
 # Capítulo II: Requirements Elicitation & Analysis
-## 2.1. Competidores.
+## 2.1. Competidores
+
+Con el propósito de fortalecer la propuesta de valor de **Custom Host** y posicionarla estratégicamente en el mercado de hoteles inteligentes en Lima, se desarrollará un análisis competitivo frente a sus principales referentes: **INTELITY, ALICE Platform y Cloudbeds**.
+
+Este análisis permitirá identificar de manera sistemática las **fortalezas, debilidades, oportunidades y amenazas (SWOT)** de cada competidor, así como evaluar sus estrategias comerciales, modelos de negocio, propuestas de valor y posicionamiento en el mercado. Se prestará especial atención a cómo estas plataformas abordan la experiencia del huésped, la gestión operativa y la integración con tecnologías emergentes como el IoT, dado que Custom Host se diferencia precisamente por su enfoque único en personalización automatizada mediante domótica y biométrica.
+
+A partir de esta evaluación, se definirán estrategias de diferenciación y tácticas de posicionamiento que permitan a Custom Host maximizar su competitividad, aprovechar nichos de mercado poco explorados —como los hoteles boutique tecnológicos— y ofrecer una solución más completa e innovadora tanto para huéspedes como para el personal del hotel.
 ### 2.1.1. Análisis competitivo.
 
 | Competitive Analysis Landscape                          |  |
@@ -482,6 +632,7 @@ Este segmento incluye a las empresas que desarrollan, fabrican y distribuyen dis
 || Amenazas      | Competidores establecidos como INTELITY y Cloudbeds ya tienen presencia en el mercado, y la resistencia al cambio en hoteles tradicionales podría limitar su crecimiento. | La creciente competencia en software hotelero y el avance de soluciones basadas en voz (como Volara) podrían reducir su ventaja. | La saturación de PMS genéricos y el surgimiento de plataformas más especializadas representan riesgos para su crecimiento. | Las grandes OTAs (como Booking.com) están desarrollando sus propios sistemas de gestión, lo que podría reducir su participación en el mercado. |
 
 ## 2.2. Entrevistas.
+
 ### 2.2.1. Diseño de entrevistas.
 **Preguntas generales:**
 En esta sección realizamos preguntas simples para obtener datos demográficos e información de comportamientos clave, como el navegador y dispositivos que utilizan los entrevistados.
