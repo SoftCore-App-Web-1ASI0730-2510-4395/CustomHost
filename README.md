@@ -1783,9 +1783,11 @@ el wireframe de la Landing Page de CustomHost se ha diseñado para ofrecer una e
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+### Segmento objetivo: Guest
+![Web Aplication Wireflow Guest](/Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Guest.jpeg)
 
-![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow1.jpg)
-![Web Aplication Wireflow](/Assets/img/Chapter%204/wflow2.jpg)
+### Segmento objetivo: Staff
+![Web Aplication Wireflow Staff](/Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Staff.jpeg)
 
 ### 4.4.2. Web Applications Mock-ups.
 
@@ -1801,9 +1803,29 @@ el wireframe de la Landing Page de CustomHost se ha diseñado para ofrecer una e
 ![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-10.jpg)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
+### **Huésped:**
 
-![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-1.jpg)
-![Web Aplication User Flow Diagram](/Assets/img/Chapter%204/USER-FLOW-2.jpg)
+La presente sección describe el flujo ideal diseñado para el segmento de huéspedes de hotel dentro de la plataforma, centrado en ofrecer una experiencia de reserva y estancia fluida, personalizada y sin fricciones. Este recorrido cubre desde el primer contacto hasta la finalización de la estadía, garantizando que el usuario encuentre opciones adaptadas a sus necesidades y pueda gestionar todos los aspectos de su viaje de manera intuitiva.
+
+El huésped inicia su interacción accediendo a la plataforma mediante Login/Register (disponible en versión web o móvil), donde es dirigido a la página de inicio. Desde allí, puede explorar opciones de alojamiento mediante filtros personalizables (fechas, tipo de habitación, ubicación, comodidades) y seleccionar la que mejor se ajuste a sus preferencias. Durante el proceso de reserva, el sistema valida en tiempo real la disponibilidad y permite añadir servicios complementarios (como desayuno, spa o traslados), asegurando que toda la información requerida (datos personales y de pago) esté completa y correctamente formateada antes de confirmar.
+
+Una vez completada la reserva, el huésped recibe una confirmación automática (vía email y notificación en la app) y puede acceder a su sección "Mis Reservas" para gestionar detalles o modificaciones. Previo a su llegada, tiene la opción de realizar un check-in digital, subiendo documentos y seleccionando horarios, lo que agiliza su ingreso al hotel. Durante la estancia, la plataforma le permite solicitar servicios adicionales (room service, limpieza), consultar información del establecimiento o actividades disponibles, e incluso contactar al personal ante cualquier necesidad.
+
+Al finalizar, el huésped realiza un check-out automático desde la app, recibe un resumen de su estadía y es invitado a dejar una valoración. Este flujo no solo optimiza el tiempo y reduce interacciones manuales, sino que también recopila datos clave para mejorar el servicio.<br>
+![Web Aplication User Flow Diagram Guest](/Assets/img/Chapter%204/Happy%20Path%20-%20Guest.jpeg)
+
+### **Staff:**
+
+El flujo diseñado para el equipo administrativo del hotel está optimizado para garantizar una gestión operativa eficiente y una atención al huésped excepcional. Este recorrido integral permite al personal administrativo realizar todas sus funciones clave de manera sistematizada, asegurando la coordinación entre departamentos y manteniendo altos estándares de servicio.
+
+El proceso comienza cuando el miembro del staff accede al sistema mediante credenciales seguras con permisos específicos según su rol (recepción, housekeeping, gestión, etc.). Al ingresar, encuentra un dashboard centralizado que muestra información crítica en tiempo real: reservas pendientes, check-ins programados, solicitudes de huéspedes y alertas operativas prioritarias. Desde este panel de control, el personal puede gestionar todo el ciclo del huésped de manera eficaz.
+
+Para las reservas, el sistema permite visualizar y filtrar todas las solicitudes entrantes, con opción de asignación automática de habitaciones o manual para casos especiales. Durante este proceso, se validan todos los datos del huésped, incluyendo documentación requerida y preferencias específicas, generando automáticamente una confirmación que se envía al huésped. En el momento del check-in, el staff verifica la identidad del visitante (con posibilidad de integración con sistemas de escaneo de documentos), asigna las llaves correspondientes (digitales o físicas) y proporciona información personalizada sobre servicios y amenidades.
+
+Durante la estancia, la plataforma facilita la coordinación interna mediante un sistema de solicitudes y alertas. El personal puede comunicar requerimientos especiales (como pedidos de amenities o solicitudes de limpieza urgente) directamente a los departamentos correspondientes, mientras actualiza constantemente el estado de las habitaciones (disponible, en limpieza o en mantenimiento) en el sistema central. Para el check-out, el proceso incluye la revisión del estado de la habitación, la verificación de cargos adicionales y la emisión automática de facturación electrónica, además del registro de feedback del huésped.
+
+El flujo administrativo culmina con la generación de reportes detallados que incluyen métricas de ocupación, ingresos diarios, incidencias relevantes y niveles de satisfacción de los huéspedes. Estos datos permiten al equipo gerencial realizar ajustes operativos y estratégicos para mejorar continuamente el servicio.<br>
+![Web Aplication User Flow Diagram Staff](/Assets/img/Chapter%204/Happy%20Path%20-%20Staff.jpeg)
 
 
 ## 4.5. Web Applications Prototyping.
