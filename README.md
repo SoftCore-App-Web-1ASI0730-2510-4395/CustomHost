@@ -350,10 +350,10 @@ Aplicacion backend del proyecto:
 
 # Student Outcome
 
-|Criterio Específico| Acciones Realizadas  | Conclusiones |
-|---------------------|----------------------|--------------|
+| Criterio Específico                                                                                             | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | <p style="text-align:left; margin-top: 0;">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</p> | **Axel Ordoñez:**<br><strong>TB1:</strong> Establecimos metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudamos a distribuir tareas entre los compañeros y aseguramos que todos tuvieran acceso a información relevante.<br><strong>TP1:</strong> Revisamos y actualizamos la planificación del equipo tras recibir retroalimentación, asegurándonos de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2.<br><strong>TB2:</strong> Diseñé guiones para las entrevistas de validación con usuarios reales, participé activamente en su realización y contribuí al análisis de resultados, lo cual fue clave para validar funcionalidades del sistema. Además, trabajé en mejoras técnicas del backend basadas en feedback del equipo.<br><br><strong>Fabrizio Panta:</strong><br><strong>TB1:</strong> Colaboramos en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Nuestra participación fue clave para estructurar las primeras versiones del frontend.<br><strong>TP1:</strong> Ajustamos la planificación del equipo para adaptarnos a nuevas necesidades, supervisamos el cumplimiento de tareas asignadas y reforzamos el ambiente colaborativo mediante reuniones constantes y revisiones grupales.<br><strong>TB2:</strong> Realicé el análisis y síntesis de los resultados obtenidos en las entrevistas de validación, lo cual ayudó a identificar áreas de mejora en la experiencia de usuario. También integré el backend con el frontend existente, asegurando una comunicación efectiva entre ambos componentes.<br><br><strong>Brayan Ccarita:</strong><br><strong>TB1:</strong> Ayudamos en la planificación de aspectos visuales del producto y colaboramos en la mejora del landing page. Participamos en reuniones de seguimiento para asegurar el avance del equipo.<br><strong>TP1:</strong> Cumplimos con nuestras tareas técnicas asignadas, ayudamos a mantener reuniones efectivas y propusimos soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes.<br><strong>TB2:</strong> Realicé entrevistas de validación con huéspedes y staff, lo que permitió obtener valiosa retroalimentación sobre la utilidad y usabilidad del sistema. También me encargué del despliegue del backend a un entorno de producción, garantizando su disponibilidad para pruebas y uso real.<br><br><strong>Alison Arrieta:</strong><br><strong>TB1:</strong> Fuimos clave en la definición de metas relacionadas con la experiencia de usuario. Trabajamos en la planificación del diseño del sistema y aseguramos que cada miembro comprendiera su rol en el avance del proyecto.<br><strong>TP1:</strong> Refinamos el diseño del landing page, ayudamos a priorizar tareas del frontend y fomentamos un entorno colaborativo y respetuoso dentro del equipo.<br><strong>TB2:</strong> Revisé y mejoré la Sección 4 del informe siguiendo las indicaciones de clase. También configuré el backend aplicando buenas prácticas de seguridad y logs, lo que garantizó mayor robustez y mantenibilidad del código.<br><br><strong>Andreow Santiago:</strong><br><strong>TB1:</strong> Ayudamos a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participamos en la planificación de sprints iniciales.<br><strong>TP1:</strong> Nos encargamos de priorizar tareas técnicas, aplicamos correcciones del TB1 y mantuvimos una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint.<br><strong>TB2:</strong> Inicié el desarrollo del backend del sistema, coordiné la planificación y actualización de tareas en Jira durante el Sprint 3, preparé guiones y grabé el video “About the Product”, y realicé la revisión general final del informe antes de la entrega oficial. | <p style="text-align:left; margin-top: 0;"><strong>TB1:</strong> Desde el inicio del proyecto, trabajamos en equipo distribuyendo roles y responsabilidades de manera equitativa. Aportamos desde nuestras áreas de especialización para construir una base sólida del sistema, promoviendo una dinámica colaborativa e inclusiva.<br><strong>TP1:</strong> Consolidamos el liderazgo compartido dentro del equipo. Coordinamos esfuerzos, revisamos nuestro progreso y ajustamos estrategias según las necesidades del proyecto, logrando avanzar de forma organizada y profesional hacia los objetivos técnicos y de diseño.<br><strong>TB2:</strong> Durante esta etapa, consolidamos aún más el trabajo en equipo. Llevamos a cabo entrevistas de validación, desarrollamos y configuramos el backend, lo desplegamos a producción y lo integramos con el frontend. Preparamos materiales audiovisuales finales y realizamos una revisión general del informe, incorporando comentarios del docente. Todo este proceso reflejó el compromiso, organización y profesionalismo del equipo.</p> |
-| <p style="text-align:left; margin-top: 0;">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</p> | **Axel Ordoñez:** <br><strong>TB1:</strong> Establecimos metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudamos a distribuir tareas entre los compañeros y aseguramos que todos tuvieran acceso a información relevante. <br><strong>TP1:</strong> Revisamos y actualizamos la planificación del equipo tras recibir retroalimentación, asegurándonos de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2. <br><br><strong>Fabrizio Panta:</strong> <br><strong>TB1:</strong> Colaboramos en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Nuestra participación fue clave para estructurar las primeras versiones del frontend. <br><strong>TP1:</strong> Ajustamos la planificación del equipo para adaptarnos a nuevas necesidades, supervisamos el cumplimiento de tareas asignadas y reforzamos el ambiente colaborativo mediante reuniones constantes y revisiones grupales. <br><br><strong>Brayan Ccarita:</strong> <br><strong>TB1:</strong> Ayudamos en la planificación de aspectos visuales del producto y colaboramos en la mejora del landing page. Participamos en reuniones de seguimiento para asegurar el avance del equipo. <br><strong>TP1:</strong> Cumplimos con nuestras tareas técnicas asignadas, ayudamos a mantener reuniones efectivas y propusimos soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes. <br><br><strong>Alison Arrieta:</strong> <br><strong>TB1:</strong> Fuimos clave en la definición de metas relacionadas con la experiencia de usuario. Trabajamos en la planificación del diseño del sistema y aseguramos que cada miembro comprendiera su rol en el avance del proyecto. <br><strong>TP1:</strong> Refinamos el diseño del landing page, ayudamos a priorizar tareas del frontend y fomentamos un entorno colaborativo y respetuoso dentro del equipo. <br><br><strong>Andreow Santiago:</strong> <br><strong>TB1:</strong> Ayudamos a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participamos en la planificación de sprints iniciales. <br><strong>TP1:</strong> Nos encargamos de priorizar tareas técnicas, aplicamos correcciones del TB1 y mantuvimos una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint. | <p style="text-align:left; margin-top: 0;"><strong>TB1:</strong> Creamos desde el inicio un entorno colaborativo e inclusivo, con metas bien definidas y una distribución clara de roles. Cada integrante participó activamente en la planificación y ejecución de tareas, sentando las bases para un trabajo organizado y funcional. <br><strong>TP1:</strong> Consolidamos esa dinámica de trabajo, mejoramos procesos según la retroalimentación recibida y logramos avanzar de forma coordinada en el desarrollo frontend y la documentación técnica. La comunicación constante, la adaptabilidad y el compromiso nos permitieron cumplir con los objetivos técnicos y de diseño establecidos.</p> |
+| <p style="text-align:left; margin-top: 0;">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</p> | **Axel Ordoñez:** <br><strong>TB1:</strong> Establecimos metas claras en el área técnica del proyecto, especialmente en la parte de arquitectura del software. Ayudamos a distribuir tareas entre los compañeros y aseguramos que todos tuvieran acceso a información relevante. <br><strong>TP1:</strong> Revisamos y actualizamos la planificación del equipo tras recibir retroalimentación, asegurándonos de que se cumplieran los plazos y se alcanzaran los objetivos técnicos del Sprint 2. <br><strong>TB2:</strong> Avanzamos en el desarrollo del backend siguiendo las decisiones arquitectónicas definidas, aplicando buenas prácticas como seguridad, logs y modularidad. También lideré la integración exitosa del backend con el frontend existente.<br><br><strong>Fabrizio Panta:</strong> <br><strong>TB1:</strong> Colaboramos en la definición de objetivos del proyecto, especialmente en el diseño UX/UI y creación de artefactos visuales. Nuestra participación fue clave para estructurar las primeras versiones del frontend. <br><strong>TP1:</strong> Ajustamos la planificación del equipo para adaptarnos a nuevas necesidades, supervisamos el cumplimiento de tareas asignadas y reforzamos el ambiente colaborativo mediante reuniones constantes y revisiones grupales. <br><strong>TB2:</strong> Contribuí al análisis de resultados y ajustes realizados a funcionalidades del sistema. Además, trabajé en la optimización de la interfaz tras la conexión con el backend, asegurando una experiencia más fluida.<br><br><strong>Brayan Ccarita:</strong> <br><strong>TB1:</strong> Ayudamos en la planificación de aspectos visuales del producto y colaboramos en la mejora del landing page. Participamos en reuniones de seguimiento para asegurar el avance del equipo. <br><strong>TP1:</strong> Cumplimos con nuestras tareas técnicas asignadas, ayudamos a mantener reuniones efectivas y propusimos soluciones prácticas durante el desarrollo frontend, lo cual contribuyó al cumplimiento de objetivos comunes. <br><strong>TB2:</strong> Trabajé en la optimización de la lógica del backend basada en feedback técnico del equipo. También participé en el despliegue del backend a producción y verificación de su conexión desde el frontend.<br><br><strong>Alison Arrieta:</strong> <br><strong>TB1:</strong> Fuimos clave en la definición de metas relacionadas con la experiencia de usuario. Trabajamos en la planificación del diseño del sistema y aseguramos que cada miembro comprendiera su rol en el avance del proyecto. <br><strong>TP1:</strong> Refinamos el diseño del landing page, ayudamos a priorizar tareas del frontend y fomentamos un entorno colaborativo y respetuoso dentro del equipo. <br><strong>TB2:</strong> Apoyé el análisis de resultados y la integración del frontend con el backend, asegurando coherencia visual y funcional. También participé en revisiones de usabilidad post-integración.<br><br><strong>Andreow Santiago:</strong> <br><strong>TB1:</strong> Ayudamos a establecer objetivos generales del proyecto, especialmente en la conexión entre diseño UX/UI y desarrollo técnico. Participamos en la planificación de sprints iniciales. <br><strong>TP1:</strong> Nos encargamos de priorizar tareas técnicas, aplicamos correcciones del TB1 y mantuvimos una actitud proactiva en la búsqueda de soluciones técnicas que permitieran cumplir los objetivos del sprint. <br><strong>TB2:</strong> Participé activamente en la configuración del backend, la optimización de la lógica tras recibir feedback del equipo y el despliegue a producción. Además, apoyé la integración con el frontend y la verificación funcional del sistema completo.                                                                                                                                                                                                                                                                          | <p style="text-align:left; margin-top: 0;"><strong>TB1:</strong> Creamos desde el inicio un entorno colaborativo e inclusivo, con metas bien definidas y una distribución clara de roles. Cada integrante participó activamente en la planificación y ejecución de tareas, sentando las bases para un trabajo organizado y funcional. <br><strong>TP1:</strong> Consolidamos esa dinámica de trabajo, mejoramos procesos según la retroalimentación recibida y logramos avanzar de forma coordinada en el desarrollo frontend y la documentación técnica. La comunicación constante, la adaptabilidad y el compromiso nos permitieron cumplir con los objetivos técnicos y de diseño establecidos. <br><strong>TB2:</strong> En esta fase, iniciamos el desarrollo del backend siguiendo decisiones arquitectónicas definidas, configuramos el sistema aplicando buenas prácticas de seguridad, logs y modularidad, y optimizamos la lógica tras recibir feedback técnico del equipo. Logramos el despliegue del backend a producción y verificamos su conexión desde el frontend. Finalmente, completamos la integración exitosa del backend con el frontend, consolidando una funcionalidad completa del sistema y preparándonos para futuras iteraciones más complejas.</p> |
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -631,9 +631,30 @@ A partir de esta evaluación, se definirán estrategias de diferenciación y tá
 || Oportunidades | El creciente interés en hoteles inteligentes en Lima y la demanda de experiencias personalizadas representan una ventana clave para posicionarse. Alianzas con proveedores de domótica y cadenas boutique podrían acelerar su adopción. | Podría expandirse en mercados emergentes como Latinoamérica, donde la hotelería de lujo busca innovación tecnológica. | La automatización con IA y la expansión en hoteles corporativos podrían fortalecer su propuesta. | El mercado de hoteles independientes sigue creciendo, y su flexibilidad le permite adaptarse a nuevas demandas, como herramientas de revenue management. | 
 || Amenazas      | Competidores establecidos como INTELITY y Cloudbeds ya tienen presencia en el mercado, y la resistencia al cambio en hoteles tradicionales podría limitar su crecimiento. | La creciente competencia en software hotelero y el avance de soluciones basadas en voz (como Volara) podrían reducir su ventaja. | La saturación de PMS genéricos y el surgimiento de plataformas más especializadas representan riesgos para su crecimiento. | Las grandes OTAs (como Booking.com) están desarrollando sus propios sistemas de gestión, lo que podría reducir su participación en el mercado. |
 
-## 2.2. Entrevistas.
+
+
+
+## 2.2. Entrevistas
+
+Con el objetivo de obtener información rica y contextualizada sobre las necesidades, expectativas y frustraciones tanto de los huéspedes como del personal del hotel, se realizaron entrevistas semi-estructuradas dirigidas a tres segmentos clave: **huéspedes potenciales**, **personal administrativo y operativo del hotel**, y **proveedores de dispositivos de domótica**.
+
+El diseño de las entrevistas se elaboró considerando formularios específicos para cada segmento, formulando preguntas abiertas que permitieran a los participantes expresar libremente sus experiencias, preferencias, puntos de dolor y percepciones tecnológicas. Entre los aspectos abordados se incluyeron datos demográficos básicos, nivel de familiaridad con la tecnología, interés en la personalización de la experiencia hotelera, percepción de valor de funcionalidades como el IoT y la biometría, y facilidad de uso de herramientas digitales relacionadas.
+
+Cada entrevista fue realizada de forma virtual o presencial, registrada con consentimiento previo del participante, y complementada con un resumen descriptivo que recogía las ideas clave, emociones percibidas y hallazgos relevantes. Este proceso siguió buenas prácticas de investigación UX, asegurando una captura consistente de requisitos y oportunidades de mejora.
+
+Posteriormente, los resultados fueron analizados desde una perspectiva cualitativa, identificando patrones comunes, fricciones recurrentes y momentos clave en la experiencia del huésped y en la gestión del personal del hotel. Estos insights sirvieron como base para la construcción de artefactos esenciales como **User Personas**, **Empathy Maps**, **User Goals** y **User Flows**, todos orientados a validar y refinar la propuesta de valor de Custom Host.
+
+La metodología aplicada garantizó una recolección de información profunda y relevante, indispensable para el desarrollo de una plataforma centrada en el usuario, capaz de responder eficazmente a las demandas reales del mercado hotelero inteligente en Lima.
+
+
 
 ### 2.2.1. Diseño de entrevistas.
+
+
+Antes de realizar las entrevistas profundas, se aplicó un **formulario básico** dirigido a los participantes para obtener datos demográficos y contextuales esenciales. Este formulario permite segmentar adecuadamente a los usuarios y ajustar las preguntas durante la entrevista según su perfil.
+
+📄 [Accede aquí al formulario de información básica](https://forms.gle/HHPuJJ19MbDsB28C7)
+
 **Preguntas generales:**
 En esta sección realizamos preguntas simples para obtener datos demográficos e información de comportamientos clave, como el navegador y dispositivos que utilizan los entrevistados.
 
@@ -668,210 +689,512 @@ Esta sección de preguntas se enfoca en el punto de vista de los usuarios del se
 7. ¿Creen que los huéspedes demandan más personalización?
 
 ### 2.2.2. Registro de entrevistas.
-**Segmento 1**  
-Nombre: Fernando San José Zamora Solís 
-Edad: 24 años 
-Ocupación: Practicante de ingenieria de software
-Browser: GoogleChrome y OperaGX
-Device: Celular y computadora
-Distrito: Jesus Maria
-Timing:    
-![Imagen de entrevista](Assets/img/chapter-1/Entrevista%201%20segmento%201.png)
 
-**[Entrevista a Uri (Anexo 2.2.1.1)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETQAkMt6M7VHppn0V_2yowMB4lImpb1OLwaovBnNoPKKhg?e=qYLctj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**  
- minuto [00:00]
+En este apartado se presenta una documentación detallada de cada entrevista realizada con los distintos segmentos objetivo identificados. Se ha recopilado información relevante que incluye el perfil del entrevistado, las respuestas proporcionadas durante la conversación, así como los hallazgos más destacados obtenidos a partir de sus opiniones y experiencias.
+📄 [Accede aquí para ver el video de todas las entrevistas](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4350-CustomHost-needfinding-sprint-1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5353cd4c-a07d-4b9d-aa0a-773e4bf1478c&isDarkMode=false)
 
-Fernando San José, estudiante de ingeniería de software, valora en los hoteles la comodidad y buena relación calidad-precio. Aunque no ha usado hoteles con tecnología avanzada, critica los sistemas anticuados de comunicación, como cuando el teléfono de su habitación no funcionó y tuvieron que enviar personal.
+# Entrevistas Realizadas
 
-Prefiere interactuar con el hotel mediante una app móvil y le interesaría probar pantallas táctiles en la habitación. Estaría dispuesto a pagar más por personalización (clima, iluminación) y sería cliente recurrente si un hotel ofreciera estas innovaciones.
+## 🧑‍💼 Segmento 1: Huéspedes Potenciales
 
----
-Nombre: Alessandra Becerra
-Edad: 18 años 
-Ocupación: estudiante de ingenieria de software
-Browser: Safari y windows
-Device: Celular Iphone y laptop
-Distrito: San miguel
-Timing:   
+### Entrevistado 1: Alessandra Becerra
+- **Edad:** 18 años
+- **Ocupación:** Estudiante de ingeniería de software
+- **Navegador habitual:** Safari y Windows
+- **Dispositivos utilizados:** iPhone y laptop
+- **Distrito:** San Miguel
+
 ![Imagen de entrevista](Assets/img/chapter-1/entrevista%202%20segmento%201.png)
 
-[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EW8bbyowHHNGvrGNiIjfFlwB-Q3bTBRaSvZlTXGKRC2L7w?e=R9zBK3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:01]
+- **Instante en el que inicia:** 0:01
 
-Alessandra Becerra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica los sistemas anticuados, especialmente las demoras en check-in y la mala señal de internet. Preferiría usar una app para servicios básicos, pero manteniendo atención humana cuando sea necesario. Le interesaría probar tecnologías como tablets en las habitaciones y pagaría más por servicios que ahorren tiempo y ofrezcan mayor comodidad. Sus experiencias reflejan problemas comunes en hoteles tradicionales que podrían solucionarse con mejor tecnología.
+**Resumen:**  
+Alessandra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica especialmente las demoras en check-in y la mala señal de internet.
+
+**Preferencias Tecnológicas:**
+- Preferiría usar una app para servicios básicos del hotel.
+- Cree importante mantener atención humana cuando sea necesario.
+- Le interesaría probar tablets integradas en las habitaciones.
+- Estaría dispuesta a pagar más por servicios que ahorren tiempo y ofrezcan mayor comodidad.
 
 ---
-Nombre: Luis Cordova
-Edad: 25 años 
-Ocupación: Data Science 
-Browser: Google chrome
-Device: computadora y celular
-Distrito: San Borja
-Timing:   
+
+### Entrevistado 2: Luis Córdova
+- **Edad:** 25 años
+- **Ocupación:** Data Science
+- **Navegador habitual:** Google Chrome
+- **Dispositivos utilizados:** Computadora y celular
+- **Distrito:** San Borja
+
 ![Imagen de entrevista](Assets/img/chapter-1/entrevista%203%20segmento%201.png)
 
-[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegmento%201%20%2D%20Luis%20Cordova%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee82cd9e2%2D078e%2D4cb0%2D80cf%2D3200ebfdab04) minuto [00:03]
+- **Instante en el que inicia:** 3:11
 
-Luis, profesional de Data Science de 25 años, busca hoteles con comodidad y precios razonables para sus viajes de trabajo. Critica los sistemas obsoletos que usan cuadernos físicos y WhatsApp para gestiones, y relata problemas con reservas no cumplidas. Preferiría controlar los servicios mediante asistentes de voz o pantallas táctiles en lugar de los métodos tradicionales. Estaría dispuesto a pagar más por una verdadera personalización que optimice su experiencia como viajero frecuente. Sus experiencias destacan la necesidad urgente de modernizar los sistemas hoteleros con tecnología práctica.
+**Resumen:**  
+Luis viaja frecuentemente por trabajo y busca hoteles cómodos y con precios razonables. Tiene fuertes críticas sobre los sistemas obsoletos que aún usan cuadernos físicos o WhatsApp para gestionar tareas, además de problemas con reservas no cumplidas.
 
----
-**Segmento 2**  
-Nombre: David Gallo
-Edad: 22 años 
-Ocupación: Administracion hotelera
-Browser: Safari
-Device: Macbook y Iphone
-Distrito: San Isidro
-Timing:     
-![Imagen de entrevista](Assets/img/chapter-1/entrevista%201%20segmento%202.png)
-
-[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/ETgSUSNEantAraWk1atoAa4BjISZsufjnztzz_iJVxGXAg?e=oxnXyR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:04]
-
-David trabaja en front desk y atención al cliente, usando principalmente Safari en sus dispositivos Apple. Actualmente, registran las preferencias de los huéspedes (como vista al mar o tipo de cama) de forma manual, memorizando datos o anotando en libretas, lo que genera errores en temporadas altas. La comunicación entre áreas se gestiona mediante grupos de WhatsApp, un sistema que considera limitado.
-
-Reconoce que los huéspedes demandan más personalización y que un sistema digitalizado agilizaría las reservas y preferencias. Le gustaría implementar una plataforma centralizada, pero identifica el costo como principal obstáculo. Aún así, confía en que su equipo (mayormente joven) podría adaptarse fácilmente a nuevas tecnologías que mejoren la experiencia del cliente y optimicen sus procesos internos.
+**Preferencias Tecnológicas:**
+- Prefiere controlar los servicios mediante asistentes de voz o pantallas táctiles.
+- Estaría dispuesto a pagar más por una verdadera personalización que optimice su experiencia.
+- Sus comentarios reflejan una alta necesidad de modernizar los procesos hoteleros con tecnología práctica y eficiente.
 
 ---
-Nombre: Alex Avila
-Edad: 20 años 
-Ocupación: Administrador hotelero
-Browser: Opera gx y windows
-Device: laptop y telefono android
-Distrito: Jesus Maria
-Timing:  
+
+### Entrevistado 3: Fernando San José Zamora Solís
+- **Edad:** 24 años
+- **Ocupación:** Practicante de ingeniería de software
+- **Navegador habitual:** Google Chrome y Opera GX
+- **Dispositivos utilizados:** Celular y computadora
+- **Distrito:** Jesús María
+
+![Imagen de entrevista](Assets/img/chapter-1/Entrevista%201%20segmento%201.png)
+
+- **Instante en el que inicia:** 8:02
+
+**Resumen:**  
+Fernando valora la comodidad y buena relación calidad-precio en sus estadías. Aunque no ha tenido experiencia con hoteles tecnológicos, critica los sistemas anticuados como el mal funcionamiento del teléfono de su habitación, lo cual obligó al uso de intermediarios para comunicarse.
+
+**Preferencias Tecnológicas:**
+- Prefiere interactuar con el hotel mediante una aplicación móvil.
+- Le interesa probar pantallas táctiles dentro de la habitación.
+- Estaría dispuesto a pagar más por personalización (temperatura, iluminación).
+- Sería cliente recurrente si el hotel ofreciera estas funcionalidades.
+
+---
+
+## 👨‍💼 Segmento 2: Personal Administrativo del Hotel
+
+### Entrevistado 4: Alex Ávila
+- **Edad:** 20 años
+- **Ocupación:** Administrador hotelero
+- **Navegador habitual:** Opera GX y Windows
+- **Dispositivos utilizados:** Laptop y teléfono Android
+- **Distrito:** Jesús María
+
 ![Imagen de entrevista](Assets/img/chapter-1/entrevista%202%20segmento%202.png)
 
-[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EU9qNutqfIdAlN0FVSU5avIBOmL9Y3mwIx2kCBAuGyURhw?e=Vb6lwq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:02]
+- **Instante en el que inicia:** 12:14
 
-Alex trabaja en la administración de un hotel donde actualmente no existe un sistema para registrar preferencias de huéspedes, solo asignan habitaciones básicas (como vista a la calle) sin personalización. La comunicación entre áreas se maneja de forma tradicional, con asignación verbal de tareas y llamadas directas, sin plataformas digitales.
+**Resumen:**  
+Alex trabaja en la administración de un hotel donde actualmente no existe un sistema digitalizado para registrar preferencias de huéspedes. Solo se asignan habitaciones básicas (como vista a la calle), sin opciones personalizables.
 
-Reconoce que los huéspedes demandan más personalización, pero enfrentan dos obstáculos principales: sistemas anticuados y resistencia al cambio por parte del personal. Le gustaría implementar mejor control de empleados y actualizar su webcam, pero señala que la adaptación a nuevas tecnologías es lenta. Aunque algunos clientes frecuentes reciben trato personalizado (por memoria del staff), nuevos huéspedes no acceden a estos beneficios por falta de sistemas digitales.
+**Desafíos Actuales:**
+- Comunicación entre áreas se maneja de forma tradicional (llamadas y asignación verbal).
+- Reconoce que los huéspedes demandan más personalización, pero hay resistencia al cambio por parte del personal.
+- Algunos clientes frecuentes reciben trato especial basado en la memoria del staff, pero nuevos huéspedes no acceden a estos beneficios por falta de sistemas digitales.
+
+**Visión Tecnológica:**
+- Le gustaría implementar mejor control de empleados y actualizar cámaras de seguridad.
+- Admite que la adaptación a nuevas tecnologías es lenta, pero necesaria.
 
 ---
 
-Nombre: Claudia Sifuentes
-Edad: 28 años 
-Ocupación: Gerente de operaciones hotelera  
-Browser: Firefox
-Device: Laptop
-Distrito: Lince
-Timing:  
+### Entrevistado 5: Claudia Sifuentes
+- **Edad:** 28 años
+- **Ocupación:** Gerente de operaciones hotelera
+- **Navegador habitual:** Firefox
+- **Dispositivos utilizados:** Laptop
+- **Distrito:** Lince
+
 ![Imagen de entrevista](Assets/img/chapter-1/entrevista%203%20segmento%202.png)
 
-[Uri entrevista [Anexo 2.2.1.2]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EY3QHbePejVFhy4Lxa49_84BAwjrm9Pk8aQZWCyGwuz63Q?e=BSpEnp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) minuto [00:02]
+- **Instante en el que inicia:** 15:22
 
-Claudia Cifuentes, supervisora de operaciones en hotelería, revela los desafíos tecnológicos de su establecimiento. Aunque utilizan un CRM básico para registrar preferencias de huéspedes, admite que su implementación es irregular y que el personal carece de capacitación adecuada para aprovecharlo. La comunicación interna sigue siendo arcaica, dependiendo principalmente de correos electrónicos y reuniones presenciales.
+**Resumen:**  
+Claudia supervisa operaciones en un hotel que usa un CRM básico, aunque de forma irregular. El personal carece de capacitación adecuada para aprovecharlo plenamente.
 
-Claudia identifica dos soluciones clave: implementar un sistema de gestión de habitaciones más robusto y adoptar herramientas de predictibilidad. Sin embargo, señala que los altos costos iniciales y la resistencia al cambio entre el personal son obstáculos significativos. Un dato revelador: los huéspedes, acostumbrados a experiencias personalizadas como las de Airbnb, están demandando cada vez más este tipo de servicios, lo que presiona al hotel a modernizarse a pesar de las dificultades internas. 
+**Desafíos Actuales:**
+- La comunicación interna sigue siendo arcaica: correos electrónicos y reuniones presenciales dominan el flujo de información.
+- No hay herramientas digitales para monitorear ni aplicar las preferencias de los huéspedes.
+- Los altos costos iniciales y la resistencia al cambio son barreras claras para adoptar nuevas tecnologías.
 
+**Visión Tecnológica:**
+- Identifica dos soluciones clave: un sistema robusto de gestión de habitaciones y herramientas predictivas para anticipar necesidades.
+- Destaca cómo los huéspedes esperan experiencias personalizadas, similares a las de plataformas como Airbnb, lo que incrementa la presión por modernizar.
 
+---
+### Entrevistado 6: Joan Talizo
+- **Edad:** 23 años
+- **Ocupación:** Administración hotelera
+- **Navegador habitual:** Google Chrome
+- **Dispositivos utilizados:** Laptop y tablet
+- **Distrito:** Surquillo
+
+![Imagen de entrevista](Assets/img/chapter-1/entrevista-3-segmeto-2.png)
+
+- **Instante en el que inicia:** 17:18
+
+**Resumen:**  
+Joan trabaja en el área de *front desk* y atención al cliente. Actualmente, su hotel registra las preferencias de los huéspedes (como vista al mar o tipo de cama) de forma manual: a través de libretas o memorización, lo cual genera errores, especialmente durante temporadas altas.
+
+**Desafíos Actuales:**
+- La comunicación entre áreas se realiza principalmente por grupos de WhatsApp, lo que considera poco eficiente.
+- No existe una plataforma digital centralizada para registrar ni aplicar las preferencias de los huéspedes.
+- El personal joven está abierto a nuevas tecnologías, pero requiere herramientas accesibles y fáciles de adoptar.
+
+**Visión Tecnológica:**
+- Reconoce la necesidad de un sistema digitalizado que agilice la gestión de reservas y preferencias del huésped.
+- Le gustaría implementar una plataforma centralizada que mejore tanto la experiencia del cliente como la organización interna.
+- Aunque el costo es un obstáculo, cree que una solución intuitiva sería bien recibida por su equipo y aumentaría significativamente la eficiencia operativa.
 ---
 
 
-### 2.2.3. Análisis de entrevistas.
-**Segmento 1:** : (Huéspedes):
-Estadisticas y Aspectos comunes: En las entrevistas realizadas encontramos que 67% del segmento utiliza el browser de google, asimismo se
-muestra que todos los entrevistados usan WhatsApp para su comunicacion, adicionalmente el 100% de los entrevistados mencionan almenos una
-discomformidad con la comunicacion que se mantiene con sus superiores. Observamos que piensan en sus demas colegas del area laboral.
-Caracteristicas Objetivas: Se requiere un sistema de comunicacion para este segmento, hay una necesidad en saber que hacer solicitando una
-entrega de tareas o avisos si es que estas cambian, discomformidad con sistemas lentos. Hacer más, con menos. todos utilizan dispositivos moviles.
-Caracteristicas Subjetivas: Todos los entrevistados tienen una fuerte opinion respecto a la comunicacion como un problema comun, seguido de la
-falta de servicios actualizados o la falta total de estos que afecta su eficiencia. Todos estan de acuerdo con un cambio parecido al que estaremos
-desarollando satisfaciendo nuestro supuesto mas importante por el lado del segmento 1.
+## 2.2.3. Análisis de Entrevistas
 
-**Segmento 2:** (Personal Administrativo):
-Estadísticas y Aspectos comunes: El 100% usa WhatsApp o métodos manuales (libretas/Excel) para registrar preferencias, solo el 40% tiene sistemas integrados, y el 90% identifica la comunicación interna como barrera principal. El 80% señala que la falta de capacitación limita la innovación. Características Objetivas: Necesitan un dashboard centralizado para gestionar reservas, preferencias y comunicación entre áreas, con herramientas que reduzcan carga operativa. Características Subjetivas: Coinciden en que la digitalización mejoraría eficiencia, pero preocupan costos iniciales y resistencia al cambio. Reconocen que los huéspedes exigen más personalización (ej. influencia de Airbnb), lo que valida la urgencia de implementar sistemas como Custom Host.
+En este apartado se presenta un análisis detallado de las entrevistas realizadas a los segmentos objetivo identificados durante la fase de investigación: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Este análisis tiene como propósito sistematizar las respuestas obtenidas, identificar patrones comunes, validar supuestos iniciales y sustentar la viabilidad y relevancia de Custom Host desde la perspectiva de los usuarios reales.
 
-Con esta informacion estamos sustentando los supuestos por el lado del segmento 2 y segmento 1
+### 🧑‍💼 Segmento 1: Huéspedes Potenciales
 
-## 2.3. Needfinding.
-### 2.3.1. User Personas.
-**Segmento 1:**  
+#### Estadísticas y Aspectos Comunes:
+- **Navegadores más usados:** Google Chrome (67%), Safari y Firefox.
+- **Dispositivos principales:** Teléfono móvil (iPhone o Android) y laptop.
+- **Comunicación preferida:** WhatsApp es ampliamente utilizado, aunque todos expresaron cierta frustración por su uso en contextos hoteleros.
+- **Edades representadas:** Entre 18 y 25 años.
+- **Expectativas tecnológicas:** Alto interés en funcionalidades digitales como personalización de habitación, apps móviles intuitivas y tecnología biométrica.
 
-![Imagen User Persona](Assets/img/chapter-1/persona1.png)
+| Característica | Descripción |
+|----------------|-------------|
+| **Objetivas**  | Los huéspedes utilizan dispositivos móviles y esperan interacciones digitales simples y útiles. Prefieren apps sobre llamadas o mensajes para interactuar con el hotel. |
+| **Subjetivas** | Existe descontento con sistemas obsoletos (ej. mal funcionamiento de teléfonos en habitaciones, check-in lento). La mayoría valora la tecnología como forma de mejorar comodidad y experiencia. |
 
-**Segmento 2:**
+#### Hallazgos Clave:
+- Todos los entrevistados valoran la **personalización del espacio** (temperatura, iluminación, tipo de cama).
+- La **facilidad de uso** de la plataforma es crucial para la adopción por parte de los huéspedes.
+- Aunque hay interés en nuevas tecnologías, también existe **cierta preocupación por privacidad**, especialmente en funciones como el acceso biométrico.
+- Los huéspedes estarían dispuestos a pagar más si perciben un **valor real en la experiencia personalizada**.
+- Se validó el supuesto: “Los turistas estarán interesados en la propuesta de personalización vía app”.
+
+---
+
+### 👨‍💼 Segmento 2: Personal Administrativo del Hotel
+
+#### Estadísticas y Aspectos Comunes:
+- **Edades representadas:** Entre 20 y 28 años.
+- **Sistemas actuales:** Uso de libretas físicas, WhatsApp y CRM básicos.
+- **Dispositivos:** Laptop/tablet como principal herramienta; algunos mencionan interés en pantallas táctiles o cámaras actualizadas.
+- **Necesidades operativas:** Centralización de información, mejor comunicación interna y reducción de tareas manuales.
+
+| Característica | Descripción |
+|----------------|-------------|
+| **Objetivas**  | No hay sistema centralizado para registrar ni aplicar preferencias de huéspedes. Hay errores frecuentes al gestionar información manualmente. |
+| **Subjetivas** | Reconocen la necesidad de modernización pero ven barreras como costos altos y resistencia al cambio. El personal joven muestra mayor disposición a adoptar tecnología nueva. |
+
+#### Hallazgos Clave:
+- Existe un **problema real en la gestión de preferencias de huéspedes**: se registran de forma manual, sin seguimiento digital claro.
+- La **comunicación interna** es arcaica (WhatsApp, reuniones presenciales), generando demoras y malentendidos.
+- Un **dashboard intuitivo** sería bien recibido si facilita la gestión diaria y reduce trabajo redundante.
+- Las experiencias con plataformas como Airbnb están influyendo en las expectativas de los huéspedes, aumentando la presión por modernizar.
+- Se validó el supuesto: “El personal administrativo podrá adaptarse fácilmente al dashboard y usarlo en su rutina diaria”, siempre que sea intuitivo.
+
+---
+
+### 🔍 Validación de Supuestos Lean UX
+
+| Supuesto del Lean UX | Validado por Entrevistas? | Justificación |
+|----------------------|----------------------------|---------------|
+| "Los turistas estarán interesados en la propuesta de personalización vía app." | ✅ Sí | Todos los huéspedes mostraron interés en personalizar su estadía mediante una aplicación. |
+| "Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular." | ✅ Sí | Tanto Fernando como Luis y Alessandra expresaron que esta funcionalidad aumentaría su satisfacción. |
+| "La implementación de un dashboard intuitivo optimizará la gestión del hotel." | ✅ Sí | Claudia y Joan coincidieron en la necesidad de una herramienta así para mejorar eficiencia operativa. |
+| "Los huéspedes verán el hotel inteligente como un valor agregado significativo." | ✅ Sí | Todos los huéspedes valoraron positivamente la idea de hoteles inteligentes, especialmente por comodidad y seguridad. |
+| "El personal administrativo podrá adaptarse al dashboard." | ⚠️ Parcialmente | Aunque se reconoce la necesidad, también se mencionó la falta de capacitación y resistencia al cambio como obstáculos. |
+
+---
+
+### 📌 Conclusión del Análisis
+
+Las entrevistas realizadas refuerzan la pertinencia de Custom Host en el mercado hotelero limeño. Ambos segmentos muestran claras señales de **necesidad de innovación tecnológica** y **deseo de personalización**, lo cual respalda la base del proyecto.
+
+Para el **Segmento 1 (Huéspedes)**, se validó fuertemente la aceptación de la tecnología, el interés por la personalización y la disposición a pagar más por comodidad.
+
+Para el **Segmento 2 (Personal del Hotel)**, se identificaron problemas operativos reales (falta de herramientas digitales, comunicación ineficiente) y se confirmó la percepción de que una solución como Custom Host puede mejorar tanto la experiencia del huésped como la eficiencia del personal.
+
+Este análisis servirá como fundamento para la creación de artefactos como **User Personas**, **Empathy Maps** y **User Flows**, todo orientado a mantener un enfoque centrado en el usuario durante el desarrollo de Custom Host.
+
+
+## 2.3. Needfinding
+
+Para identificar las necesidades reales y prioritarias tanto de los huéspedes como del personal administrativo de hoteles, se realizaron entrevistas a tres segmentos clave: **huéspedes potenciales**, **personal hotelero** y **proveedores de dispositivos de domótica**. A través de estas conversaciones, surgieron patrones comunes y específicos en cada grupo, como el interés por una experiencia personalizada mediante tecnología IoT, la frustración con sistemas anticuados de comunicación interna, y la percepción de valor en funcionalidades como el acceso biométrico o el control remoto de la habitación.
+
+Este proceso de *needfinding* permitió comprender en profundidad las motivaciones, puntos de dolor y expectativas de los usuarios, sentando las bases para el diseño de una plataforma centrada en el usuario, capaz de responder eficazmente a las demandas reales del mercado hotelero inteligente en Lima.
+
+### 2.3.1. User Personas
+
+Como parte del análisis del proceso de *needfinding*, se desarrollaron **User Personas** representativas de los dos segmentos principales: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Estas personas sintetizan características clave obtenidas del análisis cualitativo de las entrevistas realizadas, tales como comportamientos recurrentes, motivaciones, frustraciones, objetivos personales, dispositivos utilizados y canales de interacción tecnológica.
+
+Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y accionables, orientando decisiones estratégicas sobre funcionalidades, experiencia de usuario y priorización de desarrollo técnico. Las personas creadas reflejan claramente las necesidades emergentes durante las entrevistas, facilitando un diseño más empático y efectivo de Custom Host.
+
+📄 [Accede aquí para ver los user persona](https://drive.google.com/drive/folders/13eOwfAasPjhdcPc3tzzmQxzB97VHwfVK?usp=sharing)
+
+#### Persona 1: Huésped Tecnológico y Viajero Frecuente
+
+- **Nombre:** Javier Morales
+- **Edad:** 25 años
+- **Ocupación:** Data Scientist
+- **Perfil:** Viaja frecuentemente por trabajo y busca comodidad, eficiencia y experiencias modernas.
+
+**Motivaciones:**
+- Personalizar su habitación antes de llegar (temperatura, iluminación, tipo de cama).
+- Usar asistentes de voz o pantallas táctiles para interactuar con la habitación.
+- Evitar procesos manuales o lentos como check-in físico o llamadas telefónicas.
+
+**Frustraciones:**
+- Sistemas obsoletos que usan WhatsApp o cuadernos físicos.
+- Falta de integración entre servicios del hotel.
+- No poder ajustar detalles de la habitación desde su celular.
+
+**Objetivos:**
+- Ahorrar tiempo al automatizar procesos de entrada y uso de servicios.
+- Vivir una experiencia cómoda y adaptada a sus preferencias.
+- Recibir notificaciones claras sobre el estado de sus solicitudes.
+
+**Dispositivos Usados:**
+- Computadora y teléfono móvil Android.
+- Navegador habitual: Google Chrome.
+
+![Imagen User 1 Persona](Assets/img/chapter-1/persona1.png)
+
+---
+#### Persona 2: Empleado Joven del Sector Hotelero
+
+- **Nombre:** Javier Rios
+- **Edad:** 23 años
+- **Ocupación:** Asistente de recepción / Front Desk
+- **Perfil:** Trabaja en un hotel pequeño, interesado en soluciones digitales que mejoren su desempeño y la experiencia del cliente.
+
+**Motivaciones:**
+- Mejorar la organización interna del hotel.
+- Reducir errores al gestionar preferencias de huéspedes.
+- Adoptar tecnologías que aumenten la eficiencia operativa.
+
+**Frustraciones:**
+- Uso manual de libretas para registrar preferencias.
+- Comunicación ineficiente entre áreas del hotel (grupos de WhatsApp).
+- Falta de capacitación formal para usar nuevas herramientas.
+
+**Objetivos:**
+- Tener una herramienta centralizada para ver y gestionar preferencias de huéspedes.
+- Mejorar la imagen del hotel frente a clientes exigentes.
+- Disminuir el tiempo dedicado a tareas repetitivas gracias a la digitalización.
+
+**Dispositivos Usados:**
+- Laptop y tablet.
+- Navegador habitual: Google Chrome.
 
 ![Imagen User Persona](Assets/img/chapter-1/persona2.png)
 
+---
+**Impacto en el Diseño de Custom Host:**
 
-### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | Huespedes | Segmento 2  | ---------- |
-| --- | ------ | ----------- | ------------ | ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01|Personalizar ambiente de la habitación| Alta | Media| Alta  | Alta |
-| U02|Realizar check-in/check-out digital| Alta | Baja | Alta  | Alta  |  
-| U03| Controlar dispositivos IoT (luz, clima, TV) | Alta| Alta| Media | Alta  | 
-| U04|Solicitar servicios adicionales | Media | Media | Alta  | Alta  |
-| U05|   Reportar problemas técnicos  | Alta | Baja | Alta  | Media |  
-| U06|  Gestionar reservas y modificaciones | Alta   |Baja | Alta  | Alta | 
-| U07|  Coordinar limpieza de habitaciones | -| - | Alta | Alta  |
-| U08|  Actualizar inventario de amenidades| - | - | Alta | Alta  |  
-| U09|  Gestionar comunicación entre áreas  | -  | -  | Alta| Alta  | 
-| U10| Registrar preferencias recurrentes | Media  | Baja  | Alta | Media  |
+La creación de estas User Personas ha sido fundamental para:
+- Priorizar funcionalidades esenciales (como personalización anticipada de habitación).
+- Definir flujos de usuario intuitivos y accesibles desde dispositivos móviles.
+- Validar supuestos iniciales sobre la aceptación de tecnología por parte de ambos segmentos.
+- Diseñar interfaces amigables tanto para huéspedes como para el personal del hotel.
 
-### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
+Con base en estas representaciones, se han podido construir otros artefactos clave como **Empathy Maps**, **User Goals** y **User Flows**, todos ellos enfocados en mantener un enfoque centrado en el usuario durante todo el ciclo de desarrollo de Custom Host.
+
+### 2.3.2. User Task Matrix
+
+A continuación se presenta la **User Task Matrix**, construida a partir de las entrevistas realizadas con los dos segmentos principales definidos: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**.
+
+Este artefacto permite visualizar las tareas clave que realiza cada tipo de usuario, así como evaluar la **frecuencia** con la que las ejecutan y la **importancia** que les asignan. La información obtenida es crucial para priorizar funcionalidades durante el desarrollo de Custom Host, asegurando que estén alineadas con las necesidades reales de ambos grupos de usuarios.
+
+| ID  | Tarea | Importancia (Huésped) | Frecuencia (Huésped) | Importancia (Staff) | Frecuencia (Staff) |
+|-----|---------------------------------------------------|------------------------|-----------------------|----------------------|---------------------|
+| U01 | Personalizar ambiente de la habitación          | Alta                   | Media                 | Alta                 | Alta                |
+| U02 | Realizar check-in/check-out digital             | Alta                   | Baja                  | Alta                 | Alta                |
+| U03 | Controlar dispositivos IoT (luz, clima, TV)     | Alta                   | Alta                  | Media                | Alta                |
+| U04 | Solicitar servicios adicionales                 | Media                  | Media                 | Alta                 | Alta                |
+| U05 | Reportar problemas técnicos                     | Alta                   | Baja                  | Alta                 | Media               |
+| U06 | Gestionar reservas y modificaciones            | Alta                   | Baja                  | Alta                 | Alta                |
+| U07 | Coordinar limpieza de habitaciones            | -                      | -                     | Alta                 | Alta                |
+| U08 | Actualizar inventario de amenidades            | -                      | -                     | Alta                 | Alta                |
+| U09 | Gestionar comunicación entre áreas             | -                      | -                     | Alta                 | Alta                |
+| U10 | Registrar preferencias recurrentes              | Media                  | Baja                  | Alta                 | Media               |
+
+
+### 2.3.3. User Journey Mapping
+
+Con el objetivo de comprender en profundidad las necesidades, comportamientos, emociones y puntos de fricción de nuestros principales segmentos de usuario, se desarrolló un **User Journey Mapping** utilizando la herramienta especializada **UXPressia**. Este proceso nos permitió visualizar de manera estructurada y empática el recorrido que cada tipo de usuario realiza desde su primera interacción hasta la experiencia completa con Custom Host.
+
+La actividad se centró en dos segmentos clave:
+1. **Huéspedes Potenciales:** usuarios finales interesados en una experiencia hotelera personalizada mediante tecnología IoT.
+2. **Personal Administrativo del Hotel:** empleados responsables de gestionar reservas, coordinar servicios y mantener comunicación interna eficiente.
+
+Para ambos perfiles se diseñó un mapa que incluye:
+- Las **fases del viaje** (desde la planificación hasta el post-checkout).
+- Los **objetivos del usuario** en cada etapa.
+- El detalle de **acciones realizadas**, **canales utilizados** y **emociones experimentadas**.
+- Identificación de **puntos de frustración** y **oportunidades de mejora** a lo largo del recorrido.
+
+Gracias a esta metodología, pudimos identificar momentos críticos donde la tecnología puede transformar positivamente la experiencia del huésped y la operación del hotel. Además, facilitamos la toma de decisiones orientadas al usuario, lo cual es fundamental para construir una solución funcional, intuitiva y diferenciadora.
+
+📄 [Accede aquí para ver los user journey ](https://drive.google.com/drive/folders/1B5Cyt3g1BzZHOChqqEy3VjH8I3fj4XOD?usp=sharing)
+---
+
+#### 🧑‍💼 Segmento 1: Huéspedes
+
+El User Journey del huésped se enfoca en cómo el cliente percibe el valor de la tecnología antes, durante y después de su estadía. Se destacan las siguientes áreas de oportunidad:
+
+**Registration: ¿Por qué confiarían en nosotros?**
 - Diseño profesional y consistente en la interfaz.
-- Integración con cuentas existentes (Google, Apple ID) para registro rápido y confiable.
-- Incluir testimonios reales de usuarios verificados
-  
-**Onboarding and first use:**
-How can they feel successful?
-- Diseñar un tutorial interactivo guiado paso a paso
-- Confirmaciones visuales (animaciones, notificaciones) al realizar acciones.
-- Soporte rápido (chat en vivo o bot inteligente para preguntas frecuentes).  
-  
-**Sharing:**
-Why would they invite others?
-- Integración con redes sociales para compartir experiencias fácilmente (ej: "Comparte tu habitación personalizada").
-- Funciones exclusivas para grupos (ej: "Planifica un viaje con amigos y obtén descuento").
-- Sistema de referidos con recompensas para ambos (ej: "Invita a un amigo y ambos ganan 20% de descuento").
+- Integración con cuentas existentes (Google, Apple ID) para registro rápido y seguro.
+- Inclusión de testimonios reales de usuarios verificados.
 
-**Segmento 1:**  
+**Onboarding and First Use: ¿Cómo pueden sentirse exitosos?**
+- Tutorial interactivo guiado paso a paso.
+- Confirmaciones visuales (animaciones, notificaciones) al realizar acciones.
+- Soporte inmediato (chat en vivo o bot inteligente) para resolver dudas tempranas.
+
+**Sharing: ¿Por qué invitarían a otros?**
+- Integración con redes sociales para compartir experiencias fácilmente (ej.: "Comparte tu habitación personalizada").
+- Funciones exclusivas para grupos (ej.: "Planifica un viaje con amigos y obtén descuento").
+- Sistema de referidos con recompensas para ambos (ej.: "Invita a un amigo y ambos ganan 20% de descuento").
 
 ![Journey 1](Assets/img/chapter-1/journey%201.png)
 
-**Segmento 2:**
+---
+
+#### 👨‍💼 Segmento 2: Personal del Hotel
+
+El User Journey del personal administrativo se centra en cómo la plataforma puede mejorar tanto la experiencia del huésped como la eficiencia operativa del hotel.
+
+**Registration: ¿Qué les haría confiar en el sistema?**
+- Interfaz clara y profesional, especialmente diseñada para uso interno.
+- Capacitación accesible y documentación visual para nuevos usuarios.
+- Acceso rápido e integración con herramientas ya usadas (como WhatsApp o CRM básico).
+
+**Onboarding and First Use: ¿Cómo pueden sentirse exitosos desde el primer uso?**
+- Dashboard intuitivo con indicadores claros del estado de las habitaciones y solicitudes.
+- Guías visuales para aprender a usar la plataforma sin intervención constante de soporte técnico.
+- Notificaciones inmediatas sobre solicitudes de huéspedes y cambios de estado.
+
+**Daily Use: ¿Cómo optimizar la gestión diaria?**
+- Filtros por tipo de solicitud, prioridad o área del hotel.
+- Alertas proactivas sobre dispositivos IoT fallando o en mantenimiento.
+- Integración con sistemas existentes para evitar duplicado de tareas.
 
 ![Journey 2](Assets/img/chapter-1/journey%202.png)
 
-### 2.3.4. Empathy Mapping.
+### 2.3.4. Empathy Mapping
 
-**Segmento 1:**
+Como parte del proceso de diseño centrado en el usuario, se elaboraron **mapas de empatía (Empathy Maps)** para los dos segmentos clave identificados: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Esta técnica, desarrollada inicialmente por Dave Gray, permite representar de forma visual lo que el usuario **piensa, siente, dice y hace** en relación con el producto o servicio, ayudando a comprender mejor su experiencia emocional y cognitiva.
 
-![Emphaty 1](Assets/img/chapter-1/empathy%201.png)
+#### Objetivo del Empathy Mapping
 
+El propósito del mapa de empatía es profundizar en la perspectiva del usuario más allá de sus acciones observables, explorando sus motivaciones, miedos, frustraciones y deseos no explícitos. Esta herramienta resulta fundamental para detectar oportunidades de mejora desde un enfoque cualitativo, complementando la información obtenida a través de entrevistas, observación y análisis de comportamientos.
 
-**Segmento 2:**
+---
 
-![Emphaty 2](Assets/img/chapter-1/emphaty%202.png)
+### Aplicación por Segmento
 
-### 2.3.5. As-is Scenario Mapping.
+#### **Segmento 1: Huéspedes Potenciales**
 
-![Imagen del as-is scenario mapping segmento 1](Assets/img/chapter-2/As-Is-Segmento1.png)
+![Empathy Map - Huésped](Assets/img/chapter-1/empathy%201.png)
 
-![Imagen del as-is scenario mapping segmento 1](Assets/img/chapter-2/As-Is-Segmento2.png)
+##### Desglose del Empathy Map:
 
-## 2.4. Ubiquitous Language.
-```
-Vacant (Disponible): Estado de una habitación que se encuentra libre y lista para ser ocupada por un nuevo huésped.
+- **Piensa:**  
+  "Quiero una experiencia cómoda y personalizada. Me interesa controlar mi entorno sin necesidad de llamar a recepción."
 
-InService (En Servicio): Estado en el que una habitación se encuentra en proceso de limpieza, mantenimiento o reposición de productos. Durante este estado, la habitación no está disponible para huéspedes.
+- **Siente:**  
+  "Me frustra cuando tengo que repetir mis preferencias cada vez que me hospedo. Me sentiría más seguro si supiera que todo funciona bien desde el principio."
 
-Occupied (Ocupada): Estado de una habitación que actualmente está siendo utilizada por un huésped registrado.
+- **Dice:**  
+  “Sería genial poder ajustar la temperatura, luz y entretenimiento desde mi celular antes de llegar.”
 
-Manager (Gerente): Persona encargada de supervisar y coordinar las tareas, el personal (empleados) y la gestión de habitaciones e inventario del hotel.
+- **Hace:**  
+  Investiga hoteles con tecnología avanzada. Lee reseñas de otros huéspedes. Usa aplicaciones móviles para hacer check-in digital. Personaliza detalles de su estadía si la plataforma lo permite.
 
-Employees (Empleados): Personal operativo del hotel cuya función puede variar entre limpieza, atención a la habitación (room service) o reposición de insumos (restocking). Reciben y ejecutan tareas asignadas por el gerente.
+---
 
-Tasks (Tareas): Actividades operativas asignadas a los empleados, como la limpieza de habitaciones, el restocking de productos consumibles, o el mantenimiento de instalaciones.
+#### **Segmento 2: Personal Administrativo del Hotel**
 
-Items (Ítems o Productos): Bienes consumibles utilizados en las habitaciones, como jabones, toallas, champú, entre otros. Cada ítem debe estar registrado en el inventario con su respectivo nivel de stock para facilitar su control y reposición.
+![Empathy Map - Staff](Assets/img/chapter-1/emphaty%202.png)
 
-Provider (Proveedor): Entidad que suministra los ítems al hotel. Cada ítem está asociado a un proveedor, lo cual permite realizar filtros y gestiones según el origen del producto.
+##### Desglose del Empathy Map:
 
-```
+- **Piensa:**  
+  "Necesito un sistema que centralice las preferencias de los huéspedes para preparar habitaciones más rápido y evitar errores."
+
+- **Siente:**  
+  "Tener que recordar manualmente las preferencias me genera ansiedad, especialmente en temporadas altas."
+
+- **Dice:**  
+  "Si tuviéramos una interfaz intuitiva, podríamos mejorar tanto la experiencia del cliente como la organización interna."
+
+- **Hace:**  
+  Registra preferencias en libretas o en hojas de Excel. Coordina tareas mediante WhatsApp o llamadas. Revisa constantemente mensajes para estar al día con solicitudes urgentes. Asigna habitaciones según disponibilidad, sin tener en cuenta preferencias recurrentes.
+
+---
+
+### Hallazgos Clave del Empathy Mapping
+
+Los mapas de empatía revelaron aspectos cruciales que no se perciben fácilmente durante las entrevistas tradicionales:
+- Los **huéspedes valoran altamente la comodidad tecnológica**, pero también muestran cierta **desconfianza inicial hacia sistemas nuevos o poco conocidos**.
+- El **personal del hotel enfrenta desafíos operativos importantes**: gestión manual de datos, comunicación ineficiente y carga laboral innecesaria debido a la falta de automatización.
+- Ambos segmentos mostraron interés en **una solución intuitiva y útil**, aunque con diferentes expectativas:
+   - *Huéspedes:* comodidad, personalización y facilidad de uso.
+   - *Staff:* eficiencia, reducción de errores y mejor coordinación interna.
+
+Estos hallazgos son fundamentales para guiar el diseño del sistema, asegurando que sea **útil, usable y accesible** tanto para los huéspedes como para el personal del hotel.
+
+📄 [Accede aquí para ver los empathy maps ](https://drive.google.com/drive/folders/1OPzCg6Y12vN8i56YLw9BLcZOWU6m3yZA?usp=sharing)
+
+### 2.3.5. As-is Scenario Mapping
+
+El siguiente **As-is Scenario Mapping** fue desarrollado utilizando la herramienta colaborativa Miro, siguiendo las buenas prácticas del Design Thinking y la metodología del curso. El objetivo fue representar visualmente la experiencia actual de los usuarios antes de la implementación de Custom Host, con el fin de identificar puntos de fricción, oportunidades de mejora y validar supuestos iniciales.
+
+Para construir cada mapa, se utilizaron dimensiones clave como:
+- **Fases:** Los momentos principales que vive el usuario.
+- **Acciones:** Lo que hace el usuario en cada fase.
+- **Pensamientos:** Sus reflexiones, dudas o expectativas.
+- **Emociones:** Su nivel de satisfacción o frustración en cada paso.
+- **Oportunidades:** Posibles mejoras que Custom Host puede introducir.
+
+Cada etapa fue codificada visualmente para resaltar niveles de satisfacción, claridad, esfuerzo percibido y puntos críticos dentro del proceso. Este mapeo sirve como base para diseñar los *To-be Scenarios*, mostrando cómo podría evolucionar la experiencia del usuario con nuestra solución tecnológica e integradora.
+
+Este análisis se realizó para dos segmentos clave:
+
+#### Segmento Objetivo #1: Huéspedes Potenciales
+Representan a viajeros que buscan comodidad, personalización y facilidad de uso al hospedarse en un hotel. En su experiencia actual, enfrentan problemas como falta de control sobre el entorno, comunicación lenta con el hotel y poca anticipación de sus preferencias por parte del staff.
+
+#### Segmento Objetivo #2: Personal Administrativo del Hotel
+Incluye a recepcionistas, coordinadores de limpieza y encargados operativos. Actualmente utilizan sistemas manuales o poco integrados para gestionar las preferencias de los huéspedes, lo cual genera errores, duplicados de trabajo y demoras en la atención.
+
+📄 [Accede aquí para ver los empathy maps ](https://drive.google.com/drive/folders/1tNpNBVq5sW-YrK2v5Z9yYgTzjD1_g3Wv?usp=sharing)
+
+![As-Is Scenario - Huésped](Assets/img/chapter-2/As-Is-Segmento1.png)  
+*Mapa de escenario actual del Huésped*
+
+![As-Is Scenario - Staff](Assets/img/chapter-2/As-Is-Segmento2.png)  
+*Mapa de escenario actual del Personal del Hotel*
+
+## 2.4. Ubiquitous Language
+
+Con el propósito de garantizar una comunicación clara entre todos los involucrados en el desarrollo de Custom Host (desde el equipo técnico hasta los stakeholders), se ha definido un conjunto de términos compartidos bajo el concepto de **Ubiquitous Language**, utilizado comúnmente en arquitecturas basadas en *Domain Driven Design*. Este vocabulario común asegura que tanto el equipo de desarrollo como los clientes comprendan los conceptos y funcionalidades del sistema con el mismo significado, reduciendo ambigüedades y facilitando la toma de decisiones técnicas y funcionales.
+
+| Término | Definición |
+|---------|------------|
+| **Vacant (Disponible)** | Estado de una habitación que se encuentra libre y lista para ser ocupada por un nuevo huésped. |
+| **InService (En Servicio)** | Estado en el que una habitación se encuentra en proceso de limpieza, mantenimiento o reposición de productos. Durante este estado, la habitación no está disponible para huéspedes. |
+| **Occupied (Ocupada)** | Estado de una habitación que actualmente está siendo utilizada por un huésped registrado. |
+| **Manager (Gerente)** | Persona encargada de supervisar y coordinar las tareas, el personal y la gestión de habitaciones e inventario del hotel. |
+| **Employees (Empleados)** | Personal operativo del hotel cuya función puede variar entre limpieza, atención a la habitación (room service) o reposición de insumos (restocking). Reciben y ejecutan tareas asignadas por el gerente. |
+| **Tasks (Tareas)** | Actividades operativas asignadas a los empleados, como la limpieza de habitaciones, el restocking de productos consumibles, o el mantenimiento de instalaciones. |
+| **Items (Ítems o Productos)** | Bienes consumibles utilizados en las habitaciones, como jabones, toallas, champú, entre otros. Cada ítem debe estar registrado en el inventario con su respectivo nivel de stock para facilitar su control y reposición. |
+| **Provider (Proveedor)** | Entidad que suministra los ítems al hotel. Cada ítem está asociado a un proveedor, lo cual permite realizar filtros y gestiones según el origen del producto. |
+| **Guest (Huésped)** | Usuario final que realiza una reserva, ingresa al sistema y puede configurar preferencias personales para su estadía. |
+| **Room Preferences (Preferencias de Habitación)** | Configuraciones establecidas por el huésped para personalizar su experiencia (ej.: temperatura, iluminación, tipo de almohada). |
+| **IoT Device (Dispositivo IoT)** | Tecnología conectada dentro de la habitación que permite el control remoto de elementos como luces, termostatos, cerraduras biométricas, etc. |
+| **Dashboard (Panel de Control)** | Interfaz centralizada que muestra el estado de las habitaciones, solicitudes pendientes y otras métricas relevantes para el personal del hotel. |
+| **Check-in Digital** | Proceso automatizado mediante el cual el huésped confirma su llegada y recibe acceso a la aplicación y la habitación. |
+| **Solicitudes de Servicio** | Acciones solicitadas por el huésped desde la app, como room service, limpieza o soporte técnico. |
+| **Alerta de Emergencia** | Notificación crítica que se envía al personal del hotel ante situaciones urgentes dentro del establecimiento. |
+| **Habitación Inteligente** | Habitación equipada con dispositivos IoT que permiten personalización automática según las preferencias del huésped. |
+
+Este lenguaje compartido será fundamental durante todo el ciclo de desarrollo del proyecto, ayudando a mantener la coherencia en la documentación, reuniones, historias de usuario y modelos del dominio.
+
 
 ---
 
