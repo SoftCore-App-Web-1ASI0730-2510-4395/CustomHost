@@ -923,7 +923,8 @@ Como parte del análisis del proceso de *needfinding*, se desarrollaron **User P
 
 Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y accionables, orientando decisiones estratégicas sobre funcionalidades, experiencia de usuario y priorización de desarrollo técnico. Las personas creadas reflejan claramente las necesidades emergentes durante las entrevistas, facilitando un diseño más empático y efectivo de Custom Host.
 
-📄 [Accede aquí para ver los user persona](https://drive.google.com/drive/folders/13eOwfAasPjhdcPc3tzzmQxzB97VHwfVK?usp=sharing)
+> 📎 **Anexo:** Diagramas completos del User persona disponibles en las imágenes adjuntas.
+>📄 [Accede aquí para ver los user persona](https://drive.google.com/drive/folders/13eOwfAasPjhdcPc3tzzmQxzB97VHwfVK?usp=sharing)
 
 #### Persona 1: Huésped Tecnológico y Viajero Frecuente
 
@@ -1029,7 +1030,9 @@ Para ambos perfiles se diseñó un mapa que incluye:
 
 Gracias a esta metodología, pudimos identificar momentos críticos donde la tecnología puede transformar positivamente la experiencia del huésped y la operación del hotel. Además, facilitamos la toma de decisiones orientadas al usuario, lo cual es fundamental para construir una solución funcional, intuitiva y diferenciadora.
 
-📄 [Accede aquí para ver los user journey ](https://drive.google.com/drive/folders/1B5Cyt3g1BzZHOChqqEy3VjH8I3fj4XOD?usp=sharing)
+> 📎 **Anexo:** Diagramas completos del User Journey disponibles en las imágenes adjuntas.
+> 📄 [Accede aquí para ver los user journey ](https://drive.google.com/drive/folders/1B5Cyt3g1BzZHOChqqEy3VjH8I3fj4XOD?usp=sharing)
+
 ---
 
 #### 🧑‍💼 Segmento 1: Huéspedes
@@ -1139,7 +1142,8 @@ Los mapas de empatía revelaron aspectos cruciales que no se perciben fácilment
 
 Estos hallazgos son fundamentales para guiar el diseño del sistema, asegurando que sea **útil, usable y accesible** tanto para los huéspedes como para el personal del hotel.
 
-📄 [Accede aquí para ver los empathy maps ](https://drive.google.com/drive/folders/1OPzCg6Y12vN8i56YLw9BLcZOWU6m3yZA?usp=sharing)
+> 📎 **Anexo:** Diagramas completos del Empathy maps disponibles en las imágenes adjuntas.
+> 📄 [Accede aquí para ver los empathy maps ](https://drive.google.com/drive/folders/1OPzCg6Y12vN8i56YLw9BLcZOWU6m3yZA?usp=sharing)
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -1162,7 +1166,8 @@ Representan a viajeros que buscan comodidad, personalización y facilidad de uso
 #### Segmento Objetivo #2: Personal Administrativo del Hotel
 Incluye a recepcionistas, coordinadores de limpieza y encargados operativos. Actualmente utilizan sistemas manuales o poco integrados para gestionar las preferencias de los huéspedes, lo cual genera errores, duplicados de trabajo y demoras en la atención.
 
-📄 [Accede aquí para ver los empathy maps ](https://drive.google.com/drive/folders/1tNpNBVq5sW-YrK2v5Z9yYgTzjD1_g3Wv?usp=sharing)
+> 📎 **Anexo:** Diagramas completos del As Is Scenario Mapping disponibles en las imágenes adjuntas.
+> 📄 [Accede aquí para ver los As Is maps ](https://drive.google.com/drive/folders/1tNpNBVq5sW-YrK2v5Z9yYgTzjD1_g3Wv?usp=sharing)
 
 ![As-Is Scenario - Huésped](Assets/img/chapter-2/As-Is-Segmento1.png)  
 *Mapa de escenario actual del Huésped*
@@ -1199,10 +1204,66 @@ Este lenguaje compartido será fundamental durante todo el ciclo de desarrollo d
 ---
 
 # Capítulo III: Requirements Specification
-## 3.1. To-Be Scenario Mapping.
+## 3.1. To-Be Scenario Mapping
 
-![To-Be Scenario Mapping](Assets/img/Chapter-3/To-Be-Segmento1.png)
-![To-Be Scenario Mapping](Assets/img/Chapter-3/To-Be-Segmento2.png)
+El presente **To-Be Scenario Mapping** ha sido elaborado como parte del proceso de *Requirements Analysis* y bajo los principios del **Design Thinking**, siguiendo un enfoque centrado en el usuario tal como se propone en la metodología del curso.
+
+El objetivo de este artefacto es visualizar la **experiencia futura deseada** por nuestros usuarios objetivo: **huéspedes potenciales** y **personal administrativo del hotel**. Esta representación se basa en los insights recolectados durante las fases anteriores del proceso UX, especialmente a partir de los mapas de empatía (*Empathy Maps*), las *User Personas* y, de forma crítica, el análisis del escenario actual (*As-is Scenario Mapping*).
+
+Este ejercicio permite anticipar una solución funcional y emocionalmente satisfactoria, integrando mejoras específicas que atienden los puntos de fricción previamente identificados. El flujo diseñado busca alinearse con las necesidades reales de ambos segmentos, proponiendo una experiencia más intuitiva, conectada y eficiente gracias al uso de tecnología IoT y biometría.
+
+### Estructura del To-Be Scenario Mapping
+
+Cada mapa fue construido sobre cinco dimensiones clave:
+
+- **Phases:** Fases estructuradas del nuevo proceso propuesto.
+- **Doing:** Acciones que el usuario realizaría en cada etapa.
+- **Thinking:** Pensamientos asociados a cada paso del recorrido.
+- **Saying:** Expresiones verbales o intenciones comunicadas por el usuario durante la interacción.
+- **Feeling:** Emociones experimentadas en cada fase del proceso.
+
+Estas dimensiones ayudan a proyectar cómo podría ser la experiencia ideal del usuario con Custom Host, destacando cómo la tecnología puede transformar positivamente su interacción con el entorno hotelero.
+
+---
+
+### Segmentos Objetivo y Escenarios Futuros
+
+#### Segmento Objetivo #1: Huéspedes Potenciales
+Representa a viajeros que buscan comodidad, personalización y facilidad de uso al hospedarse en un hotel inteligente. En este escenario futuro:
+- Pueden configurar sus preferencias antes de llegar mediante una aplicación móvil.
+- Reciben notificaciones sobre el estado de sus solicitudes.
+- Disfrutan de acceso biométrico y control remoto de dispositivos IoT en su habitación.
+
+#### Segmento Objetivo #2: Personal Administrativo del Hotel
+Incluye a gerentes, recepcionistas y coordinadores operativos que gestionan las estadías y servicios del hotel. En este escenario:
+- Tienen acceso a un dashboard centralizado donde ven el estado de todas las habitaciones y las preferencias de los huéspedes.
+- Pueden asignar tareas y recibir alertas proactivas sobre mantenimiento de dispositivos.
+- Mejoran la comunicación interna y reducen errores gracias a la digitalización de procesos.
+
+---
+
+### Hallazgos y Valor Agregado
+
+Las funcionalidades integradas en este escenario permiten:
+- Resolver los principales puntos de fricción detectados en el As-Is Mapping.
+- Generar una experiencia más fluida, autónoma y confiable tanto para huéspedes como para el staff.
+- Aumentar la percepción de control, seguridad y personalización en la estadía.
+- Optimizar tiempos operativos y mejorar la trazabilidad de las tareas del personal.
+
+Además, se garantiza una **mayor coherencia entre expectativas del huésped y la capacidad operativa del hotel**, lo cual refuerza la propuesta de valor de Custom Host.
+
+---
+
+> 📎 **Anexo:** Diagramas completos del To-be Scenario Mapping disponibles en las imágenes adjuntas.
+> 📄 [Accede aquí para ver los to-be Scenario ](https://drive.google.com/drive/folders/1cdQ6BnepErumE2qZ8C0i9HQJ8Z6AYgyh?usp=sharing)
+
+
+![To-Be Scenario - Huésped](Assets/img/Chapter-3/To-Be-Segmento1.png)  
+*Experiencia futura del Huésped con Custom Host*
+
+![To-Be Scenario - Staff](Assets/img/Chapter-3/To-Be-Segmento2.png)  
+*Experiencia futura del Personal Administrativo del Hotel*
+
 
 ## 3.2. User Stories
 
