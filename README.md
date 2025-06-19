@@ -1208,25 +1208,26 @@ Este lenguaje compartido será fundamental durante todo el ciclo de desarrollo d
 
 ### Epics
 
-| Epic ID | Título                                        | Descripción                                                                                                                             |
-| ------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| EP01    | Crear cuenta                                  | Como huésped o personal administrativo, quiero crear una cuenta para acceder a las funcionalidades de la aplicación.                    |
-| EP02    | Configuración de Preferencias del Huésped     | Como huésped, quiero establecer mis preferencias de iluminación y temperatura, para que mi habitación se adapte automáticamente.        |
-| EP03    | Gestión de Solicitudes de Servicios           | Como huésped, quiero poder solicitar servicios desde la aplicación para tener una atención personalizada a mis gustos.                  |
-| EP04    | Panel de control                              | Como personal administrativo, quiero tener un dashboard con información en tiempo real sobre las solicitudes de los huéspedes.          |
-| EP06    | Seguimiento de Historial de Preferencias      | Como developer, quiero tener acceso al historial de preferencia de los huéspedes, para mejorar la aplicación según sus gustos.          |
-| EP07    | Gestión de habitaciones                       | Como developer, quiero implementar un sistema de gestión de habitaciones, para modificar y asignar habitaciones disponibles.            |
+| Epic ID | Título                                       | Descripción                                                                                                                             |
+| ------- |----------------------------------------------| --------------------------------------------------------------------------------------------------------------------------------------- |
+| EP01    | Crear cuenta                                 | Como huésped o personal administrativo, quiero crear una cuenta para acceder a las funcionalidades de la aplicación.                    |
+| EP02    | Configuración de Preferencias del Huésped    | Como huésped, quiero establecer mis preferencias de iluminación y temperatura, para que mi habitación se adapte automáticamente.        |
+| EP03    | Gestión de Solicitudes de Servicios          | Como huésped, quiero poder solicitar servicios desde la aplicación para tener una atención personalizada a mis gustos.                  |
+| EP04    | Panel de control                             | Como personal administrativo, quiero tener un dashboard con información en tiempo real sobre las solicitudes de los huéspedes.          |
+| EP06    | Seguimiento de Historial de Preferencias     | Como developer, quiero tener acceso al historial de preferencia de los huéspedes, para mejorar la aplicación según sus gustos.          |
+| EP07    | Gestión de habitaciones                      | Como developer, quiero implementar un sistema de gestión de habitaciones, para modificar y asignar habitaciones disponibles.            |
 | EP08    | Implementación de la landing page informativa | Como huésped, quiero tener acceso a una plataforma web, para conocer los servicios que brindan en el hotel.                             |
-| EP09    | Gestión de Reservas                           | Como developer, quiero desarrollar un sistema de gestión de reservas, para que los huéspedes puedan crear, modificar o cancelar.        |
-| EP10    | Evaluación de la Experiencia del Huésped      | Como huésped, quiero poder calificar mi experiencia, para compartir mis opiniones sobre el servicio recibido.                           |
-| EP11    | Gestión Multilingüe de la Plataforma          | Como huésped, quiero que la plataforma esté disponible en más de un idioma, para usar la interfaz en mi preferencia.                    |
-| EP12    | Seguridad y Privacidad de Datos               | Como developer, quiero implementar mecanismos de seguridad y privacidad de datos, para proteger la información de los usuarios.         |
-| EP13    | Soporte en Línea para el Usuario              | Como huésped, quiero tener un soporte personalizado y que responda inmediatamente, para resolver mis dudas al instante.                 |
-| EP15    | Notificaciones en tiempo real para huésped    | Como huésped, quiero recibir notificaciones en tiempo real sobre eventos importantes o cambios de estado, para estar siempre informado. |
-| EP16    | Notificaciones en tiempo real para personal   | Como personal administrativo, quiero recibir notificaciones en tiempo real sobre nuevas solicitudes y eventos críticos.                 |
-| EP17    | Asignación de dispositivos IoT a reservas     | Como personal administrativo, quiero asignar dispositivos IoT a una reserva específica, para equipar la habitación según preferencias.  |
-| EP18    | Gestión de datos personales                   | Como usuario autenticado, quiero actualizar mis datos personales (nombre, correo, etc.), para mantener mi perfil al día.                |
-| EP19    | Gestión de roles y permisos                   | Como administrador, quiero asignar y gestionar roles y permisos de usuarios, para controlar accesos según el tipo de usuario.           |
+| EP09    | Gestión de Reservas                          | Como developer, quiero desarrollar un sistema de gestión de reservas, para que los huéspedes puedan crear, modificar o cancelar.        |
+| EP10    | Evaluación de la Experiencia del Huésped     | Como huésped, quiero poder calificar mi experiencia, para compartir mis opiniones sobre el servicio recibido.                           |
+| EP11    | Gestión Multilingüe de la Plataforma         | Como huésped, quiero que la plataforma esté disponible en más de un idioma, para usar la interfaz en mi preferencia.                    |
+| EP12    | Seguridad y Privacidad de Datos              | Como developer, quiero implementar mecanismos de seguridad y privacidad de datos, para proteger la información de los usuarios.         |
+| EP13    | Soporte en Línea para el Usuario             | Como huésped, quiero tener un soporte personalizado y que responda inmediatamente, para resolver mis dudas al instante.                 |
+| EP14    | Gestión de perfiles                          | Como developer, quiero implementar un sistema de gestión de perfiles de usuario que permita editar la información y preferencias, para que cada tipo de usuario tenga una experiencia personalizada.   |
+| EP15    | Notificaciones en tiempo real para huésped   | Como huésped, quiero recibir notificaciones en tiempo real sobre eventos importantes o cambios de estado, para estar siempre informado. |
+| EP16    | Notificaciones en tiempo real para personal  | Como personal administrativo, quiero recibir notificaciones en tiempo real sobre nuevas solicitudes y eventos críticos.                 |
+| EP17    | Asignación de dispositivos IoT a reservas    | Como personal administrativo, quiero asignar dispositivos IoT a una reserva específica, para equipar la habitación según preferencias.  |
+| EP18    | Gestión de datos personales                  | Como usuario autenticado, quiero actualizar mis datos personales (nombre, correo, etc.), para mantener mi perfil al día.                |
+| EP19    | Gestión de roles y permisos                  | Como administrador, quiero asignar y gestionar roles y permisos de usuarios, para controlar accesos según el tipo de usuario.           |
 
 ### User Stories
 
