@@ -428,10 +428,55 @@ Texto ubiquo: Definicion de este
 | US54 | Gestión de Datos Personales                            | Como usuario autenticado, quiero actualizar mis datos personales, para mantener mi perfil al día.                       | **Funcionalidad: Actualización de perfil de usuario**<br><br>**Escenario 1: Validación y guardado**<br>Dado que el usuario edita su nombre o correo,<br>Cuando pulsa “Guardar cambios”,<br>Entonces actualiza la información en la base de datos y muestra confirmación.<br><br>**Escenario 2: Correo duplicado**<br>Dado que intenta usar un correo ya existente,<br>Cuando pulsa “Guardar cambios”,<br>Entonces el sistema rechaza la acción y muestra “El correo ya está en uso”.                                                                                                                                                                                                                                                                                                               | EP18                      |
 | US55 | Gestión de Roles y Permisos                            | Como administrador, quiero asignar y gestionar roles y permisos de usuarios, para controlar accesos y funcionalidades.  | **Funcionalidad: Administración de roles**<br><br>**Escenario 1: Asignar rol**<br>Dado que un administrador selecciona un usuario y un rol,<br>Cuando confirma la asignación,<br>Entonces guarda el rol en la base de datos y aplica los permisos.<br><br>**Escenario 2: Revocar rol**<br>Dado que un administrador revoca un rol a un usuario,<br>Cuando confirma la acción,<br>Entonces bloquea el acceso a las áreas correspondientes y registra el cambio.                                                                                                                                                                                                                                                                                                                                     | EP19                      |
 
-## 3.3. Impact Mapping.
 
-![Impact Mapping](/Assets/img/Chapter-3/Impact-map-Administrador-de-hotel.png)
-![Impact Mapping](/Assets/img/Chapter-3/Impact-map-huésped.png)
+## 3.3. Impact Mapping
+
+El *Impact Mapping* es una técnica estratégica utilizada para alinear los objetivos del negocio con las decisiones técnicas y funcionales del producto. Esta metodología permite visualizar de forma clara y estructurada cómo cada funcionalidad del sistema puede generar un impacto específico en los usuarios y, por ende, en los resultados del proyecto.
+
+En el caso de *Custom Host, el Impact Mapping se desarrolló utilizando la herramienta colaborativa **Miro, siguiendo buenas prácticas del diseño centrado en el usuario y la metodología Lean UX. Este mapa ayudó a conectar los objetivos del negocio con los actores clave del sistema: **Huéspedes Potenciales, **Personal Administrativo del Hotel* y *Proveedores de Domótica*.
+
+### Estructura del Impact Mapping
+
+Cada mapa fue elaborado considerando los siguientes elementos:
+
+1. *Business Goals SMART:*  
+   Objetivos claros, medibles y alcanzables definidos como parte de la estrategia de negocio. Ejemplo: "Aumentar la satisfacción del huésped en un 20% mediante personalización anticipada".
+
+2. *Actors / Personas clave:*  
+   Usuarios objetivo identificados durante las fases de investigación y empatía:
+   - Huéspedes tecnológicos.
+   - Personal operativo y administrativo del hotel.
+   - Proveedores de dispositivos IoT.
+
+3. *Impacts esperados:*  
+   Cambios en el comportamiento o percepción del usuario que deben ocurrir para lograr los objetivos del negocio. Por ejemplo:
+   - Que el huésped configure su habitación antes de llegar.
+   - Que el staff gestione solicitudes más rápido gracias a una interfaz centralizada.
+   - Que los proveedores monitoreen sus dispositivos y realicen mantenimiento proactivo.
+
+4. *Deliverables funcionales:*  
+   Funcionalidades específicas del sistema que permiten habilitar dichos impactos:
+   - App móvil con personalización anticipada.
+   - Dashboard de gestión de solicitudes.
+   - Sistema de alertas proactivas para dispositivos fallando.
+
+### Aplicación en Custom Host
+
+Este Impact Mapping sirvió como puente entre la visión del producto y su implementación técnica, asegurando que cada historia de usuario y cada entrega técnica tenga un propósito claro dentro del modelo de negocio.
+
+Los dos mapas principales fueron desarrollados para:
+- *Huéspedes*: Mostrando cómo la tecnología mejora la experiencia del cliente.
+- *Personal del Hotel*: Visualizando cómo Custom Host optimiza la gestión operativa.
+
+> 📎 *Anexo:* Diagramas completos del Impact Mapping disponibles en las imágenes adjuntas.
+> 📄 [Accede aquí para ver los impact mapping ](https://drive.google.com/drive/folders/1iMtzq4cDapnSmC3aA4UNHzT_x6aRuzaR?usp=sharing)
+
+
+![Impact Map - Huésped](/Assets/img/Chapter-3/Impact-map-huésped.png)  
+Mapa de impacto orientado al Huésped
+
+![Impact Map - Administrador del Hotel](/Assets/img/Chapter-3/Impact-map-Administrador-de-hotel.png)  
+Mapa de impacto orientado al Personal Administrativo
 
 ## 3.4. Product Backlog.
 
