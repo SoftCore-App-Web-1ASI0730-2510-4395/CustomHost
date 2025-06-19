@@ -1298,47 +1298,64 @@ Este lenguaje compartido será fundamental durante todo el ciclo de desarrollo d
 
 Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f903a3b4af1efa73604221d6aE9912258/customhost-product-backlog
 
-| #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
-| ------ | ------------- | ----- | ---------- | ------------------------ |
-|1|US01|Visualización de servicios del hotel|Como visitante del sitio, quiero visualizar los servicios que ofrece el hotel, para saber lo que ofrece antes de hacer una reserva.|2|
-|2|US02|Acceso a información de contacto|	Como visitante del sitio, quiero acceder fácilmente a los datos de contacto del hotel, para poder comunicarme si tengo dudas o necesito ayuda.|1|
-|3|US03|Acceso a Testimonios de Huéspedes|	Como visitante del sitio, quiero leer opiniones de otros huéspedes, para tener mayor confianza al momento de decidir si reservar.|3|
-|4|US04|Acceso Rápido al Formulario de Reserva|Como visitante del sitio, quiero encontrar fácilmente un botón para reservar una habitación, para iniciar rápidamente el proceso si me interesa.|2|
-|5|US05|Sección "Sobre Nosotros"|	Como visitante del sitio, quiero conocer la historia y valores del hotel, para tener mayor conexión y confianza con la empresa.|2|
-|6|US06|Visualización del Formulario de Registro|Como huésped, quiero ver un formulario de registro bien estructurado, para poder registrarme en el sistema.|2|
-|7|US07|Validación de Datos de Registro|Como huésped, quiero que el sistema valide mis datos al registrarme, para evitar errores en mi cuenta.|3|
-|8|US08|Configuración de Preferencias de habitación|Como huésped, quiero seleccionar mis preferencias de habitación desde la plataforma web, para personalizar mi estadía.|5|
-|9|US09|Personalización de Horarios de Servicio|Como huésped, quiero establecer mis horarios de preferencia para servicios como limpieza o desayuno.|5|
-|10|US10|Solicitud de Servicios de Limpieza|Como huésped, quiero solicitar un servicio de limpieza directamente desde la plataforma web, para mantener mi habitación limpia.|3|
-|11|US11|Solicitud de Desayuno en la Habitación|Como huésped, quiero poder solicitar un desayuno en mi habitación a través de la plataforma web.|3|
-|12|US14|Notificación de solicitud atendida|Como huésped, quiero recibir alertas cuando mi solicitud se atienda, para estar informado.|5|
-|13|US16|Enviar evaluación de estadía|Como huésped, quiero calificar mi experiencia al final de la estadía, para dar retroalimentación al hotel.|2|
-|14|US18|Visualizar puntos acumulados|Como huésped, quiero ver cuántos puntos de fidelidad tengo, para saber qué recompensas puedo obtener.|3|
-|15|US19|Canjear puntos por recompensa|Como huésped, quiero canjear mis puntos por beneficios, para aprovechar el programa de fidelidad.|5|
-|16|US20|Cambiar el idioma de la interfaz|Como huésped internacional, quiero cambiar el idioma de la interfaz, para comprender mejor la plataforma web.|2|
-|17|US21|Recordar el idioma seleccionado|Como huésped, quiero que la plataforma recuerde mi idioma preferido, para no tener que cambiarlo cada vez.|2|
-|18|US22|Iniciar chat con soporte|Como huésped, quiero iniciar un chat con soporte, para resolver dudas rápidamente.|5|
-|19|US23|Consultar preguntas frecuentes|Como huésped, quiero revisar preguntas frecuentes, para resolver dudas sin contactar soporte.|2|
-|20|US12|Gestión de Solicitudes Pendientes|Como personal administrativo, quiero poder ver las solicitudes pendientes para atenderlas rápidamente.|3|
-|21|US13|Modificación de Estado de la Solicitud|	Como personal administrativo, quiero poder cambiar el estado de una solicitud, para gestionarla mejor.|2|
-|22|US15|Alerta de emergencia en el hotel|Como personal, quiero recibir alertas inmediatas sobre emergencias, para reaccionar rápido.|5|
-|23|US17|Ver historial de evaluaciones|Como personal administrativo, quiero consultar las evaluaciones recibidas, para mejorar la calidad del servicio.|3|
-|24|TS01|Modificar preferencias|Como desarrollador, quiero que el sistema guarde los cambios de preferencias de los huéspedes en una base de datos, para tener un registro de sus elecciones.|3|
-|25|TS02|Consultar historial de preferencias|Como desarrollador, quiero que el sistema muestre el historial de cambios de preferencias de un huésped, para mejorar la experiencia de usuario basado en sus elecciones pasadas.|3|
-|26|TS03|Eliminar preferencias obsoletas|Como desarrollador, quiero que el sistema permita eliminar preferencias antiguas o incorrectas de un huésped, para mantener la base de datos limpia y actualizada.|2|
-|27|TS04|Actualización de estado de habitaciones|Como desarrollador, quiero que el sistema permita actualizar el estado de las habitaciones (disponible / ocupado / en mantenimiento), para reflejar la disponibilidad de las reservas.|5|
-|28|TS05|Reasignación de habitaciones|Como desarrollador, quiero que el sistema permita reasignar una habitación ocupada a otro huésped, para optimizar el uso de espacios según necesidades cambiantes.|5|
-|29|TS06|Consulta de disponibilidad de habitaciones|Como desarrollador, quiero implementar un sistema de consulta de habitaciones disponibles con filtros, para que el personal pueda encontrar rápidamente espacios según filtros específicos.|5|
-|30|TS07|Sistema de Registro de Reservas|Como desarrollador, quiero una funcionalidad para almacenar nuevas reservas en la base de datos, para que el sistema pueda gestionar las reservas de los huéspedes.|5|
-|31|TS08|Módulo de Modificación de Reservas|Como desarrollador, quiero modificar las reservas existentes, para permitir a los huéspedes ajustar sus reservas según cambios en sus planes.|5|
-|32|TS09|Consulta de reservas activas|Como desarrollador, quiero implementar la funcionalidad para consultar reservas activas, para que los huéspedes y administradores puedan ver el estado de las reservas.|3|
-|33|TS10|Eliminación Segura de Datos de Usuarios|Como desarrollador, quiero implementar una opción para eliminar todos los datos personales de un usuario, para cumplir con políticas de privacidad.|5|
-|34|TS11|Registro de Actividades Sospechosas|Como desarrollador, quiero registrar intentos de acceso fallidos y actividades inusuales, para detectar y responder a posibles brechas de seguridad.|3|
-|35|TS12|Implementación de Políticas de Cookies y Consentimiento|Como desarrollador, quiero implementar un sistema de gestión de cookies, para informar a los usuarios y obtener su consentimiento antes de almacenar datos.|3|
-|36|TS13|Encriptación de Datos Sensibles en Base de Datos|Como desarrollador, quiero encriptar información sensible del usuario, para mantener la información segura de los usuarios.|5|
-|37|TS14|Actualización de Perfiles de Usuario|Como desarrollador, quiero implementar un sistema seguro para actualizar información de perfiles, para que los usuarios puedan modificar sus datos personales y preferencias.|3|
-|38|TS15|Gestión de Roles y Permisos|Como desarrollador, quiero crear un sistema de asignación de roles, para controlar accesos y funcionalidades según el tipo de usuario.|5|
-|39|TS16|Visualización Condicional de Interfaces|Como desarrollador, quiero adaptar la interfaz según el rol del usuario, para mostrar solo las opciones relevantes a cada perfil.|5|
+| Id | StoryID | Title                                                  | Description                                                                                                             | Story Points |
+| -- | ------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1  | US01    | Visualización del Formulario de Registro               | Como huésped, quiero ver un formulario de registro bien estructurado, para poder registrarme en el sistema.             | 2            |
+| 2  | US02    | Validación de Datos de Registro                        | Como huésped, quiero que el sistema valide mis datos al registrarme, para evitar errores en mi cuenta.                  | 3            |
+| 3  | US03    | Configuración de Preferencias de Habitación            | Como huésped, quiero seleccionar mis preferencias de habitación desde la plataforma web, para personalizar mi estadía.  | 3            |
+| 4  | US04    | Personalización de Horarios de Servicio                | Como huésped, quiero establecer mis horarios de preferencia para servicios como limpieza o desayuno.                    | 2            |
+| 5  | US05    | Solicitud de Servicios de Limpieza                     | Como huésped, quiero solicitar un servicio de limpieza desde la plataforma web, para mantener mi habitación limpia.     | 3            |
+| 6  | US06    | Solicitud de Desayuno en la Habitación                 | Como huésped, quiero solicitar un desayuno en mi habitación a través de la plataforma web.                              | 3            |
+| 7  | US07    | Gestión de Solicitudes Pendientes                      | Como personal administrativo, quiero ver las solicitudes pendientes para atenderlas rápidamente.                        | 3            |
+| 8  | US08    | Modificación de Estado de la Solicitud                 | Como personal administrativo, quiero cambiar el estado de una solicitud, para gestionarla mejor.                        | 3            |
+| 9  | US09    | Gráfico de Pagos por Mes y Año                         | Como miembro del staff, quiero un gráfico de pagos por mes y año, para analizar el desempeño financiero del hotel.      | 5            |
+| 10 | US10    | Selección de Año para Pagos                            | Como miembro del staff, quiero seleccionar el año de los pagos, para comparar ingresos de diferentes periodos.          | 3            |
+| 11 | US11    | Gráfico de Pagos Individuales                          | Como miembro del staff, quiero un gráfico de pagos individuales, para detectar tendencias y pagos atípicos.             | 5            |
+| 12 | US12    | Exportar Informe de Pagos                              | Como miembro del staff, quiero exportar el informe de pagos a CSV o PDF, para compartirlo con contabilidad.             | 5            |
+| 13 | US13    | Tasa de Ocupación del Hotel                            | Como miembro del staff, quiero ver un tablero de ocupación, para conocer el porcentaje de habitaciones ocupadas.        | 5            |
+| 14 | US14    | Filtrar Solicitudes de Servicio                        | Como miembro del staff, quiero filtrar solicitudes por tipo y prioridad, para gestionarlas eficientemente.              | 3            |
+| 15 | US15    | Notificación de Solicitud Atendida                     | Como huésped, quiero recibir alertas cuando mi solicitud se atienda, para estar informado.                              | 3            |
+| 16 | US16    | Alerta de Emergencia en el Hotel                       | Como personal, quiero recibir alertas inmediatas sobre emergencias, para reaccionar rápido.                             | 3            |
+| 17 | US17    | Lista de Habitaciones Disponibles                      | Como miembro del staff, quiero ver una lista de habitaciones disponibles, para saber cuáles puedo asignar o limpiar.    | 3            |
+| 18 | US18    | Filtrar Habitaciones por Estado                        | Como miembro del staff, quiero filtrar la lista de habitaciones por estado, para enfocarme en cada categoría.           | 3            |
+| 19 | US19    | Historial de Asignación de Habitaciones                | Como miembro del staff, quiero ver el historial de asignación de habitaciones por huésped, para rastrear cambios.       | 5            |
+| 20 | US20    | Visualización de Información de Servicios              | Como visitante, quiero ver los servicios que ofrece el hotel, para evaluar antes de reservar.                           | 2            |
+| 21 | US21    | Acceso a Información de Contacto (estática)            | Como visitante, quiero acceder fácilmente a los datos de contacto del hotel, para comunicarme si tengo dudas.           | 2            |
+| 22 | US22    | Envío de Consultas mediante Formulario Emergente       | Como visitante, quiero enviar consultas rápidas mediante un formulario emergente, para no abandonar la página.          | 2            |
+| 23 | US23    | Acceso a Testimonios de Huéspedes                      | Como visitante, quiero leer opiniones de otros huéspedes, para ganar confianza al reservar.                             | 3            |
+| 24 | US24    | Acceso Rápido al Formulario de Reserva                 | Como visitante, quiero encontrar un botón fijo para reservar, para iniciar el proceso de forma rápida.                  | 2            |
+| 25 | US25    | Sección “Sobre Nosotros”                               | Como visitante, quiero conocer la historia y valores del hotel, para conectar con la empresa.                           | 2            |
+| 26 | US26    | Ver Lista de Reservas Activas                          | Como huésped, quiero ver la lista de mis reservas activas, para gestionar mis estancias.                                | 3            |
+| 27 | US27    | Crear Nueva Reserva desde la Página Principal          | Como huésped, quiero crear una reserva desde la página principal, para agilizar el proceso.                             | 3            |
+| 28 | US28    | Mensaje Claro si No Hay Reservas o Notificaciones      | Como huésped, quiero un mensaje claro si no tengo datos, para saber mi estado actual.                                   | 1            |
+| 29 | US29    | Enviar Evaluación de Estadía                           | Como huésped, quiero calificar mi experiencia al final de la estadía, para dar retroalimentación al hotel.              | 3            |
+| 30 | US30    | Ver Historial de Evaluaciones                          | Como personal administrativo, quiero consultar las evaluaciones recibidas, para mejorar la calidad del servicio.        | 3            |
+| 31 | US31    | Gráfico de Calificaciones de Huéspedes                 | Como miembro del staff, quiero ver un gráfico de calificaciones, para analizar la satisfacción general.                 | 5            |
+| 32 | US32    | Cambiar Idioma de la Interfaz                          | Como huésped internacional, quiero cambiar el idioma de la interfaz, para comprender mejor la plataforma web.           | 5            |
+| 33 | US33    | Recordar Idioma Seleccionado                           | Como huésped, quiero que la plataforma recuerde mi idioma preferido, para no tener que cambiarlo cada vez.              | 3            |
+| 34 | US34    | Iniciar Chat con Soporte                               | Como huésped, quiero iniciar un chat con soporte, para resolver dudas rápidamente.                                      | 3            |
+| 35 | US35    | Consultar Preguntas Frecuentes                         | Como huésped, quiero revisar preguntas frecuentes, para resolver dudas sin contactar soporte.                           | 3            |
+| 36 | US36    | Saludo Personalizado de Huésped                        | Como huésped, quiero ver un saludo personalizado al ingresar, para sentirme bienvenido en la plataforma.                | 1            |
+| 37 | US37    | Abrir formulario modal para nuevo miembro del personal | Como administrador, quiero abrir un formulario modal para agregar un nuevo miembro, para gestionar el equipo.           | 2            |
+| 38 | US38    | Ingresar datos completos del nuevo personal            | Como administrador, quiero ingresar nombre, apellido, teléfono, email, departamento y contraseña del nuevo personal.    | 3            |
+| 39 | US39    | Seleccionar departamento desde lista                   | Como administrador, quiero seleccionar el departamento desde una lista, para asegurar la asignación de roles.           | 2            |
+| 40 | US40    | Alertar si faltan campos obligatorios                  | Como administrador, quiero recibir una alerta si guardo con campos vacíos, para evitar registros incompletos.           | 2            |
+| 41 | US41    | Cancelar registro sin guardar cambios                  | Como administrador, quiero cancelar el registro en cualquier momento, para cerrar el formulario sin guardar.            | 2            |
+| 42 | US42    | Validar campos obligatorios en formulario de personal  | Como desarrollador, quiero validar que los campos obligatorios estén completos, para evitar registros incompletos.      | 3            |
+| 43 | US43    | Emitir eventos personalizados al guardar o cancelar    | Como desarrollador, quiero emitir eventos personalizados, para que el padre controle visibilidad y flujo de datos.      | 3            |
+| 44 | US44    | Desacoplar select de departamentos mediante prop       | Como desarrollador, quiero recibir departamentos como prop, para desacoplar y facilitar pruebas.                        | 2            |
+| 45 | US45    | Estructurar formulario con clases CSS responsivas      | Como desarrollador, quiero usar filas y columnas con clases CSS, para asegurar una interfaz adaptable.                  | 3            |
+| 46 | US46    | Facilitar extensión futura del formulario              | Como desarrollador, quiero que el formulario sea extensible, para soportar nuevos campos en el futuro.                  | 3            |
+| 47 | US47    | Manejo de estado de carga en registro                  | Como desarrollador, quiero manejar el estado de carga durante el registro, para mostrar feedback visual.                | 2            |
+| 48 | US48    | Mostrar mensajes de error generales en registro        | Como desarrollador, quiero mostrar mensajes de error generales si el registro falla, para informar al usuario.          | 3            |
+| 49 | US49    | Notificaciones en Tiempo Real para Huésped             | Como huésped, quiero recibir notificaciones en tiempo real sobre eventos importantes o cambios de estado.               | 5            |
+| 50 | US50    | Notificaciones en Tiempo Real para Personal            | Como personal administrativo, quiero recibir notificaciones en tiempo real sobre nuevas solicitudes y eventos críticos. | 5            |
+| 51 | US51    | Lista de Dispositivos IoT en Mantenimiento o Inactivos | Como miembro del staff, quiero ver los dispositivos IoT en mantenimiento o inactivos, para dar seguimiento técnico.     | 5            |
+| 52 | US52    | Lista de Tareas Pendientes de Mantenimiento IoT        | Como miembro del staff, quiero ver las tareas de mantenimiento IoT asignadas, para priorizar intervenciones.            | 5            |
+| 53 | US53    | Actualizar Estado de Dispositivo IoT                   | Como miembro del staff, quiero marcar un dispositivo IoT como “Activo” o “En mantenimiento”.                            | 3            |
+| 54 | US54    | Gestión de Datos Personales                            | Como usuario autenticado, quiero actualizar mis datos personales, para mantener mi perfil al día.                       | 3            |
+| 55 | US55    | Gestión de Roles y Permisos                            | Como administrador, quiero asignar y gestionar roles y permisos de usuarios, para controlar accesos y funcionalidades.  | 5            |
+
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
