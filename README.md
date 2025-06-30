@@ -1776,49 +1776,48 @@ el wireframe de la Landing Page de CustomHost se ha diseñado para ofrecer una e
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Login.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Create%20account.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Sidebar%20staff.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20-%20Management.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20-%20Management-1.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/IoT%20Room%20Configuration.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Add%20Iot%20Device.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Iot%20Device%20Setting.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Guest%20Request.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/New%20Guest%20Request.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Bookings%20Tracking.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Staff%20Member.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Administrator’s%20Profile.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Sidebar%20guest.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20Guest.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Select%20Date.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Rservation%20summary.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Item%20Preferences.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Set%20Up.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/My%20Bookings.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Guest%20Service.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Notifications.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Login.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Create%20account.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Sidebar%20staff.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Room%20-%20Management.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Room%20-%20Management-1.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/IoT%20Room%20Configuration.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Add%20Iot%20Device.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Iot%20Device%20Setting.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Guest%20Request.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/New%20Guest%20Request.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Bookings%20Tracking.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Staff%20Member.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Administrator’s%20Profile.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Sidebar%20guest.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Room%20Guest.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Select%20Date.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Rservation%20summary.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Item%20Preferences.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Set%20Up.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/My%20Bookings.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Guest%20Service.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Notifications.png)
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### Segmento objetivo: Guest
-![Web Aplication Wireflow Guest](/Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Guest.jpeg)
+![Web Aplication Wireflow Guest](Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Guest.jpeg)
 
 ### Segmento objetivo: Staff
-![Web Aplication Wireflow Staff](/Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Staff.jpeg)
+![Web Aplication Wireflow Staff](Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Staff.jpeg)
 
 ### 4.4.2. Web Applications Mock-ups.
 
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-1.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-2.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-3.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-4.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-5.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-6.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-7.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-8.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-9.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-10.jpg)
+![Web Aplication Mockup](/Assets/img/chapter-4/login.png)
+
+
+![Web Aplication Mockup](/Assets/img/chapter-4/register.png)
+
+
+![Web Aplication Mockup](/Assets/img/chapter-4/register-hotel.png)
+
+![Web Aplication Mockup](/Assets/img/chapter-4/home%20guest.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 ### **Huésped:**
