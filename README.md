@@ -2594,6 +2594,26 @@ Aqui podemos ver el link del video de exposicion donde se presenta el producto d
 
 # Anexos
 
+
+Entrevista 1 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-1-segmento-1](https://bit.ly/entrevista-1-segmento-1)
+
+Entrevista 2 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-2-segmento-1](https://bit.ly/entrevista-2-segmento-1)
+
+Entrevista 3 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-3-segmento-1](https://bit.ly/entrevista-3-segmento-1)
+
+Entrevista 4 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-4-segmento-2](https://tinyurl.com/entrevista-4-segmento-2)
+<!-- 
+video 5: [https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegmento%201%20%2D%20Luis%20Cordova%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee82cd9e2%2D078e%2D4cb0%2D80cf%2D3200ebfdab04](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegmento%201%20%2D%20Luis%20Cordova%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee82cd9e2%2D078e%2D4cb0%2D80cf%2D3200ebfdab04) -->
+
+
+<!-- TODO: Falta acortar Entrevista 5 y 6-->
+
+Entrevista 5 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-5-segmento-2](https://tinyurl.com/entrevista-5-segmento-2)
+
+
+
+Entrevista 6 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-6-segmento-2](https://tinyurl.com/entrevista-6-segmento-2)
+
 A continuación, se presentan los anexos que respaldan la información desarrollada a lo largo del informe. Estos incluyen enlaces a diagramas, mapas de empatía, entrevistas realizadas, artefactos visuales y otros documentos relevantes utilizados durante el proceso de investigación, diseño y desarrollo de Custom Host.
 
 ---
@@ -2653,6 +2673,7 @@ Representación visual que muestra cómo cada funcionalidad del sistema impacta 
 ## A6. Actividad en GitHub
 
 Se adjunta el gráfico de actividad en GitHub durante el TB1, reflejando el trabajo colaborativo y constante refinamiento del equipo.
+
 
 ![Gráfico de colaboración TB1](Assets/img/cover/GH%20-%20TB1%20period.png)
 
