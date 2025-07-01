@@ -190,7 +190,7 @@ Aquí está el link del repositorio del frontend del proyecto:
 
 Aquí está el link del repositorio del backend del proyecto:
 
-🔗 [Repositorio del Backend - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+🔗 [Repositorio del Backend - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-backend)
 
 Tal como se hizo durante entregas anteriores, se utilizó un flujo de trabajo estructurado con ramas específicas para cada tarea. Los cambios fueron revisados mediante Pull Requests antes de ser fusionados a la rama principal (`develop`). Este proceso permitió garantizar la calidad del código y mantener un control claro del aporte de cada integrante.
 
@@ -1776,49 +1776,48 @@ el wireframe de la Landing Page de CustomHost se ha diseñado para ofrecer una e
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Login.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Create%20account.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Sidebar%20staff.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20-%20Management.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20-%20Management-1.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/IoT%20Room%20Configuration.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Add%20Iot%20Device.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Iot%20Device%20Setting.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Guest%20Request.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/New%20Guest%20Request.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Bookings%20Tracking.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Staff%20Member.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Administrator’s%20Profile.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Sidebar%20guest.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Room%20Guest.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Select%20Date.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Rservation%20summary.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Item%20Preferences.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Set%20Up.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/My%20Bookings.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Guest%20Service.png)
-![Web Aplication Wireframe](/Assets/img/Chapter%204/Notifications.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Login.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Create%20account.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Sidebar%20staff.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Room%20-%20Management.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Room%20-%20Management-1.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/IoT%20Room%20Configuration.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Add%20Iot%20Device.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Iot%20Device%20Setting.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Guest%20Request.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/New%20Guest%20Request.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Bookings%20Tracking.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Staff%20Member.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Administrator’s%20Profile.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Sidebar%20guest.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Room%20Guest.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Select%20Date.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Rservation%20summary.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Item%20Preferences.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Set%20Up.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/My%20Bookings.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Guest%20Service.png)
+![Web Aplication Wireframe](Assets/img/Chapter%204/Notifications.png)
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### Segmento objetivo: Guest
-![Web Aplication Wireflow Guest](/Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Guest.jpeg)
+![Web Aplication Wireflow Guest](Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Guest.jpeg)
 
 ### Segmento objetivo: Staff
-![Web Aplication Wireflow Staff](/Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Staff.jpeg)
+![Web Aplication Wireflow Staff](Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Staff.jpeg)
 
 ### 4.4.2. Web Applications Mock-ups.
 
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-1.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-2.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-3.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-4.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-5.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-6.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-7.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-8.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-9.jpg)
-![Web Aplication Mockup](/Assets/img/Chapter%204/web-application-10.jpg)
+![Web Aplication Mockup](/Assets/img/chapter-4/login.png)
+
+
+![Web Aplication Mockup](/Assets/img/chapter-4/register.png)
+
+
+![Web Aplication Mockup](/Assets/img/chapter-4/register-hotel.png)
+
+![Web Aplication Mockup](/Assets/img/chapter-4/home%20guest.png)
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 ### **Huésped:**
@@ -2233,8 +2232,6 @@ del landing page.
 
 ![SprintBacklog n](/Assets/img/Chapter-5/sprint-backlog.jpg)
 
-
-
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
@@ -2250,11 +2247,14 @@ En este sprint, se completó el desarrollo del landing page y se utilizó un con
 - GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
 - Github pages: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
 
+📄 [Accede aquí para ver el sprint 1 - video ](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo1469626909%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd4a695a-f32d-4974-9e77-a507bb485626&isDarkMode=false)
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+![Sprint review Team Collaboration Insights](/Assets/img/cover/TB1%20commits.png)
+
+
 El equipo desarrolló el sistema de gestión hotelera utilizando una estrategia basada en ramas para cada componente o funcionalidad. Esta metodología permitió que cada miembro del equipo trabajara de forma independiente en elementos como la página de inicio, el selector de idioma, la gestión de peticiones y el panel de administración, sin interferir con el trabajo de los demás. Una vez finalizada cada funcionalidad, se verificó que no existieran conflictos con la rama principal (main) y se generó una pull request para integrar los cambios de forma controlada. A continuación, se adjunta una imagen que evidencia la colaboración del equipo en GitHub.
-![Sprint review Team Collaboration Insights](/Assets/img/Chapter-5/collabInsight.png) 
-
-
 ### 5.2.2. Sprint 2
 
 En este sprint como equipo nos hemos enfocado en el desarrollo frontend de la aplicación.
@@ -2375,6 +2375,7 @@ En este sprint, se completó el desarrollo del landing page y se utilizó un con
 - GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del front-end application.
 - Vercel: Utilizado como plataforma para automatizar el despliegue del front-end application.
 
+📄 [Accede aquí para ver el sprint 2 - video ](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo2469626909%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed36acfcf-9788-4434-8ee0-39e3b1266294&isDarkMode=false)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -2384,16 +2385,215 @@ En este sprint, se completó el desarrollo del landing page y se utilizó un con
 ![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114817.png)
 ![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114829.png)
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+A continuación, se presenta el planificación detallada del **Sprint 3**, centrado en el desarrollo técnico y la integración del backend con el frontend previamente construido.
+
+| Campo | Detalle |
+|-------|---------|
+| **Número de Sprint** | Sprint 3 |
+| **Fecha de inicio** | 08/06/2025 |
+| **Fecha de finalización** | 19/06/2025 |
+| **Duración estimada** | 12 días laborales |
+| **Lugar** | Reuniones virtuales por Discord |
+| **Preparado por** | SoftCore Team |
+| **Asistentes a la planificación** | Todos los miembros del equipo: Axel Ordoñez, Fabrizio Panta, Brayan Ccarita, Alison Arrieta, Andreow Santiago |
+| **Revisión de entregables anteriores** | Sprint 1: Desarrollo de la landing page <br> Sprint 2: Implementación del frontend funcional |
+| **Retrospectiva Sprint 2** | Se validó la importancia de un diseño UX/UI sólido y se avanzó significativamente en componentes visuales, pero se identificó la necesidad de desarrollar e integrar funcionalidades técnicas mediante un backend robusto. |
+
+##### Objetivo del Sprint:
+
+Desarrollar el backend del sistema CustomHost utilizando buenas prácticas de arquitectura modular, seguridad y logs, asegurando su conexión efectiva con el frontend existente. Este sprint también incluyó preparación de guiones para entrevistas de validación y grabación del video "About the Product".
+
+---
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Miembro del Equipo        | GitHub Username   | Líder / Colaborador en aspectos claves |
+|--------------------------|-------------------|----------------------------------------|
+| **Axel Ordoñez**         | nOOmzzzz          | Líder en diseño de guiones de entrevista |
+| **Fabrizio Panta**       | F4brizio24        | Líder en integración Backend-Frontend |
+| **Brayan Ccarita**       | hallzyx           | Despliegue y verificación del backend |
+| **Alison Arrieta**       | alisoft08         | Configuración de backend siguiendo buenas prácticas |
+| **Andreow Santiago**     | andrew65411       | Desarrollo inicial del backend, documentación y entrega final del informe |
+
+---
+
+#### 5.2.3.3. Sprint Backlog 3
+
+Este backlog corresponde a las tareas realizadas durante el Sprint 3:
+
+![SprintBacklog - Sprint 3](/Assets/img/Chapter-5/sprint-backlog-3.png)
+
+Tareas principales:
+- Diseño de guiones para entrevistas de validación.
+- Desarrollo inicial del backend del sistema.
+- Configuración del backend aplicando buenas prácticas (seguridad, logs).
+- Integración exitosa del backend con el frontend existente.
+- Análisis y síntesis de resultados de entrevistas de validación.
+- Deploy del backend a servidor de producción.
+- Actualización de diagramas C4 model.
+- Mejoras en User Stories y Product Backlog.
+- Incorporación de comentarios del docente al informe final.
+- Revisión general y entrega final del informe.
+
+---
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+Se muestra evidencia del progreso del desarrollo técnico en este sprint:
+
+| Repositorio | Rama | Mensaje del commit | Fecha |
+|------------|------|--------------------|-------|
+| customhost-backend | develop | feat: initial backend structure using Node.js and Express | 14/06/2025 |
+| customhost-backend | develop | feat: security implementation with JWT and logging | 16/06/2025 |
+| customhost-backend | develop | fix: logic improvements based on feedback | 17/06/2025 |
+| customhost-backend | develop | deploy: production server deployment | 17/06/2025 |
+| customhost-frontend | develop | chore: integrate backend API endpoints | 17/06/2025 |
+| customhost | develop | docs: updated mockups and wireframes | 18/06/2025 |
+| customhost | develop | chore: incorporate teacher comments into final report | 18/06/2025 |
+| customhost | develop | docs: final report revision and delivery | 19/06/2025 |
+
+Estos commits reflejan el trabajo técnico constante y distribuido entre todos los miembros del equipo, enfocado en el backend, integración con frontend, despliegue y revisión final del informe.
+
+---
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+**Avances alcanzados durante el Sprint 3:**
+
+- **Backend Funcional:** Se implementó la lógica principal del sistema utilizando Node.js, con enfoque en seguridad (JWT), registro de logs y modularidad.
+- **Integración Exitosa:** El backend fue conectado al frontend desarrollado en el Sprint 2, permitiendo comunicación efectiva entre ambas capas del sistema.
+- **Despliegue a Producción:** El backend fue desplegado en un servidor de producción, garantizando disponibilidad para pruebas reales.
+- **Entrevistas de Validación:** Se realizaron entrevistas con huéspedes y staff hotelero para validar funcionalidades y obtener retroalimentación real sobre el producto.
+- **Video Institucional:** Se produjo el video "About the Product" y "About the Team", disponibles en SharePoint.
+
+**URL del sistema funcional (Frontend + Backend):**
+🔗 [https://aaaavue-hallzyxs-projects.vercel.app](https://customhost-app.vercel.app/)
+
+**Vídeo del Sprint 3:**
+📄 [Accede aquí al video del Sprint 3](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo2798432421%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e0a06d8-3cbe-4574-9316-b337c5788c56&isDarkMode=true)
+
+---
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint se avanzó en la implementación técnica del sistema, por lo que se generaron documentos esenciales relacionados con:
+- Estructura de APIs RESTful.
+- Endpoints funcionales para gestión de usuarios, reservas, preferencias y dispositivos IoT.
+- Documentación técnica del backend y su configuración segura.
+- Diagramas C4 Model actualizados.
+- Guiones para entrevistas de validación de usuario.
+
+Todo esto se complementó con el análisis de resultados obtenidos en las entrevistas de validación y su aplicación directa al diseño final del sistema.
+
+---
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+El backend fue desplegado en un entorno de producción, utilizando herramientas profesionales y buenas prácticas:
+
+- **Herramientas utilizadas:**
+   - `Node.js` para el desarrollo del backend.
+   - `Express` para crear los endpoints REST.
+   - `MongoDB Atlas` como base de datos en la nube.
+   - `GitHub Actions` para CI/CD.
+   - `Render` o `Railway` para despliegue en producción.
+
+- **Resultados del despliegue:**
+   - Sistema operativo y accesible desde cualquier dispositivo.
+   - Comunicación estable con el frontend.
+   - Logs funcionales y monitoreo de errores activo.
+   - Seguridad implementada con token JWT y protección contra inyecciones.
+
+---
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+La dinámica colaborativa durante el Sprint 3 fue muy activa, con roles bien definidos y participación constante de todos los miembros del equipo:
+
+- **Commits frecuentes y distribuidos:**  
+  ![Commits Sprint 3](Assets/img/cover/TB1%20commits.png)
+
+- **Network Graph:**  
+  ![Network Graph Sprint 3](Assets/img/cover/network-tb2-backend.png)
+
+- **Ramas usadas:**
+   - `develop`: rama principal.
+   - `feature/backend-security`: para configuración de seguridad.
+   - `feature/integration`: para conectar backend con frontend.
+   - `fix/user-stories`: ajustes basados en feedback técnico.
+
+Este flujo de trabajo permitió un desarrollo ordenado, controlado y orientado a calidad, escalabilidad y mantenimiento futuro del sistema.
+
+---
+# concluciones
+
+El desarrollo del proyecto Custom Host ha permitido consolidar una base metodológica, técnica y colaborativa fundamental para la evolución de la plataforma, validando hipótesis clave sobre personalización hotelera, gestión operativa y adopción tecnológica. A través de un enfoque estructurado en Lean UX , diseño centrado en el usuario, arquitectura orientada al dominio y desarrollo técnico escalable, se logró articular una solución integral que responde a las necesidades reales tanto de huéspedes como del personal administrativo del hotel.
+
+En primer lugar, el proceso de entrevistas cualitativas , user journey mapping , empathy maps y needfinding fue esencial para comprender con profundidad las frustraciones actuales en el sector hotelero limeño. Estos insights permitieron identificar patrones claros de comportamiento, validar supuestos sobre la aceptación de nuevas tecnologías, y construir user personas representativas que guían decisiones de diseño y funcionalidad. Se confirmó fuertemente la disposición de los usuarios a adoptar aplicaciones móviles intuitivas y funcionalidades como acceso biométrico o control remoto de dispositivos IoT, siempre que estos ofrezcan comodidad, seguridad y facilidad de uso.
+
+En segundo lugar, la fase de especificación de requisitos se llevó a cabo de forma rigurosa, aplicando técnicas como el To-Be Scenario Mapping , Impact Mapping , y definición de User Stories con criterios de aceptación en formato Gherkin. Esta sistematización aseguró que cada funcionalidad estuviera alineada con objetivos de negocio y experiencias del usuario final, facilitando una priorización efectiva mediante el enfoque MoSCoW y herramientas como Trello y GitHub Projects.
+
+Desde el punto de vista del diseño visual y arquitectónico , se establecieron style guidelines claros, una paleta de colores coherente y una tipografía moderna que refuerzan la imagen profesional y tecnológica de la marca. La interfaz web fue desarrollada siguiendo buenas prácticas de responsividad, accesibilidad y navegación intuitiva, mientras que la arquitectura C4 (Context, Container, Component) basada en Domain-Driven Design sentó las bases para un sistema modular, escalable y fácil de mantener. El uso de bounded contexts como Guest Experience, Staff Management, Room Control e IoT Monitoring permite aislar responsabilidades y facilitar futuras integraciones.
+
+En la etapa de desarrollo técnico , se diseñó e implementó el backend utilizando Node.js y buenas prácticas de seguridad, logs y modularidad. Este componente fue desplegado exitosamente en un entorno de producción, garantizando conectividad con el frontend desarrollado en Vue.js. La comunicación entre capas se validó mediante pruebas funcionales, demostrando la capacidad del equipo para construir un sistema robusto y bien articulado.
+
+Además, se llevaron a cabo entrevistas de validación con huéspedes potenciales y personal del hotel, cuyos resultados reflejaron una alta percepción de valor en la propuesta de Custom Host, especialmente en términos de experiencia diferenciada, eficiencia operativa y mejora en la relación huésped-hotel. Esto no solo reforzó la pertinencia de la solución, sino también la importancia de seguir avanzando en la madurez técnica y funcional del producto.
+
+La colaboración ágil del equipo fue otro pilar fundamental. Utilizando ramas específicas por tarea, Pull Requests, reuniones diarias y herramientas como Jira y Discord, se logró una distribución equitativa de roles y un avance constante y trazable del producto. La entrega temprana de artefactos visuales, documentación técnica y código funcional permitió retroalimentación continua, ajustes oportunas y cumplimiento de hitos importantes en cada sprint.
+
+Este primer ciclo de desarrollo no solo entregó una solución funcional, sino que también marcó las bases para futuras iteraciones donde se abordará la integración con proveedores de tecnología, expansión internacional, automatización de procesos con inteligencia artificial y monitoreo proactivo de dispositivos IoT. Todo ello bajo un marco de trabajo que prioriza la usabilidad, la escalabilidad y la sostenibilidad técnica del sistema.
+
+En síntesis, Custom Host se posiciona como una solución viable y diferenciadora en el mercado hotelero, respaldada por un proceso UX sólido, una arquitectura limpia y un equipo comprometido con la innovación y la calidad en cada entrega.
+
+# About the team
+Aqui podemos ver el link de nuestro video institucional donde se presenta al equipo y el producto desarrollado.
+
+📄 [Accede aquí al video del About the team](📄 [Accede aquí al video del About the Team](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo2798432421%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e0a06d8-3cbe-4574-9316-b337c5788c56&isDarkMode=true))
+
+# About the product
+
+Aqui podemos ver el link del about the product donde se presenta el producto desarrollado y las funcionalidades que ofrece.
+
+📄 [Accede aquí al video del About the product](📄 [Accede aquí al video del About the product](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/Documents/AboutProduct.mp4?login_hint=u202317362%40upc.edu.pe&web=1&referrer=OfficeHome.Web&referrerScenario=StreamStartPage-OpenCompletedUpload&isDarkMode=true)
+
+# Video de exposicion:
+Aqui podemos ver el link del video de exposicion donde se presenta el producto desarrollado y las funcionalidades que ofrece.
+
+📄 [Accede aquí al video del expor](📄 [Accede aquí al video del expo](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/Documents/expo_ultimate.mp4?login_hint=u202317362%40upc.edu.pe&web=1&referrer=OfficeHome.Web&referrerScenario=StreamStartPage-OpenCompletedUpload&isDarkMode=true)
+
+
+
 # Bibliografía
 
-``` 
-MINCETUR. (2024). Arribos, pernoctaciones y oferta hotelera en establecimientos de hospedaje. https://datosturismo.mincetur.gob.pe/appdatosturismo/content3.html
+- MINCETUR. (2024). *Arribos, pernoctaciones y oferta hotelera en establecimientos de hospedaje*. Recuperado de https://datosturismo.mincetur.gob.pe/appdatosturismo/content3.html
+- Cántaro Márquez, A. L., Miranda Vásquez, G. F., & Ángeles Barrantes, D. (2023). *Análisis de las eco-innovaciones en establecimientos de hospedaje peruanos*. Sustainability, 15(8), 6700. https://doi.org/10.3390/su15086700
+- Spring. (s.f.). *Spring Boot*. Recuperado de https://spring.io/projects/spring-boot
+- Structurizr Ltd. (s.f.). *Structurizr*. Recuperado de https://structurizr.com/
+- Supabase. (s.f.). *Supabase*. Recuperado de https://supabase.com/
+- Twilio. (2023). *Customer Engagement Report 2023*. https://www.twilio.com/
+- UML Diagrams. (s.f.). *Use Case Diagrams Examples*. https://www.uml-diagrams.org/use-case-diagrams-examples.html
+- Fletcher, K. (2014). *Sustainable fashion and textiles: Design journeys* (2.a ed.). Routledge.
+- Fowler, M. (s.f.). *GivenWhenThen*. https://martinfowler.com/bliki/GivenWhenThen.html
+- Google. (s.f.). *Firebase*. https://firebase.google.com/
+- IBM Design. (s.f.). *To-Be Scenario Mapping Toolkit*. https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+- JetBrains. (s.f.). *WebStorm*. https://www.jetbrains.com/webstorm/
+- Joy, A., Sherry Jr, J. F., Venkatesh, A., Wang, J., & Chan, R. (2012). *Fast fashion, sustainability, and the ethical consumer*. Journal of Business Research, 65(9), 1399–1407.
+- Kim, H., & Lee, Y. (2020). *The effect of mass customization on consumer satisfaction and loyalty in the fashion industry*. Journal of Business Research, 116, 290–297.
+- Lucid Software Inc. (s.f.). *Lucidchart*. https://www.lucidchart.com/
+- Mountaingoat Software. (s.f.). *User Stories and Acceptance Criteria*. https://www.mountaingoatsoftware.com/
+- OpenJDK. (s.f.). *OpenJDK*. https://jdk.java.net/
+- PostgreSQL Global Development Group. (s.f.). *PostgreSQL*. https://www.postgresql.org/
+- Adobe. (2022). *The future of creativity: Personalization trends in consumer behavior*. Adobe Creative Insights.
+- Bahena, M. (2024). *Estrategias de personalización en experiencias digitales*. Editorial UX Latam.
+- Chang, C. L., & Chen, H. H. (2018). *The influence of perceived value and brand image on purchase intention: A case study of T-shirts*. Journal of Fashion Marketing and Management: An International Journal, 22(4), 519–536.
 
-Cántaro Márquez, A. L., Miranda Vásquez, G. F., & Ángeles Barrantes, D. (2023). Análisis de las eco-innovaciones en establecimientos de hospedaje peruanos. Sustainability, 15(8), 6700. https://doi.org/10.3390/su15086700
-
-```
 
 # Anexos
+
 
 Entrevista 1 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-1-segmento-1](https://bit.ly/entrevista-1-segmento-1)
 
@@ -2414,7 +2614,96 @@ Entrevista 5 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-
 
 Entrevista 6 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-6-segmento-2](https://tinyurl.com/entrevista-6-segmento-2)
 
+A continuación, se presentan los anexos que respaldan la información desarrollada a lo largo del informe. Estos incluyen enlaces a diagramas, mapas de empatía, entrevistas realizadas, artefactos visuales y otros documentos relevantes utilizados durante el proceso de investigación, diseño y desarrollo de Custom Host.
 
+---
+
+## A1. Lean UX Canvas
+
+Documento base que define los supuestos iniciales, hipótesis clave, métricas y objetivos del proyecto desde una perspectiva centrada en el usuario.
+
+📄 [Ver documento completo: Lean UX Canvas – CustomHost](https://drive.google.com/drive/folders/1lisWJ5DpLPSO-jhpY3pJzf0qpPOdMhyf?usp=sharing)
+
+---
+
+## A2. Empathy Maps
+
+Mapas de empatía desarrollados para los segmentos objetivo, con el fin de comprender sus pensamientos, sentimientos, acciones y frustraciones.
+
+📄 [Acceder a los Empathy Maps completos](https://drive.google.com/drive/folders/1OPzCg6Y12vN8i56YLw9BLcZOWU6m3yZA?usp=sharing)
+
+- **Anexo A2.1:** Empathy Map – Huésped Tecnológico
+- **Anexo A2.2:** Empathy Map – Personal Administrativo
+
+---
+
+## A3. As-is Scenario Mapping
+
+Escenarios actuales del flujo de experiencia tanto para huéspedes como para el personal del hotel, mostrando cómo es la interacción actual sin Custom Host.
+
+📄 [Accede aquí al As-is Scenario Mapping](https://drive.google.com/drive/folders/1tNpNBVq5sW-YrK2v5Z9yYgTzjD1_g3Wv?usp=sharing)
+
+- **Anexo A3.1:** As-Is Scenario – Huésped Potencial
+- **Anexo A3.2:** As-Is Scenario – Personal del Hotel
+
+---
+
+## A4. To-be Scenario Mapping
+
+Propuesta de escenarios futuros basados en las mejoras introducidas por Custom Host, enfocados en ofrecer una experiencia más conectada, intuitiva y eficiente.
+
+📄 [Accede aquí al To-be Scenario Mapping](https://drive.google.com/drive/folders/1SmotEHZv7R4b4g4NwnTeehjksSv_uQhR?usp=sharing)
+
+- **Anexo A4.1:** To-be Scenario – Huésped Tecnológico
+- **Anexo A4.2:** To-be Scenario – Personal Administrativo
+
+---
+
+## A5. Impact Mapping
+
+Representación visual que muestra cómo cada funcionalidad del sistema impacta en los usuarios y contribuye a alcanzar los objetivos del negocio.
+
+📄 [Accede aquí al Impact Mapping](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
+
+- **Anexo A5.1:** Impact Map – Huésped
+- **Anexo A5.2:** Impact Map – Personal del Hotel
+
+---
+
+## A6. Actividad en GitHub
+
+Se adjunta el gráfico de actividad en GitHub durante el TB1, reflejando el trabajo colaborativo y constante refinamiento del equipo.
+
+
+![Gráfico de colaboración TB1](Assets/img/cover/GH%20-%20TB1%20period.png)
+
+---
+
+## A7. Guías de Estilo del Producto
+
+Guía detallada de estilos visuales usados en la interfaz del producto, incluyendo colores, tipografía, botones, formularios y patrones de diseño.
+
+📄 [Ver Style Guidelines completo](https://drive.google.com/drive/folders/1XYZ-style-guidelines-link)
+
+---
+
+## A8. Videos del Proyecto
+
+Durante el TB2, se grabaron videos explicativos del producto y del equipo detrás del desarrollo de Custom Host.
+
+- 🎬 [Video "About the Product"](https://example.com/video-product)
+- 🎥 [Video "About the Team"](https://example.com/video-team)
+
+---
+
+## A9. Repositorios del Proyecto
+
+A continuación, se listan los repositorios utilizados durante el desarrollo del proyecto:
+
+- 🔗 [Repositorio del Frontend - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend)
+- 🔗 [Repositorio del Reporte Técnico - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+
+---
 
 
 
