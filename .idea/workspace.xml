@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a6be43f-5238-44b9-844b-d0f9716002fb" name="Changes" comment="feat:  add new styles to the landing page." />
+    <list default="true" id="8a6be43f-5238-44b9-844b-d0f9716002fb" name="Changes" comment="feat:  add new styles to the landing page.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +75,8 @@
       <workItem from="1750030095871" duration="5675000" />
       <workItem from="1750331973023" duration="1448000" />
       <workItem from="1751326282899" duration="146000" />
+      <workItem from="1751463157015" duration="2000" />
+      <workItem from="1751463189109" duration="923000" />
     </task>
     <task id="LOCAL-00001" summary="feat:  add new styles to the landing page.">
       <option name="closed" value="true" />
@@ -88,6 +93,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="feat:  add new styles to the landing page." />
     <option name="LAST_COMMIT_MESSAGE" value="feat:  add new styles to the landing page." />
   </component>
