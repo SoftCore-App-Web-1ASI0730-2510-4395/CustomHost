@@ -2529,6 +2529,112 @@ La dinámica colaborativa durante el Sprint 3 fue muy activa, con roles bien def
 Este flujo de trabajo permitió un desarrollo ordenado, controlado y orientado a calidad, escalabilidad y mantenimiento futuro del sistema.
 
 ---
+
+## 5.3. Validation Interviews
+
+---
+Tras la finalización del sprint 3, se llevaron a cabo entrevistas de validación con los usuarios de los segmentos de trabajadores y gerentes de hotel para obtener retroalimentación sobre el diseño visual y la usabilidad de la aplicación en desarrollo. A continuación, se presentan los detalles de las entrevistas realizadas, incluyendo el diseño de las preguntas y los registros de las respuestas de los usuarios.
+
+### 5.3.1. Diseño de Entrevistas.
+
+En el diseño de entrevistas, se incluyen las preguntas generales que se usaran para ambos segmentos objetivos, y preguntas específicas hacía cada segmento.
+
+Preguntas generales:
+
+- ¿Qué opinión tiene sobre el diseño visual y la apariencia general de la aplicación en su estado actual?
+- ¿La interfaz visual y el diseño de la aplicación reflejan adecuadamente la imagen y la marca de su hotel?
+- ¿Hay algún aspecto del diseño visual que le gustaría que ajustemos o mejoremos antes de la implementación final?
+- ¿qué impresiones iniciales tiene sobre la dirección en la que estamos llevando el proyecto?
+- ¿Cómo se comparan los avances visuales con sus expectativas iniciales o lo que tenía en mente para el software?
+
+Entrevistas usuario segmento:
+
+
+Entrevistas usuario segmento:
+
+### 5.3.2. Registro de Entrevistas.
+
+En esta sección se presentan los registros de las entrevistas realizadas a los usuarios de los segmentos de __________________________. Se incluye un resumen de las respuestas y las impresiones generales de los entrevistados sobre el software en desarrollo.
+
+Segmento 1
+
+Url del video: [Accede aquí al video de las entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EUeY1gAFpRZGk_Cd2dzmt6IBN4eqhjKjSZjFPI5R0uq3ag?e=B8Ei5J&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+Segmento 2
+
+Url del video: [Accede aquí al video de las entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EUeY1gAFpRZGk_Cd2dzmt6IBN4eqhjKjSZjFPI5R0uq3ag?e=B8Ei5J&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+Con base en las entrevistas realizadas, se han identificado los siguientes problemas y sugerencias de mejorar:
+
+SITE o APP a evaluar: Custom Host
+
+Tareas a Evaluar El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Registro de Dormitorios
+3. Registro de Productos 
+4. Inicio de sesión
+5. Registro de trabajadores
+6. Actualizar ingresos y egresos
+7. Administración de notificaciones
+8. Registro de pagos
+9. Selección de subscripción
+10. Registro ded Trabajadores
+13. Filtrar gráficos
+14. Lista de productos
+15. Lista de Dormitorios
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Administración de Routes.
+2. Creación de subscripciones.
+3. Mensajes de alertas
+4. Proceso de pago
+5. Ver perfil
+
+### ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+|nivel|Descripción|
+|-|-|
+|1|Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+TABLA RESUMEN
+
+| # | Problema | Escala de serveridad | Heuristica/Princiopio violado              |
+|---|----------|----------------------|--------------------------------------------|
+| 1 |No existe la opción de ocultar la función de añadir un cuarto a manejar| 2                    | Information Architecture: Is it findable?  |
+| 2 | No existe un mensaje de error cuando se intenta iniciar sesión con una cuenta no existente| 2                    | Usability: Consistencia y estándares       |
+| 3 | No existen opciones de filtro en el manejo de cuartos | 2                    | Information Architecture: Is it findable?  |
+| 4 |Interfaz poco amigable para dispositivos móviles| 3                    | Usability: Libertad y control del usuario  |
+| 5 | Falta de administración de notificaciones         | 3                    | Information Architecture: Is it findable?  |
+| 6 |No hay una opción clara para cambiar o cancelar la suscripción| 4                    | Usability: Libertad y control del usuario. |
+| 7 |No existen opciones de filtro para las estadísticas gráficas | 2                    | Information Architecture: Is it findable?                                           |
+
+# About the team
+Aqui podemos ver el link de nuestro video institucional donde se presenta al equipo y el producto desarrollado.
+
+📄 Accede aquí al video del About the team: [Accede aquí al video del About the Team]()
+
+# About the product
+
+Aqui podemos ver el link del about the product donde se presenta el producto desarrollado y las funcionalidades que ofrece.
+
+📄 Accede aquí al video del About the product: [Accede aquí al video del About the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EZhsIitl8ZtJs9CizI4GDBsB5zP2JNUFrb3n-GMsK5YDKg?e=GJ0c9j&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+# Video de exposicion:
+Aqui podemos ver el link del video de exposicion donde se presenta el producto desarrollado y las funcionalidades que ofrece.
+
+📄 Accede aquí al video del exposicion: [Accede aquí al video del expo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/Ec3JDxqSpmZAhGnJ-HyJ_4cBSoOJaIMBTseu8h3kVxlF7A?e=uS9SCh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 # concluciones
 
 El desarrollo del proyecto Custom Host ha permitido consolidar una base metodológica, técnica y colaborativa fundamental para la evolución de la plataforma, validando hipótesis clave sobre personalización hotelera, gestión operativa y adopción tecnológica. A través de un enfoque estructurado en Lean UX , diseño centrado en el usuario, arquitectura orientada al dominio y desarrollo técnico escalable, se logró articular una solución integral que responde a las necesidades reales tanto de huéspedes como del personal administrativo del hotel.
@@ -2548,24 +2654,6 @@ La colaboración ágil del equipo fue otro pilar fundamental. Utilizando ramas e
 Este primer ciclo de desarrollo no solo entregó una solución funcional, sino que también marcó las bases para futuras iteraciones donde se abordará la integración con proveedores de tecnología, expansión internacional, automatización de procesos con inteligencia artificial y monitoreo proactivo de dispositivos IoT. Todo ello bajo un marco de trabajo que prioriza la usabilidad, la escalabilidad y la sostenibilidad técnica del sistema.
 
 En síntesis, Custom Host se posiciona como una solución viable y diferenciadora en el mercado hotelero, respaldada por un proceso UX sólido, una arquitectura limpia y un equipo comprometido con la innovación y la calidad en cada entrega.
-
-# About the team
-Aqui podemos ver el link de nuestro video institucional donde se presenta al equipo y el producto desarrollado.
-
-📄 [Accede aquí al video del About the team](📄 [Accede aquí al video del About the Team](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo2798432421%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e0a06d8-3cbe-4574-9316-b337c5788c56&isDarkMode=true))
-
-# About the product
-
-Aqui podemos ver el link del about the product donde se presenta el producto desarrollado y las funcionalidades que ofrece.
-
-📄 [Accede aquí al video del About the product](📄 [Accede aquí al video del About the product](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/Documents/AboutProduct.mp4?login_hint=u202317362%40upc.edu.pe&web=1&referrer=OfficeHome.Web&referrerScenario=StreamStartPage-OpenCompletedUpload&isDarkMode=true)
-
-# Video de exposicion:
-Aqui podemos ver el link del video de exposicion donde se presenta el producto desarrollado y las funcionalidades que ofrece.
-
-📄 [Accede aquí al video del expor](📄 [Accede aquí al video del expo](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/Documents/expo_ultimate.mp4?login_hint=u202317362%40upc.edu.pe&web=1&referrer=OfficeHome.Web&referrerScenario=StreamStartPage-OpenCompletedUpload&isDarkMode=true)
-
-
 
 # Bibliografía
 
