@@ -30,7 +30,7 @@ Aquí se registran los detalles de la planeación del Sprint 1.
 
 #### 5.2.1.3 Sprint Backlog 1
 
-![Sprint Backlog 1](Assets/img/chapter-5/sprint%20backlog%201.png)
+![Sprint Backlog 1](Assets/img/Chapter-5/sprint%20backlog%201.png)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
