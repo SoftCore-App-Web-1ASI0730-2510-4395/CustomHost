@@ -30,7 +30,8 @@ Aquí se registran los detalles de la planeación del Sprint 2.
 
 #### 5.2.2.3 Sprint Backlog 2
 
-![Sprint Backlog 2](Assets/img/Chapter-5/sprint_backlog_2.png)
+[Sprint Backlog 2](Assets/img/Chapter-5/sprint%20backlog%202.png)
+**Link al trello:** <https://trello.com/b/DsZNhyHA/customhost-sprint-backlog-2>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -49,15 +50,15 @@ Aquí se registran los detalles de la planeación del Sprint 2.
 
 **Página de Administración de Habitaciones:** En esta sección, se ha implementado una página de administración de habitaciones que permite al staff del hotel gestionar las habitaciones del hotel. Esta página incluye funcionalidades para agregar, editar y eliminar habitaciones, así como para visualizar la lista de habitaciones disponibles.
 
-![Execution-evidence](/Assets/img/Chapter-5/sprint_2_rooms_management.png)
+[Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113513.png)
 
 **Página de Administración de Peticiones del Huésped:** En esta sección, se ha implementado una página de administración de peticiones del huésped que permite al staff del hotel gestionar las peticiones realizadas por los huéspedes. Esta página incluye funcionalidades para agregar, editar el estado y eliminar peticiones, así como para visualizar la lista de peticiones realizadas.
 
-![Execution-evidence](/Assets/img/Chapter-5/sprint_2_guest_requests.png)
+[Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113736.png)
 
 **Página de administración del Personal del Hotel**: En esta sección, se ha implementado una página de administración del personal del hotel que permite al administrador del hotel gestionar la información del personal. Esta página incluye funcionalidades para agregar, editar datos y eliminar personal, así como para visualizar la lista de personal registrado.
 
-![Execution-evidence](/Assets/img/Chapter-5/sprint_2_staff_management.png)
+[Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113825.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -72,13 +73,14 @@ En este sprint, se completó el desarrollo de la Frontend Application y se utili
 - **GitHub:** Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
 - **Vercel:** Utilizado como plataforma para automatizar el despliegue del front-end application.
 
-**Video del Sprint 2:** <https://tinyurl.com/sprint-video-2>
+**Video del Sprint 2:** <https://tinyurl.com/sprint-2-video>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Las siguientes capturas se sacaron del repositorio front-end de la Organización Github: <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend>
 
-![Team Collaboration Insights](/Assets/img/Chapter-5/sprint_2_tci_1.png)
-![Team Collaboration Insights](/Assets/img/Chapter-5/sprint_2_tci_2.png)
-![Team Collaboration Insights](/Assets/img/Chapter-5/sprint_2_tci_3.png)
-![Team Collaboration Insights](/Assets/img/Chapter-5/sprint_2_tci_4.png)
+[Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114710.png)
+[Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114752.png)
+[Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114811.png)
+[Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114817.png)
+[Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114829.png)
