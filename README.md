@@ -1801,10 +1801,169 @@ el wireframe de la Landing Page de CustomHost se ha diseñado para ofrecer una e
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-### Segmento objetivo: Guest
+<h4>Segmento Objetivo #1: Huéspedes de Hotel</h4>
+Los huéspedes de hotel utilizan la plataforma web para reservar habitaciones del hotel, realizar pagos, configurar sus preferencias tecnológicas durante la estadía, y gestionar sus solicitudes y notificaciones de forma intuitiva.<br><br>
+
+**Login / Create Account**
+
+**1. Login:**
+- El huésped introduce su correo electrónico y contraseña.
+-	Luego presiona el botón “Login” para acceder a su cuenta personal.
+
+**Create Account:**
+-	Si es un nuevo huésped, completa un formulario con su nombre completo, correo y contraseña.
+-	Presiona “Create” para registrar su cuenta en la plataforma.
+
+**Acción esperada:** Autenticarse exitosamente en el sistema y acceder al panel principal (Dashboard).<br><br>
+
+**2. Dashboard**
+-	El huésped accede a una pantalla principal donde visualiza un menú lateral con accesos a secciones clave:
+▸ Book Now
+▸ Preferences
+▸ My Bookings
+▸ Customer Services
+▸ Notifications
+-	El Dashboard sirve como centro de navegación para todas las funciones de la plataforma.
+
+**Acción esperada:** Orientarse rápidamente dentro de la aplicación y elegir la acción que desea realizar.<br><br>
+
+**3. Select a Hotel and a Room**
+-	Eligen entre las opciones de hoteles disponibles.
+-	Se muestran opciones de habitaciones disponibles, junto a su precio por noche, para el hotel elegido.
+-	El huésped puede ver el tipo de habitación, la disponibilidad, y otras características.
+-	Al seleccionar una opción, pulsa el botón “Continue to Payment” para avanzar al proceso de selección de días.
+
+**Acción esperada:** Elegir el hotel y la habitación deseada para su reserva.<br><br>
+
+**4. Select Dates**
+-	El huésped selecciona la fecha de inicio y fin de su estancia en el hotel.
+-	Aparece la información con la cantidad de días que se va a hospedar junto al precio total a pagar.
+-	Luego, pulsa el botón “Continue to Payment” para avanzar en el proceso de confirtmación.
+
+**Acción esperada:** Definir el rango de fechas deseado para realizar una reserva.<br><br>
+
+
+**5. Confirmación / Vista Detallada**
+-	Tras realizar el pago, el huésped visualiza una pantalla con el resumen de su reserva:
+▸ Nombre del huésped que realizó la reserva
+▸ Nombre del hotel en el que reservó
+▸ El número de la habitación y el tipo
+▸ Precio por noche y total a pagar
+▸ La fecha de inicio y fin de su estancia
+-	Luego, pulsa el botón “Confirm and Pay” para avanzar en el proceso de pago.
+
+**Acción esperada:** Revisar los detalles de la reserva antes de utilizar el servicio.<br><br>
+
+**6. Configure IoT Devices**
+-	El huésped puede personalizar la configuración de los dispositivos IoT disponibles en su habitación (como temperatura, luces, TV, etc.).
+-	La interfaz muestra valores predeterminados que se pueden ajustar.
+-	Luego, hace clic en “Save”.
+
+**Acción esperada:** Establecer preferencias personalizadas para la estancia. <br><br>
+
+
+**7. My Bookings**
+-	Muestra un listado de todas las reservas del huésped (activas y/o pasadas).
+-	Cada entrada tiene información como fechas, nombre del huésped y el total a pagar.
+-	Se puede hacer clic en “Delete” para eliminar una reserva del historial.
+
+**Acción esperada:** Consultar el historial de reservas y eliminar alguna reserva. <br><br>
+
+
+**8. Create New Request**
+-	El huésped accede a un formulario para enviar una solicitud personalizada al hotel (ej. pedidos especiales, reclamos, requerimientos técnicos).
+-	Puede ingresar una descripción del pedido y enviarlo.
+-	Debe ingresar la prioridad con la que desea que sea atentado su solicitud y la habitación que pidió el servicio.
+
+**Acción esperada:** Solicitar servicios adicionales o reportar problemas durante la estancia. <br><br>
+
+
+**9. Notifications**
+-	Se muestra una lista de notificaciones del sistema relacionadas con sus reservas, pagos o respuestas a solicitudes.
+-	Cada notificación tiene un mensaje breve con su estado, fecha y hora.
+
+**Acción esperada:** Mantenerse informado sobre cambios o actualizaciones importantes. <br><br>
+
+[Web Applications Wireflow Diagrams - Guest] https://shorturl.at/pFH5e
 ![Web Aplication Wireflow Guest](Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Guest.jpeg)
 
-### Segmento objetivo: Staff
+
+<h4>Segmento Objetivo #2: Staff del Hotel</h4>
+El personal del hotel (administradores, técnicos, recepcionistas) utiliza esta plataforma web para gestionar habitaciones, configurar dispositivos IoT, atender solicitudes de los huéspedes, monitorear reportes, y administrar la información de los empleados.<br><br>
+
+**1. Login / Create Account**
+**Login:**
+-	El personal ingresa su correo y contraseña.
+-	Hace clic en “Login” para acceder a su cuenta laboral.
+
+**Create Account:**
+-	Un nuevo miembro del staff puede crear su cuenta llenando un formulario con nombre, correo y contraseña.
+-	Luego, hace clic en “Create”.
+
+**Acción esperada:** Acceder al panel principal de gestión de hotel (dashboard) con su perfil de empleado. <br><br>
+
+
+**2. Dashboard**
+-	Desde aquí, el staff accede al menú lateral con las siguientes secciones:
+▸ Rooms
+▸ Staff Devices
+▸ Customer Requests
+▸ Booking Tracker
+▸ Request Staff
+▸ Profile
+
+-	El dashboard sirve como centro de control administrativo y técnico del sistema.
+
+**Acción esperada:** Navegar entre las funciones operativas del sistema hotelero. <br><br>
+
+
+**3. Room Management**
+-	Se presenta una tabla con las habitaciones existentes: id del hotel, número de habitación, tipo, estado, precio, pisos, y opciones.
+-	El botón “Add Room” abre un formulario emergente para registrar una nueva habitación con los datos anteriormente mencionados.
+
+**Acción esperada:** Registrar nuevas habitaciones o editar/eliminar existentes. <br><br>
+
+**4. Staff Devices**
+-	Aquí se listan los dispositivos tecnológicos asociados a cada habitación (TV, sensores, aires, etc.).
+-	Permite visualizar rápidamente qué dispositivos están disponibles en cada cuarto.
+
+**Acción esperada:** Consultar o modificar la relación entre habitaciones y sus dispositivos. <br><br>
+
+
+**5. IoT Room Configuration**
+-	Aquí se puede ajustar el comportamiento de los dispositivos IoT por habitación.
+-	Selección de habitación y configuración personalizada de:
+▸ Aire acondicionado
+▸ Iluminación
+▸ Cortinas
+▸ Cámaras
+-	El botón “Save changes” guarda los cambios realizados.
+
+**Acción esperada:** Definir o ajustar parámetros técnicos de cada cuarto según necesidades del huésped o del hotel.<br><br>
+
+
+**6. Customer Requests**
+-	Sección para gestionar las solicitudes realizadas por los huéspedes.
+-	Botón “New Request” permite registrar una nueva solicitud indicando, habitación, tipo (limpieza, mantenimiento, etc.), descripción, y la prioridad con la que se debe realizar la solicitud.
+-	Las solicitudes aparecen en una tabla con su estado (pendiente, atendida, etc.).
+
+**Acción esperada:** Atender de manera organizada las solicitudes recibidas. <br><br>
+
+
+**7. Booking Tracking**
+-	Panel para las habitaciones en uso, mostrando el huésped que reservó la habitación, el número de habitación, fecha de entrada y salida de la estancia, y el estatus.
+
+**Acción esperada:** Tener trazabilidad sobre las habitaciones que están en uso en el hotel. <br><br>
+
+
+**8. Staff Management**
+-	Lista con los miembros del personal registrados.
+-	Detalles visibles: nombre, departamento al que pertenecen, número telefónico, estatus y la cantidad de tareas asignadas.
+-	Botón para editar o eliminar perfiles, y registrar nuevos empleados si es necesario.
+
+**Acción esperada:** Gestionar los permisos y perfiles del equipo de trabajo del hotel. <br><br>
+
+[Web Applications Wireflow Diagrams - Staff] https://shorturl.at/6sbBs
 ![Web Aplication Wireflow Staff](Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Staff.jpeg)
 
 ### 4.4.2. Web Applications Mock-ups.
