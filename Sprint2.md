@@ -32,6 +32,8 @@ Aquí se registran los detalles de la planeación del Sprint 2.
 
 ![Sprint Backlog 2](Assets/img/Chapter-5/sprint_backlog_2.png)
 
+**Link al trello:** <https://trello.com/b/DsZNhyHA/customhost-sprint-backlog-2>
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 | Repository     | Branch                    | Commit Message                          | Committed on (Date) |
