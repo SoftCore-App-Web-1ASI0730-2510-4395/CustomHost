@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a6be43f-5238-44b9-844b-d0f9716002fb" name="Changes" comment="feat:  add new styles to the landing page.">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -79,7 +78,7 @@
       <workItem from="1751463157015" duration="2000" />
       <workItem from="1751463189109" duration="923000" />
       <workItem from="1751607195065" duration="763000" />
-      <workItem from="1751651353973" duration="8662000" />
+      <workItem from="1751651353973" duration="9971000" />
     </task>
     <task id="LOCAL-00001" summary="feat:  add new styles to the landing page.">
       <option name="closed" value="true" />

@@ -2700,7 +2700,6 @@ Formulación de las preguntas:
 6. ¿Piensa que una mejor organización de tareas a través de esta plataforma podría reducir el estrés laboral?
 
 
-
 ### 5.3.2. Registro de Entrevistas.
 
 En esta sección se presentan los registros de las entrevistas realizadas a los usuarios de los segmentos de
@@ -2708,9 +2707,7 @@ empleados del Sector Hotelero y los huéspedes. Se incluye un resumen de las res
 las impresiones generales de los entrevistados sobre el software en 
 desarrollo.
 
-### Entrevistas de Validación
-
-Url del video: [Accede aquí al video de las entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EUeY1gAFpRZGk_Cd2dzmt6IBN4eqhjKjSZjFPI5R0uq3ag?e=B8Ei5J&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Url del video: https://goo.su/CyqIelM
 
 ## Segmento Objetivo #1: Huéspedes
 
@@ -2724,7 +2721,7 @@ Url del video: [Accede aquí al video de las entrevistas de validacion](https://
 ![Imagen de entrevista](Assets/img/Chapter-5/validacion-ale.png)
 
 - **Instante en el que inicia:** 0:01
-- **Duración aproximada:** 3 minutos
+- **Instante en el que finaliza:** 6:50
 
 **Resumen:**  
 Alessandra mostró interés en la landing page por su diseño visual atractivo y la claridad en los servicios ofrecidos. Destacó positivamente la presencia de imágenes llamativas, aunque consideró que podría mejorar el estilo de algunas imágenes usadas. Mostró facilidad al navegar por las opciones de registro e inicio de sesión. Se sintió motivada a usar la plataforma para personalizar su estadía en el hotel.
@@ -2740,33 +2737,7 @@ Este perfil de usuario valora interfaces modernas con buena carga visual y naveg
 
 ---
 
-### Entrevistado 2: Luis Córdova
-- **Edad:** 25 años
-- **Ocupación:** Data Science
-- **Navegador habitual:** Google Chrome
-- **Dispositivos utilizados:** Computadora y celular
-- **Distrito:** San Borja
-
-![Imagen de entrevista](Assets/img/Chapter-5/validacion-axel.png)
-
-- **Instante en el que inicia:** 3:11
-
-**Resumen:**  
-Luis valoró la funcionalidad de personalización de habitaciones y servicios como un diferenciador importante. Encontró útil la opción de solicitar servicios desde la aplicación sin necesidad de llamar al personal. Sugirió incluir más opciones visuales sobre los tipos de habitaciones disponibles.
-
-**Preferencias Tecnológicas:**  
-Le gustaría recibir notificaciones push en su celular sobre confirmaciones de reservas y recordatorios de check-in/check-out.
-
-**Analisis de entrevista:**
-Luis reconoció la utilidad de poder personalizar la experiencia del huésped desde la aplicación, sin necesidad de interactuar directamente con el personal del hotel. Esto refleja una preferencia por la autonomía y digitalización de servicios, especialmente entre perfiles profesionales como el suyo.
-
-Sugirió incluir más opciones visuales sobre los tipos de habitaciones disponibles, lo que implica que una mayor representación gráfica puede ayudar a tomar decisiones más informadas. Asimismo, manifestó interés en recibir notificaciones push sobre reservas y recordatorios, lo que refuerza la relevancia de implementar canales de comunicación proactiva con el usuario final.
-
-Su perfil como Data Scientist sugiere una alta familiaridad con herramientas digitales, por lo que su aceptación del sistema indica una buena adaptabilidad del producto a usuarios avanzados.
-
----
-
-### Entrevistado 3: Fernando San José Zamora Solís
+### Entrevistado 2: Fernando San José Zamora Solís
 - **Edad:** 24 años
 - **Ocupación:** Practicante de ingeniería de software
 - **Navegador habitual:** Google Chrome y Opera GX
@@ -2775,7 +2746,8 @@ Su perfil como Data Scientist sugiere una alta familiaridad con herramientas dig
 
 ![Imagen de entrevista](Assets/img/Chapter-5/validacion-fab.png)
 
-- **Instante en el que inicia:** 0:00 - 11:41
+- **Instante en el que inicia:** 7:26
+- **Instante en el que finaliza:** 18:34
 
 **Resumen:**  
 Fernando realizó una reserva de habitación desde la landing page y destacó la claridad del proceso. Le gustó la opción de elegir fechas y ver el costo total antes del pago. Apreció también la integración IoT para configurar dispositivos previo a su llegada. Sugirió mejorar la retroalimentación visual tras guardar cambios.
@@ -2792,9 +2764,66 @@ Su recomendación de recibir notificaciones vía correo electrónico refuerza la
 
 ---
 
+### Entrevistado 3: Luis Córdova
+- **Edad:** 25 años
+- **Ocupación:** Data Science
+- **Navegador habitual:** Google Chrome
+- **Dispositivos utilizados:** Computadora y celular
+- **Distrito:** San Borja
+
+![Imagen de entrevista](Assets/img/Chapter-5/validacion-axel.png)
+
+- **Instante en el que inicia:** 18:34
+- **Instante en el que finaliza:** 27:20
+
+**Resumen:**  
+Luis valoró la funcionalidad de personalización de habitaciones y servicios como un diferenciador importante. Encontró útil la opción de solicitar servicios desde la aplicación sin necesidad de llamar al personal. Sugirió incluir más opciones visuales sobre los tipos de habitaciones disponibles.
+
+**Preferencias Tecnológicas:**  
+Le gustaría recibir notificaciones push en su celular sobre confirmaciones de reservas y recordatorios de check-in/check-out.
+
+**Analisis de entrevista:**
+Luis reconoció la utilidad de poder personalizar la experiencia del huésped desde la aplicación, sin necesidad de interactuar directamente con el personal del hotel. Esto refleja una preferencia por la autonomía y digitalización de servicios, especialmente entre perfiles profesionales como el suyo.
+
+Sugirió incluir más opciones visuales sobre los tipos de habitaciones disponibles, lo que implica que una mayor representación gráfica puede ayudar a tomar decisiones más informadas. Asimismo, manifestó interés en recibir notificaciones push sobre reservas y recordatorios, lo que refuerza la relevancia de implementar canales de comunicación proactiva con el usuario final.
+
+Su perfil como Data Scientist sugiere una alta familiaridad con herramientas digitales, por lo que su aceptación del sistema indica una buena adaptabilidad del producto a usuarios avanzados.
+
+---
+
 ## Segmento Objetivo #2: Empleados del Sector Hotelero
 
-### Entrevistado 4: Alex Ávila
+### Entrevistado 4: Claudia Sifuentes
+- **Edad:** 28 años
+- **Ocupación:** Gerente de operaciones hotelera
+- **Navegador habitual:** Firefox
+- **Dispositivos utilizados:** Laptop
+- **Distrito:** Lince
+
+![Imagen de entrevista](Assets/img/Chapter-5/validacion-clau.png)
+
+- **Instante en el que inicia:** 27:25
+- **Instante en el que finaliza:** 37:17
+
+**Resumen:**  
+Claudia encontró muy útil la capacidad de configurar dispositivos desde la web y comentó que esto facilita la administración de mantenimiento. Recomendó incluir notificaciones automáticas por correo si un dispositivo entra en mantenimiento. Le gustó la claridad de los botones y la organización de la información.
+
+**Desafíos Actuales:**  
+Gestión manual de dispositivos IoT y falta de automatización en tareas repetitivas.  
+**Visión Tecnológica:**  
+Prefiere soluciones digitales que mejoren la experiencia del cliente y agilicen la gestión interna.
+
+**Analisis de entrevista:**
+
+Claudia mostró una comprensión clara del funcionamiento de la plataforma, destacando la simplicidad en la configuración de dispositivos IoT y su utilidad para la administración del mantenimiento. Recomendó incorporar notificaciones automáticas por correo cuando un dispositivo entra en mantenimiento, lo cual refuerza la necesidad de alertas proactivas en entornos hoteleros.
+
+Le gustó la organización de la información y la claridad de los botones, lo cual indica que la arquitectura de información cumple con criterios básicos de usabilidad. Como gerente de operaciones hotelera, su opinión refleja una visión estratégica sobre cómo el sistema puede mejorar tanto la experiencia del cliente como la eficiencia interna.
+
+Su feedback subraya la importancia de automatizar tareas repetitivas y ofrecer herramientas que permitan ahorrar tiempo y evitar errores manuales.
+
+---
+
+### Entrevistado 5: Alex Ávila
 - **Edad:** 20 años
 - **Ocupación:** Administrador hotelero
 - **Navegador habitual:** Opera GX y Windows
@@ -2803,7 +2832,8 @@ Su recomendación de recibir notificaciones vía correo electrónico refuerza la
 
 ![Imagen de entrevista](Assets/img/Chapter-5/validacion-alex.png)
 
-- **Instante en el que inicia:** 12:14
+- **Instante en el que inicia:** 37:17
+- **Instante en el que finaliza:** 42:06
 
 **Resumen:**  
 Alex valoró la posibilidad de gestionar cuartos y dispositivos IoT desde una sola interfaz. Destacó la utilidad de poder programar ajustes antes de la llegada del huésped. Sugirió añadir un panel de control general para ver todos los dispositivos activos y desactivos.
@@ -2823,34 +2853,6 @@ El análisis sugiere que el sistema tiene potencial para convertirse en una herr
 
 ---
 
-### Entrevistado 5: Claudia Sifuentes
-- **Edad:** 28 años
-- **Ocupación:** Gerente de operaciones hotelera
-- **Navegador habitual:** Firefox
-- **Dispositivos utilizados:** Laptop
-- **Distrito:** Lince
-
-![Imagen de entrevista](Assets/img/Chapter-5/validacion-clau.png)
-
-- **Instante en el que inicia:** 15:22
-
-**Resumen:**  
-Claudia encontró muy útil la capacidad de configurar dispositivos desde la web y comentó que esto facilita la administración de mantenimiento. Recomendó incluir notificaciones automáticas por correo si un dispositivo entra en mantenimiento. Le gustó la claridad de los botones y la organización de la información.
-
-**Desafíos Actuales:**  
-Gestión manual de dispositivos IoT y falta de automatización en tareas repetitivas.  
-**Visión Tecnológica:**  
-Prefiere soluciones digitales que mejoren la experiencia del cliente y agilicen la gestión interna.
-
-**Analisis de entrevista:**
-
-Claudia mostró una comprensión clara del funcionamiento de la plataforma, destacando la simplicidad en la configuración de dispositivos IoT y su utilidad para la administración del mantenimiento. Recomendó incorporar notificaciones automáticas por correo cuando un dispositivo entra en mantenimiento, lo cual refuerza la necesidad de alertas proactivas en entornos hoteleros.
-
-Le gustó la organización de la información y la claridad de los botones, lo cual indica que la arquitectura de información cumple con criterios básicos de usabilidad. Como gerente de operaciones hotelera, su opinión refleja una visión estratégica sobre cómo el sistema puede mejorar tanto la experiencia del cliente como la eficiencia interna.
-
-Su feedback subraya la importancia de automatizar tareas repetitivas y ofrecer herramientas que permitan ahorrar tiempo y evitar errores manuales.
-
----
 ### Entrevistado 6: Joan Talizo
 - **Edad:** 23 años
 - **Ocupación:** Administración hotelera
@@ -2860,7 +2862,8 @@ Su feedback subraya la importancia de automatizar tareas repetitivas y ofrecer h
 
 ![Imagen de entrevista](Assets/img/Chapter-5/validacion-joan.png)
 
-- **Instante en el que inicia:** 17:18
+- **Instante en el que inicia:** 42:06
+- **Instante en el que finaliza:** 46:24
 
 **Resumen:**  
 Joan destacó la simplicidad de uso del sistema de configuración de cuartos. Sugirió agregar una sección donde se puedan ver todos los dispositivos disponibles y asignados por hotel. Le gustó la opción de añadir nuevos dispositivos con solo un clic.
