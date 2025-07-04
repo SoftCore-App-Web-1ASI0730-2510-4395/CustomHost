@@ -891,12 +891,12 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 ### Validación de Supuestos Lean UX
 
 | Supuesto del Lean UX | Validado por Entrevistas? | Justificación |
-|----------------------|----------------------------|---------------|
+|----------------------|-------------------------|---------------|
 | "Los turistas estarán interesados en la propuesta de personalización vía app." | ✅ Sí | Todos los huéspedes mostraron interés en personalizar su estadía mediante una aplicación. |
 | "Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular." | ✅ Sí | Tanto Fernando como Luis y Alessandra expresaron que esta funcionalidad aumentaría su satisfacción. |
 | "La implementación de un dashboard intuitivo optimizará la gestión del hotel." | ✅ Sí | Claudia y Joan coincidieron en la necesidad de una herramienta así para mejorar eficiencia operativa. |
 | "Los huéspedes verán el hotel inteligente como un valor agregado significativo." | ✅ Sí | Todos los huéspedes valoraron positivamente la idea de hoteles inteligentes, especialmente por comodidad y seguridad. |
-| "El personal administrativo podrá adaptarse al dashboard." | ⚠️ Parcialmente | Aunque se reconoce la necesidad, también se mencionó la falta de capacitación y resistencia al cambio como obstáculos. |
+| "El personal administrativo podrá adaptarse al dashboard." | Parcialmente | Aunque se reconoce la necesidad, también se mencionó la falta de capacitación y resistencia al cambio como obstáculos. |
 
 ---
 
