@@ -8,35 +8,62 @@ Aquí se registran los detalles de la planeación del Sprint 1.
 |---|---|
 | **Sprint Planning Background** |                                  |
 | **Fecha** | 04/04/2024 |
-| **Hora** | 00:54 am (GMT-5) |
+| **Hora** | 16:00 pm (GMT-5) |
 | **Ubicación** | Lima, Reunión virtual por Discord |
 | **Preparado por** | SoftCore Team |
 | **Participantes (reunión de planificación)** | Arrieta Quispe, Alison Jimena / Ordoñez Ricaldi, Axel Randall / Ccarita Cruz, Brayan Roberto / Santiago Peña, Andreow Jomark / Panta Castro, Fabrizio Martin |
-| **Resumen del Sprint n – 1 Review** | Sprint 1: No aplica porque estamos en el Sprint 1 |
-| **Resumen del Sprint n – 1 Retrospective** | Sprint 1: No aplica porque estamos en el Sprint 1 |
 | **Sprint Goal & User Stories** | Diseñar, desarrollar y desplegar una landing page efectiva que capture la atención de los visitantes y los motive a realizar acciones específicas. |
-| **Velocidad del Sprint 1** |  14|
+| **Velocidad del Sprint 1** | 14 |   <!--Hacerlas con el product backlog actualizado-->
 | **Suma de Puntos de Historia** | 14 |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Team Member                        | GitHub Username   | UX-UI Leader(L)/Collaborator(C) |
-|-------------------------------------|-------------------|----------------------------------|
-| Arrieta Quispe, Alison Jimena       | alisoft08         | C                                |
-| Ccarita Cruz, Roberto Brayan        | hallzyx           | C                                |
-| Ordoñez Ricaldi, Axel Randall       | nOOmzzzz          | C                                |
-| Panta Castro, Fabrizio Martin       | F4brizio24        | C                                |
-| Santiago Peña, Andreow Jomark       | andrew65411       | L                                |
+En este apartado se detallan los elementos funcionales más relevantes abordados durante el primer Sprint de desarrollo de la plataforma Custom Host.
+
+Para cada uno de estos aspectos, se ha designado:
+- **Un Líder (L):** responsable principal de su ejecución.
+- **Colaboradores (C):** miembros del equipo que participaron en la implementación, revisión o soporte de las tareas.
+
+| Team Member                         | GitHub Username   | UX-UI | Main paige | About Us | Services | Internationalization |
+|-------------------------------------|-------------------|-------|------------|----------|----------|----------------------|
+| Arrieta Quispe, Alison Jimena       | alisoft08         | C     | C          | L        | C        | C                    |
+| Ccarita Cruz, Roberto Brayan        | hallzyx           | C     | C          | C        | C        | L                    |
+| Ordoñez Ricaldi, Axel Randall       | nOOmzzzz          | C     | L          | C        | C        | C                    |
+| Panta Castro, Fabrizio Martin       | F4brizio24        | C     | C          | C        | L        | C                    |
+| Santiago Peña, Andreow Jomark       | andrew65411       | L     | C          | C        | C        | C                    |
+
+<br>
 
 #### 5.2.1.3 Sprint Backlog 1
+En esta sección se presentará el sprint backlog del sprint 1, administrado principalmente por la plataforma de Trello. Se mostrará un tablero que se ha utilizado para organizar y gestionar las tareas del equipo en el sprint, permitiendo una visualización clara del progreso y la asignación de responsabilidades.<br>
+![Sprint Backlog 1](Assets/img/Chapter-5/sprint_backlog_1.png)
 
-![Sprint Backlog 1](Assets/img/Chapter-5/sprint%20backlog%201.png)
+**Link al trello:** <https://trello.com/b/b6T8Leob/customhot-sprint-backlog-1>
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Message | Committed on (Date) |
+|------------|--------|----------------|---------------------|
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | chroe: initial commit | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | feature/index | chore: add pages | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | feature/index | chore: update | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | Merge pull request #1 from SoftCore-App-Web-1ASI0730-2510-4395/feature/index | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | feature/index | chore: update | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | Merge pull request #2 from SoftCore-App-Web-1ASI0730-2510-4395/feature/index | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | Update about-us.html | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | Update styles.css | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | refactor: update about us css | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | fix: refactor code | May 22, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | /feature/i18n | feat: i18n toggle and translate | May 25, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | Merge pull request #3 from SoftCore-App-Web-1ASI0730-2510-4395/feature/i18n | May 25, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | develop | Merge pull request #4 from SoftCore-App-Web-1ASI0730-2510-4395/develop | May 25, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | /feature/i18n | fix: translation missing | May 25, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | main | Merge pull request #5 from SoftCore-App-Web-1ASI0730-2510-4395/feature/i18n | May 25, 2025 |
+| github.com/SoftCore-App-Web-1ASI0730-2510-4395 | develop | Merge pull request #6 from SoftCore-App-Web-1ASI0730-2510-4395/develop | May 25, 2025 |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-**Sprint 1:** En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp SoftCore. El link de la Landing Page es el siguiente: [Landing Page](https://tinyurl.com/custom-host-landing-page)
+**Sprint 1:** En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp SoftCore. El link de la Landing Page es el siguiente: [Landing Page]<https://tinyurl.com/custom-host-landing-page>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
