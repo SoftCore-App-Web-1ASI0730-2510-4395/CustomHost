@@ -6,7 +6,7 @@ Aquí se registran los detalles de la planeación del Sprint 2.
 
 | **Sprint #** | Sprint 2 |
 |---|---|
-| **Sprint Planning Background** |                                  |
+| **Sprint Planning Background** |  |
 | **Fecha** | 07/05/2025 |
 | **Hora** | 14:00 horas (GMT-5) |
 | **Ubicación** | Lima, Reunión virtual por Discord |
@@ -14,8 +14,8 @@ Aquí se registran los detalles de la planeación del Sprint 2.
 | **Participantes (reunión de planificación)** | Arrieta Quispe, Alison Jimena / Ordoñez Ricaldi, Axel Randall / Ccarita Cruz, Brayan Roberto / Santiago Peña, Andreow Jomark / Panta Castro, Fabrizio Martin |
 | **Resumen del Sprint n – 1 Review** | Sprint 1: En el anterior sprint hemos diseñado un landing page con seccion hero, beneficios, introduccion, valores y contacto. Hemos cumplido con todas las historias de usuario formuladas. |
 | **Resumen del Sprint n – 1 Retrospective** | Sprint 1: En el anterior sprint hemos diseñado una landing page, tuvimos algunos problemas al inicio pero luego supimos manejar y ordenar todo por branches y lograr llegar a un buen resultado con uso de html, css y js. |
-| **Sprint Goal & User Stories** | Desarrollar y completar el frontend de la aplicación, asegurando una interfaz de usuario intuitiva y funcional que cumpla con los requisitos y especificaciones establecidas. |
-| **Velocidad del Sprint 1** |  15|
+| **Sprint Goal & User Stories** | Nuestro enfoque está en completar y perfeccionar el frontend de la aplicación. Creemos que esto proporcionará una interfaz de usuario intuitiva y funcional que cumpla con los requisitos definidos, mejorando la experiencia del usuario final. Esto se confirmará cuando la interfaz sea completamente navegable, responda correctamente y reciba retroalimentación positiva en las pruebas de usabilidad. |
+| **Velocidad del Sprint 1** | 15 |
 | **Suma de Puntos de Historia** | 23 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
