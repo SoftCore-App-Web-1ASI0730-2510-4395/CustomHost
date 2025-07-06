@@ -540,7 +540,7 @@ Cada hipótesis fue traducida en un Lean UX Canvas formal, siguiendo un enfoque 
 Este trabajo metodológico permitió no solo establecer un marco claro de experimentación y validación temprana de las decisiones de diseño y tecnología, sino también alinear todos los esfuerzos de desarrollo a métricas de éxito específicas y medibles. Así, el apartado de Lean UX Canvas representa una pieza fundamental dentro del enfoque de construcción iterativa, ágil y centrada en el usuario de Custom Host , asegurando que cada funcionalidad propuesta responde a necesidades reales, riesgos priorizados y oportunidades de negocio tangibles.
 
 "Anexo: Diagrama de Lean UX Canvas":
-[Lean UX Canvas - CustomHost](https://drive.google.com/drive/folders/1lisWJ5DpLPSO-jhpY3pJzf0qpPOdMhyf?usp=sharing)
+<https://tinyurl.com/customhost-lean-ux-canvas>
 
 ![Lean ux canva custom host](Assets/img/chapter-1/lean-ux-canva_custom-host.jpg)
 
@@ -646,14 +646,11 @@ Posteriormente, los resultados fueron analizados desde una perspectiva cualitati
 
 La metodología aplicada garantizó una recolección de información profunda y relevante, indispensable para el desarrollo de una plataforma centrada en el usuario, capaz de responder eficazmente a las demandas reales del mercado hotelero inteligente en Lima.
 
-
-
 ### 2.2.1. Diseño de entrevistas.
-
 
 Antes de realizar las entrevistas profundas, se aplicó un **formulario básico** dirigido a los participantes para obtener datos demográficos y contextuales esenciales. Este formulario permite segmentar adecuadamente a los usuarios y ajustar las preguntas durante la entrevista según su perfil.
 
-📄 [Accede aquí al formulario de información básica](https://forms.gle/HHPuJJ19MbDsB28C7)
+**Formulario de información básica:** <https://forms.gle/HHPuJJ19MbDsB28C7>
 
 **Preguntas generales:**
 En esta sección realizamos preguntas simples para obtener datos demográficos e información de comportamientos clave, como el navegador y dispositivos que utilizan los entrevistados.
@@ -685,19 +682,21 @@ Esta sección de preguntas se enfoca en el punto de vista de los usuarios del se
 3. ¿Qué dificultades enfrentan para ofrecer una experiencia personalizada?
 4. ¿Cómo gestionan la comunicación entre áreas?
 5. ¿Qué tecnologías les gustaría implementar para optimizar procesos?
-6. ¿Qué obstáculos ven para adoptar soluciones innovadoras? 
+6. ¿Qué obstáculos ven para adoptar soluciones innovadoras?
 7. ¿Creen que los huéspedes demandan más personalización?
 
-### 2.2.2. Registro de entrevistas.
+### 2.2.2. Registro de entrevistas
 
 En este apartado se presenta una documentación detallada de cada entrevista realizada con los distintos segmentos objetivo identificados. Se ha recopilado información relevante que incluye el perfil del entrevistado, las respuestas proporcionadas durante la conversación, así como los hallazgos más destacados obtenidos a partir de sus opiniones y experiencias.
-📄 [Accede aquí para ver el video de todas las entrevistas](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4350-CustomHost-needfinding-sprint-1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5353cd4c-a07d-4b9d-aa0a-773e4bf1478c&isDarkMode=false)
 
-# Entrevistas Realizadas
+**Video de todas las entrevistas:** <https://tinyurl.com/customhost-entrevistas>
 
-## 🧑‍💼 Segmento 1: Huéspedes Potenciales
+### Entrevistas Realizadas
 
-### Entrevistado 1: Alessandra Becerra
+#### Segmento 1: Huéspedes Potenciales
+
+#### Entrevistado 1: Alessandra Becerra
+
 - **Edad:** 18 años
 - **Ocupación:** Estudiante de ingeniería de software
 - **Navegador habitual:** Safari y Windows
@@ -712,6 +711,7 @@ En este apartado se presenta una documentación detallada de cada entrevista rea
 Alessandra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica especialmente las demoras en check-in y la mala señal de internet.
 
 **Preferencias Tecnológicas:**
+
 - Preferiría usar una app para servicios básicos del hotel.
 - Cree importante mantener atención humana cuando sea necesario.
 - Le interesaría probar tablets integradas en las habitaciones.
@@ -719,7 +719,8 @@ Alessandra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica 
 
 ---
 
-### Entrevistado 2: Luis Córdova
+#### Entrevistado 2: Luis Córdova
+
 - **Edad:** 25 años
 - **Ocupación:** Data Science
 - **Navegador habitual:** Google Chrome
@@ -734,13 +735,15 @@ Alessandra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica 
 Luis viaja frecuentemente por trabajo y busca hoteles cómodos y con precios razonables. Tiene fuertes críticas sobre los sistemas obsoletos que aún usan cuadernos físicos o WhatsApp para gestionar tareas, además de problemas con reservas no cumplidas.
 
 **Preferencias Tecnológicas:**
+
 - Prefiere controlar los servicios mediante asistentes de voz o pantallas táctiles.
 - Estaría dispuesto a pagar más por una verdadera personalización que optimice su experiencia.
 - Sus comentarios reflejan una alta necesidad de modernizar los procesos hoteleros con tecnología práctica y eficiente.
 
 ---
 
-### Entrevistado 3: Fernando San José Zamora Solís
+#### Entrevistado 3: Fernando San José Zamora Solís
+
 - **Edad:** 24 años
 - **Ocupación:** Practicante de ingeniería de software
 - **Navegador habitual:** Google Chrome y Opera GX
@@ -755,6 +758,7 @@ Luis viaja frecuentemente por trabajo y busca hoteles cómodos y con precios raz
 Fernando valora la comodidad y buena relación calidad-precio en sus estadías. Aunque no ha tenido experiencia con hoteles tecnológicos, critica los sistemas anticuados como el mal funcionamiento del teléfono de su habitación, lo cual obligó al uso de intermediarios para comunicarse.
 
 **Preferencias Tecnológicas:**
+
 - Prefiere interactuar con el hotel mediante una aplicación móvil.
 - Le interesa probar pantallas táctiles dentro de la habitación.
 - Estaría dispuesto a pagar más por personalización (temperatura, iluminación).
@@ -762,9 +766,10 @@ Fernando valora la comodidad y buena relación calidad-precio en sus estadías. 
 
 ---
 
-## 👨‍💼 Segmento 2: Personal Administrativo del Hotel
+### Segmento 2: Personal Administrativo del Hotel
 
-### Entrevistado 4: Alex Ávila
+#### Entrevistado 4: Alex Ávila
+
 - **Edad:** 20 años
 - **Ocupación:** Administrador hotelero
 - **Navegador habitual:** Opera GX y Windows
@@ -779,17 +784,20 @@ Fernando valora la comodidad y buena relación calidad-precio en sus estadías. 
 Alex trabaja en la administración de un hotel donde actualmente no existe un sistema digitalizado para registrar preferencias de huéspedes. Solo se asignan habitaciones básicas (como vista a la calle), sin opciones personalizables.
 
 **Desafíos Actuales:**
+
 - Comunicación entre áreas se maneja de forma tradicional (llamadas y asignación verbal).
 - Reconoce que los huéspedes demandan más personalización, pero hay resistencia al cambio por parte del personal.
 - Algunos clientes frecuentes reciben trato especial basado en la memoria del staff, pero nuevos huéspedes no acceden a estos beneficios por falta de sistemas digitales.
 
 **Visión Tecnológica:**
+
 - Le gustaría implementar mejor control de empleados y actualizar cámaras de seguridad.
 - Admite que la adaptación a nuevas tecnologías es lenta, pero necesaria.
 
 ---
 
-### Entrevistado 5: Claudia Sifuentes
+#### Entrevistado 5: Claudia Sifuentes
+
 - **Edad:** 28 años
 - **Ocupación:** Gerente de operaciones hotelera
 - **Navegador habitual:** Firefox
@@ -804,16 +812,20 @@ Alex trabaja en la administración de un hotel donde actualmente no existe un si
 Claudia supervisa operaciones en un hotel que usa un CRM básico, aunque de forma irregular. El personal carece de capacitación adecuada para aprovecharlo plenamente.
 
 **Desafíos Actuales:**
+
 - La comunicación interna sigue siendo arcaica: correos electrónicos y reuniones presenciales dominan el flujo de información.
 - No hay herramientas digitales para monitorear ni aplicar las preferencias de los huéspedes.
 - Los altos costos iniciales y la resistencia al cambio son barreras claras para adoptar nuevas tecnologías.
 
 **Visión Tecnológica:**
+
 - Identifica dos soluciones clave: un sistema robusto de gestión de habitaciones y herramientas predictivas para anticipar necesidades.
 - Destaca cómo los huéspedes esperan experiencias personalizadas, similares a las de plataformas como Airbnb, lo que incrementa la presión por modernizar.
 
 ---
-### Entrevistado 6: Joan Talizo
+
+#### Entrevistado 6: Joan Talizo
+
 - **Edad:** 23 años
 - **Ocupación:** Administración hotelera
 - **Navegador habitual:** Google Chrome
@@ -828,24 +840,27 @@ Claudia supervisa operaciones en un hotel que usa un CRM básico, aunque de form
 Joan trabaja en el área de *front desk* y atención al cliente. Actualmente, su hotel registra las preferencias de los huéspedes (como vista al mar o tipo de cama) de forma manual: a través de libretas o memorización, lo cual genera errores, especialmente durante temporadas altas.
 
 **Desafíos Actuales:**
+
 - La comunicación entre áreas se realiza principalmente por grupos de WhatsApp, lo que considera poco eficiente.
 - No existe una plataforma digital centralizada para registrar ni aplicar las preferencias de los huéspedes.
 - El personal joven está abierto a nuevas tecnologías, pero requiere herramientas accesibles y fáciles de adoptar.
 
 **Visión Tecnológica:**
+
 - Reconoce la necesidad de un sistema digitalizado que agilice la gestión de reservas y preferencias del huésped.
 - Le gustaría implementar una plataforma centralizada que mejore tanto la experiencia del cliente como la organización interna.
 - Aunque el costo es un obstáculo, cree que una solución intuitiva sería bien recibida por su equipo y aumentaría significativamente la eficiencia operativa.
+
 ---
 
-
-## 2.2.3. Análisis de Entrevistas
+### 2.2.3. Análisis de Entrevistas
 
 En este apartado se presenta un análisis detallado de las entrevistas realizadas a los segmentos objetivo identificados durante la fase de investigación: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Este análisis tiene como propósito sistematizar las respuestas obtenidas, identificar patrones comunes, validar supuestos iniciales y sustentar la viabilidad y relevancia de Custom Host desde la perspectiva de los usuarios reales.
 
-### 🧑‍💼 Segmento 1: Huéspedes Potenciales
+#### Segmento 1: Huéspedes Potenciales
 
-#### Estadísticas y Aspectos Comunes:
+#### Estadísticas y Aspectos Comunes
+
 - **Navegadores más usados:** Google Chrome (67%), Safari y Firefox.
 - **Dispositivos principales:** Teléfono móvil (iPhone o Android) y laptop.
 - **Comunicación preferida:** WhatsApp es ampliamente utilizado, aunque todos expresaron cierta frustración por su uso en contextos hoteleros.
@@ -857,7 +872,8 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 | **Objetivas**  | Los huéspedes utilizan dispositivos móviles y esperan interacciones digitales simples y útiles. Prefieren apps sobre llamadas o mensajes para interactuar con el hotel. |
 | **Subjetivas** | Existe descontento con sistemas obsoletos (ej. mal funcionamiento de teléfonos en habitaciones, check-in lento). La mayoría valora la tecnología como forma de mejorar comodidad y experiencia. |
 
-#### Hallazgos Clave:
+#### Hallazgos Clave
+
 - Todos los entrevistados valoran la **personalización del espacio** (temperatura, iluminación, tipo de cama).
 - La **facilidad de uso** de la plataforma es crucial para la adopción por parte de los huéspedes.
 - Aunque hay interés en nuevas tecnologías, también existe **cierta preocupación por privacidad**, especialmente en funciones como el acceso biométrico.
@@ -866,9 +882,10 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 
 ---
 
-### 👨‍💼 Segmento 2: Personal Administrativo del Hotel
+#### Segmento 2: Personal Administrativo del Hotel
 
-#### Estadísticas y Aspectos Comunes:
+#### Estadísticas y Aspectos Comunes
+
 - **Edades representadas:** Entre 20 y 28 años.
 - **Sistemas actuales:** Uso de libretas físicas, WhatsApp y CRM básicos.
 - **Dispositivos:** Laptop/tablet como principal herramienta; algunos mencionan interés en pantallas táctiles o cámaras actualizadas.
@@ -879,7 +896,8 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 | **Objetivas**  | No hay sistema centralizado para registrar ni aplicar preferencias de huéspedes. Hay errores frecuentes al gestionar información manualmente. |
 | **Subjetivas** | Reconocen la necesidad de modernización pero ven barreras como costos altos y resistencia al cambio. El personal joven muestra mayor disposición a adoptar tecnología nueva. |
 
-#### Hallazgos Clave:
+#### Hallazgos Clave
+
 - Existe un **problema real en la gestión de preferencias de huéspedes**: se registran de forma manual, sin seguimiento digital claro.
 - La **comunicación interna** es arcaica (WhatsApp, reuniones presenciales), generando demoras y malentendidos.
 - Un **dashboard intuitivo** sería bien recibido si facilita la gestión diaria y reduce trabajo redundante.
@@ -888,19 +906,19 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 
 ---
 
-### 🔍 Validación de Supuestos Lean UX
+### Validación de Supuestos Lean UX
 
 | Supuesto del Lean UX | Validado por Entrevistas? | Justificación |
 |----------------------|----------------------------|---------------|
-| "Los turistas estarán interesados en la propuesta de personalización vía app." | ✅ Sí | Todos los huéspedes mostraron interés en personalizar su estadía mediante una aplicación. |
-| "Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular." | ✅ Sí | Tanto Fernando como Luis y Alessandra expresaron que esta funcionalidad aumentaría su satisfacción. |
-| "La implementación de un dashboard intuitivo optimizará la gestión del hotel." | ✅ Sí | Claudia y Joan coincidieron en la necesidad de una herramienta así para mejorar eficiencia operativa. |
-| "Los huéspedes verán el hotel inteligente como un valor agregado significativo." | ✅ Sí | Todos los huéspedes valoraron positivamente la idea de hoteles inteligentes, especialmente por comodidad y seguridad. |
-| "El personal administrativo podrá adaptarse al dashboard." | ⚠️ Parcialmente | Aunque se reconoce la necesidad, también se mencionó la falta de capacitación y resistencia al cambio como obstáculos. |
+| "Los turistas estarán interesados en la propuesta de personalización vía app." | Sí | Todos los huéspedes mostraron interés en personalizar su estadía mediante una aplicación. |
+| "Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular." |  Sí | Tanto Fernando como Luis y Alessandra expresaron que esta funcionalidad aumentaría su satisfacción. |
+| "La implementación de un dashboard intuitivo optimizará la gestión del hotel." | Sí | Claudia y Joan coincidieron en la necesidad de una herramienta así para mejorar eficiencia operativa. |
+| "Los huéspedes verán el hotel inteligente como un valor agregado significativo." |  Sí | Todos los huéspedes valoraron positivamente la idea de hoteles inteligentes, especialmente por comodidad y seguridad. |
+| "El personal administrativo podrá adaptarse al dashboard." |  Parcialmente | Aunque se reconoce la necesidad, también se mencionó la falta de capacitación y resistencia al cambio como obstáculos. |
 
 ---
 
-### 📌 Conclusión del Análisis
+### Conclusión del Análisis
 
 Las entrevistas realizadas refuerzan la pertinencia de Custom Host en el mercado hotelero limeño. Ambos segmentos muestran claras señales de **necesidad de innovación tecnológica** y **deseo de personalización**, lo cual respalda la base del proyecto.
 
@@ -910,21 +928,19 @@ Para el **Segmento 2 (Personal del Hotel)**, se identificaron problemas operativ
 
 Este análisis servirá como fundamento para la creación de artefactos como **User Personas**, **Empathy Maps** y **User Flows**, todo orientado a mantener un enfoque centrado en el usuario durante el desarrollo de Custom Host.
 
-
 ## 2.3. Needfinding
 
 Para identificar las necesidades reales y prioritarias tanto de los huéspedes como del personal administrativo de hoteles, se realizaron entrevistas a tres segmentos clave: **huéspedes potenciales**, **personal hotelero** y **proveedores de dispositivos de domótica**. A través de estas conversaciones, surgieron patrones comunes y específicos en cada grupo, como el interés por una experiencia personalizada mediante tecnología IoT, la frustración con sistemas anticuados de comunicación interna, y la percepción de valor en funcionalidades como el acceso biométrico o el control remoto de la habitación.
 
 Este proceso de *needfinding* permitió comprender en profundidad las motivaciones, puntos de dolor y expectativas de los usuarios, sentando las bases para el diseño de una plataforma centrada en el usuario, capaz de responder eficazmente a las demandas reales del mercado hotelero inteligente en Lima.
 
-### 2.3.1. User Personas
+### 2.3.1. User Persona
 
-Como parte del análisis del proceso de *needfinding*, se desarrollaron **User Personas** representativas de los dos segmentos principales: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Estas personas sintetizan características clave obtenidas del análisis cualitativo de las entrevistas realizadas, tales como comportamientos recurrentes, motivaciones, frustraciones, objetivos personales, dispositivos utilizados y canales de interacción tecnológica.
+Como parte del análisis del proceso de *needfinding*, se desarrollaron **User Persona** representativas de los dos segmentos principales: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Estas personas sintetizan características clave obtenidas del análisis cualitativo de las entrevistas realizadas, tales como comportamientos recurrentes, motivaciones, frustraciones, objetivos personales, dispositivos utilizados y canales de interacción tecnológica.
 
 Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y accionables, orientando decisiones estratégicas sobre funcionalidades, experiencia de usuario y priorización de desarrollo técnico. Las personas creadas reflejan claramente las necesidades emergentes durante las entrevistas, facilitando un diseño más empático y efectivo de Custom Host.
 
-> 📎 **Anexo:** Diagramas completos del User persona disponibles en las imágenes adjuntas.
->📄 [Accede aquí para ver los user persona](https://drive.google.com/drive/folders/13eOwfAasPjhdcPc3tzzmQxzB97VHwfVK?usp=sharing)
+**Enlace para ver los user persona:** <https://tinyurl.com/customhost-user-persona>
 
 #### Persona 1: Huésped Tecnológico y Viajero Frecuente
 
@@ -934,27 +950,32 @@ Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y ac
 - **Perfil:** Viaja frecuentemente por trabajo y busca comodidad, eficiencia y experiencias modernas.
 
 **Motivaciones:**
+
 - Personalizar su habitación antes de llegar (temperatura, iluminación, tipo de cama).
 - Usar asistentes de voz o pantallas táctiles para interactuar con la habitación.
 - Evitar procesos manuales o lentos como check-in físico o llamadas telefónicas.
 
 **Frustraciones:**
+
 - Sistemas obsoletos que usan WhatsApp o cuadernos físicos.
 - Falta de integración entre servicios del hotel.
 - No poder ajustar detalles de la habitación desde su celular.
 
 **Objetivos:**
+
 - Ahorrar tiempo al automatizar procesos de entrada y uso de servicios.
 - Vivir una experiencia cómoda y adaptada a sus preferencias.
 - Recibir notificaciones claras sobre el estado de sus solicitudes.
 
 **Dispositivos Usados:**
+
 - Computadora y teléfono móvil Android.
 - Navegador habitual: Google Chrome.
 
 ![Imagen User 1 Persona](Assets/img/chapter-1/persona1.png)
 
 ---
+
 #### Persona 2: Empleado Joven del Sector Hotelero
 
 - **Nombre:** Javier Rios
@@ -963,21 +984,25 @@ Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y ac
 - **Perfil:** Trabaja en un hotel pequeño, interesado en soluciones digitales que mejoren su desempeño y la experiencia del cliente.
 
 **Motivaciones:**
+
 - Mejorar la organización interna del hotel.
 - Reducir errores al gestionar preferencias de huéspedes.
 - Adoptar tecnologías que aumenten la eficiencia operativa.
 
 **Frustraciones:**
+
 - Uso manual de libretas para registrar preferencias.
 - Comunicación ineficiente entre áreas del hotel (grupos de WhatsApp).
 - Falta de capacitación formal para usar nuevas herramientas.
 
 **Objetivos:**
+
 - Tener una herramienta centralizada para ver y gestionar preferencias de huéspedes.
 - Mejorar la imagen del hotel frente a clientes exigentes.
 - Disminuir el tiempo dedicado a tareas repetitivas gracias a la digitalización.
 
 **Dispositivos Usados:**
+
 - Laptop y tablet.
 - Navegador habitual: Google Chrome.
 
@@ -987,6 +1012,7 @@ Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y ac
 **Impacto en el Diseño de Custom Host:**
 
 La creación de estas User Personas ha sido fundamental para:
+
 - Priorizar funcionalidades esenciales (como personalización anticipada de habitación).
 - Definir flujos de usuario intuitivos y accesibles desde dispositivos móviles.
 - Validar supuestos iniciales sobre la aceptación de tecnología por parte de ambos segmentos.
@@ -1013,16 +1039,17 @@ Este artefacto permite visualizar las tareas clave que realiza cada tipo de usua
 | U09 | Gestionar comunicación entre áreas             | -                      | -                     | Alta                 | Alta                |
 | U10 | Registrar preferencias recurrentes              | Media                  | Baja                  | Alta                 | Media               |
 
-
 ### 2.3.3. User Journey Mapping
 
 Con el objetivo de comprender en profundidad las necesidades, comportamientos, emociones y puntos de fricción de nuestros principales segmentos de usuario, se desarrolló un **User Journey Mapping** utilizando la herramienta especializada **UXPressia**. Este proceso nos permitió visualizar de manera estructurada y empática el recorrido que cada tipo de usuario realiza desde su primera interacción hasta la experiencia completa con Custom Host.
 
 La actividad se centró en dos segmentos clave:
+
 1. **Huéspedes Potenciales:** usuarios finales interesados en una experiencia hotelera personalizada mediante tecnología IoT.
 2. **Personal Administrativo del Hotel:** empleados responsables de gestionar reservas, coordinar servicios y mantener comunicación interna eficiente.
 
 Para ambos perfiles se diseñó un mapa que incluye:
+
 - Las **fases del viaje** (desde la planificación hasta el post-checkout).
 - Los **objetivos del usuario** en cada etapa.
 - El detalle de **acciones realizadas**, **canales utilizados** y **emociones experimentadas**.
@@ -1030,26 +1057,28 @@ Para ambos perfiles se diseñó un mapa que incluye:
 
 Gracias a esta metodología, pudimos identificar momentos críticos donde la tecnología puede transformar positivamente la experiencia del huésped y la operación del hotel. Además, facilitamos la toma de decisiones orientadas al usuario, lo cual es fundamental para construir una solución funcional, intuitiva y diferenciadora.
 
-> 📎 **Anexo:** Diagramas completos del User Journey disponibles en las imágenes adjuntas.
-> 📄 [Accede aquí para ver los user journey ](https://drive.google.com/drive/folders/1B5Cyt3g1BzZHOChqqEy3VjH8I3fj4XOD?usp=sharing)
+**Enlace para ver los user journey:** <https://tinyurl.com/customhost-user-journey>
 
 ---
 
-#### 🧑‍💼 Segmento 1: Huéspedes
+#### Segmento 1: Huéspedes
 
 El User Journey del huésped se enfoca en cómo el cliente percibe el valor de la tecnología antes, durante y después de su estadía. Se destacan las siguientes áreas de oportunidad:
 
 **Registration: ¿Por qué confiarían en nosotros?**
+
 - Diseño profesional y consistente en la interfaz.
 - Integración con cuentas existentes (Google, Apple ID) para registro rápido y seguro.
 - Inclusión de testimonios reales de usuarios verificados.
 
 **Onboarding and First Use: ¿Cómo pueden sentirse exitosos?**
+
 - Tutorial interactivo guiado paso a paso.
 - Confirmaciones visuales (animaciones, notificaciones) al realizar acciones.
 - Soporte inmediato (chat en vivo o bot inteligente) para resolver dudas tempranas.
 
 **Sharing: ¿Por qué invitarían a otros?**
+
 - Integración con redes sociales para compartir experiencias fácilmente (ej.: "Comparte tu habitación personalizada").
 - Funciones exclusivas para grupos (ej.: "Planifica un viaje con amigos y obtén descuento").
 - Sistema de referidos con recompensas para ambos (ej.: "Invita a un amigo y ambos ganan 20% de descuento").
@@ -1058,21 +1087,24 @@ El User Journey del huésped se enfoca en cómo el cliente percibe el valor de l
 
 ---
 
-#### 👨‍💼 Segmento 2: Personal del Hotel
+#### Segmento 2: Personal del Hotel
 
 El User Journey del personal administrativo se centra en cómo la plataforma puede mejorar tanto la experiencia del huésped como la eficiencia operativa del hotel.
 
 **Registration: ¿Qué les haría confiar en el sistema?**
+
 - Interfaz clara y profesional, especialmente diseñada para uso interno.
 - Capacitación accesible y documentación visual para nuevos usuarios.
 - Acceso rápido e integración con herramientas ya usadas (como WhatsApp o CRM básico).
 
 **Onboarding and First Use: ¿Cómo pueden sentirse exitosos desde el primer uso?**
+
 - Dashboard intuitivo con indicadores claros del estado de las habitaciones y solicitudes.
 - Guías visuales para aprender a usar la plataforma sin intervención constante de soporte técnico.
 - Notificaciones inmediatas sobre solicitudes de huéspedes y cambios de estado.
 
 **Daily Use: ¿Cómo optimizar la gestión diaria?**
+
 - Filtros por tipo de solicitud, prioridad o área del hotel.
 - Alertas proactivas sobre dispositivos IoT fallando o en mantenimiento.
 - Integración con sistemas existentes para evitar duplicado de tareas.
@@ -1095,7 +1127,7 @@ El propósito del mapa de empatía es profundizar en la perspectiva del usuario 
 
 ![Empathy Map - Huésped](Assets/img/chapter-1/empathy%201.png)
 
-##### Desglose del Empathy Map:
+##### Desglose del Empathy Map
 
 - **Piensa:**  
   "Quiero una experiencia cómoda y personalizada. Me interesa controlar mi entorno sin necesidad de llamar a recepción."
@@ -1115,7 +1147,7 @@ El propósito del mapa de empatía es profundizar en la perspectiva del usuario 
 
 ![Empathy Map - Staff](Assets/img/chapter-1/emphaty%202.png)
 
-##### Desglose del Empathy Map:
+##### Desglose del Empathy Map
 
 - **Piensa:**  
   "Necesito un sistema que centralice las preferencias de los huéspedes para preparar habitaciones más rápido y evitar errores."
@@ -1134,6 +1166,7 @@ El propósito del mapa de empatía es profundizar en la perspectiva del usuario 
 ### Hallazgos Clave del Empathy Mapping
 
 Los mapas de empatía revelaron aspectos cruciales que no se perciben fácilmente durante las entrevistas tradicionales:
+
 - Los **huéspedes valoran altamente la comodidad tecnológica**, pero también muestran cierta **desconfianza inicial hacia sistemas nuevos o poco conocidos**.
 - El **personal del hotel enfrenta desafíos operativos importantes**: gestión manual de datos, comunicación ineficiente y carga laboral innecesaria debido a la falta de automatización.
 - Ambos segmentos mostraron interés en **una solución intuitiva y útil**, aunque con diferentes expectativas:
@@ -1142,14 +1175,14 @@ Los mapas de empatía revelaron aspectos cruciales que no se perciben fácilment
 
 Estos hallazgos son fundamentales para guiar el diseño del sistema, asegurando que sea **útil, usable y accesible** tanto para los huéspedes como para el personal del hotel.
 
-> 📎 **Anexo:** Diagramas completos del Empathy maps disponibles en las imágenes adjuntas.
-> 📄 [Accede aquí para ver los empathy maps ](https://drive.google.com/drive/folders/1OPzCg6Y12vN8i56YLw9BLcZOWU6m3yZA?usp=sharing)
+**Enlace para ver los empathy maps:** <https://tinyurl.com/customhost-empathy-maps>
 
 ### 2.3.5. As-is Scenario Mapping
 
 El siguiente **As-is Scenario Mapping** fue desarrollado utilizando la herramienta colaborativa Miro, siguiendo las buenas prácticas del Design Thinking y la metodología del curso. El objetivo fue representar visualmente la experiencia actual de los usuarios antes de la implementación de Custom Host, con el fin de identificar puntos de fricción, oportunidades de mejora y validar supuestos iniciales.
 
 Para construir cada mapa, se utilizaron dimensiones clave como:
+
 - **Fases:** Los momentos principales que vive el usuario.
 - **Acciones:** Lo que hace el usuario en cada fase.
 - **Pensamientos:** Sus reflexiones, dudas o expectativas.
@@ -1161,9 +1194,11 @@ Cada etapa fue codificada visualmente para resaltar niveles de satisfacción, cl
 Este análisis se realizó para dos segmentos clave:
 
 #### Segmento Objetivo #1: Huéspedes Potenciales
+
 Representan a viajeros que buscan comodidad, personalización y facilidad de uso al hospedarse en un hotel. En su experiencia actual, enfrentan problemas como falta de control sobre el entorno, comunicación lenta con el hotel y poca anticipación de sus preferencias por parte del staff.
 
 #### Segmento Objetivo #2: Personal Administrativo del Hotel
+
 Incluye a recepcionistas, coordinadores de limpieza y encargados operativos. Actualmente utilizan sistemas manuales o poco integrados para gestionar las preferencias de los huéspedes, lo cual genera errores, duplicados de trabajo y demoras en la atención.
 
 > 📎 **Anexo:** Diagramas completos del As Is Scenario Mapping disponibles en las imágenes adjuntas.
@@ -2529,7 +2564,7 @@ La dinámica colaborativa durante el Sprint 3 fue muy activa, con roles bien def
 Este flujo de trabajo permitió un desarrollo ordenado, controlado y orientado a calidad, escalabilidad y mantenimiento futuro del sistema.
 
 ---
-# concluciones
+# Conclusiones
 
 El desarrollo del proyecto Custom Host ha permitido consolidar una base metodológica, técnica y colaborativa fundamental para la evolución de la plataforma, validando hipótesis clave sobre personalización hotelera, gestión operativa y adopción tecnológica. A través de un enfoque estructurado en Lean UX , diseño centrado en el usuario, arquitectura orientada al dominio y desarrollo técnico escalable, se logró articular una solución integral que responde a las necesidades reales tanto de huéspedes como del personal administrativo del hotel.
 
@@ -2552,18 +2587,18 @@ En síntesis, Custom Host se posiciona como una solución viable y diferenciador
 # About the team
 Aqui podemos ver el link de nuestro video institucional donde se presenta al equipo y el producto desarrollado.
 
-📄 [Accede aquí al video del About the team](📄 [Accede aquí al video del About the Team](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo2798432421%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e0a06d8-3cbe-4574-9316-b337c5788c56&isDarkMode=true))
+<https://tinyurl.com/about-the-team-video>
 
 # About the product
 
 Aqui podemos ver el link del about the product donde se presenta el producto desarrollado y las funcionalidades que ofrece.
 
-📄 [Accede aquí al video del About the product](📄 [Accede aquí al video del About the product](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/Documents/AboutProduct.mp4?login_hint=u202317362%40upc.edu.pe&web=1&referrer=OfficeHome.Web&referrerScenario=StreamStartPage-OpenCompletedUpload&isDarkMode=true)
+<https://tinyurl.com/about-the-product-video>
 
 # Video de exposicion:
 Aqui podemos ver el link del video de exposicion donde se presenta el producto desarrollado y las funcionalidades que ofrece.
 
-📄 [Accede aquí al video del expor](📄 [Accede aquí al video del expo](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/Documents/expo_ultimate.mp4?login_hint=u202317362%40upc.edu.pe&web=1&referrer=OfficeHome.Web&referrerScenario=StreamStartPage-OpenCompletedUpload&isDarkMode=true)
+<https://tinyurl.com/customhost-final-expo-video>
 
 
 
@@ -2595,24 +2630,22 @@ Aqui podemos ver el link del video de exposicion donde se presenta el producto d
 # Anexos
 
 
-Entrevista 1 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-1-segmento-1](https://bit.ly/entrevista-1-segmento-1)
+Entrevista 1 - Segmento 1 (Huéspedes): <https://bit.ly/entrevista-1-segmento-1>
 
-Entrevista 2 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-2-segmento-1](https://bit.ly/entrevista-2-segmento-1)
+Entrevista 2 - Segmento 1 (Huéspedes): <https://bit.ly/entrevista-2-segmento-1>
 
-Entrevista 3 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-3-segmento-1](https://bit.ly/entrevista-3-segmento-1)
+Entrevista 3 - Segmento 1 (Huéspedes): <https://bit.ly/entrevista-3-segmento-1>
 
-Entrevista 4 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-4-segmento-2](https://tinyurl.com/entrevista-4-segmento-2)
+Entrevista 4 - Segmento 2 (Dueños de Hoteles): <https://tinyurl.com/entrevista-4-segmento-2>
 <!-- 
 video 5: [https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegmento%201%20%2D%20Luis%20Cordova%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee82cd9e2%2D078e%2D4cb0%2D80cf%2D3200ebfdab04](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegmento%201%20%2D%20Luis%20Cordova%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee82cd9e2%2D078e%2D4cb0%2D80cf%2D3200ebfdab04) -->
 
 
 <!-- TODO: Falta acortar Entrevista 5 y 6-->
 
-Entrevista 5 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-5-segmento-2](https://tinyurl.com/entrevista-5-segmento-2)
+Entrevista 5 - Segmento 2 (Dueños de Hoteles): <https://tinyurl.com/entrevista-5-segmento-2>
 
-
-
-Entrevista 6 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-6-segmento-2](https://tinyurl.com/entrevista-6-segmento-2)
+Entrevista 6 - Segmento 2 (Dueños de Hoteles): <https://tinyurl.com/entrevista-6-segmento-2>
 
 A continuación, se presentan los anexos que respaldan la información desarrollada a lo largo del informe. Estos incluyen enlaces a diagramas, mapas de empatía, entrevistas realizadas, artefactos visuales y otros documentos relevantes utilizados durante el proceso de investigación, diseño y desarrollo de Custom Host.
 
@@ -2622,7 +2655,7 @@ A continuación, se presentan los anexos que respaldan la información desarroll
 
 Documento base que define los supuestos iniciales, hipótesis clave, métricas y objetivos del proyecto desde una perspectiva centrada en el usuario.
 
-📄 [Ver documento completo: Lean UX Canvas – CustomHost](https://drive.google.com/drive/folders/1lisWJ5DpLPSO-jhpY3pJzf0qpPOdMhyf?usp=sharing)
+**Enlace a los Lean UX Canvas:** <https://tinyurl.com/customhost-lean-ux-canvas>
 
 ---
 
@@ -2630,7 +2663,7 @@ Documento base que define los supuestos iniciales, hipótesis clave, métricas y
 
 Mapas de empatía desarrollados para los segmentos objetivo, con el fin de comprender sus pensamientos, sentimientos, acciones y frustraciones.
 
-📄 [Acceder a los Empathy Maps completos](https://drive.google.com/drive/folders/1OPzCg6Y12vN8i56YLw9BLcZOWU6m3yZA?usp=sharing)
+**Enlace a los Empathy Maps completos:** <https://tinyurl.com/customhost-empathy-maps>
 
 - **Anexo A2.1:** Empathy Map – Huésped Tecnológico
 - **Anexo A2.2:** Empathy Map – Personal Administrativo
@@ -2641,7 +2674,7 @@ Mapas de empatía desarrollados para los segmentos objetivo, con el fin de compr
 
 Escenarios actuales del flujo de experiencia tanto para huéspedes como para el personal del hotel, mostrando cómo es la interacción actual sin Custom Host.
 
-📄 [Accede aquí al As-is Scenario Mapping](https://drive.google.com/drive/folders/1tNpNBVq5sW-YrK2v5Z9yYgTzjD1_g3Wv?usp=sharing)
+**Enlace al As-is Scenario Mapping:** <https://tinyurl.com/as-is-scenario-mapping>
 
 - **Anexo A3.1:** As-Is Scenario – Huésped Potencial
 - **Anexo A3.2:** As-Is Scenario – Personal del Hotel
@@ -2652,7 +2685,7 @@ Escenarios actuales del flujo de experiencia tanto para huéspedes como para el 
 
 Propuesta de escenarios futuros basados en las mejoras introducidas por Custom Host, enfocados en ofrecer una experiencia más conectada, intuitiva y eficiente.
 
-📄 [Accede aquí al To-be Scenario Mapping](https://drive.google.com/drive/folders/1SmotEHZv7R4b4g4NwnTeehjksSv_uQhR?usp=sharing)
+**Enlace al To-be Scenario Mapping:** <https://tinyurl.com/to-be-scenario-mapping>
 
 - **Anexo A4.1:** To-be Scenario – Huésped Tecnológico
 - **Anexo A4.2:** To-be Scenario – Personal Administrativo
@@ -2663,7 +2696,7 @@ Propuesta de escenarios futuros basados en las mejoras introducidas por Custom H
 
 Representación visual que muestra cómo cada funcionalidad del sistema impacta en los usuarios y contribuye a alcanzar los objetivos del negocio.
 
-📄 [Accede aquí al Impact Mapping](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
+**Enlace al Impact Mapping:** <https://tinyurl.com/customhost-impact-mapping>
 
 - **Anexo A5.1:** Impact Map – Huésped
 - **Anexo A5.2:** Impact Map – Personal del Hotel
@@ -2691,8 +2724,9 @@ Guía detallada de estilos visuales usados en la interfaz del producto, incluyen
 
 Durante el TB2, se grabaron videos explicativos del producto y del equipo detrás del desarrollo de Custom Host.
 
-- 🎬 [Video "About the Product"](https://example.com/video-product)
-- 🎥 [Video "About the Team"](https://example.com/video-team)
+- **Video About the Product:** <https://tinyurl.com/about-the-product-video>
+- **Video About the Team:** <https://tinyurl.com/about-the-team-video>
+- **Video de Exposición:** <https://tinyurl.com/expo-video>
 
 ---
 
@@ -2700,8 +2734,11 @@ Durante el TB2, se grabaron videos explicativos del producto y del equipo detrá
 
 A continuación, se listan los repositorios utilizados durante el desarrollo del proyecto:
 
-- 🔗 [Repositorio del Frontend - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend)
-- 🔗 [Repositorio del Reporte Técnico - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+- **Reporte:** <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report>
+- **Landing Page:** <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-landing-page>
+- **Frontend:** <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend>
+- **Backend:** <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-backend>
+
 
 ---
 
