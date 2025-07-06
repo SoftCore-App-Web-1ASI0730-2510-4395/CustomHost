@@ -16,8 +16,8 @@ A continuación, se presenta el planificación detallada del Sprint 3, centrado 
 | **Revisión de entregables anteriores** | Sprint 1: Desarrollo de la landing page<br>Sprint 2: Implementación del frontend funcional |
 | **Resumen del Sprint 2 Retrospective** | Sprint 2: Se validó la importancia de un diseño UX/UI sólido y se avanzó significativamente en componentes visuales, pero se identificó la necesidad de desarrollar e integrar funcionalidades técnicas mediante un backend robusto. |
 | **Sprint Goal & User Stories:**|"Nuestro enfoque está en que los usuarios vean reflejados sus datos clave en la interfaz de CustomHost.<br>Creemos que esto les dará confianza en que el sistema funciona correctamente.<br>Esto se confirmará cuando mas del 90% de las interacciones con los datos no generen errores."|
-|**Velocidad del Sprint 1**||
-|**Suma de Puntos de Historia**||
+|**Velocidad del Sprint 1**|60 sp|
+|**Suma de Puntos de Historia**|60 sp|
 
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
