@@ -1430,64 +1430,64 @@ Mapa de impacto orientado al Personal Administrativo
 
 ## 3.4. Product Backlog.
 
-Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f903a3b4af1efa73604221d6aE9912258/customhost-product-backlog
+En el siguiente link se hizo el desarrollo del product backlog: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f903a3b4af1efa73604221d6aE9912258/customhost-product-backlog
 
 | Id | StoryID | Title                                                  | Description                                                                                                             | Story Points |
 | -- | ------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1  | US01    | Visualización del Formulario de Registro               | Como huésped, quiero ver un formulario de registro bien estructurado, para poder registrarme en el sistema.             | 2            |
-| 2  | US02    | Validación de Datos de Registro                        | Como huésped, quiero que el sistema valide mis datos al registrarme, para evitar errores en mi cuenta.                  | 3            |
-| 3  | US03    | Configuración de Preferencias de Habitación            | Como huésped, quiero seleccionar mis preferencias de habitación desde la plataforma web, para personalizar mi estadía.  | 3            |
-| 4  | US04    | Personalización de Horarios de Servicio                | Como huésped, quiero establecer mis horarios de preferencia para servicios como limpieza o desayuno.                    | 2            |
-| 5  | US05    | Solicitud de Servicios de Limpieza                     | Como huésped, quiero solicitar un servicio de limpieza desde la plataforma web, para mantener mi habitación limpia.     | 3            |
-| 6  | US06    | Solicitud de Desayuno en la Habitación                 | Como huésped, quiero solicitar un desayuno en mi habitación a través de la plataforma web.                              | 3            |
-| 7  | US07    | Gestión de Solicitudes Pendientes                      | Como personal administrativo, quiero ver las solicitudes pendientes para atenderlas rápidamente.                        | 3            |
-| 8  | US08    | Modificación de Estado de la Solicitud                 | Como personal administrativo, quiero cambiar el estado de una solicitud, para gestionarla mejor.                        | 3            |
-| 9  | US09    | Gráfico de Pagos por Mes y Año                         | Como miembro del staff, quiero un gráfico de pagos por mes y año, para analizar el desempeño financiero del hotel.      | 5            |
-| 10 | US10    | Selección de Año para Pagos                            | Como miembro del staff, quiero seleccionar el año de los pagos, para comparar ingresos de diferentes periodos.          | 3            |
-| 11 | US11    | Gráfico de Pagos Individuales                          | Como miembro del staff, quiero un gráfico de pagos individuales, para detectar tendencias y pagos atípicos.             | 5            |
-| 12 | US12    | Exportar Informe de Pagos                              | Como miembro del staff, quiero exportar el informe de pagos a CSV o PDF, para compartirlo con contabilidad.             | 5            |
-| 13 | US13    | Tasa de Ocupación del Hotel                            | Como miembro del staff, quiero ver un tablero de ocupación, para conocer el porcentaje de habitaciones ocupadas.        | 5            |
-| 14 | US14    | Filtrar Solicitudes de Servicio                        | Como miembro del staff, quiero filtrar solicitudes por tipo y prioridad, para gestionarlas eficientemente.              | 3            |
-| 15 | US15    | Notificación de Solicitud Atendida                     | Como huésped, quiero recibir alertas cuando mi solicitud se atienda, para estar informado.                              | 3            |
-| 16 | US16    | Alerta de Emergencia en el Hotel                       | Como personal, quiero recibir alertas inmediatas sobre emergencias, para reaccionar rápido.                             | 3            |
-| 17 | US17    | Lista de Habitaciones Disponibles                      | Como miembro del staff, quiero ver una lista de habitaciones disponibles, para saber cuáles puedo asignar o limpiar.    | 3            |
-| 18 | US18    | Filtrar Habitaciones por Estado                        | Como miembro del staff, quiero filtrar la lista de habitaciones por estado, para enfocarme en cada categoría.           | 3            |
-| 19 | US19    | Historial de Asignación de Habitaciones                | Como miembro del staff, quiero ver el historial de asignación de habitaciones por huésped, para rastrear cambios.       | 5            |
-| 20 | US20    | Visualización de Información de Servicios              | Como visitante, quiero ver los servicios que ofrece el hotel, para evaluar antes de reservar.                           | 2            |
-| 21 | US21    | Acceso a Información de Contacto (estática)            | Como visitante, quiero acceder fácilmente a los datos de contacto del hotel, para comunicarme si tengo dudas.           | 2            |
-| 22 | US22    | Envío de Consultas mediante Formulario Emergente       | Como visitante, quiero enviar consultas rápidas mediante un formulario emergente, para no abandonar la página.          | 2            |
-| 23 | US23    | Acceso a Testimonios de Huéspedes                      | Como visitante, quiero leer opiniones de otros huéspedes, para ganar confianza al reservar.                             | 3            |
-| 24 | US24    | Acceso Rápido al Formulario de Reserva                 | Como visitante, quiero encontrar un botón fijo para reservar, para iniciar el proceso de forma rápida.                  | 2            |
-| 25 | US25    | Sección “Sobre Nosotros”                               | Como visitante, quiero conocer la historia y valores del hotel, para conectar con la empresa.                           | 2            |
-| 26 | US26    | Ver Lista de Reservas Activas                          | Como huésped, quiero ver la lista de mis reservas activas, para gestionar mis estancias.                                | 3            |
-| 27 | US27    | Crear Nueva Reserva desde la Página Principal          | Como huésped, quiero crear una reserva desde la página principal, para agilizar el proceso.                             | 3            |
-| 28 | US28    | Mensaje Claro si No Hay Reservas o Notificaciones      | Como huésped, quiero un mensaje claro si no tengo datos, para saber mi estado actual.                                   | 1            |
-| 29 | US29    | Enviar Evaluación de Estadía                           | Como huésped, quiero calificar mi experiencia al final de la estadía, para dar retroalimentación al hotel.              | 3            |
-| 30 | US30    | Ver Historial de Evaluaciones                          | Como personal administrativo, quiero consultar las evaluaciones recibidas, para mejorar la calidad del servicio.        | 3            |
-| 31 | US31    | Gráfico de Calificaciones de Huéspedes                 | Como miembro del staff, quiero ver un gráfico de calificaciones, para analizar la satisfacción general.                 | 5            |
-| 32 | US32    | Cambiar Idioma de la Interfaz                          | Como huésped internacional, quiero cambiar el idioma de la interfaz, para comprender mejor la plataforma web.           | 5            |
-| 33 | US33    | Recordar Idioma Seleccionado                           | Como huésped, quiero que la plataforma recuerde mi idioma preferido, para no tener que cambiarlo cada vez.              | 3            |
-| 34 | US34    | Iniciar Chat con Soporte                               | Como huésped, quiero iniciar un chat con soporte, para resolver dudas rápidamente.                                      | 3            |
-| 35 | US35    | Consultar Preguntas Frecuentes                         | Como huésped, quiero revisar preguntas frecuentes, para resolver dudas sin contactar soporte.                           | 3            |
-| 36 | US36    | Saludo Personalizado de Huésped                        | Como huésped, quiero ver un saludo personalizado al ingresar, para sentirme bienvenido en la plataforma.                | 1            |
-| 37 | US37    | Abrir formulario modal para nuevo miembro del personal | Como administrador, quiero abrir un formulario modal para agregar un nuevo miembro, para gestionar el equipo.           | 2            |
-| 38 | US38    | Ingresar datos completos del nuevo personal            | Como administrador, quiero ingresar nombre, apellido, teléfono, email, departamento y contraseña del nuevo personal.    | 3            |
-| 39 | US39    | Seleccionar departamento desde lista                   | Como administrador, quiero seleccionar el departamento desde una lista, para asegurar la asignación de roles.           | 2            |
-| 40 | US40    | Alertar si faltan campos obligatorios                  | Como administrador, quiero recibir una alerta si guardo con campos vacíos, para evitar registros incompletos.           | 2            |
-| 41 | US41    | Cancelar registro sin guardar cambios                  | Como administrador, quiero cancelar el registro en cualquier momento, para cerrar el formulario sin guardar.            | 2            |
-| 42 | US42    | Validar campos obligatorios en formulario de personal  | Como desarrollador, quiero validar que los campos obligatorios estén completos, para evitar registros incompletos.      | 3            |
-| 43 | US43    | Emitir eventos personalizados al guardar o cancelar    | Como desarrollador, quiero emitir eventos personalizados, para que el padre controle visibilidad y flujo de datos.      | 3            |
-| 44 | US44    | Desacoplar select de departamentos mediante prop       | Como desarrollador, quiero recibir departamentos como prop, para desacoplar y facilitar pruebas.                        | 2            |
-| 45 | US45    | Estructurar formulario con clases CSS responsivas      | Como desarrollador, quiero usar filas y columnas con clases CSS, para asegurar una interfaz adaptable.                  | 3            |
-| 46 | US46    | Facilitar extensión futura del formulario              | Como desarrollador, quiero que el formulario sea extensible, para soportar nuevos campos en el futuro.                  | 3            |
-| 47 | US47    | Manejo de estado de carga en registro                  | Como desarrollador, quiero manejar el estado de carga durante el registro, para mostrar feedback visual.                | 2            |
-| 48 | US48    | Mostrar mensajes de error generales en registro        | Como desarrollador, quiero mostrar mensajes de error generales si el registro falla, para informar al usuario.          | 3            |
-| 49 | US49    | Notificaciones en Tiempo Real para Huésped             | Como huésped, quiero recibir notificaciones en tiempo real sobre eventos importantes o cambios de estado.               | 5            |
-| 50 | US50    | Notificaciones en Tiempo Real para Personal            | Como personal administrativo, quiero recibir notificaciones en tiempo real sobre nuevas solicitudes y eventos críticos. | 5            |
-| 51 | US51    | Lista de Dispositivos IoT en Mantenimiento o Inactivos | Como miembro del staff, quiero ver los dispositivos IoT en mantenimiento o inactivos, para dar seguimiento técnico.     | 5            |
-| 52 | US52    | Lista de Tareas Pendientes de Mantenimiento IoT        | Como miembro del staff, quiero ver las tareas de mantenimiento IoT asignadas, para priorizar intervenciones.            | 5            |
-| 53 | US53    | Actualizar Estado de Dispositivo IoT                   | Como miembro del staff, quiero marcar un dispositivo IoT como “Activo” o “En mantenimiento”.                            | 3            |
-| 54 | US54    | Gestión de Datos Personales                            | Como usuario autenticado, quiero actualizar mis datos personales, para mantener mi perfil al día.                       | 3            |
+| 1  | US01    | Registrar petición de servicio de huésped              | Como hotel, quiero registrar solicitudes de servicios de los huéspedes para atender sus necesidades según prioridad.      | 3            |
+| 2  | US02    | Asignar personal a peticiones de servicios             | Como hotel, quiero asignar miembros del personal a peticiones pendientes para distribuir tareas eficientemente.          | 2            |
+| 3  | US03    | Registrar petición de servicio como completada         | Como hotel, quiero registrar cuando una petición ha sido resuelta para mantener actualizado el estado de solicitudes.    | 1            |
+| 4  | US04    | Ver lista del personal del hotel                       | Como hotel, quiero ver una lista con nombre, área, teléfono y estado del personal para gestionar disponibilidad.         | 1            |
+| 5  | US05    | Eliminar miembro del personal                          | Como hotel, quiero eliminar a un miembro del personal que ya no trabaja para mantener la lista actualizada.              | 2            |
+| 6  | US06    | Agregar personal al sistema                            | Como hotel, quiero registrar un nuevo miembro del personal para poder asignarle peticiones de servicios.                 | 3            |
+| 7  | US07    | Actualizar estado de habitación                        | Como hotel, quiero cambiar manualmente el estado de una habitación para reflejar disponibilidad o mantenimiento.         | 2            |
+| 8  | US08    | Gestionar tarifas dinámicas                            | Como staff, quiero ajustar precios de habitaciones por tipo/temporada para optimizar ingresos.                           | 8            |
+| 9  | US09    | Crear nueva habitación                                 | Como administrador, quiero registrar nuevas habitaciones en el sistema para expandir la capacidad de alojamiento.         | 3            |
+| 10 | US10    | Eliminar habitación del sistema                        | Como staff, quiero dar de baja habitaciones para mantener el inventario actualizado tras remodelaciones.                  | 2            |
+| 11 | US11    | Eliminar reserva del sistema                           | Como staff, quiero eliminar reservas canceladas o erróneas para mantener la base de datos limpia.                         | 2            |
+| 12 | US12    | Ver detalles completos de reserva                      | Como staff, quiero acceder a información ampliada de reservas para atender consultas específicas.                         | 1            |
+| 13 | US13    | Agregar nuevo dispositivo                              | Como personal del hotel, quiero añadir dispositivos IoT y asignarlos a habitaciones.                                      | 3            |
+| 14 | US14    | Filtrar dispositivos visibles para huésped             | Como personal, quiero ocultar dispositivos en mantenimiento para que huéspedes solo vean funcionales.                    | 3            |
+| 15 | US15    | Editar configuración del dispositivo                   | Como personal, quiero modificar configuraciones de dispositivos IoT para corregir valores inapropiados.                   | 3            |
+| 16 | US16    | Obtener dispositivos funcionales (API)                 | Como desarrollador, necesito una API para obtener dispositivos IoT por habitación.                                       | 5            |
+| 17 | US17    | Obtener modelos de dispositivos (API)                  | Como desarrollador, quiero una API para listar modelos de dispositivos disponibles.                                      | 3            |
+| 18 | US18    | Agregar petición de servicio (API)                     | Como desarrollador, quiero una API para registrar peticiones de servicios desde aplicaciones externas.                   | 3            |
+| 19 | US19    | Obtener peticiones por habitación (API)                | Como desarrollador, quiero una API para consultar peticiones de servicio filtradas por habitación.                       | 3            |
+| 20 | US20    | Asignar personal a petición (API)                      | Como desarrollador, quiero una API para asignar miembros del personal a peticiones de servicio.                          | 3            |
+| 21 | US21    | Establecer petición como resuelta (API)                | Como desarrollador, quiero una API para marcar peticiones como completadas.                                              | 3            |
+| 22 | US22    | Actualizar estado del personal (API)                   | Como desarrollador, quiero una API para modificar el estado (activo/inactivo) del personal.                              | 3            |
+| 23 | US23    | Agregar nuevo personal (API)                           | Como desarrollador, quiero una API para registrar nuevo personal en el sistema.                                          | 5            |
+| 24 | US24    | Obtener habitaciones disponibles (API)                 | Como desarrollador, quiero una API para listar todas las habitaciones disponibles.                                       | 3            |
+| 25 | US25    | Crear habitación (API)                                 | Como desarrollador, quiero una API para registrar nuevas habitaciones en el sistema.                                     | 5            |
+| 26 | US26    | Actualizar información de habitación (API)             | Como desarrollador, quiero una API para modificar detalles de habitaciones existentes.                                   | 3            |
+| 27 | US27    | Eliminar habitación (API)                              | Como desarrollador, quiero una API para eliminar habitaciones del sistema.                                               | 2            |
+| 28 | US28    | Configurar dispositivos como huésped                   | Como huésped, quiero configurar dispositivos IoT de mi habitación para personalizar mi experiencia.                      | 5            |
+| 29 | US29    | Configurar dispositivos IoT (API)                      | Como desarrollador, quiero una API para modificar configuraciones de dispositivos IoT asociados a habitaciones.           | 5            |
+| 30 | US30    | Ver dispositivos asociados a mi habitación             | Como huésped, quiero visualizar los dispositivos IoT de mi habitación para conocer qué puedo controlar.                  | 2            |
+| 31 | US31    | Obtener dispositivos IoT por habitación (API)          | Como desarrollador, quiero una API para listar dispositivos IoT asociados a una habitación específica.                   | 3            |
+| 32 | US32    | Visualizar listado de reservas                         | Como huésped, quiero ver mis reservas activas para gestionar mis estadías.                                              | 1            |
+| 33 | US33    | Eliminar una reserva como huésped                      | Como huésped, quiero cancelar reservas pendientes si aún está permitido.                                                | 2            |
+| 34 | US34    | Obtener reservas del usuario (API)                     | Como desarrollador, quiero una API para consultar las reservas de un usuario específico.                                 | 3            |
+| 35 | US35    | Eliminar reserva del usuario (API)                     | Como desarrollador, quiero una API para cancelar reservas desde aplicaciones externas.                                   | 3            |
+| 36 | US36    | Crear solicitud de servicio al cliente                 | Como huésped, quiero reportar necesidades o incidencias durante mi estadía.                                             | 5            |
+| 37 | US37    | Enviar solicitud de servicio (API)                     | Como desarrollador, quiero una API para registrar solicitudes de servicio al cliente.                                    | 3            |
+| 38 | US38    | Gestionar notificaciones como huésped                  | Como huésped, quiero ver, marcar como leídas y eliminar notificaciones del hotel.                                       | 5            |
+| 39 | US39    | Gestionar notificaciones (API)                         | Como desarrollador, quiero una API para administrar notificaciones de usuarios.                                         | 5            |
+| 40 | US40    | Realizar nueva reservación                             | Como huésped, quiero reservar seleccionando hotel, habitación, fechas y método de pago.                                  | 8            |
+| 41 | US41    | Crear nueva reserva (API)                              | Como desarrollador, quiero una API para registrar reservas desde aplicaciones externas.                                 | 5            |
+| 42 | US42    | Confirmar reserva (API)                                | Como desarrollador, quiero una API para cambiar el estado de una reserva a "confirmada".                                | 3            |
+| 43 | US43    | Obtener todas las reservas (API)                       | Como desarrollador, quiero una API para listar todas las reservas del sistema.                                          | 3            |
+| 44 | US44    | Iniciar sesión                                         | Como usuario, quiero autenticarme con mis credenciales para acceder al sistema según mi rol.                             | 3            |
+| 45 | US45    | Registrar como huésped                                 | Como nuevo usuario, quiero crear una cuenta para hacer reservas y gestionar mis estadías.                                | 5            |
+| 46 | US46    | Registrar un nuevo hotel                               | Como dueño de hotel, quiero crear una cuenta para mi hotel y gestionar sus operaciones.                                  | 8            |
+| 47 | US47    | Iniciar sesión (API)                                   | Como desarrollador, quiero implementar autenticación de usuarios via API.                                               | 3            |
+| 48 | US48    | Registrar huésped (API)                                | Como desarrollador, quiero una API para crear cuentas de nuevos huéspedes.                                              | 5            |
+| 49 | US49    | Registrar hotel (API)                                  | Como desarrollador, quiero una API para registrar nuevos hoteles en el sistema.                                         | 5            |
+| 50 | US50    | Visualización de información de servicios              | Como huésped, quiero ver detalles de los servicios del hotel (SPA, restaurante, etc.).                                   | 1            |
+| 51 | US51    | Acceso a información de contacto                       | Como huésped, quiero encontrar fácilmente los datos de contacto del hotel.                                              | 1            |
+| 52 | US52    | Acceso a testimonios de huéspedes                      | Como huésped, quiero leer opiniones de otros huéspedes sobre el hotel.                                                  | 1            |
+| 53 | US53    | Acceso rápido al formulario de reserva                 | Como huésped, quiero acceder directamente al formulario de reserva desde la página principal.                           | 2            |
+| 54 | US54    | Sección "Sobre Nosotros"                               | Como huésped, quiero conocer la historia y valores del hotel.                                                           | 1            |
 
 ## 3.5. Entity Diagram.
 

@@ -12,8 +12,8 @@ Aquí se registran los detalles de la planeación del Sprint 1.
 | **Ubicación** | Lima, Reunión virtual por Discord |
 | **Preparado por** | SoftCore Team |
 | **Participantes (reunión de planificación)** | Arrieta Quispe, Alison Jimena / Ordoñez Ricaldi, Axel Randall / Ccarita Cruz, Brayan Roberto / Santiago Peña, Andreow Jomark / Panta Castro, Fabrizio Martin |
-| **Sprint Goal & User Stories** | Diseñar, desarrollar y desplegar una landing page efectiva que capture la atención de los visitantes y los motive a realizar acciones específicas. |
-| **Velocidad del Sprint 1** | 14 |   <!--Hacerlas con el product backlog actualizado-->
+| **Sprint Goal & User Stories** | Nuestro enfoque es diseñar, desarrollar y desplegar una landing page efectiva que comunique claramente el valor de Custom Host y motive a los visitantes a solicitar demostraciones o registrarse. Creemos que una landing page bien estructurada generará confianza en nuestra marca y aumentará las conversiones. Esto se confirmará cuando los usuarios puedan explorar las secciones principales de la plataforma utilizando tanto herramientas visuales como tecnologías de asistencia. |
+| **Velocidad del Sprint 1** | 14 |   
 | **Suma de Puntos de Historia** | 14 |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
@@ -76,7 +76,7 @@ En esta sección se presentará el sprint backlog del sprint 1, administrado pri
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-**Sprint 1:** En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp SoftCore. El link de la Landing Page es el siguiente: <https://tinyurl.com/custom-host-landing-page>
+**Sprint 1:** En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp SoftCore. El link de la Landing Page es el siguiente: <https://shorturl.at/MrwZA>
 
 <h3>SHome Pageervices</h3>
 
@@ -124,7 +124,7 @@ Durante este sprint, se finalizó el desarrollo del landing page y se implement�
 - **GitHub:** Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
 - **Github Pages:** Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
 
-**Video del Sprint 1:** <https://shorturl.at/LYKSs>
+**Video del Sprint 1:** <https://shorturl.at/y2jj2>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
