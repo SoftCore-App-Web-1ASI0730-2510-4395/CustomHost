@@ -3348,7 +3348,7 @@ Guía detallada de estilos visuales usados en la interfaz del producto, incluyen
 
 Durante el TB2, se grabaron videos explicativos del producto y del equipo detrás del desarrollo de Custom Host.
 
-- 🎬 [Video "About the Product"](https://example.com/video-product)
+- 🎬 https://example.com/video-product
 - 🎥 [Video "About the Team"](https://example.com/video-team)
 
 ---
