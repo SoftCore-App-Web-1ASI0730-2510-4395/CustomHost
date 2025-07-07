@@ -35,7 +35,7 @@ En CustomHost implementamos la matriz LACX para asignar claramente líderes (L) 
 
 Para el Sprint 3 de CustomHost, enfocado en el desarrollo del backend y la integración con el frontend, gestionamos nuestro backlog en Trello, donde priorizamos y estimamos las caracteristicas clave como el desarrollo de endpoints y las pruebas de integración. Completamos el 100% de las tarjetas planificadas, cumpliendo con los criterios de aceptación: endpoints 100% funcionales. Esta organización en Trello con listas como "To-Do", "In Progress", "To Review", "To Fix" y "Done" nos permitió alinear al equipo backend/frontend y garantizar que cada componente cumpla con los requisitos del sistema.
 
-![Sprint Backlog 3](/Assets/img/Chapter-5/sprint-backlog-3-evidence.png)
+![Sprint Backlog 3](Assets/img/Chapter-5/sprint-backlog-3-evidence.png)
 
 **Link del trello:** [sprint backlog 3 trello](https://trello.com/b/ZnYqLXJN/customhost-sprint-backlog-3)
 
@@ -97,10 +97,10 @@ En el Sprint 3 implementamos con éxito las siguientes funcionalidades clave en 
   - Validación de respuestas HTTP y formatos JSON
 
 Captura del backend ejecutándose en Railway:
-![CustomHost Sprint Execution 3](/Assets/img/Chapter-5/backend-evidence.png)
+![CustomHost Sprint Execution 3](Assets/img/Chapter-5/backend-evidence.png)
 
 Captura del frontend ejecutándose en vercel:
-![CustomHost Sprint Execution 3](/Assets/img/Chapter-5/frontent-evidence.png)
+![CustomHost Sprint Execution 3](Assets/img/Chapter-5/frontent-evidence.png)
 
 URL del sistema funcional (Frontend + Backend): <https://customhost-app.vercel.app/guest-home>
 
