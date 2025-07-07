@@ -2027,6 +2027,7 @@ URL del Prototipo https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Sourc
    
 ### 4.6.2. Software Architecture Container Diagrams.
 ![Container Diagram](/Assets/img/Chapter%204/structurizr-101614-Container-001%20(2)web.png)
+![Container Diagram](/Assets/img/chapter-4/Imagen%20de%20WhatsApp%202025-07-06%20a%20las%2022.36.31_ca114a3e.jpg)
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
