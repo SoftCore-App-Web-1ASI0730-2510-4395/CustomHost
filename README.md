@@ -298,8 +298,8 @@ Aplicacion backend del proyecto:
 [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
 [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
 [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
-[4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)   
-[4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)  
+[4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)   
+[4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)  
 
 [4.5. Web Applications Prototyping](#45-web-applications-prototyping)  
 
@@ -324,26 +324,10 @@ Aplicacion backend del proyecto:
 [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)  
 
 [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
-[5.2.1. Sprint 1](#521-sprint-n)  
-[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
-[5.2.1.2. Aspect Leaders and Collaborators](#5212-aspect-leaders-and-collaborators)
-[5.2.1.3. Sprint Backlog 1](#5213-sprint-backlog-1)  
-[5.2.1.4. Development Evidence for Sprint Review](#5214-development-evidence-for-sprint-review)  
-[5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
-[5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
-[5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
-[5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)  
-
-  
+[5.2.1. Sprint 1](#521-sprint-1)  
 [5.2.2. Sprint 2 ](#522-sprint-2)  
-[5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
-[5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-[5.2.2.3. Sprint Backlog n](#5223-sprint-backlog-2)  
-[5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)  
-[5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
-[5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
-[5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
-[5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)   
+[5.2.2. Sprint 3 ](#522-sprint-3)  
+[5.2.2. Sprint 4 ](#522-sprint-4)  
   
 [Bibliografía](#bibliografía)  
 [Anexos](#anexos)  
@@ -540,7 +524,7 @@ Cada hipótesis fue traducida en un Lean UX Canvas formal, siguiendo un enfoque 
 Este trabajo metodológico permitió no solo establecer un marco claro de experimentación y validación temprana de las decisiones de diseño y tecnología, sino también alinear todos los esfuerzos de desarrollo a métricas de éxito específicas y medibles. Así, el apartado de Lean UX Canvas representa una pieza fundamental dentro del enfoque de construcción iterativa, ágil y centrada en el usuario de Custom Host , asegurando que cada funcionalidad propuesta responde a necesidades reales, riesgos priorizados y oportunidades de negocio tangibles.
 
 "Anexo: Diagrama de Lean UX Canvas":
-[Lean UX Canvas - CustomHost](https://drive.google.com/drive/folders/1lisWJ5DpLPSO-jhpY3pJzf0qpPOdMhyf?usp=sharing)
+<https://tinyurl.com/customhost-lean-ux-canvas>
 
 ![Lean ux canva custom host](Assets/img/chapter-1/lean-ux-canva_custom-host.jpg)
 
@@ -646,14 +630,11 @@ Posteriormente, los resultados fueron analizados desde una perspectiva cualitati
 
 La metodología aplicada garantizó una recolección de información profunda y relevante, indispensable para el desarrollo de una plataforma centrada en el usuario, capaz de responder eficazmente a las demandas reales del mercado hotelero inteligente en Lima.
 
-
-
 ### 2.2.1. Diseño de entrevistas.
-
 
 Antes de realizar las entrevistas profundas, se aplicó un **formulario básico** dirigido a los participantes para obtener datos demográficos y contextuales esenciales. Este formulario permite segmentar adecuadamente a los usuarios y ajustar las preguntas durante la entrevista según su perfil.
 
-📄 [Accede aquí al formulario de información básica](https://forms.gle/HHPuJJ19MbDsB28C7)
+**Formulario de información básica:** <https://forms.gle/HHPuJJ19MbDsB28C7>
 
 **Preguntas generales:**
 En esta sección realizamos preguntas simples para obtener datos demográficos e información de comportamientos clave, como el navegador y dispositivos que utilizan los entrevistados.
@@ -685,19 +666,21 @@ Esta sección de preguntas se enfoca en el punto de vista de los usuarios del se
 3. ¿Qué dificultades enfrentan para ofrecer una experiencia personalizada?
 4. ¿Cómo gestionan la comunicación entre áreas?
 5. ¿Qué tecnologías les gustaría implementar para optimizar procesos?
-6. ¿Qué obstáculos ven para adoptar soluciones innovadoras? 
+6. ¿Qué obstáculos ven para adoptar soluciones innovadoras?
 7. ¿Creen que los huéspedes demandan más personalización?
 
-### 2.2.2. Registro de entrevistas.
+### 2.2.2. Registro de entrevistas
 
-En este apartado se presenta una documentación detallada de cada entrevista realizada con los distintos segmentos objetivo identificados. Se ha recopilado información relevante que incluye el perfil del entrevistado, las respuestas proporcionadas durante la conversación, así como los hallazgos más destacados obtenidos a partir de sus opiniones y experiencias. 
-[Accede aquí para ver el video de todas las entrevistas](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fupc-pre-202510-1asi0729-4350-CustomHost-needfinding-sprint-1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5353cd4c-a07d-4b9d-aa0a-773e4bf1478c&isDarkMode=false)
+En este apartado se presenta una documentación detallada de cada entrevista realizada con los distintos segmentos objetivo identificados. Se ha recopilado información relevante que incluye el perfil del entrevistado, las respuestas proporcionadas durante la conversación, así como los hallazgos más destacados obtenidos a partir de sus opiniones y experiencias.
 
-# Entrevistas Realizadas
+**Video de todas las entrevistas:** <https://tinyurl.com/customhost-entrevistas>
 
-## Segmento 1: Huéspedes Potenciales
+### Entrevistas Realizadas
 
-### Entrevistado 1: Alessandra Becerra
+#### Segmento 1: Huéspedes Potenciales
+
+#### Entrevistado 1: Alessandra Becerra
+
 - **Edad:** 18 años
 - **Ocupación:** Estudiante de ingeniería de software
 - **Navegador habitual:** Safari y Windows
@@ -712,6 +695,7 @@ En este apartado se presenta una documentación detallada de cada entrevista rea
 Alessandra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica especialmente las demoras en check-in y la mala señal de internet.
 
 **Preferencias Tecnológicas:**
+
 - Preferiría usar una app para servicios básicos del hotel.
 - Cree importante mantener atención humana cuando sea necesario.
 - Le interesaría probar tablets integradas en las habitaciones.
@@ -719,7 +703,8 @@ Alessandra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica 
 
 ---
 
-### Entrevistado 2: Luis Córdova
+#### Entrevistado 2: Luis Córdova
+
 - **Edad:** 25 años
 - **Ocupación:** Data Science
 - **Navegador habitual:** Google Chrome
@@ -734,13 +719,15 @@ Alessandra busca hoteles limpios, con buen WiFi y que acepten mascotas. Critica 
 Luis viaja frecuentemente por trabajo y busca hoteles cómodos y con precios razonables. Tiene fuertes críticas sobre los sistemas obsoletos que aún usan cuadernos físicos o WhatsApp para gestionar tareas, además de problemas con reservas no cumplidas.
 
 **Preferencias Tecnológicas:**
+
 - Prefiere controlar los servicios mediante asistentes de voz o pantallas táctiles.
 - Estaría dispuesto a pagar más por una verdadera personalización que optimice su experiencia.
 - Sus comentarios reflejan una alta necesidad de modernizar los procesos hoteleros con tecnología práctica y eficiente.
 
 ---
 
-### Entrevistado 3: Fernando San José Zamora Solís
+#### Entrevistado 3: Fernando San José Zamora Solís
+
 - **Edad:** 24 años
 - **Ocupación:** Practicante de ingeniería de software
 - **Navegador habitual:** Google Chrome y Opera GX
@@ -755,6 +742,7 @@ Luis viaja frecuentemente por trabajo y busca hoteles cómodos y con precios raz
 Fernando valora la comodidad y buena relación calidad-precio en sus estadías. Aunque no ha tenido experiencia con hoteles tecnológicos, critica los sistemas anticuados como el mal funcionamiento del teléfono de su habitación, lo cual obligó al uso de intermediarios para comunicarse.
 
 **Preferencias Tecnológicas:**
+
 - Prefiere interactuar con el hotel mediante una aplicación móvil.
 - Le interesa probar pantallas táctiles dentro de la habitación.
 - Estaría dispuesto a pagar más por personalización (temperatura, iluminación).
@@ -762,9 +750,10 @@ Fernando valora la comodidad y buena relación calidad-precio en sus estadías. 
 
 ---
 
-## Segmento 2: Personal Administrativo del Hotel
+### Segmento 2: Personal Administrativo del Hotel
 
-### Entrevistado 4: Alex Ávila
+#### Entrevistado 4: Alex Ávila
+
 - **Edad:** 20 años
 - **Ocupación:** Administrador hotelero
 - **Navegador habitual:** Opera GX y Windows
@@ -779,17 +768,20 @@ Fernando valora la comodidad y buena relación calidad-precio en sus estadías. 
 Alex trabaja en la administración de un hotel donde actualmente no existe un sistema digitalizado para registrar preferencias de huéspedes. Solo se asignan habitaciones básicas (como vista a la calle), sin opciones personalizables.
 
 **Desafíos Actuales:**
+
 - Comunicación entre áreas se maneja de forma tradicional (llamadas y asignación verbal).
 - Reconoce que los huéspedes demandan más personalización, pero hay resistencia al cambio por parte del personal.
 - Algunos clientes frecuentes reciben trato especial basado en la memoria del staff, pero nuevos huéspedes no acceden a estos beneficios por falta de sistemas digitales.
 
 **Visión Tecnológica:**
+
 - Le gustaría implementar mejor control de empleados y actualizar cámaras de seguridad.
 - Admite que la adaptación a nuevas tecnologías es lenta, pero necesaria.
 
 ---
 
-### Entrevistado 5: Claudia Sifuentes
+#### Entrevistado 5: Claudia Sifuentes
+
 - **Edad:** 28 años
 - **Ocupación:** Gerente de operaciones hotelera
 - **Navegador habitual:** Firefox
@@ -804,16 +796,20 @@ Alex trabaja en la administración de un hotel donde actualmente no existe un si
 Claudia supervisa operaciones en un hotel que usa un CRM básico, aunque de forma irregular. El personal carece de capacitación adecuada para aprovecharlo plenamente.
 
 **Desafíos Actuales:**
+
 - La comunicación interna sigue siendo arcaica: correos electrónicos y reuniones presenciales dominan el flujo de información.
 - No hay herramientas digitales para monitorear ni aplicar las preferencias de los huéspedes.
 - Los altos costos iniciales y la resistencia al cambio son barreras claras para adoptar nuevas tecnologías.
 
 **Visión Tecnológica:**
+
 - Identifica dos soluciones clave: un sistema robusto de gestión de habitaciones y herramientas predictivas para anticipar necesidades.
 - Destaca cómo los huéspedes esperan experiencias personalizadas, similares a las de plataformas como Airbnb, lo que incrementa la presión por modernizar.
 
 ---
-### Entrevistado 6: Joan Talizo
+
+#### Entrevistado 6: Joan Talizo
+
 - **Edad:** 23 años
 - **Ocupación:** Administración hotelera
 - **Navegador habitual:** Google Chrome
@@ -828,24 +824,27 @@ Claudia supervisa operaciones en un hotel que usa un CRM básico, aunque de form
 Joan trabaja en el área de *front desk* y atención al cliente. Actualmente, su hotel registra las preferencias de los huéspedes (como vista al mar o tipo de cama) de forma manual: a través de libretas o memorización, lo cual genera errores, especialmente durante temporadas altas.
 
 **Desafíos Actuales:**
+
 - La comunicación entre áreas se realiza principalmente por grupos de WhatsApp, lo que considera poco eficiente.
 - No existe una plataforma digital centralizada para registrar ni aplicar las preferencias de los huéspedes.
 - El personal joven está abierto a nuevas tecnologías, pero requiere herramientas accesibles y fáciles de adoptar.
 
 **Visión Tecnológica:**
+
 - Reconoce la necesidad de un sistema digitalizado que agilice la gestión de reservas y preferencias del huésped.
 - Le gustaría implementar una plataforma centralizada que mejore tanto la experiencia del cliente como la organización interna.
 - Aunque el costo es un obstáculo, cree que una solución intuitiva sería bien recibida por su equipo y aumentaría significativamente la eficiencia operativa.
+
 ---
 
-
-## 2.2.3. Análisis de Entrevistas
+### 2.2.3. Análisis de Entrevistas
 
 En este apartado se presenta un análisis detallado de las entrevistas realizadas a los segmentos objetivo identificados durante la fase de investigación: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Este análisis tiene como propósito sistematizar las respuestas obtenidas, identificar patrones comunes, validar supuestos iniciales y sustentar la viabilidad y relevancia de Custom Host desde la perspectiva de los usuarios reales.
 
-### Segmento 1: Huéspedes Potenciales
+#### Segmento 1: Huéspedes Potenciales
 
-#### Estadísticas y Aspectos Comunes:
+#### Estadísticas y Aspectos Comunes
+
 - **Navegadores más usados:** Google Chrome (67%), Safari y Firefox.
 - **Dispositivos principales:** Teléfono móvil (iPhone o Android) y laptop.
 - **Comunicación preferida:** WhatsApp es ampliamente utilizado, aunque todos expresaron cierta frustración por su uso en contextos hoteleros.
@@ -857,7 +856,8 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 | **Objetivas**  | Los huéspedes utilizan dispositivos móviles y esperan interacciones digitales simples y útiles. Prefieren apps sobre llamadas o mensajes para interactuar con el hotel. |
 | **Subjetivas** | Existe descontento con sistemas obsoletos (ej. mal funcionamiento de teléfonos en habitaciones, check-in lento). La mayoría valora la tecnología como forma de mejorar comodidad y experiencia. |
 
-#### Hallazgos Clave:
+#### Hallazgos Clave
+
 - Todos los entrevistados valoran la **personalización del espacio** (temperatura, iluminación, tipo de cama).
 - La **facilidad de uso** de la plataforma es crucial para la adopción por parte de los huéspedes.
 - Aunque hay interés en nuevas tecnologías, también existe **cierta preocupación por privacidad**, especialmente en funciones como el acceso biométrico.
@@ -866,9 +866,10 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 
 ---
 
-### Segmento 2: Personal Administrativo del Hotel
+#### Segmento 2: Personal Administrativo del Hotel
 
-#### Estadísticas y Aspectos Comunes:
+#### Estadísticas y Aspectos Comunes
+
 - **Edades representadas:** Entre 20 y 28 años.
 - **Sistemas actuales:** Uso de libretas físicas, WhatsApp y CRM básicos.
 - **Dispositivos:** Laptop/tablet como principal herramienta; algunos mencionan interés en pantallas táctiles o cámaras actualizadas.
@@ -879,7 +880,8 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 | **Objetivas**  | No hay sistema centralizado para registrar ni aplicar preferencias de huéspedes. Hay errores frecuentes al gestionar información manualmente. |
 | **Subjetivas** | Reconocen la necesidad de modernización pero ven barreras como costos altos y resistencia al cambio. El personal joven muestra mayor disposición a adoptar tecnología nueva. |
 
-#### Hallazgos Clave:
+#### Hallazgos Clave
+
 - Existe un **problema real en la gestión de preferencias de huéspedes**: se registran de forma manual, sin seguimiento digital claro.
 - La **comunicación interna** es arcaica (WhatsApp, reuniones presenciales), generando demoras y malentendidos.
 - Un **dashboard intuitivo** sería bien recibido si facilita la gestión diaria y reduce trabajo redundante.
@@ -891,12 +893,12 @@ En este apartado se presenta un análisis detallado de las entrevistas realizada
 ### Validación de Supuestos Lean UX
 
 | Supuesto del Lean UX | Validado por Entrevistas? | Justificación |
-|----------------------|-------------------------|---------------|
-| "Los turistas estarán interesados en la propuesta de personalización vía app." | ✅ Sí | Todos los huéspedes mostraron interés en personalizar su estadía mediante una aplicación. |
-| "Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular." | ✅ Sí | Tanto Fernando como Luis y Alessandra expresaron que esta funcionalidad aumentaría su satisfacción. |
-| "La implementación de un dashboard intuitivo optimizará la gestión del hotel." | ✅ Sí | Claudia y Joan coincidieron en la necesidad de una herramienta así para mejorar eficiencia operativa. |
-| "Los huéspedes verán el hotel inteligente como un valor agregado significativo." | ✅ Sí | Todos los huéspedes valoraron positivamente la idea de hoteles inteligentes, especialmente por comodidad y seguridad. |
-| "El personal administrativo podrá adaptarse al dashboard." | Parcialmente | Aunque se reconoce la necesidad, también se mencionó la falta de capacitación y resistencia al cambio como obstáculos. |
+|----------------------|----------------------------|---------------|
+| "Los turistas estarán interesados en la propuesta de personalización vía app." | Sí | Todos los huéspedes mostraron interés en personalizar su estadía mediante una aplicación. |
+| "Los huéspedes valorarán poder manejar aspectos como luz o temperatura desde su celular." |  Sí | Tanto Fernando como Luis y Alessandra expresaron que esta funcionalidad aumentaría su satisfacción. |
+| "La implementación de un dashboard intuitivo optimizará la gestión del hotel." | Sí | Claudia y Joan coincidieron en la necesidad de una herramienta así para mejorar eficiencia operativa. |
+| "Los huéspedes verán el hotel inteligente como un valor agregado significativo." |  Sí | Todos los huéspedes valoraron positivamente la idea de hoteles inteligentes, especialmente por comodidad y seguridad. |
+| "El personal administrativo podrá adaptarse al dashboard." |  Parcialmente | Aunque se reconoce la necesidad, también se mencionó la falta de capacitación y resistencia al cambio como obstáculos. |
 
 ---
 
@@ -910,21 +912,19 @@ Para el **Segmento 2 (Personal del Hotel)**, se identificaron problemas operativ
 
 Este análisis servirá como fundamento para la creación de artefactos como **User Personas**, **Empathy Maps** y **User Flows**, todo orientado a mantener un enfoque centrado en el usuario durante el desarrollo de Custom Host.
 
-
 ## 2.3. Needfinding
 
 Para identificar las necesidades reales y prioritarias tanto de los huéspedes como del personal administrativo de hoteles, se realizaron entrevistas a tres segmentos clave: **huéspedes potenciales**, **personal hotelero** y **proveedores de dispositivos de domótica**. A través de estas conversaciones, surgieron patrones comunes y específicos en cada grupo, como el interés por una experiencia personalizada mediante tecnología IoT, la frustración con sistemas anticuados de comunicación interna, y la percepción de valor en funcionalidades como el acceso biométrico o el control remoto de la habitación.
 
 Este proceso de *needfinding* permitió comprender en profundidad las motivaciones, puntos de dolor y expectativas de los usuarios, sentando las bases para el diseño de una plataforma centrada en el usuario, capaz de responder eficazmente a las demandas reales del mercado hotelero inteligente en Lima.
 
-### 2.3.1. User Personas
+### 2.3.1. User Persona
 
-Como parte del análisis del proceso de *needfinding*, se desarrollaron **User Personas** representativas de los dos segmentos principales: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Estas personas sintetizan características clave obtenidas del análisis cualitativo de las entrevistas realizadas, tales como comportamientos recurrentes, motivaciones, frustraciones, objetivos personales, dispositivos utilizados y canales de interacción tecnológica.
+Como parte del análisis del proceso de *needfinding*, se desarrollaron **User Persona** representativas de los dos segmentos principales: **Huéspedes Potenciales** y **Personal Administrativo del Hotel**. Estas personas sintetizan características clave obtenidas del análisis cualitativo de las entrevistas realizadas, tales como comportamientos recurrentes, motivaciones, frustraciones, objetivos personales, dispositivos utilizados y canales de interacción tecnológica.
 
 Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y accionables, orientando decisiones estratégicas sobre funcionalidades, experiencia de usuario y priorización de desarrollo técnico. Las personas creadas reflejan claramente las necesidades emergentes durante las entrevistas, facilitando un diseño más empático y efectivo de Custom Host.
 
-> **Anexo:** Diagramas completos del User persona disponibles en las imágenes adjuntas.
-> [Accede aquí para ver los user persona](https://drive.google.com/drive/folders/13eOwfAasPjhdcPc3tzzmQxzB97VHwfVK?usp=sharing)
+**Enlace para ver los user persona:** <https://tinyurl.com/customhost-user-persona>
 
 #### Persona 1: Huésped Tecnológico y Viajero Frecuente
 
@@ -934,28 +934,33 @@ Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y ac
 - **Perfil:** Viaja frecuentemente por trabajo y busca comodidad, eficiencia y experiencias modernas.
 
 **Motivaciones:**
+
 - Personalizar su habitación antes de llegar (temperatura, iluminación, tipo de cama).
 - Usar asistentes de voz o pantallas táctiles para interactuar con la habitación.
 - Evitar procesos manuales o lentos como check-in físico o llamadas telefónicas.
 
 **Frustraciones:**
+
 - Sistemas obsoletos que usan WhatsApp o cuadernos físicos.
 - Falta de integración entre servicios del hotel.
 - No poder ajustar detalles de la habitación desde su celular.
 
 **Objetivos:**
+
 - Ahorrar tiempo al automatizar procesos de entrada y uso de servicios.
 - Vivir una experiencia cómoda y adaptada a sus preferencias.
 - Recibir notificaciones claras sobre el estado de sus solicitudes.
 
 **Dispositivos Usados:**
+
 - Computadora y teléfono móvil Android.
 - Navegador habitual: Google Chrome.
 
 ![Imagen User 1 Persona](Assets/img/chapter-1/persona1.png)
 
 ---
-#### Persona 2: Empleado del Sector Hotelero
+
+#### Persona 2: Empleado Joven del Sector Hotelero
 
 - **Nombre:** Javier Rios
 - **Edad:** 23 años
@@ -963,21 +968,25 @@ Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y ac
 - **Perfil:** Trabaja en un hotel pequeño, interesado en soluciones digitales que mejoren su desempeño y la experiencia del cliente.
 
 **Motivaciones:**
+
 - Mejorar la organización interna del hotel.
 - Reducir errores al gestionar preferencias de huéspedes.
 - Adoptar tecnologías que aumenten la eficiencia operativa.
 
 **Frustraciones:**
+
 - Uso manual de libretas para registrar preferencias.
 - Comunicación ineficiente entre áreas del hotel (grupos de WhatsApp).
 - Falta de capacitación formal para usar nuevas herramientas.
 
 **Objetivos:**
+
 - Tener una herramienta centralizada para ver y gestionar preferencias de huéspedes.
 - Mejorar la imagen del hotel frente a clientes exigentes.
 - Disminuir el tiempo dedicado a tareas repetitivas gracias a la digitalización.
 
 **Dispositivos Usados:**
+
 - Laptop y tablet.
 - Navegador habitual: Google Chrome.
 
@@ -987,6 +996,7 @@ Estas herramientas ayudan a traducir datos reales en perfiles comprensibles y ac
 **Impacto en el Diseño de Custom Host:**
 
 La creación de estas User Personas ha sido fundamental para:
+
 - Priorizar funcionalidades esenciales (como personalización anticipada de habitación).
 - Definir flujos de usuario intuitivos y accesibles desde dispositivos móviles.
 - Validar supuestos iniciales sobre la aceptación de tecnología por parte de ambos segmentos.
@@ -1013,16 +1023,17 @@ Este artefacto permite visualizar las tareas clave que realiza cada tipo de usua
 | U09 | Gestionar comunicación entre áreas             | -                      | -                     | Alta                 | Alta                |
 | U10 | Registrar preferencias recurrentes              | Media                  | Baja                  | Alta                 | Media               |
 
-
 ### 2.3.3. User Journey Mapping
 
 Con el objetivo de comprender en profundidad las necesidades, comportamientos, emociones y puntos de fricción de nuestros principales segmentos de usuario, se desarrolló un **User Journey Mapping** utilizando la herramienta especializada **UXPressia**. Este proceso nos permitió visualizar de manera estructurada y empática el recorrido que cada tipo de usuario realiza desde su primera interacción hasta la experiencia completa con Custom Host.
 
 La actividad se centró en dos segmentos clave:
+
 1. **Huéspedes Potenciales:** usuarios finales interesados en una experiencia hotelera personalizada mediante tecnología IoT.
 2. **Personal Administrativo del Hotel:** empleados responsables de gestionar reservas, coordinar servicios y mantener comunicación interna eficiente.
 
 Para ambos perfiles se diseñó un mapa que incluye:
+
 - Las **fases del viaje** (desde la planificación hasta el post-checkout).
 - Los **objetivos del usuario** en cada etapa.
 - El detalle de **acciones realizadas**, **canales utilizados** y **emociones experimentadas**.
@@ -1030,8 +1041,7 @@ Para ambos perfiles se diseñó un mapa que incluye:
 
 Gracias a esta metodología, pudimos identificar momentos críticos donde la tecnología puede transformar positivamente la experiencia del huésped y la operación del hotel. Además, facilitamos la toma de decisiones orientadas al usuario, lo cual es fundamental para construir una solución funcional, intuitiva y diferenciadora.
 
-> **Anexo:** Diagramas completos del User Journey disponibles en las imágenes adjuntas.
-> [Accede aquí para ver los user journey ](https://drive.google.com/drive/folders/1B5Cyt3g1BzZHOChqqEy3VjH8I3fj4XOD?usp=sharing)
+**Enlace para ver los user journey:** <https://tinyurl.com/customhost-user-journey>
 
 ---
 
@@ -1040,16 +1050,19 @@ Gracias a esta metodología, pudimos identificar momentos críticos donde la tec
 El User Journey del huésped se enfoca en cómo el cliente percibe el valor de la tecnología antes, durante y después de su estadía. Se destacan las siguientes áreas de oportunidad:
 
 **Registration: ¿Por qué confiarían en nosotros?**
+
 - Diseño profesional y consistente en la interfaz.
 - Integración con cuentas existentes (Google, Apple ID) para registro rápido y seguro.
 - Inclusión de testimonios reales de usuarios verificados.
 
 **Onboarding and First Use: ¿Cómo pueden sentirse exitosos?**
+
 - Tutorial interactivo guiado paso a paso.
 - Confirmaciones visuales (animaciones, notificaciones) al realizar acciones.
 - Soporte inmediato (chat en vivo o bot inteligente) para resolver dudas tempranas.
 
 **Sharing: ¿Por qué invitarían a otros?**
+
 - Integración con redes sociales para compartir experiencias fácilmente (ej.: "Comparte tu habitación personalizada").
 - Funciones exclusivas para grupos (ej.: "Planifica un viaje con amigos y obtén descuento").
 - Sistema de referidos con recompensas para ambos (ej.: "Invita a un amigo y ambos ganan 20% de descuento").
@@ -1063,16 +1076,19 @@ El User Journey del huésped se enfoca en cómo el cliente percibe el valor de l
 El User Journey del personal administrativo se centra en cómo la plataforma puede mejorar tanto la experiencia del huésped como la eficiencia operativa del hotel.
 
 **Registration: ¿Qué les haría confiar en el sistema?**
+
 - Interfaz clara y profesional, especialmente diseñada para uso interno.
 - Capacitación accesible y documentación visual para nuevos usuarios.
 - Acceso rápido e integración con herramientas ya usadas (como WhatsApp o CRM básico).
 
 **Onboarding and First Use: ¿Cómo pueden sentirse exitosos desde el primer uso?**
+
 - Dashboard intuitivo con indicadores claros del estado de las habitaciones y solicitudes.
 - Guías visuales para aprender a usar la plataforma sin intervención constante de soporte técnico.
 - Notificaciones inmediatas sobre solicitudes de huéspedes y cambios de estado.
 
 **Daily Use: ¿Cómo optimizar la gestión diaria?**
+
 - Filtros por tipo de solicitud, prioridad o área del hotel.
 - Alertas proactivas sobre dispositivos IoT fallando o en mantenimiento.
 - Integración con sistemas existentes para evitar duplicado de tareas.
@@ -1095,7 +1111,7 @@ El propósito del mapa de empatía es profundizar en la perspectiva del usuario 
 
 ![Empathy Map - Huésped](Assets/img/chapter-1/empathy%201.png)
 
-##### Desglose del Empathy Map:
+##### Desglose del Empathy Map
 
 - **Piensa:**  
   "Quiero una experiencia cómoda y personalizada. Me interesa controlar mi entorno sin necesidad de llamar a recepción."
@@ -1115,7 +1131,7 @@ El propósito del mapa de empatía es profundizar en la perspectiva del usuario 
 
 ![Empathy Map - Staff](Assets/img/chapter-1/emphaty%202.png)
 
-##### Desglose del Empathy Map:
+##### Desglose del Empathy Map
 
 - **Piensa:**  
   "Necesito un sistema que centralice las preferencias de los huéspedes para preparar habitaciones más rápido y evitar errores."
@@ -1134,6 +1150,7 @@ El propósito del mapa de empatía es profundizar en la perspectiva del usuario 
 ### Hallazgos Clave del Empathy Mapping
 
 Los mapas de empatía revelaron aspectos cruciales que no se perciben fácilmente durante las entrevistas tradicionales:
+
 - Los **huéspedes valoran altamente la comodidad tecnológica**, pero también muestran cierta **desconfianza inicial hacia sistemas nuevos o poco conocidos**.
 - El **personal del hotel enfrenta desafíos operativos importantes**: gestión manual de datos, comunicación ineficiente y carga laboral innecesaria debido a la falta de automatización.
 - Ambos segmentos mostraron interés en **una solución intuitiva y útil**, aunque con diferentes expectativas:
@@ -1142,14 +1159,14 @@ Los mapas de empatía revelaron aspectos cruciales que no se perciben fácilment
 
 Estos hallazgos son fundamentales para guiar el diseño del sistema, asegurando que sea **útil, usable y accesible** tanto para los huéspedes como para el personal del hotel.
 
-> 📎 **Anexo:** Diagramas completos del Empathy maps disponibles en las imágenes adjuntas.
-> 📄 [Accede aquí para ver los empathy maps ](https://drive.google.com/drive/folders/1OPzCg6Y12vN8i56YLw9BLcZOWU6m3yZA?usp=sharing)
+**Enlace para ver los empathy maps:** <https://tinyurl.com/customhost-empathy-maps>
 
 ### 2.3.5. As-is Scenario Mapping
 
 El siguiente **As-is Scenario Mapping** fue desarrollado utilizando la herramienta colaborativa Miro, siguiendo las buenas prácticas del Design Thinking y la metodología del curso. El objetivo fue representar visualmente la experiencia actual de los usuarios antes de la implementación de Custom Host, con el fin de identificar puntos de fricción, oportunidades de mejora y validar supuestos iniciales.
 
 Para construir cada mapa, se utilizaron dimensiones clave como:
+
 - **Fases:** Los momentos principales que vive el usuario.
 - **Acciones:** Lo que hace el usuario en cada fase.
 - **Pensamientos:** Sus reflexiones, dudas o expectativas.
@@ -1161,9 +1178,11 @@ Cada etapa fue codificada visualmente para resaltar niveles de satisfacción, cl
 Este análisis se realizó para dos segmentos clave:
 
 #### Segmento Objetivo #1: Huéspedes Potenciales
+
 Representan a viajeros que buscan comodidad, personalización y facilidad de uso al hospedarse en un hotel. En su experiencia actual, enfrentan problemas como falta de control sobre el entorno, comunicación lenta con el hotel y poca anticipación de sus preferencias por parte del staff.
 
 #### Segmento Objetivo #2: Personal Administrativo del Hotel
+
 Incluye a recepcionistas, coordinadores de limpieza y encargados operativos. Actualmente utilizan sistemas manuales o poco integrados para gestionar las preferencias de los huéspedes, lo cual genera errores, duplicados de trabajo y demoras en la atención.
 
 > 📎 **Anexo:** Diagramas completos del As Is Scenario Mapping disponibles en las imágenes adjuntas.
@@ -1288,78 +1307,76 @@ Se usaron criterios como:
 
 | Epic / Story ID | Título                                      | Descripción                                                                                                                 | Criterios de Aceptación | Relacionado con (Epic ID) |
 | --------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------- |
-| EP01            | Crear cuenta                                | Como huésped o personal administrativo, quiero crear una cuenta para acceder a funcionalidades de la aplicación.            |                         |                           |
-| EP02            | Configuración de preferencias del huésped   | Como huésped, quiero establecer preferencias de iluminación y temperatura para que la habitación se adapte automáticamente. |                         |                           |
-| EP03            | Gestión de solicitudes de servicios         | Como huésped, quiero solicitar servicios desde la aplicación para recibir atención personalizada.                           |                         |                           |
-| EP04            | Panel de control                            | Como personal administrativo, quiero un dashboard con información en tiempo real sobre solicitudes.                         |                         |                           |
-| EP05            | Gestión de habitaciones                     | Como desarrollador, quiero implementar gestión de habitaciones para asignar espacios según reservas.                        |                         |                           |
-| EP06            | Implementación de landing page              | Como huésped, quiero plataforma web para conocer servicios del hotel.                                                       |                         |                           |
-| EP07            | Gestión de reservas                         | Como desarrollador, quiero desarrollar gestión de reservas para crear, modificar o cancelar reservas.                       |                         |                           |
-| EP08            | Evaluación de la experiencia del huésped    | Como huésped, quiero calificar mi experiencia para compartir opiniones sobre el servicio recibido.                          |                         |                           |
-| EP09            | Seguridad y privacidad de datos             | Como desarrollador, quiero implementar seguridad para proteger datos sensibles.                                             |                         |                           |
-| EP10            | Soporte en línea para el usuario            | Como huésped, quiero soporte inmediato para resolver mis dudas al instante.                                                 |                         |                           |
-| EP11            | Gestión de perfiles                         | Como desarrollador, quiero gestionar perfiles para una experiencia personalizada.                                           |                         |                           |
-| EP12            | Notificaciones en tiempo real para huésped  | Como huésped, quiero recibir notificaciones sobre eventos o cambios importantes.                                            |                         |                           |
-| EP13            | Notificaciones en tiempo real para personal | Como personal administrativo, quiero notificaciones sobre nuevas solicitudes y eventos críticos.                            |                         |                           |
-| EP14            | Asignación de dispositivos IoT a reservas   | Como personal administrativo, quiero asignar dispositivos IoT a reservas según preferencias.                                |                         |                           |
-| EP15            | Gestión de datos personales                 | Como usuario autenticado, quiero actualizar mis datos personales para mantener mi perfil al día.                            |                         |                           |
-| EP16            | Gestión de roles y permisos                 | Como administrador, quiero asignar roles específicos para controlar acceso.                                                 |                         |                           |
-| EP17            | Sitio web estático                          | Como visitante, quiero información del hotel sin autenticarme para decidir reservar.                                        |                         |                           |
-| US01 | Visualización del Formulario de Registro               | Como huésped, quiero ver un formulario de registro bien estructurado, para poder registrarme en el sistema.             | **Funcionalidad: Formulario de registro claro**<br><br>**Escenario 1: Mostrar formulario completo**<br>Dado que un nuevo huésped accede a registrarse,<br>Cuando carga el formulario,<br>Entonces el formulario presenta todos los campos requeridos para el registro.<br><br>**Escenario 2: Validar campos obligatorios**<br>Dado que el huésped deja un campo obligatorio vacío,<br>Cuando envía el formulario,<br>Entonces el sistema indica qué campos obligatorios no han sido completados.                                                                                                                                                                                                                                                                                                        | EP01                      |
-| US02 | Validación de Datos de Registro                        | Como huésped, quiero que el sistema valide mis datos al registrarme, para evitar errores en mi cuenta.                  | **Funcionalidad: Validación de registro**<br><br>**Escenario 1: Registro exitoso**<br>Dado que todos los datos son válidos y el correo no existe,<br>Cuando envía el formulario,<br>Entonces el sistema crea la cuenta y redirige a confirmación.<br><br>**Escenario 2: Correo ya registrado**<br>Dado que el correo ingresado ya existe,<br>Cuando intenta registrarse,<br>Entonces el sistema informa que el correo ya está registrado y ofrece la opción de recuperación de contraseña.                                                                                                                                                                                                                                                                                                                                  | EP01                      |
-| US03 | Configuración de Preferencias de Habitación            | Como huésped, quiero seleccionar mis preferencias de habitación desde la plataforma web, para personalizar mi estadía.  | **Funcionalidad: Gestión de preferencias**<br><br>**Escenario 1: Guardar preferencias**<br>Dado que el huésped elige temperatura y luz,<br>Cuando pulsa “Guardar”,<br>Entonces almacena las preferencias y muestra “Guardado correctamente”.<br><br>**Escenario 2: Restablecer valores**<br>Dado que el huésped solicita restablecer las preferencias,<br>Cuando confirma la acción,<br>Entonces el sistema restablece las preferencias a los valores predeterminados.                                                                                                                                                                                                                                                                                                                                                   | EP02                      |
-| US04 | Personalización de Horarios de Servicio                | Como huésped, quiero establecer mis horarios de preferencia para servicios como limpieza o desayuno.                    | **Funcionalidad: Horarios de servicios**<br><br>**Escenario 1: Selección de limpieza**<br>Dado que el huésped selecciona “Limpieza mañana”,<br>Cuando pulsa “Guardar”,<br>Entonces actualiza su preferencia y confirma.<br><br>**Escenario 2: Selección de desayuno**<br>Dado que el huésped elige hora de desayuno,<br>Cuando guarda los cambios,<br>Entonces recibe confirmación de la actualización.                                                                                                                                                                                                                                                                                                                                                                                            | EP02                      |
-| US05 | Solicitud de Servicios de Limpieza                     | Como huésped, quiero solicitar un servicio de limpieza desde la plataforma web, para mantener mi habitación limpia.     | **Funcionalidad: Solicitud de limpieza**<br><br>**Escenario 1: En horario**<br>Dado que el huésped está dentro del horario permitido,<br>Cuando selecciona “Solicitar limpieza” y confirma,<br>Entonces envía la petición y muestra “Solicitud recibida”.<br><br>**Escenario 2: Fuera de horario**<br>Dado que solicita fuera del horario,<br>Cuando pulsa “Solicitar limpieza”,<br>Entonces muestra “Servicio no disponible en este horario”.                                                                                                                                                                                                                                                                                                                                                     | EP03                      |
-| US06 | Solicitud de Desayuno en la Habitación                 | Como huésped, quiero solicitar un desayuno en mi habitación a través de la plataforma web.                              | **Funcionalidad: Solicitud de desayuno**<br><br>**Escenario 1: Solicitud válida**<br>Dado que el huésped elige “Desayuno en habitación” y hora válida,<br>Cuando confirma,<br>Entonces procesa la solicitud y confirma “Desayuno programado”.<br><br>**Escenario 2: Hora no disponible**<br>Dado que selecciona un horario fuera de rango,<br>Cuando intenta confirmar,<br>Entonces muestra “Horario no disponible para desayuno”.                                                                                                                                                                                                                                                                                                                                                                 | EP03                      |
-| US07 | Gestión de Solicitudes Pendientes                      | Como personal administrativo, quiero ver las solicitudes pendientes para atenderlas rápidamente.                        | **Funcionalidad: Listado de solicitudes**<br><br>**Escenario 1: Ver solicitudes ordenadas**<br>Dado que accede a “Solicitudes”,<br>Cuando carga la lista,<br>Entonces muestra solicitudes ordenadas por urgencia y fecha.<br><br>**Escenario 2: Ver detalles**<br>Dado que hay una solicitud nueva,<br>Cuando pulsa “Ver detalles”,<br>Entonces ve la información completa.                                                                                                                                                                                                                                                                                                                                                                                                                        | EP04                      |
-| US08 | Modificación de Estado de la Solicitud                 | Como personal administrativo, quiero cambiar el estado de una solicitud, para gestionarla mejor.                        | **Funcionalidad: Cambio de estado**<br><br>**Escenario 1: Marcar como atendida**<br>Dado que la solicitud está “Pendiente”,<br>Cuando selecciona “Atendida”,<br>Entonces cambia el estado y confirma.<br><br>**Escenario 2: Reabrir solicitud**<br>Dado que la solicitud está “Atendida”,<br>Cuando selecciona “Pendiente”,<br>Entonces confirma el cambio a “Pendiente”.                                                                                                                                                                                                                                                                                                                                                                                                                          | EP04                      |
-| US09 | Gráfico de Pagos por Mes y Año                         | Como miembro del staff, quiero un gráfico de pagos por mes y año, para analizar el desempeño financiero del hotel.      | **Funcionalidad: Gráfico de pagos mensuales**<br><br>**Escenario 1: Año actual**<br>Dado que carga el dashboard,<br>Cuando se muestra el gráfico,<br>Entonces presenta barras con totales de cada mes del año en curso.<br><br>**Escenario 2: Error de datos**<br>Dado que falla la carga,<br>Cuando intenta renderizar,<br>Entonces muestra “No se pudo cargar el gráfico de pagos”.                                                                                                                                                                                                                                                                                                                                                                                                              | EP04                      |
-| US10 | Selección de Año para Pagos                            | Como miembro del staff, quiero seleccionar el año de los pagos, para comparar ingresos de diferentes periodos.          | **Funcionalidad: Filtro de año**<br><br>**Escenario 1: Actualizar gráfico**<br>Dado que cambia el selector a “2024”,<br>Cuando aplica el filtro,<br>Entonces el gráfico se refresca con datos de 2024.<br><br>**Escenario 2: Año sin datos**<br>Dado que selecciona un año sin registros,<br>Cuando aplica,<br>Entonces muestra “No hay datos de pagos para este año”.                                                                                                                                                                                                                                                                                                                                                                                                                             | EP04                      |
-| US11 | Gráfico de Pagos Individuales                          | Como miembro del staff, quiero un gráfico de pagos individuales, para analizar tendencias y detectar pagos atípicos.    | **Funcionalidad: Gráfico de transacciones**<br><br>**Escenario 1: Mostrar transacciones**<br>Dado que carga el dashboard,<br>Cuando selecciona la vista de pagos individuales,<br>Entonces muestra un gráfico de líneas con cada transacción.<br><br>**Escenario 2: Sin transacciones**<br>Dado que no hay pagos,<br>Cuando intenta mostrar,<br>Entonces muestra “No hay transacciones para graficar”.                                                                                                                                                                                                                                                                                                                                                                                             | EP04                      |
-| US12 | Exportar Informe de Pagos                              | Como miembro del staff, quiero exportar el informe de pagos a CSV o PDF, para compartirlo con contabilidad.             | **Funcionalidad: Exportación**<br><br>**Escenario 1: Exportar CSV**<br>Dado que pulsa “Exportar CSV”,<br>Cuando finaliza la generación,<br>Entonces descarga `pagos.csv` con los datos.<br><br>**Escenario 2: Error al exportar PDF**<br>Dado que pulsa “Exportar PDF”,<br>Cuando falla la generación,<br>Entonces muestra “Error al generar el PDF”.                                                                                                                                                                                                                                                                                                                                                                                                                                              | EP04                      |
-| US13 | Tasa de Ocupación del Hotel                            | Como miembro del staff, quiero ver un tablero de ocupación, para conocer el porcentaje de habitaciones ocupadas.        | **Funcionalidad: Dashboard de ocupación**<br><br>**Escenario 1: Mostrar porcentaje**<br>Dado que carga el dashboard,<br>Cuando consulta ocupación,<br>Entonces muestra “75% habitaciones ocupadas” con un gráfico circular.<br><br>**Escenario 2: Filtrar por periodo**<br>Dado que cambia filtro a “Semana” o “Mes”,<br>Cuando aplica,<br>Entonces actualiza porcentaje y gráfico según periodo.                                                                                                                                                                                                                                                                                                                                                                                                  | EP04                      |
-| US14 | Filtrar Solicitudes de Servicio                        | Como miembro del staff, quiero filtrar solicitudes por tipo y prioridad, para gestionarlas eficientemente.              | **Funcionalidad: Filtro de solicitudes**<br><br>**Escenario 1: Filtrar por tipo**<br>Dado que selecciona “Limpieza”,<br>Cuando aplica el filtro,<br>Entonces muestra sólo solicitudes de limpieza.<br><br>**Escenario 2: Filtrar por prioridad**<br>Dado que elige “Urgente”,<br>Cuando aplica,<br>Entonces muestra sólo solicitudes urgentes.<br><br>**Escenario 3: Sin resultados**<br>Dado que no hay coincidencias,<br>Entonces muestra “No hay solicitudes para estos criterios”.                                                                                                                                                                                                                                                                                                             | EP04                      |
-| US15 | Notificación de Solicitud Atendida                     | Como huésped, quiero recibir alertas cuando mi solicitud se atienda, para estar informado.                              | **Funcionalidad: Notificación al huésped**<br><br>**Escenario 1: Notificar atención**<br>Dado que el personal marca como “Atendida”,<br>Cuando cambia el estado,<br>Entonces el huésped recibe notificación push y en la app.<br><br>**Escenario 2: Error al notificar**<br>Dado que falla la notificación,<br>Cuando no se envía,<br>Entonces registra el error y reintenta según política.                                                                                                                                                                                                                                                                                                                                                                                                       | EP05                      |
-| US16 | Alerta de Emergencia en el Hotel                       | Como personal, quiero recibir alertas inmediatas sobre emergencias, para reaccionar rápido.                             | **Funcionalidad: Alertas críticas**<br><br>**Escenario 1: Alerta real**<br>Dado que se detecta incendio,<br>Cuando el sistema emite la alerta,<br>Entonces todo el personal recibe notificación urgente.<br><br>**Escenario 2: Simulación**<br>Dado que se activa un test,<br>Cuando lanza la alerta,<br>Entonces indica “Simulación de emergencia” y no dispara planes reales.                                                                                                                                                                                                                                                                                                                                                                                                                    | EP05                      |
-| US17 | Lista de Habitaciones Disponibles                      | Como miembro del staff, quiero ver una lista de habitaciones disponibles, para saber cuáles puedo asignar o limpiar.    | **Funcionalidad: Listado de habitaciones**<br><br>**Escenario 1: Mostrar disponibles**<br>Dado que accede a “Habitaciones”,<br>Cuando carga la lista,<br>Entonces muestra sólo las con estado “Disponible”.<br><br>**Escenario 2: Sin libres**<br>Dado que no hay libres,<br>Cuando carga la lista,<br>Entonces muestra “No hay habitaciones disponibles”.                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP07                      |
-| US18 | Filtrar Habitaciones por Estado                        | Como miembro del staff, quiero filtrar la lista de habitaciones por estado, para enfocarme en cada categoría.           | **Funcionalidad: Filtro de habitaciones**<br><br>**Escenario 1: Filtrar “Ocupado”**<br>Dado que selecciona “Ocupado”,<br>Cuando aplica,<br>Entonces muestra sólo ocupadas.<br><br>**Escenario 2: Filtrar “Mantenimiento”**<br>Dado que elige “Mantenimiento”,<br>Cuando aplica,<br>Entonces muestra sólo en mantenimiento.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP07                      |
-| US19 | Historial de Asignación de Habitaciones                | Como miembro del staff, quiero ver el historial de asignación de habitaciones por huésped, para rastrear cambios.       | **Funcionalidad: Historial de asignaciones**<br><br>**Escenario 1: Mostrar historial**<br>Dado que consulta una habitación,<br>Cuando pide su historial,<br>Entonces muestra fechas y huéspedes anteriores.<br><br>**Escenario 2: Sin historial**<br>Dado que no hay historial,<br>Cuando consulta,<br>Entonces muestra “No hay historial de asignación”.                                                                                                                                                                                                                                                                                                                                                                                                                                          | EP07                      |
-| US20 | Visualización de Información de Servicios              | Como visitante, quiero ver los servicios que ofrece el hotel, para evaluar antes de reservar.                           | **Funcionalidad: Listado de servicios**<br><br>**Escenario:**<br>Dado que accede a la landing,<br>Cuando navega a “Servicios”,<br>Entonces muestra un listado claro de los principales servicios.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP08                      |
-| US21 | Acceso a Información de Contacto (estática)            | Como visitante, quiero acceder fácilmente a los datos de contacto del hotel, para comunicarme si tengo dudas.           | **Funcionalidad: Sección estática de contacto**<br><br>**Escenario 1:**<br>Dado que llega al pie de página,<br>Cuando ve la sección,<br>Entonces muestra dirección, teléfono, correo y redes.<br><br>**Escenario 2:**<br>Dado que navega por la landing,<br>Cuando hace scroll,<br>Entonces la sección sigue accesible sin recargar.                                                                                                                                                                                                                                                                                                                                                                                                                                                               | EP08                      |
-| US22 | Envío de Consultas mediante Formulario Emergente       | Como visitante, quiero enviar consultas rápidas mediante un formulario emergente, para no abandonar la página.          | **Funcionalidad: Formulario emergente**<br><br>**Escenario 1:**<br>Dado que hace clic en el ícono de contacto,<br>Cuando aparece el modal,<br>Entonces puede completar y enviar su mensaje.<br><br>**Escenario 2:**<br>Dado que completa todos los campos,<br>Cuando pulsa “Enviar”,<br>Entonces confirma recepción y cierra el modal.                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP08                      |
-| US23 | Acceso a Testimonios de Huéspedes                      | Como visitante, quiero leer opiniones de otros huéspedes, para ganar confianza al reservar.                             | **Funcionalidad: Paginación de testimonios**<br><br>**Escenario 1:**<br>Dado que carga la sección de testimonios,<br>Cuando se muestra,<br>Entonces presenta los primeros 5 con nombre, fecha y comentario.<br><br>**Escenario 2:**<br>Dado que hay más,<br>Cuando pulsa “Ver más”,<br>Entonces carga dinámicamente sin recargar la página.                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP08                      |
-| US24 | Acceso Rápido al Formulario de Reserva                 | Como visitante, quiero encontrar un botón fijo para reservar, para iniciar el proceso de forma rápida.                  | **Funcionalidad: Botón fijo “Reservar ahora”**<br><br>**Escenario:**<br>Dado que navega por la landing,<br>Cuando llega a servicios o pie de página,<br>Entonces ve un botón fijo que permanece visible al hacer scroll y redirige al formulario.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP08                      |
-| US25 | Sección "Sobre Nosotros"                               | Como visitante, quiero conocer la historia y valores del hotel, para conectar con la empresa.                           | **Funcionalidad: Presentación “Sobre Nosotros”**<br><br>**Escenario 1:**<br>Dado que hace scroll hasta esa sección,<br>Cuando ve el contenido,<br>Entonces muestra texto con historia y fotos del equipo.<br><br>**Escenario 2:**<br>Dado que hay un video,<br>Cuando hace clic en él,<br>Entonces reproduce inline sin redirigir.                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | EP08                      |
-| US26 | Ver Lista de Reservas Activas                          | Como huésped, quiero ver la lista de mis reservas activas, para gestionar mis estancias.                                | **Funcionalidad: Listado de reservas**<br><br>**Escenario 1:**<br>Dado que tiene reservas,<br>Cuando accede a “Mis Reservas”,<br>Entonces muestra cada reserva activa (fecha, habitación, estado).<br><br>**Escenario 2:**<br>Dado que no hay reservas,<br>Cuando accede,<br>Entonces muestra “No tienes reservas activas en este momento”.                                                                                                                                                                                                                                                                                                                                                                                                                                                        | EP09                      |
-| US27 | Crear Nueva Reserva desde la Página Principal          | Como huésped, quiero crear una reserva desde la página principal, para agilizar el proceso.                             | **Funcionalidad: Atajo “Nueva Reserva”**<br><br>**Escenario 1:**<br>Dado que está en la página principal,<br>Cuando pulsa “Nueva Reserva”,<br>Entonces abre el formulario de reserva.<br><br>**Escenario 2:**<br>Dado que completa datos inválidos,<br>Cuando confirma,<br>Entonces resalta errores y no envía hasta corregirlos.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP09                      |
-| US28 | Mensaje Claro si No Hay Reservas o Notificaciones      | Como huésped, quiero un mensaje claro si no tengo datos, para saber mi estado actual.                                   | **Funcionalidad: Mensaje de estado**<br><br>**Escenario 1:**<br>Dado que no hay reservas,<br>Cuando accede a “Mis Reservas”,<br>Entonces muestra “No tienes reservas activas en este momento”.<br><br>**Escenario 2:**<br>Dado que no hay notificaciones,<br>Cuando accede a “Notificaciones”,<br>Entonces muestra “No tienes avisos nuevos”.                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP09                      |
-| US29 | Enviar Evaluación de Estadía                           | Como huésped, quiero calificar mi experiencia al final de la estadía, para dar retroalimentación al hotel.              | **Funcionalidad: Evaluación post-estadía**<br><br>**Escenario 1:**<br>Dado que la estancia ha terminado,<br>Cuando completa estrellas y comentarios y envía,<br>Entonces guarda la evaluación y muestra “Gracias por tu opinión”.<br><br>**Escenario 2:**<br>Dado que faltan datos,<br>Cuando intenta enviar,<br>Entonces impide el envío y resalta los campos faltantes.                                                                                                                                                                                                                                                                                                                                                                                                                          | EP10                      |
-| US30 | Ver Historial de Evaluaciones                          | Como personal administrativo, quiero consultar las evaluaciones recibidas, para mejorar la calidad del servicio.        | **Funcionalidad: Consulta de evaluaciones**<br><br>**Escenario 1:**<br>Dado que selecciona un rango de fechas,<br>Cuando aplica el filtro,<br>Entonces muestra evaluaciones de ese periodo.<br><br>**Escenario 2:**<br>Dado que no hay evaluaciones,<br>Cuando aplica el filtro,<br>Entonces muestra “No se encontraron evaluaciones en este periodo”.                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP10                      |
-| US31 | Gráfico de Calificaciones de Huéspedes                 | Como miembro del staff, quiero ver un gráfico de calificaciones, para analizar la satisfacción general.                 | **Funcionalidad: Gráfico de valoraciones**<br><br>**Escenario 1:**<br>Dado que carga el dashboard,<br>Cuando accede a “Satisfacción”,<br>Entonces muestra un gráfico de líneas con el promedio mensual.<br><br>**Escenario 2:**<br>Dado que no hay valoraciones,<br>Cuando intenta mostrar,<br>Entonces muestra “No hay datos de calificaciones”.                                                                                                                                                                                                                                                                                                                                                                                                                                                  | EP10                      |
-| US32 | Cambiar Idioma de la Interfaz                          | Como huésped internacional, quiero cambiar el idioma de la interfaz, para comprender mejor la plataforma web.           | **Funcionalidad: Cambio de idioma de la interfaz**<br><br>**Escenario 1: Actualizar contenido tras selección**<br>Dado que el visitante está en cualquier página de la plataforma,<br>Cuando selecciona un idioma del selector de idioma,<br>Entonces todo el contenido de la interfaz se actualiza al idioma seleccionado.<br><br>**Escenario 2: Mantener idioma al navegar**<br>Dado que el usuario ya seleccionó un idioma,<br>Cuando navega a otra sección o pantalla,<br>Entonces la plataforma mantiene la interfaz en el idioma elegido.<br><br>**Escenario 3: Persistir idioma entre sesiones**<br>Dado que el usuario seleccionó un idioma en una sesión anterior,<br>Cuando ingresa nuevamente a la aplicación,<br>Entonces la interfaz se carga automáticamente en su idioma preferido. | EP11                      |
-| US33 | Recordar Idioma Seleccionado                           | Como huésped, quiero que la plataforma recuerde mi idioma preferido, para no tener que cambiarlo cada vez.              | **Funcionalidad: Persistencia de idioma**<br><br>**Escenario 1: Sesión activa**<br>Dado que el huésped configuró su idioma en su perfil,<br>Cuando inicia sesión nuevamente,<br>Entonces la interfaz se muestra en ese idioma automáticamente.<br><br>**Escenario 2: Manejo de error al cargar**<br>Dado que falla la carga de las preferencias de idioma,<br>Cuando inicia sesión,<br>Entonces la interfaz se muestra en el idioma predeterminado y el error se registra.                                                                                                                                                                                                                                                                                                                         | EP11                      |
-| US34 | Iniciar Chat con Soporte                               | Como huésped, quiero iniciar un chat con soporte, para resolver dudas rápidamente.                                      | **Funcionalidad: Chat en tiempo real**<br><br>**Escenario 1: Agente disponible**<br>Dado que hay agentes conectados,<br>Cuando el huésped hace clic en “Iniciar chat”,<br>Entonces se abre la ventana de chat y se conecta con un agente disponible.<br><br>**Escenario 2: Sin agentes disponibles**<br>Dado que no hay agentes en línea,<br>Cuando intenta iniciar el chat,<br>Entonces la plataforma muestra “No hay agentes disponibles, por favor deje un mensaje” y presenta formulario de contacto.                                                                                                                                                                                                                                                                                          | EP13                      |
-| US35 | Consultar Preguntas Frecuentes                         | Como huésped, quiero revisar preguntas frecuentes, para resolver dudas sin contactar soporte.                           | **Funcionalidad: Búsqueda en FAQ**<br><br>**Escenario 1: Encontrar artículos**<br>Dado que el huésped ingresa una consulta en la barra de búsqueda de FAQ,<br>Cuando pulsa “Buscar”,<br>Entonces se muestran artículos relevantes a la consulta.<br><br>**Escenario 2: Sin resultados exactos**<br>Dado que no se encuentran coincidencias exactas,<br>Cuando ejecuta la búsqueda,<br>Entonces la plataforma sugiere preguntas relacionadas y muestra “¿Te refieres a…?”.                                                                                                                                                                                                                                                                                                                          | EP13                      |
-| US36 | Saludo Personalizado de Huésped                        | Como huésped, quiero ver un saludo personalizado al ingresar, para sentirme bienvenido en la plataforma.                | **Funcionalidad: Saludo personalizado**<br><br>**Escenario 1: Mostrar nombre**<br>Dado que el huésped inicia sesión con su cuenta,<br>Cuando carga la pantalla principal,<br>Entonces muestra “¡Bienvenido, \[Nombre]!” en la cabecera.<br><br>**Escenario 2: Fallback genérico**<br>Dado que no se pudo recuperar el nombre del usuario,<br>Cuando carga la pantalla principal,<br>Entonces muestra “¡Bienvenido de nuevo!” en la cabecera.                                                                                                                                                                                                                                                                                                                                                       | EP14                      |
-| US37 | Abrir formulario modal para nuevo miembro del personal | Como administrador, quiero abrir un formulario modal para agregar un nuevo miembro, para gestionar el equipo del hotel. | **Funcionalidad: Modal creación de personal**<br><br>**Escenario 1: Desplegar formulario**<br>Dado que el administrador está en la sección de gestión de equipo,<br>Cuando solicita agregar un nuevo miembro,<br>Entonces el sistema presenta el formulario para ingresar los datos del nuevo miembro<br><br>**Escenario 2: Enfoque inicial**<br>Dado que el formulario de registro de personal se muestra,<br>Cuando el formulario está disponible para su uso,<br>Entonces el primer campo del formulario está listo para recibir la entrada de datos.                                                                                                                                                                                                                                                                                                                                             | EP14                      |
-| US38 | Ingresar datos completos del nuevo personal            | Como administrador, quiero ingresar nombre, apellido, teléfono, email, departamento y contraseña del nuevo personal.    | **Funcionalidad: Campos del formulario**<br><br>**Escenario 1: Visibilidad de campos**<br>Dado que el modal de creación está abierto,<br>Cuando se muestra el formulario,<br>Entonces aparecen campos para Nombre, Apellido, Teléfono, Email, Departamento (select) y Contraseña.<br><br>**Escenario 2: Registro de entrada**<br>Dado que el administrador ingresa datos en los campos,<br>Cuando escribe texto o selecciona opciones,<br>Entonces los campos muestran correctamente los valores ingresados.                                                                                                                                                                                                                                                                                       | EP14                      |
-| US39 | Seleccionar departamento desde lista                   | Como administrador, quiero seleccionar el departamento desde una lista, para asegurar la asignación de roles.           | **Funcionalidad: Selector de departamento**<br><br>**Escenario 1: Mostrar opciones**<br>Dado que el administrador hace clic en el campo “Departamento”,<br>Cuando se despliega el dropdown,<br>Entonces se listan todos los departamentos disponibles.<br><br>**Escenario 2: Relleno del campo**<br>Dado que el administrador selecciona un departamento del dropdown,<br>Cuando hace clic en la opción “Recepción”,<br>Entonces el campo se rellena con “Recepción”.                                                                                                                                                                                                                                                                                                                              | EP14                      |
-| US40 | Alertar si faltan campos obligatorios                  | Como administrador, quiero recibir una alerta si guardo con campos vacíos, para evitar registros incompletos.           | **Funcionalidad: Validación de formulario**<br><br>**Escenario 1: Campos faltantes**<br>Dado que uno o más campos obligatorios están vacíos,<br>Cuando el administrador pulsa “Guardar”,<br>Entonces el sistema muestra “Por favor, complete todos los campos obligatorios” y no cierra el modal.<br><br>**Escenario 2: Campos completos**<br>Dado que todos los campos obligatorios están llenos,<br>Cuando pulsa “Guardar”,<br>Entonces el modal se cierra y procede con el registro.                                                                                                                                                                                                                                                                                                            | EP14                      |
-| US41 | Cancelar registro sin guardar cambios                  | Como administrador, quiero cancelar el registro en cualquier momento, para cerrar el formulario sin guardar.            | **Funcionalidad: Cancelar formulario**<br><br>**Escenario 1: Cerrar modal**<br>Dado que el administrador pulsa “Cancelar”,<br>Cuando confirma la acción,<br>Entonces el modal se cierra sin guardar datos.<br><br>**Escenario 2: Restablecer estado**<br>Dado que el modal se vuelve a abrir después de cerrarse,<br>Cuando se carga,<br>Entonces todos los campos están vacíos.                                                                                                                                                                                                                                                                                                                                                                                                                   | EP14                      |
-| US42 | Validar campos obligatorios en formulario de personal  | Como desarrollador, quiero validar que los campos obligatorios estén completos, para evitar registros incompletos.      | **Funcionalidad: Validación de campos obligatorios**<br><br>**Escenario 1: Faltan datos**<br>Dado que un campo obligatorio está vacío,<br>Cuando pulsa “Guardar”,<br>Entonces no se emite el evento `save` y aparece “Por favor, complete los campos obligatorios”.<br><br>**Escenario 2: Todos los datos completos**<br>Dado que todos los campos obligatorios tienen datos válidos,<br>Cuando pulsa “Guardar”,<br>Entonces se emite el evento `save` con los datos del formulario.                                                                                                                                                                                                                                                                                                               | EP14                      |
-| US43 | Emitir eventos personalizados al guardar o cancelar    | Como desarrollador, quiero emitir eventos personalizados, para que el padre controle visibilidad y flujo de datos.      | **Funcionalidad: Emisión de eventos**<br><br>**Escenario 1: Guardar válido**<br>Dado que la validación es exitosa,<br>Cuando pulsa “Guardar”,<br>Entonces emite `save` con los datos.<br><br>**Escenario 2: Cancelar o cerrar modal**<br>Dado que pulsa “Cancelar” o cierra el modal,<br>Cuando la acción se ejecuta,<br>Entonces emite `update:visible` con `false`.                                                                                                                                                                                                                                                                                                                                                                                                                              | EP14                      |
-| US44 | Desacoplar select de departamentos mediante prop       | Como desarrollador, quiero recibir departamentos como prop, para desacoplar y facilitar pruebas.                        | **Funcionalidad: Recepción de prop**<br><br>**Escenario 1: Prop con datos**<br>Dado que la prop `departments` contiene una lista de nombres,<br>Cuando el componente se renderiza,<br>Entonces el select muestra esas opciones.<br><br>**Escenario 2: Prop vacía o null**<br>Dado que la prop `departments` está vacía o es `null`,<br>Cuando renderiza el componente,<br>Entonces el select aparece vacío y deshabilitado.                                                                                                                                                                                                                                                                                                                                                                        | EP14                      |
-| US45 | Estructurar formulario con clases CSS responsivas      | Como desarrollador, quiero usar filas y columnas con clases CSS, para asegurar una interfaz adaptable.                  | **Funcionalidad: Layout con grid**<br><br>**Escenario 1: Pantalla ancha (>768px)**<br>Dado que la pantalla tiene ancho mayor a 768px,<br>Cuando se muestra el formulario,<br>Entonces los campos se distribuyen en dos columnas para facilitar la visualización.<br><br>**Escenario 2: Pantalla móvil (<768px)**<br>Dado que la pantalla es menor a 768px,<br>Cuando se muestra el formulario,<br>Entonces los campos se presentan en una sola columna para facilitar la visualización.                                                                                                                                                                                                                                                                                                                              | EP14                      |
-| US46 | Facilitar extensión futura del formulario              | Como desarrollador, quiero que el formulario sea extensible, para soportar nuevos campos en el futuro.                  | **Funcionalidad: Arquitectura modular**<br><br>**Escenario 1: Añadir nuevo campo**<br>Dado que el desarrollador inserta un nuevo `<FormField>`,<br>Cuando se renderiza el formulario,<br>Entonces el diseño y las validaciones existentes funcionan sin romperse.<br><br>**Escenario 2: Documentación clara**<br>Dado que un desarrollador consulta la documentación,<br>Cuando lee comentarios y guía en el código,<br>Entonces encuentra instrucciones claras para agregar campos.                                                                                                                                                                                                                                                                                                               | EP14                      |
-| US47 | Manejo de estado de carga en registro                  | Como desarrollador, quiero manejar el estado de carga durante el registro, para mostrar feedback visual.                | **Funcionalidad: Indicador de carga**<br><br>**Escenario 1: Inicio de carga**<br>Dado que pulsa “Guardar”,<br>Cuando se envía la solicitud al servidor,<br>Entonces `loading = true`, el botón se deshabilita y aparece spinner.<br><br>**Escenario 2: Fin de carga**<br>Dado que el servidor responde (éxito o error),<br>Cuando llega la respuesta,<br>Entonces `loading = false`, el spinner desaparece y el botón se habilita.<br><br>**Escenario 3: Prevención de reenvío**<br>Dado que `loading = true`,<br>Cuando el usuario intenta pulsar “Guardar” de nuevo,<br>Entonces no se envía una nueva petición.                                                                                                                                                                                 | EP14                      |
-| US48 | Mostrar mensajes de error generales en registro        | Como desarrollador, quiero mostrar mensajes de error generales si el registro falla, para informar al usuario.          | **Funcionalidad: Error en registro**<br><br>**Escenario 1: Error 500 o de red**<br>Dado que la petición retorna un error 500 o de red,<br>Cuando procesa la respuesta,<br>Entonces muestra “Ha ocurrido un error. Intenta de nuevo más tarde.” en la parte superior del modal.<br><br>**Escenario 2: Error general de API**<br>Dado que la API devuelve un mensaje de error (ej. “Usuario ya existe”),<br>Cuando procesa la respuesta,<br>Entonces muestra ese mensaje en un banner de error dentro del modal.<br><br>**Escenario 3: Limpieza del mensaje**<br>Dado que el usuario modifica cualquier campo del formulario,<br>Cuando cambia el valor de un input,<br>Entonces el mensaje de error general se oculta automáticamente.                                                              | EP14                      |
-| US49 | Notificaciones en Tiempo Real para Huésped             | Como huésped, quiero recibir notificaciones en tiempo real sobre eventos importantes o cambios de estado.               | **Funcionalidad: Notificaciones push al huésped**<br><br>**Escenario 1: Evento de promoción**<br>Dado que se crea una nueva promoción,<br>Cuando el huésped está conectado a la aplicación,<br>Entonces recibe una notificación push con los detalles de la oferta.<br><br>**Escenario 2: Cambio de estado de solicitud**<br>Dado que su solicitud cambia a “En proceso” o “Completada”,<br>Cuando el sistema actualiza el estado,<br>Entonces recibe alerta inmediata en su dispositivo.                                                                                                                                                                                                                                                                                                          | EP15                      |
-| US50 | Notificaciones en Tiempo Real para Personal            | Como personal administrativo, quiero recibir notificaciones en tiempo real sobre nuevas solicitudes y eventos críticos. | **Funcionalidad: Notificaciones push al personal**<br><br>**Escenario 1: Nueva solicitud recibida**<br>Dado que un huésped envía una solicitud,<br>Cuando llega la petición al CRM,<br>Entonces el personal recibe una notificación inmediata.<br><br>**Escenario 2: Emergencia crítica**<br>Dado que se detecta una emergencia (ej. incendio),<br>Cuando el sistema emite la alerta,<br>Entonces todo el personal recibe una notificación urgente.                                                                                                                                                                                                                                                                                                                                                | EP16                      |
-| US51 | Lista de Dispositivos IoT en Mantenimiento o Inactivos | Como miembro del staff, quiero ver los dispositivos IoT en mantenimiento o inactivos, para dar seguimiento técnico.     | **Funcionalidad: Listado de IoT en estado crítico**<br><br>**Escenario 1:**<br>Dado que accede a la sección de “Dispositivos IoT”,<br>Cuando filtra por estado “Inactivo” o “Mantenimiento”,<br>Entonces muestra sólo los dispositivos correspondientes.<br><br>**Escenario 2:**<br>Dado que no hay dispositivos con esos estados,<br>Cuando aplica el filtro,<br>Entonces muestra “No hay dispositivos en mantenimiento o inactivos”.                                                                                                                                                                                                                                                                                                                                                             | EP17                      |
-| US52 | Lista de Tareas Pendientes de Mantenimiento IoT        | Como miembro del staff, quiero ver las tareas de mantenimiento IoT asignadas, para priorizar intervenciones.            | **Funcionalidad: Listado de tareas IoT**<br><br>**Escenario 1:**<br>Dado que accede a “Mantenimiento IoT”,<br>Cuando carga la lista,<br>Entonces muestra sólo las tareas abiertas.<br><br>**Escenario 2:**<br>Dado que no hay tareas asignadas,<br>Cuando carga la lista,<br>Entonces muestra “No hay tareas de mantenimiento pendientes”.                                                                                                                                                                                                                                                                                                                                                                                                                                                         | EP17                      |
-| US53 | Actualizar Estado de Dispositivo IoT                   | Como miembro del staff, quiero marcar un dispositivo IoT como “Activo” o “En mantenimiento”.                            | **Funcionalidad: Cambio de estado IoT**<br><br>**Escenario 1: Marcar como Activo**<br>Dado que selecciona un dispositivo inactivo,<br>Cuando elige “Marcar como Activo” y confirma,<br>Entonces actualiza el estado a “Activo” y muestra “Estado actualizado”.<br><br>**Escenario 2: Marcar como En mantenimiento**<br>Dado que selecciona un dispositivo activo,<br>Cuando elige “Marcar como En mantenimiento” y confirma,<br>Entonces actualiza el estado a “Mantenimiento” y muestra “En mantenimiento”.                                                                                                                                                                                                                                                                                       | EP17                      |
-| US54 | Gestión de Datos Personales                            | Como usuario autenticado, quiero actualizar mis datos personales, para mantener mi perfil al día.                       | **Funcionalidad: Actualización de perfil de usuario**<br><br>**Escenario 1: Validación y guardado**<br>Dado que el usuario edita su nombre o correo,<br>Cuando pulsa “Guardar cambios”,<br>Entonces actualiza la información en la base de datos y muestra confirmación.<br><br>**Escenario 2: Correo duplicado**<br>Dado que intenta usar un correo ya existente,<br>Cuando pulsa “Guardar cambios”,<br>Entonces el sistema rechaza la acción y muestra “El correo ya está en uso”.                                                                                                                                                                                                                                                                                                               | EP18                      |
-| US55 | Gestión de Roles y Permisos                            | Como administrador, quiero asignar y gestionar roles y permisos de usuarios, para controlar accesos y funcionalidades.  | **Funcionalidad: Administración de roles**<br><br>**Escenario 1: Asignar rol**<br>Dado que un administrador selecciona un usuario y un rol,<br>Cuando confirma la asignación,<br>Entonces guarda el rol en la base de datos y aplica los permisos.<br><br>**Escenario 2: Revocar rol**<br>Dado que un administrador revoca un rol a un usuario,<br>Cuando confirma la acción,<br>Entonces bloquea el acceso a las áreas correspondientes y registra el cambio.                                                                                                                                                                                                                                                                                                                                     | EP19                      |
+| EP01 |Crear cuenta|Como huésped o personal administrativo, quiero crear una cuenta para acceder a las funcionalidades de la aplicación|  |                           |
+| EP02 |Configuración de Preferencias del Huésped|Como huésped, quiero establecer mis preferencias de iluminación y temperatura, para que mi habitación se adapte automáticamente.|  |                           |
+| EP03 |Gestión de Solicitudes de Servicios|Como huésped, quiero poder solicitar servicios desde la aplicación para tener una atención personalizada a mis gustos.|  |                           |
+| EP04 |Panel de control|Como personal administrativo, quiero tener un dashboard con información en tiempo real sobre las solicitudes de los huéspedes, para  poder gestionarlos mejor.|  |                           |
+| EP05 |Notificaciones en tiempo real|Como huésped o personal del hotel, quiero recibir notificaciones en tiempo real, para poder saber sobre eventos importantes o problemas técnicos.|  |                           |
+| EP06 |Seguimiento de Historial de Preferencias|Como developer, quiero tener acceso al historial de preferencia de los huéspedes, para mejorar la aplicación en base a las preferencias de los usuarios.|  |                           |
+| EP07 |Gestión de habitaciones|Como developer, quiero implementar un sistema de gestión de habitaciones, para que permita modificar y asignar habitaciones disponibles.|  |                           |
+| EP08 |Implementacion de la landing page informativa|Como huésped, quiero tener acceso a una plataforma web, para conocer los servicios que brindan en el hotel.|  |                           |
+| EP09 |Gestión de Reservas|Como developer, quiero desarrollar un sistema de gestión de reservas, para que los huéspedes puedan realizar, modificar o cancelar la reserva de sus habitaciones.|  |                           |
+| EP10 |Evaluación de la Experiencia del Huésped|Como huésped, quiero poder calificar mi experiencia, para compartir mis opiniones sobre el servicio recibido.|  |                           |
+| EP11 |Sistema de Recompensas y Fidelización|Como huésped, quiero recibir puntos o beneficios por mis visitas, para sentirme valorado y motivado a volver.|  |                           |
+| EP12 |Gestión Multilingüe de la Plataforma|Como huésped quiero que la plataforma esté disponible en más de un idioma para poder usar el idioma de mi preferencia.|  |                           |
+| EP13 |Seguridad y Privacidad de Datos|Como developer, quiero implementar, mecanismos de seguridad y privacidad de datos, para proteger la información de los usuarios.|  |                           |
+| EP14 |Soporte en Línea para el Usuario|Como huésped quiero tener un soporte personalizado y que responda inmediatamente para poder resolver mis problemas o mis consultas.|  |                           |
+| EP15 |Gestión de perfiles|Como developer, quiero implementar un sistema de gestión de perfiles de usuario que permita editar la información y preferencias, para que cada tipo de usuario tenga una experiencia personalizada.|  |                           |
+| US01 |Visualización de Información de Servicios.|Como visitante del sitio, quiero visualizar los servicios que ofrece el hotel, para saber lo que ofrece antes de hacer una reserva.|**Escenario 1:** <br>Dado que el visitante ha accedido a la landing page del sitio web, <br>Cuando navega hacia la sección de servicios en la página, <br>Entonces el sistema debe mostrar un listado claro de los principales servicios.| EP08 |
+| US02 |Acceso a Información de Contacto.|Como visitante del sitio, quiero acceder fácilmente a los datos de contacto del hotel, para poder comunicarme si tengo dudas o necesito ayuda.|**Escenario 1:** <br>Dado que el visitante visualiza la plataforma del hotel, <br>Cuando revisa la parte inferior del sitio, <br>Entonces debe encontrar la información de contacto completa del hotel. <br><br>**Escenario 2:** <br>Dado que el visitante necesita realizar una consulta rápida, <br>Cuando utiliza la opción de contacto en la interfaz, <br>Entonces debe mostrarse un formulario emergente para enviar su mensaje.| EP08 |
+| US03 |Acceso a Testimonios de Huéspedes.|Como visitante del sitio, quiero leer opiniones de otros huéspedes, para tener mayor confianza al momento de decidir si reservar.|**Escenario 1:** <br>Dado que el visitante está explorando la página de inicio, <br>Cuando visualiza la sección de testimonios, <br>Entonces debe encontrar opiniones ordenadas cronológicamente, con nombre, fecha de estadía y contenido. <br><br>**Escenario 2:** <br>Dado que hay múltiples testimonios disponibles, <br>Cuando el visitante solicita ver más opiniones, <br>Entonces el sistema debe cargar contenido adicional dinámicamente, sin recargar la página.| EP08 |
+| US04 |Acceso Rápido al Formulario de Reserva.|Como visitante del sitio, quiero encontrar fácilmente un botón para reservar una habitación, para iniciar rápidamente el proceso si me interesa.|**Escenario 1:** <br>Dado que el visitante se encuentra en la landing page del sitio web, <br>Cuando llega a la sección de servicios o al final de la página, <br>Entonces debe ver un botón fijo "Reservar ahora" que redirige al formulario de reservas.| EP08 |
+| US05 |Sección "Sobre Nosotros".|Como visitante del sitio, quiero conocer la historia y valores del hotel, para tener mayor conexión y confianza con la empresa.|**Escenario 1:** <br>Dado que el visitante está explorando la landing page, <br>Cuando llega a la sección “Sobre Nosotros”, <br>Entonces debe visualizar una descripción breve de la historia del hotel, su equipo y valores, acompañada de imágenes. <br><br>**Escenario 2:** <br>Dado que hay contenido multimedia sobre la historia del hotel, <br>Cuando el visitante interactúa con el video informativo, <br>Entonces el video debe reproducirse en el mismo entorno visual, sin redirigir a otras páginas.| EP08 |
+|US06|Registrar petición de servicio de huésped|Como hotel, quiero registrar solicitudes de servicios de los huéspedes para atender sus necesidades según su prioridad.|**Escenario 1:** <br>Registro exitoso de petición básica<br>Dado que está en la pantalla de peticiones del huésped,<br>Y se quiere agregar una nueva petición,<br>Cuando se ingresan los valores válidos de título, habitación, tipo, descripción y prioridad<br>Y se envía la petición<br>Entonces se muestra la petición en la habitación correspondiente<br>**Escenario 2:** Registro con datos incompletos<br>Dado que se está registrando una nueva petición<br>Cuando se deja el campo "Descripción" con un valor nulo<br>Y se intenta enviar el formulario<br>Entonces se muestra el mensaje "Descripción requerida" ||
+|US07|Asignar personal a peticiones de servicios|Como hotel, quiero asignar miembros del personal a peticiones pendientes para distribuir las tareas y garantizar su pronta atención.|**Escenario 1:** <br>Asignar petición al personal con datos válidos<br>Dado que hay una petición abierta para la habitación 103,<br>Y selecciona “Asignar personal”,<br>Cuando se elige al personal disponible<br>Y se confirma la asignación,<br>Entonces el sistema actualiza el estado a “En progreso”<br>**Escenario 2:** Asignar petición al personal con datos inválidos<br>Dado que se quiere asignar una petición de servicio,<br>Cuando se selecciona un miembro del personal con un ID inválido<br>Entonces se muestra el mensaje “Datos inválidos para la asignación” ||
+|US08|Registrar petición de servicio como completada|Como hotel, quiero registrar cuando una petición de servicio ha sido resuelta para mantener actualizado el estado de las solicitudes.|**Escenario 1:** <br>Cierre exitoso de petición<br>Dado que se ha completado la petición de servicio de la habitación 103,<br>Y se registra como “Completada”<br>Entonces cambia el estado a “Completada” ||
+|US09|Ver lista del personal del hotel|Como hotel, quiero ver una lista con el nombre, área, teléfono, estado y peticiones activas del personal para tener en cuenta la disponibilidad del personal.|**Escenario 1:** <br>Visualización de datos del personal<br>Dado que se accede a la pantalla de "Personal del Hotel"<br>Y hay registros activos,<br>Cuando se muestran los datos del personal,<br>Entonces se visualiza el nombre, departamento, teléfono, estado y número de peticiones activas de cada miembro del personal.<br>**Escenario 2:** Lista con paginación activa<br>Dado que hay más de cinco miembros de personal registrados<br>Cuando se navega entre las páginas usando la paginación<br>Entonces se muestran los datos del otro personal. ||
+|US10|Eliminar miembro del personal|Como hotel, quiero eliminar a un miembro del personal que ya no trabaja para mantener la lista actualizada.|**Escenario 1:** <br>Eliminación de miembro del personal<br>Dado que se accede a la pantalla de personal,<br>Y quiere eliminar a un miembro del personal,<br>Cuando selecciona el ícono de eliminar<br>Entonces se muestra un mensaje de confirmación<br>Y al aceptar, el personal ya no se muestra en la lista.<br>**Escenario 2:** Cancelar acción de eliminar a un miembro del personal<br>Dado que desea eliminar a un miembro del personal<br>Cuando se muestra la ventana de confirmación<br>Y selecciona “Cancelar”,<br>Entonces no se realiza ningún cambio<br>Y el miembro permanece en la lista. ||
+|US11|Agregar personal al sistema|Como hotel, quiero registrar un nuevo miembro del personal para poder asignarle peticiones de servicios.|**Escenario 1:** <br>Registro de nuevo personal exitoso<br>Dado que se está en la pantalla de "Personal del Hotel",<br>Cuando se presiona el botón “Agregar Personal”<br>Y se completan los datos requeridos con los valores válidos,<br>Entonces se guarda el nuevo miembro<br>Y aparece en la lista con estado “Activo”.<br>**Escenario 2:** Registro de nuevo personal con datos incompletos<br>Dado que se abre el formulario de nuevo personal<br>Cuando no se completa un campo requerido<br>Y desea guardar<br>Entonces se muestra el mensaje “Completar todos los campos requeridos”<br>Y no se permite registrar al nuevo miembro.<br>**Escenario 3:** Registro de nuevo personal con valores inválidos<br>Dado que se abre el formulario para registrar nuevo personal<br>Cuando se ingresa un dato con un valor invalido<br>Y se intenta guardar<br>Entonces el sistema muestra el mensaje “Complete los datos correctamente”<br>Y no permite completar el registro<br>Y solicita corregir los datos ||
+|US12|Actualizar estado de habitación|Como hotel, quiero cambiar el estado de una habitación manualmente para reflejar su disponibilidad real y gestionar mantenimiento.|**Escenario 1:** <br>Cambio a estado "En mantenimiento"<br>Dado que la habitación 302 (Hotel 1) requiere reparaciones<br>Cuando registro su cambio de estado a "Maintenance"<br>Y confirmo la acción<br>Entonces el sistema actualiza el estado en la tabla<br>Y desactiva las reservas para esa habitación automáticamente.<br>**Escenario 2:** Liberar habitación ocupada<br>Dado que el huésped de la habitación 103 ha hecho checkout<br>Cuando cambio su estado de "Occupied" a "Available"<br>Entonces el sistema actualiza el inventario en tiempo real<br>Y dispara la solicitud de limpieza al personal housekeeping. ||
+|US13|Gestionar tarifas dinámicas|Como miembro del staff del hotel, quiero ajustar los precios de las habitaciones por tipo y temporada para optimizar la ocupación y los ingresos.|**Escenario 1:** <br>Aplicar aumento estacional<br>Dado que inicia la temporada alta<br>Cuando modifico el precio de las Suites a $400<br>Entonces el cambio se refleja inmediatamente en todas las habitaciones tipo Suite.<br>**Escenario 2:** Error en rango de precios<br>Dado que intento establecer un precio de $50 para una Suite<br>Cuando confirmo el cambio<br>Entonces el sistema valora que está 30% bajo el mínimo histórico. ||
+|US14|Crear nueva habitación|Como administrador del hotel, quiero registrar nuevas habitaciones en el sistema para expandir la capacidad de alojamiento y gestionar correctamente el inventario.|**Escenario 1:** <br>Creación exitosa de habitación estándar<br>Dado que necesito añadir una nueva habitación al piso 2<br>Cuando completo los valores válidos de Hotel Id, Room Number, Type, Status, Price y Floor<br>Y confirmo la creación<br>Entonces se refleja la creación de la habitación en la tabla.<br>**Escenario 2:** Intento de crear habitación duplicada<br>Dado que intento registrar la habitación 101 en el Hotel 1<br>Cuando ingreso un número que ya existe en ese piso<br>Entonces el sistema muestra el mensaje "Número de habitación ya existe en este piso" ||
+|US15|Eliminar habitación del sistema|Como miembro del staff del hotel, quiero dar de baja habitaciones para mantener actualizado el inventario tras remodelaciones o cambios estructurales.|**Escenario 1:** <br>Eliminación de habitación sin reservas futuras<br>Dado que la habitación 301 será demolida en una renovación<br>Cuando selecciono "Eliminar" y confirmo la acción<br>Entonces el sistema verifica que no tenga reservas activas o futuras<br>Y Elimina todos los registros asociados ||
+|US16|Eliminar reserva del sistema|Como miembro del staff del hotel, quiero poder eliminar registros de reservas canceladas o erróneas para mantener la base de datos actualizada y evitar confusiones operativas.|**Escenario 1:** <br>Eliminación de reserva cancelada<br>Dado que Robert Johnson canceló su estadía del 29/05/2025<br>Cuando selecciono "Eliminar" en su registro<br>Y confirmo la acción<br>Entonces el sistema elimina permanentemente el registro de la tabla<br>**Escenario 2:** Intento de eliminar reserva activa<br>Dado que Amanda Thomas tiene reserva confirmada para junio<br>Cuando intento eliminar su registro<br>Entonces el sistema muestra alerta "No se puede eliminar: Estado = confirmed" ||
+|US17|Ver detalles completos de reserva|Como miembro del staff del hotel, quiero acceder a información ampliada de cualquier reserva para atender consultas específicas de huéspedes y gestionar servicios.|**Escenario 1:**<br> Consulta de datos básicos<br>Dado que John Doe pregunta por su reserva en habitación 101<br>Cuando me dirijo a la pantalla "Booking Tracker"<br>Entonces el sistema muestra una tabla con todas las habitaciones y huéspedes registrados<br>**Escenario 2:** Información operativa<br>Dado que necesito preparar la habitación 102 para Sarah Davis<br>Cuando consulto los detalles de su reserva pendiente<br>Entonces el sistema incluye estado de pago (depósito completo/parcial) ||
+|US18|Agregar nuevo dispositivo|Como personal del hotel, quiero añadir un dispositivo y asignarlo a una habitación para empezar a controlar su operación.|**Escenario 1:** <br>Configuración inicial registrada exitosamente<br>Dado que se ha especificado la habitación correspondiente<br>Y se ha seleccionado el tipo de dispositivo compatible<br>Cuando se definen los valores de configuración iniciales<br>Entonces la plataforma registra la configuración<br>Y se muestra el dispositivo como asignado a la habitación correspondiente.<br>**Escenario 2:** Configuración inicial incompleta<br>Dado que solo se ha especificado el modelo de dispositivo<br>Cuando se intenta registrar una configuración<br>Entonces el sistema impide continuar el proceso<br>Y notifica que es necesario indicar la habitación asociada<br>**Escenario 3:** Registro sin configuración personalizada<br>Dado que se ha especificado la habitación y el tipo de dispositivo<br>Cuando se omite la configuración personalizada inicial<br>Entonces el sistema impide continuar el proceso<br>Y notifica que es necesario especificar la configuración personalizada. ||
+|US19|Filtrado de dispositivos visibles para el huésped|Como personal del hotel, quiero ocultar los dispositivos en mantenimiento o inactivos según el reporte del soporte técnico, para que el huésped solo vea opciones disponibles y funcionales en su experiencia con la plataforma.|<br>**Escenario 1:** Cambio de estado registrado correctamente<br>Dado que se ha identificado el dispositivo que requiere actualización de estado<br>Cuando se indica el nuevo estado del dispositivo<br>Y se confirma la actualización<br>Entonces el sistema registra el cambio de estado<br>Y el dispositivo queda clasificado según el nuevo estado asignado.<br>Y se muestra el dispositivo asignado con el nuevo estado<br>**Escenario 2:** Cambio de estado no confirmado<br>Dado que se ha identificado el dispositivo que requiere actualización de estado<br>Cuando se indica un nuevo estado sin confirmar la modificación<br>Entonces el sistema conserva el estado anterior<br>Y el dispositivo continúa con su clasificación previa. ||
+|US20|Edición de configuración del dispositivo|Como personal del hotel, quiero modificar la configuración de los dispositivos, para corregir valores inapropiados establecidos por el huésped o apagar el dispositivo si permanece encendido mientras el huésped no está en la habitación.|<br>**Escenario 1:** Configuración ajustada correctamente<br>Dado que se ha identificado un dispositivo con valores fuera de los límites recomendados<br>O se ha detectado que permanece encendido sin presencia en la habitación<br>Cuando se establece una nueva configuración<br>Y se confirma el ajuste<br>Entonces el sistema registra los cambios<br>Y el dispositivo opera con los nuevos parámetros definidos.<br>**Escenario 2:** Ajuste de configuración no confirmado<br>Dado que se ha identificado un dispositivo con valores que deben ser corregidos<br>Cuando se modifican los parámetros pero no se confirma la actualización<br>Entonces el sistema mantiene la configuración anterior<br>Y el dispositivo continúa funcionando con los valores previamente definidos. ||
+|US21|Obtener los dispositivos funcionales por habitación|Como desarrollador, quiero obtener los dispositivos funcionales por habitación a través de la API, para construir funcionalidades de configuración de preferencias de dispositivos en mis aplicaciones.|<br>**Escenario 1:** Búsqueda exitosa con dispositivos funcionales<br>Dado que el endpoint “iot-devices/Working/roomId” está disponible<br>Cuando se envía una petición GET con parámetros roomId, status, hotelId<br>Y existen dispositivos funcionales en la habitación especificada y dentro del hotel especificado<br>Entonces se recibe una respuesta con Status 200<br>Y se incluye una lista de recursos Dispositivo en el Response Body<br>Y cada dispositivo incluye id, name, deviceType, configSchema, status, createdAt.<br>**Escenario 2:** Búsqueda sin dispositivos funcionales<br>Dado que el endpoint “/iot-devices/Working/roomId” está disponible<br>Cuando se envía una petición GET con parámetros roomId, status, hotelId<br>Y no existen dispositivos funcionales disponibles para la habitación especificada en el hotel especificado<br>Entonces se recibe una respuesta con status 200<br>Y se incluye una lista vacía en el Response Body. ||
+|US22|Obtener modelos de dispositivos disponibles|Como desarrollador, quiero obtener los modelos de dispositivos disponibles a través del API, para que puedan ser utilizados como base al asignar un nuevo dispositivo a una habitación.|<br>**Escenario 1:** Consulta exitosa de modelos de dispositivos<br>Dado que el endpoint /devices-models está disponible<br>Cuando se envía una petición GET sin parámetros adicionales<br>Entonces se recibe una respuesta con status 200<br>Y se incluye una lista de recursos Modelos de Dispositivo en el Response Body<br>Y cada modelo de dispositivo incluye id, deviceType, name, configSchema, status, createdAt.<br>**Escenario 2:** Búsqueda sin modelos de dispositivos disponibles<br>Dado que el endpoint /devices-models está disponible<br>Cuando se envía una petición GET sin parámetros adicionales y no existen modelos de dispositivos disponibles<br>Entonces se recibe una respuesta con status 200<br>Y se incluye una lista vacía en el Response Body<br>Y se incluye un mensaje “No hay modelos de dispositivos disponibles” ||
+|US23|Agregar una petición de servicio del huésped al RESTful API|Como Desarrollador, quiero agregar la capacidad de registrar peticiones de servicios de huéspedes a través del API para que pueda construir funcionalidades de gestión de servicios en mi aplicación.|<br>**Escenario 1:** Agregar una petición de servicio con los valores válidos<br>Dado Que el Endpoint "/crm/service-request" está disponible<br>Cuando Se envía una solicitud POST con valores válidos de title, description, type, priority, userId, hotelId y roomId<br>Entonces Se recibe una respuesta con Estado 201<br>Y se agrega la petición de servicio con un nuevo id y con los datos establecidos<br>**Escenario 2:** Crear una petición de servicio con campos obligatorios faltantes<br>Dado Que el Endpoint "/crm/service-request" está disponible<br>Cuando se envía una solicitud POST sin los valores de title, description, type, priority, userId, hotelId, roomId<br>Entonces Se recibe una respuesta con Estado 400<br>Y Se incluye un mensaje en la respuesta, con el valor "La petición del servicio no puede ser creada" ||
+|US24|Obtener peticiones de servicio por ID de habitación a través del RESTful API|Como Desarrollador, quiero obtener las peticiones de servicio filtradas por el ID de habitación a través del API para que pueda construir una funcionalidad de gestión para una habitación específica.|<br>**Escenario 1:** Obtener las peticiones de servicio para una habitación válida<br>Dado Que el Endpoint "/crm/service-request/room/{roomId}" está disponible<br>Cuando Se envía una solicitud GET con un roomId válido<br>Entonces Se recibe una respuesta con Estado 200, y se reciben los valores de id, title, description, type, status, priority, userId, hotelId, roomId, assignedTo, createdAt, resolvedAt, completedAt.<br>**Escenario 2:** Obtener peticiones para una habitación que no existe<br>Dado Que el Endpoint "/crm/service-request/room/{roomId}" está disponible<br>Cuando Se envía una solicitud GET con un roomId con un valor que no existe<br>Entonces Se recibe una respuesta con Estado 404<br>Y se incluye un mensaje en el cuerpo de la respuesta, con el valor "No se encontraron peticiones para esta habitación." ||
+|US25|Asignar personal a una petición de servicio a través del RESTful API|Como Desarrollador, quiero asignar personal a una petición de servicio a través del API para que pueda construir una funcionalidad de asignar tareas.|<br>**Escenario 1:** Asignar personal a una petición abierta<br>Dado Que el Endpoint "/crm/service-request/{id}/assign" está disponible<br>Cuando se envía una solicitud PATCH con un id válido<br>Entonces Se recibe una respuesta con Estado 200<br>Y la petición se actualiza con status "Asignado"<br>**Escenario 2:** Asignar personal a una petición resuelta<br>Dado Que el Endpoint "/crm/service-request/{id}/assign" está disponible<br>Cuando Se envía una solicitud PATCH para una petición con status "Completada"<br>Entonces Se recibe una respuesta con Estado 400<br>Y se incluye un Mensaje en la respuesta, con el valor "No se puede asignar personal a una petición ya resuelta." ||
+|US26|Establecer una petición de servicio como resuelta a través del RESTful API|Como Desarrollador, quiero registrar una petición de servicio como resuelta a través del API para que pueda construir una funcionalidad que gestione las solicitudes atendidas.|<br>**Escenario 1:** Establecer como resuelta una petición asignada<br>Dado Que el Endpoint "/crm/service-request/{id}/resolve" está disponible<br>Cuando Se envía una solicitud PATCH con un id válido<br>Entonces Se recibe una respuesta con Estado 200<br>Y la petición se actualiza con status "Completada"<br>**Escenario 2:** Marcar como resuelta una petición ya resuelta<br>Dado Que el Endpoint "/crm/service-request/{id}/resolve" está disponible<br>Cuando Se envía una solicitud PATCH para una petición con status "Resuelto"<br>Entonces Se recibe una respuesta con Estado 400<br>Y Se incluye un mensaje en la respuesta, con el valor "La petición ya ha sido completada." ||
+|US27|Actualizar Estado de un Miembro del Personal a través del RESTful API|Como Desarrollador, quiero cambiar el estado del personal a través del API para poder construir una funcionalidad que refleje los cambios de disponibilidad del personal en la aplicación.|<br>**Escenario 1:** Modificar estado del personal a "Inactivo"<br>Dado que el endpoint “/staff-members/{staffMemberId}” esta disponible<br>Cuando se envía una solicitud PATCH con el valor de “Inactive”,<br>Entonces debe mostrar una respuesta con valor 200<br>Y modificar el status del personal<br>**Escenario 2:** Modificar estado del personal a un id no válido<br>Dado que el endpoint “/staff-members/{staffMemberId}” esta disponible<br>Cuando se envía una solicitud PATCH con un id que no es válido,<br>Entonces se debe mostrar una respuesta con valor 400 ||
+|US28|Agregar un nuevo personal a través del RESTful API|Como Desarrollador, quiero registrar nuevo personal a través del API para que pueda construir una funcionalidad que gestione al nuevo personal en la aplicación.|<br>**Escenario 1:** Registro del personal exitoso<br>Dado el endpoint “/staff-members” está disponible<br>Cuando se envía una solicitud POST con los valores válidos de hotelId, firstName, lastName, email, phone y department,<br>Entonces se recibe una respuesta con valor 201,<br>Y se agrega el personal con un nuevo Id y los datos enviados<br>**Escenario 2:** Registro del personal fallido por datos incompletos<br>Dado que el endpoint “/staff-members” está disponible<br>Cuando se envía una solicitud POST con un valor que sea nulo<br>Entonces se recibe una respuesta con valor 400<br>Y muestra el mensaje “Todos los campos se deben completas” ||
+|US29|Obtener todas las habitaciones disponibles a través del RESTful API|Como Desarrollador, quiero obtener todas las habitaciones mediante API para poder mostrarlas en la interfaz de gestión.|<br>**Escenario 1:** Obtener todas las habitaciones exitosamente<br>Dado que El Endpoint "/crm/rooms" está disponible,<br>Cuando Se realiza una petición GET con parámetros id, roomNumber, status, type, hotelId, price y floor,<br>Entonces Se recibe una respuesta con Status 200,<br>Y Cada habitación contiene hotelId, roomNumber, type, status, price y floor.<br>**Escenario 2:** No se encuentran habitaciones<br>Dado que El Endpoint "/crm/rooms" está disponible,<br>Cuando Se realiza una petición GET con parámetros id, roomNumber, status, type, hotelId, price y floor<br>Y No existen habitaciones en el sistema,<br>Entonces Se recibe una respuesta con Status 200<br>Y Se retorna una lista vacía. ||
+|US30|Crear una nueva habitación a través del RESTful API|Como Desarrollador, quiero crear una nueva habitación mediante API para poder añadirla al sistema de gestión.|<br>**Escenario 1:** Crear habitación exitosamente<br>Dado que el Endpoint "/crm/rooms" está disponible,<br>Cuando Se envía una petición POST con los parámetros roomNumber, status, type, hotelId, price y floor,<br>Entonces Se recibe una respuesta con Status 201,<br>Y Se incluye el Recurso Habitación creado en el cuerpo con un id autogenerado.<br>**Escenario 2:** Crear habitación con número duplicado en el mismo hotel<br>Dado que El Endpoint "/crm/rooms" está disponible,<br>Cuando Se envía una petición POST con un roomNumber que ya existe para el mismo hotelId,<br>Entonces Se recibe una respuesta con Status 400. ||
+|US31|Actualizar la información de una habitación a través del RESTful API|Como Desarrollador, quiero actualizar la información de una habitación mediante API para poder modificar sus detalles en el sistema.|<br>**Escenario 1:** Actualizar habitación exitosamente<br>Dado que El Endpoint "/crm/rooms/{roomId}" está disponible,<br>Cuando Se envía una petición PUT con los parámetros actualizados status y price,<br>Entonces Se recibe una respuesta con Status 200,<br>Y Solo se actualizan los campos especificados.<br>**Escenario 2:** Actualizar habitación inexistente<br>Dado que El Endpoint "/crm/rooms/{roomId}" está disponible,<br>Cuando Se realiza una petición PUT con un roomId inválido,<br>Entonces Se recibe una respuesta con Status 404. ||
+|US32|Eliminar datos de una habitación a través del RESTful API|Como Desarrollador, quiero eliminar una habitación mediante API para poder quitarla del sistema.|<br>**Escenario 1:** Eliminar habitación exitosamente<br>Dado que El Endpoint "/crm/rooms/{roomId}" está disponible,<br>Cuando Se realiza una petición DELETE con un roomId válido,<br>Entonces Se recibe una respuesta con Status 204.<br>**Escenario 2:** Eliminar habitación inexistente<br>Dado que El Endpoint "/crm/rooms/{roomId}" está disponible,<br>Cuando Se realiza una petición DELETE con un roomId inválido,<br>Entonces Se recibe una respuesta con Status 404. ||
+|US33|Configurar dispositivos de la habitación como huésped|Como huésped, quiero configurar los dispositivos de la habitación que he reservado para personalizar mi experiencia y disfrutar una estadía más cómoda.|<br>**Escenario 1:** Configuración exitosa de un dispositivo<br>Dado que está en la sección de preferencias<br>Y selecciona una habitación con dispositivos asociados<br>Cuando modifica la configuración de un dispositivo, como ajustar la temperatura del termostato<br>Entonces el cambio se aplica de manera inmediata<br>Y se muestra una notificación confirmando la actualización<br>Y mejora su comodidad al ver reflejado el cambio realizado.<br>**Escenario 2:** Intento de configurar un dispositivo sin cumplir requisitos<br>Dado que no tiene acceso a ciertos ajustes avanzados por restricciones del hotel<br>Cuando intenta modificar una configuración restringida<br>Entonces no puede realizar el cambio<br>Y recibe un mensaje indicando que esa opción no está disponible<br>Y permanece en la pantalla con los ajustes disponibles.<br>**Escenario 3:** Dispositivo no responde durante la configuración<br>Dado que intenta configurar un dispositivo<br>Cuando el dispositivo no responde o hay un fallo en la conexión<br>Entonces se muestra un mensaje de error indicando que no fue posible aplicar el cambio<br>Y se mantiene la configuración anterior<br>Y se sugiere intentar más tarde o contactar con soporte.<br>Escenario 4: Configuración exitosa de múltiples dispositivos<br>Dado que está en la sección de preferencias<br>Y tiene varios dispositivos disponibles en la habitación<br>Cuando realiza cambios en más de un dispositivo, como encender las luces y subir el volumen del televisor<br>Entonces se aplican todos los cambios seleccionados<br>Y se notifica que la configuración ha sido actualizada correctamente. ||
+|US33|Configurar dispositivos de la habitación como huésped|Como huésped, quiero configurar los dispositivos de la habitación que he reservado para personalizar mi experiencia y disfrutar una estadía más cómoda.|<br>**Escenario 1:** Configuración exitosa de un dispositivo<br>Dado que está en la sección de preferencias<br>Y selecciona una habitación con dispositivos asociados<br>Cuando modifica la configuración de un dispositivo, como ajustar la temperatura del termostato<br>Entonces el cambio se aplica de manera inmediata<br>Y se muestra una notificación confirmando la actualización<br>Y mejora su comodidad al ver reflejado el cambio realizado.<br>**Escenario 2:** Intento de configurar un dispositivo sin cumplir requisitos<br>Dado que no tiene acceso a ciertos ajustes avanzados por restricciones del hotel<br>Cuando intenta modificar una configuración restringida<br>Entonces no puede realizar el cambio<br>Y recibe un mensaje indicando que esa opción no está disponible<br>Y permanece en la pantalla con los ajustes disponibles.<br>**Escenario 3:** Dispositivo no responde durante la configuración<br>Dado que intenta configurar un dispositivo<br>Cuando el dispositivo no responde o hay un fallo en la conexión<br>Entonces se muestra un mensaje de error indicando que no fue posible aplicar el cambio<br>Y se mantiene la configuración anterior<br>Y se sugiere intentar más tarde o contactar con soporte.<br>Escenario 4: Configuración exitosa de múltiples dispositivos<br>Dado que está en la sección de preferencias<br>Y tiene varios dispositivos disponibles en la habitación<br>Cuando realiza cambios en más de un dispositivo, como encender las luces y subir el volumen del televisor<br>Entonces se aplican todos los cambios seleccionados<br>Y se notifica que la configuración ha sido actualizada correctamente. ||
+|US34|Configurar dispositivos IoT de la habitación|Como Desarrollador, quiero configurar los dispositivos IoT asociados a una habitación desde la sección de preferencias para que los huéspedes puedan personalizar su entorno y mejorar su experiencia durante la estadía.|<br>**Escenario 1:** Configuración exitosa de un dispositivo IoT<br>Dado que el endpoint "/habitaciones/{id}/dispositivos" está disponible<br>Cuando se envía una petición PUT con los nuevos valores de configuración para un dispositivo<br>Y los parámetros enviados son válidos<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body un mensaje de confirmación<br>Y el estado del dispositivo se actualiza en la base de datos.<br>**Escenario 2:** Intento de configuración con parámetros inválidos<br>Dado que el endpoint "/habitaciones/{id}/dispositivos" está disponible<br>Cuando se envía una petición PUT con valores fuera de rango o no permitidos<br>Y el sistema valida las restricciones definidas por el hotel<br>Entonces se recibe una respuesta con Status 400 Bad Request<br>Y se incluye un mensaje en el Response Body con valor "Valor no permitido para este dispositivo".<br>**Escenario 3:** Dispositivo no responde al intentar configurarlo<br>Dado que el endpoint "/habitaciones/{id}/dispositivos" está disponible<br>Cuando se envía una petición PUT pero el dispositivo no responde o hay un fallo en la conexión<br>Entonces se recibe una respuesta con Status 503 Service Unavailable<br>Y se incluye un mensaje en el Response Body con valor "No fue posible comunicarse con el dispositivo".<br>Escenario 4: Configuración exitosa de múltiples dispositivos en una sola acción<br>Dado que el endpoint "/habitaciones/{id}/dispositivos" está disponible<br>Cuando se envía una petición PUT con configuraciones para más de un dispositivo<br>Y todos los parámetros son válidos<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se confirma la actualización de todos los dispositivos solicitados. ||
+|US35|Ver dispositivos asociados a mi habitación|Como huésped, quiero visualizar los dispositivos IoT asociados a la habitación para conocer qué elementos se puede configurar y controlar durante la estadía.|<br>**Escenario 1:** Visualización exitosa de los dispositivos IoT<br>Dado que estoy en la sección de preferencias<br>Cuando selecciono una habitación asignada a mi reserva<br>Entonces se muestra la lista completa de dispositivos disponibles en esa habitación<br>Y se identifica claramente el tipo de cada dispositivo (termostato, luz, televisor, etc.)<br>Y puedo interactuar con ellos para realizar ajustes.<br>**Escenario 2:** No hay dispositivos disponibles en la habitación<br>Dado que estoy en la sección de preferencias<br>Cuando selecciono una habitación que no tiene dispositivos IoT asociados<br>Entonces se muestra un mensaje indicando “Esta habitación no cuenta con dispositivos configurables”<br>Y no se muestran opciones de interacción con dispositivos.<br>**Escenario 3:** Error al cargar los dispositivos IoT<br>Dado que estoy en la sección de preferencias<br>Cuando ocurre un fallo al recuperar la información de los dispositivos<br>Entonces se muestra un mensaje de error indicando “No fue posible cargar los dispositivos”<br>Y se ofrece la opción de reintentar la carga. ||
+|US36|Obtener listado de dispositivos IoT por habitación|Como Desarrollador, quiero obtener el listado de dispositivos IoT asociados a una habitación desde la sección de preferencias para que los huéspedes puedan visualizar y gestionar los dispositivos disponibles en su espacio.|<br>**Escenario 1:** Consulta exitosa del listado de dispositivos<br>Dado que el endpoint "/habitaciones/{id}/dispositivos" está disponible<br>Cuando se envía una petición GET para obtener los dispositivos asociados a una habitación<br>Y la habitación tiene dispositivos registrados<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body una lista con los dispositivos y sus características<br>Y se actualiza la interfaz mostrando los dispositivos disponibles.<br>**Escenario 2:** La habitación no tiene dispositivos asociados<br>Dado que el endpoint "/habitaciones/{id}/dispositivos" está disponible<br>Cuando se realiza una petición GET pero la habitación no tiene dispositivos registrados<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body un mensaje indicando que no hay dispositivos.<br>**Escenario 3:** Error al consultar los dispositivos<br>Dado que el endpoint "/habitaciones/{id}/dispositivos" está disponible<br>Cuando ocurre un fallo interno al intentar recuperar los dispositivos<br>Entonces se recibe una respuesta con Status 500 Internal Server Error<br>Y se incluye un mensaje en el Response Body con valor "Error al obtener los dispositivos". ||
+|US37|Visualizar listado de reservas|Como huésped, quiero visualizar el listado de las reservas que realice para tener una visión clara de mis estadías programadas y su estado.|<br>**Escenario 1:** Visualización exitosa del listado de reservas<br>Dado que estoy en la sección mis reservaciones<br>Cuando accedo a la pantalla de mis reservas<br>Entonces se muestra una lista con todas mis reservas activas<br>Y se muestran detalles como hotel, habitación, fechas, estado y precio total<br>Y puedo identificar fácilmente cada reserva.<br>**Escenario 2:** No tengo reservas activas<br>Dado que no tengo ninguna reserva registrada<br>Cuando ingreso a la sección mis reservaciones<br>Entonces se muestra un mensaje indicando “No tienes reservas activas”<br>Y no se muestra ninguna información adicional.<br>**Escenario 3:** Error al cargar el listado de reservas<br>Dado que estoy en la sección mis reservaciones<br>Cuando ocurre un fallo al recuperar la información de mis reservas<br>Entonces se muestra un mensaje de error indicando “No fue posible cargar tus reservas”<br>Y se ofrece la opción de reintentar la carga. ||
+|US38|Eliminar una reserva como huésped|Como huésped, quiero eliminar una de las reservas que realice para cancelarla antes de la fecha de entrada si aún está pendiente o permitido hacerlo.|<br>**Escenario 1:** Eliminación exitosa de una reserva<br>Dado que estoy en la sección mis reservaciones<br>Y selecciono una reserva pendiente que puedo cancelar<br>Cuando selecciono la opción de eliminar reserva<br>Y confirmo la acción<br>Entonces la reserva se elimina del listado<br>Y se muestra una notificación confirmando la eliminación<br>Y mi historial se actualiza.<br>**Escenario 2:** Intento eliminar una reserva confirmada<br>Dado que estoy en la sección mis reservaciones<br>Y selecciono una reserva que ya está confirmada<br>Cuando intento eliminarla<br>Entonces no se permite la eliminación<br>Y se muestra un mensaje indicando “Esta reserva no puede ser eliminada”<br>Y permanece visible en el listado.<br>**Escenario 3:** Error al intentar eliminar una reserva<br>Dado que estoy en la sección mis reservaciones<br>Y selecciono una reserva para eliminar<br>Cuando ocurre un fallo durante el proceso de eliminación<br>Entonces se muestra un mensaje de error indicando “No fue posible eliminar la reserva”<br>Y la reserva sigue apareciendo en el listado. ||
+|US39|Obtener listado de reservas del usuario|Como Desarrollador, quiero obtener el listado de reservas del usuario desde la sección mis reservaciones para que pueda visualizar sus estadías programadas con todos los detalles asociados.|<br>**Escenario 1:** Consulta exitosa del listado de reservas<br>Dado que el endpoint "/reservas" está disponible<br>Cuando se envía una petición GET para obtener las reservas del usuario autenticado<br>Y el usuario tiene reservas activas<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body una lista con todas las reservas<br>Y se detallan hotel, habitación, fechas, estado y precio total.<br>**Escenario 2:** El usuario no tiene reservas activas<br>Dado que el endpoint "/reservas" está disponible<br>Cuando se realiza una petición GET pero el usuario no tiene reservas<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body una lista vacía o un mensaje indicando ausencia de reservas.<br>**Escenario 3:** Error al consultar las reservas<br>Dado que el endpoint "/reservas" está disponible<br>Cuando se envía una petición GET y ocurre un fallo interno<br>Entonces se recibe una respuesta con Status 500 Internal Server Error<br>Y se incluye un mensaje en el Response Body con valor "Error al obtener las reservas". ||
+|US40|Eliminar una reserva del usuario|Como Desarrollador, quiero eliminar una reserva del usuario desde la sección mis reservaciones para que se refleje la cancelación en el sistema si está permitida.|<br>**Escenario 1:** Eliminación exitosa de una reserva<br>Dado que el endpoint "/reservas/{id}" está disponible<br>Cuando se envía una petición DELETE para una reserva que puede ser eliminada<br>Y la reserva está en estado pendiente<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se confirma la eliminación en el Response Body.<br>**Escenario 2:** Intento de eliminar una reserva confirmada<br>Dado que el endpoint "/reservas/{id}" está disponible<br>Cuando se envía una petición DELETE para una reserva confirmada<br>Y el sistema valida que no se puede eliminar<br>Entonces se recibe una respuesta con Status 400 Bad Request<br>Y se incluye un mensaje en el Response Body con valor "Esta reserva no puede ser eliminada".<br>**Escenario 3:** Error al intentar eliminar una reserva<br>Dado que el endpoint "/reservas/{id}" está disponible<br>Cuando se envía una petición DELETE y ocurre un fallo técnico<br>Entonces se recibe una respuesta con Status 500 Internal Server Error<br>Y se incluye un mensaje en el Response Body con valor "Error al eliminar la reserva". ||
+|US41|Crear una nueva solicitud de servicio al cliente|Como huésped, quiero crear una nueva solicitud de servicio al cliente indicando tipo, descripción, prioridad y habitación asociada para reportar una necesidad o incidencia durante la estadía y recibir soporte adecuado.|<br>**Escenario 1:** Creación exitosa de una solicitud de servicio al cliente<br>Dado que estoy en la sección de "servicio al cliente"<br>Y selecciono la opción de crear nueva solicitud<br>Cuando completo todos los campos obligatorios (tipo de solicitud, descripción, prioridad y habitación)<br>Y envió la solicitud<br>Entonces se envía la solicitud correctamente<br>Y se muestra una notificación confirmando el envío<br>Y puedo ver la solicitud en mi historial.<br>**Escenario 2:** Intento de enviar solicitud sin completar campos obligatorios<br>Dado que estoy en la sección de "servicio al cliente"<br>Y intento crear una nueva solicitud<br>Cuando no completo uno o más campos obligatorios<br>Y envió la solicitud<br>Entonces no se envía la solicitud<br>Y se muestran mensajes de error indicando los campos faltantes<br>Y permanezco en el formulario para corregirlos.<br>**Escenario 3:** Error técnico al enviar la solicitud<br>Dado que estoy en la sección de "servicio al cliente"<br>Y he completado todos los campos correctamente<br>Cuando  envió la solicitud  y ocurre un fallo en la conexión<br>Entonces se muestra un mensaje de error indicando “No fue posible enviar la solicitud”<br>Y se mantiene la información del formulario para reintentar más tarde. ||
+|US42|Enviar una nueva solicitud de servicio al cliente|Como Desarrollador, quiero enviar una nueva solicitud de servicio al cliente con tipo, descripción, prioridad y habitación asociada para que sea procesada por el sistema y visible para el equipo de soporte.|<br>**Escenario 1:** Envío exitoso de la solicitud<br>Dado que el endpoint "/solicitudes" está disponible<br>Cuando se envía una petición POST con los parámetros completos: tipo, descripción, prioridad e identificador de habitación<br>Y los datos son válidos<br>Entonces se recibe una respuesta con Status 201 Created<br>Y se incluye en el Response Body un mensaje de confirmación<br>Y la solicitud queda registrada en la base de datos.<br>**Escenario 2:** Envío fallido por falta de datos obligatorios<br>Dado que el endpoint "/solicitudes" está disponible<br>Cuando se envía una petición POST con uno o más campos obligatorios vacíos<br>Y el sistema valida los datos<br>Entonces se recibe una respuesta con Status 400 Bad Request<br>Y se incluye un mensaje en el Response Body indicando los campos faltantes.<br>**Escenario 3:** Error interno al intentar registrar la solicitud<br>Dado que el endpoint "/solicitudes" está disponible<br>Cuando se envía una petición POST pero ocurre un fallo en el servidor<br>Entonces se recibe una respuesta con Status 500 Internal Server Error<br>Y se incluye un mensaje en el Response Body con valor "Error al registrar la solicitud". ||
+|US43|Visualizar y gestionar mis notificaciones como huésped|Como huésped, quiero visualizar todas las notificaciones que me envie el hotel, marcarlas como leídas y eliminarlas para mantenerme informado sobre eventos importantes y tener un historial organizado.|<br>**Escenario 1:** Visualización exitosa de las notificaciones<br>Dado que estoy en el apartado de notificaciones<br>Cuando accedo ver las notificaciones que me han enviado<br>Entonces se muestra una lista con todas mis notificaciones recibidas<br>Y se identifica el tipo de notificación (información o advertencia)<br>Y puedo ver si ya fueron leídas o no.<br>**Escenario 2:** Marcar una notificación como leída<br>Dado que tengo notificaciones sin leer<br>Cuando selecciono una notificación y selecciono la opción de marcar como leída<br>Entonces la notificación cambia su estado a leída<br>Y se actualiza visualmente en la lista.<br>**Escenario 3:** Eliminar una notificación<br>Dado que estoy en la sección de notificaciones<br>Cuando selecciono una notificación y selecciono la opción de eliminar<br>Entonces la notificación se elimina del listado<br>Y ya no aparece en mi historial.<br>Escenario 4: Error al cargar las notificaciones<br>Dado que estoy en el apartado de notificaciones<br>Cuando ocurre un fallo al recuperar la información de las notificaciones<br>Entonces se muestra un mensaje de error indicando “No fue posible cargar tus notificaciones”<br>Y se ofrece la opción de reintentar la carga. ||
+|US44|Gestionar notificaciones del usuario|Como Desarrollador, quiero obtener, marcar como leídas y eliminar las notificaciones asociadas al usuario para que pueda visualizar y administrar su historial de mensajes desde la aplicación.|<br>**Escenario 1:** Consulta exitosa del listado de notificaciones<br>Dado que el endpoint "/notificaciones" está disponible<br>Cuando se envía una petición GET para obtener las notificaciones del usuario autenticado<br>Y tiene notificaciones registradas<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body una lista con todas las notificaciones<br>Y se detallan el tipo (información o advertencia), contenido y estado (leído/no leído).<br>**Escenario 2:** Marcar una notificación como leída<br>Dado que el endpoint "/notificaciones/{id}" está disponible<br>Cuando se envía una petición PUT para actualizar el estado de una notificación a "leído"<br>Y el ID de la notificación es válido<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se confirma que el estado fue actualizado correctamente.<br>**Escenario 3:** Eliminar una notificación<br>Dado que el endpoint "/notificaciones/{id}" está disponible<br>Cuando se envía una petición DELETE para eliminar una notificación específica<br>Y el ID es válido<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se confirma la eliminación en el Response Body.<br>Escenario 4: Error al consultar o gestionar notificaciones<br>Dado que el endpoint "/notificaciones" está disponible<br>Cuando se envía una petición GET, PUT o DELETE y ocurre un fallo técnico<br>Entonces se recibe una respuesta con Status 500 Internal Server Error<br>Y se incluye un mensaje en el Response Body con valor "Error al procesar la solicitud". ||
+|US45|Realizar una nueva reservación|Como huésped, quiero realizar una nueva reserva seleccionando hotel, habitación, fechas y método de pago para confirmar la estadía y recibir la confirmación de mi reserva.|<br>**Escenario 1:** Reserva exitosa completando todos los pasos<br>Dado que estoy en la sección de "Reserva ahora"<br>Cuando selecciono un hotel disponible<br>Y elijo una habitación disponible<br>Y indico las fechas de entrada y salida<br>Y completo los datos de mi tarjeta de crédito<br>Y selecciono el apartado de confirmar reserva<br>Entonces se procesa el pago correctamente<br>Y se muestra una notificación confirmando la reserva<br>Y recibo un correo con los detalles de mi reservación.<br>**Escenario 2:** No se completa uno de los pasos de la reserva<br>Dado que estoy realizando una reserva paso a paso<br>Cuando no selecciono una habitación o no ingreso las fechas<br>Y intento continuar al paso del pago<br>Entonces no puedo avanzar al siguiente paso<br>Y se muestra un mensaje indicando que deben completarse los campos obligatorios.<br>**Escenario 3:** Error en el pago durante la reserva<br>Dado que estoy en el paso de pago de la reserva<br>Cuando ingreso los datos incorrectos de mi tarjeta de crédito<br>Y selecciono el apartado de confirmar reserva<br>Entonces se muestra un mensaje indicando “Pago rechazado”<br>Y permanezco en el paso de pago para corregir los datos.<br>Escenario 4: Reserva completada sin errores<br>Dado que he completado todos los pasos de la reserva correctamente<br>Cuando se confirma el pago<br>Entonces se muestra un mensaje indicando “Reserva realizada con éxito”<br>Y se muestra el número de confirmación<br>Y la reserva aparece en mi sección de "Mis reservaciones". ||
+|US46|Crear una nueva reserva|Como Desarrollador, quiero crear una nueva reserva utilizando el endpoint POST /booking para que los usuarios puedan registrar sus estadías y gestionarlas en la aplicación.|<br>**Escenario 1:** Creación exitosa de una reserva<br>Dado que el endpoint "/booking" está disponible<br>Cuando se envía una petición POST con los datos completos: hotelId, roomId, userId, fechas de entrada y salida, y estado inicial<br>Y todos los parámetros son válidos<br>Entonces se recibe una respuesta con Status 201 Created<br>Y se incluye en el Response Body la información de la reserva creada<br>Y la reserva queda registrada en el sistema.<br>**Escenario 2:** Intento de crear reserva sin datos obligatorios<br>Dado que el endpoint "/booking" está disponible<br>Cuando se envía una petición POST con uno o más campos obligatorios faltantes<br>Y el sistema valida la solicitud<br>Entonces se recibe una respuesta con Status 400 Bad Request<br>Y se incluye un mensaje en el Response Body indicando los campos faltantes.<br>**Escenario 3:** Error interno al crear la reserva<br>Dado que el endpoint "/booking" está disponible<br>Cuando se envía una petición POST pero ocurre un fallo en el servidor<br>Entonces se recibe una respuesta con Status 500 Internal Server Error<br>Y se incluye un mensaje en el Response Body con valor "Error al crear la reserva". ||
+|US47|Confirmar una reserva|Como Desarrollador, quiero confirmar una reserva existente utilizando el endpoint POST /booking/{bookingId}/confirm para que el estado de la reserva cambie a confirmado y se habilite para check-in.|<br>**Escenario 1:** Confirmación exitosa de la reserva<br>Dado que el endpoint "/booking/{bookingId}/confirm" está disponible<br>Cuando se envía una petición POST con un bookingId válido<br>Y la reserva está en estado pendiente<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body un mensaje confirmando la actualización<br>Y el estado de la reserva cambia a “Confirmada”.<br>**Escenario 2:** Intento de confirmar una reserva ya confirmada<br>Dado que el endpoint "/booking/{bookingId}/confirm" está disponible<br>Cuando se envía una petición POST con un bookingId que ya está confirmado<br>Entonces se recibe una respuesta con Status 400 Bad Request<br>Y se incluye un mensaje en el Response Body con valor "Esta reserva ya está confirmada".<br>Y no se realiza ningún cambio.<br>**Escenario 3:** Error al intentar confirmar una reserva inexistente<br>Dado que el endpoint "/booking/{bookingId}/confirm" está disponible<br>Cuando se envía una petición POST con un bookingId que no existe<br>Entonces se recibe una respuesta con Status 404 Not Found<br>Y se incluye un mensaje en el Response Body con valor "Reserva no encontrada". ||
+|US48|Obtener todas las reservas del sistema|Como Desarrollador, quiero obtener todas las reservas del sistema utilizando el endpoint GET /booking para que se puedan visualizar y gestionar desde la interfaz administrativa.|<br>**Escenario 1:** Consulta exitosa del listado de reservas<br>Dado que el endpoint "/booking" está disponible<br>Cuando se envía una petición GET para obtener todas las reservas<br>Y hay reservas registradas en el sistema<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body una lista con todas las reservas<br>Y se detallan los campos clave como bookingId, userId, hotelId, roomId, fechas y estado.<br>**Escenario 2:** No hay reservas registradas<br>Dado que el endpoint "/booking" está disponible<br>Cuando se envía una petición GET y no hay reservas en el sistema<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body una lista vacía o un mensaje indicando ausencia de reservas.<br>**Escenario 3:** Error al consultar el listado de reservas<br>Dado que el endpoint "/booking" está disponible<br>Cuando se envía una petición GET y ocurre un fallo técnico<br>Entonces se recibe una respuesta con Status 500 Internal Server Error<br>Y se incluye un mensaje en el Response Body con valor "Error al obtener el listado de reservas". ||
+|US49|Iniciar sesión exitosamente|Como usuario registrado, quiero iniciar sesión en el sistema utilizando las credenciales que cree para acceder a las funcionalidades disponibles según mi rol (huésped o personal de hotel).|<br>**Escenario 1:** Inicio de sesión exitoso como huésped<br>Dado que tengo una cuenta registrada como huésped<br>Cuando ingreso mi correo electrónico y contraseña correctos<br>E inicio sesión con credenciales validas<br>Entonces se muestra la pantalla principal del usuario<br>Y puedo navegar por las funcionalidades disponibles para huéspedes.<br>**Escenario 2:** Inicio de sesión exitoso como administrador de hotel<br>Dado que tengo una cuenta registrada como administrador de hotel<br>Cuando ingreso mi correo y contraseña correctos<br>E inicio sesión con credenciales validas<br>Entonces se muestra la pantalla principal del hotel<br>Y puedo gestionar las reservas, empleados y configuraciones del hotel.<br>**Escenario 3:** Intento de inicio de sesión con credenciales incorrectas<br>Dado que intento iniciar sesión<br>Cuando ingreso un correo o contraseña incorrectos<br>Entonces se muestra un mensaje indicando “Correo o contraseña incorrectos”<br>Y permanezco en la pantalla de inicio de sesión. ||
+|US50|Registrar como huésped|Como nuevo usuario, quiero crear una cuenta de huésped para hacer reservas y gestionar mis estadías para poder usar todas las funcionalidades del sistema como huésped.|<br>**Escenario 1:** Registro exitoso como huésped<br>Dado que estoy en la pantalla de registro<br>Cuando completo los campos requeridos: nombre, apellido, correo, teléfono y contraseña<br>Y acepto los términos y condiciones<br>E registro la cuenta con credenciales validas<br>Entonces se crea mi cuenta correctamente<br>Y recibo un correo de confirmación<br>Y puedo iniciar sesión con mis credenciales.<br>**Escenario 2:** Intento de registro sin completar campos obligatorios<br>Dado que estoy en la pantalla de registro<br>Cuando no completo uno o más campos obligatorios<br>E registro la cuenta con credenciales validas<br>Entonces se muestran mensajes de error indicando los campos faltantes<br>Y permanezco en el formulario para corregirlos.<br>**Escenario 3:** Intento de registro con correo ya existente<br>Dado que ya existe una cuenta con el correo que intento registrar<br>Cuando completo todos los campos y hago clic en "Registrarme"<br>Entonces se muestra un mensaje indicando “Este correo ya está registrado”<br>Y no se crea la cuenta. ||
+|US51|Registrarse como hotel|Como dueño de hotel, quiero crear una cuenta para el hotel que dirijo para ofrecer alojamiento personalizado con dispositivos iot, gestionar reservas y empleados.|<br>**Escenario 1:** Registro exitoso del hotel<br>Dado que estoy en la pantalla de registro de hotel<br>Cuando completo los datos requeridos: nombre, dirección, correo, teléfono<br>Y selecciono un plan de suscripción<br>Y realizo el pago correspondiente<br>E registro la cuenta con credenciales validas del hotel<br>Entonces se crea la cuenta del hotel y se asigna un administrador<br>Y recibo un correo de confirmación<br>Y soy redirigido al panel de gestión del hotel.<br>**Escenario 2:** Intento de registro sin completar campos obligatorios<br>Dado que estoy en la pantalla de registro de hotel<br>Cuando no completo uno o más campos obligatorios<br>E registro la cuenta con credenciales validas del hotel<br>Entonces se muestran mensajes de error indicando los campos faltantes<br>Y permanezco en el formulario para corregirlos.<br>**Escenario 3:** Error durante el proceso de pago<br>Dado que he completado los datos del hotel<br>Cuando selecciono un plan de suscripción y procedo al pago<br>Y ocurre un fallo en el procesamiento del pago<br>Entonces se muestra un mensaje indicando “No fue posible procesar el pago”<br>Y permanezco en la pantalla de pago para reintentarlo. ||
+|US52|Iniciar sesión en el sistema|Como Desarrollador, quiero implementar el inicio de sesión usando el endpoint POST /authentication/sign-in para que los usuarios puedan autenticarse y acceder a las funcionalidades según su rol.|<br>**Escenario 1:** Inicio de sesión exitoso<br>Dado que el endpoint "/authentication/sign-in" está disponible<br>Cuando se envía una petición POST con correo y contraseña válidos<br>Y el usuario existe y las credenciales son correctas<br>Entonces se recibe una respuesta con Status 200 OK<br>Y se incluye en el Response Body el token de autenticación<br>Y se retorna información básica del usuario y su rol.<br>**Escenario 2:** Intento de inicio de sesión con credenciales inválidas<br>Dado que el endpoint "/authentication/sign-in" está disponible<br>Cuando se envía una petición POST con correo o contraseña incorrectos<br>Entonces se recibe una respuesta con Status 401 Unauthorized<br>Y se incluye un mensaje en el Response Body con valor "Credenciales inválidas".<br>**Escenario 3:** Usuario inactivo o deshabilitado<br>Dado que el endpoint "/authentication/sign-in" está disponible<br>Cuando se intenta iniciar sesión con un usuario inactivo o bloqueado<br>Entonces se recibe una respuesta con Status 403 Forbidden<br>Y se incluye un mensaje en el Response Body con valor "Usuario no activo". ||
+|US53|Registrar un nuevo huésped|Como Desarrollador, quiero registrar un nuevo usuario usando el endpoint POST /authentication/sign-up para que pueda usar el sistema como huésped desde el momento de su registro.|<br>**Escenario 1:** Registro exitoso de usuario<br>Dado que el endpoint "/authentication/sign-up" está disponible<br>Cuando se envía una petición POST con nombre, apellido, correo, teléfono y contraseña válidos<br>Y el correo no está registrado previamente<br>Entonces se recibe una respuesta con Status 201 Created<br>Y se incluye en el Response Body la información del usuario creado<br>Y el rol por defecto es "guest".<br>**Escenario 2:** Intento de registro con correo duplicado<br>Dado que el endpoint "/authentication/sign-up" está disponible<br>Cuando se envía una petición POST con un correo ya registrado<br>Entonces se recibe una respuesta con Status 409 Conflict<br>Y se incluye un mensaje en el Response Body con valor "El correo ya está en uso".<br>**Escenario 3:** Error interno al registrar usuario<br>Dado que el endpoint "/authentication/sign-up" está disponible<br>Cuando se envía una petición POST con datos válidos pero ocurre un fallo en el servidor<br>Entonces se recibe una respuesta con Status 500 Internal Server Error<br>Y se incluye un mensaje en el Response Body con valor "Error al registrar el usuario". ||
+|US54|Registrar un nuevo hotel|Como Desarrollador, quiero registrar un nuevo hotel usando el endpoint POST /profiles para que pueda ser gestionado y asociado a un administrador después del pago de la suscripción.|<br>**Escenario 1:** Registro exitoso del hotel<br>Dado que el endpoint "/profiles" está disponible<br>Cuando se envía una petición POST con nombre, dirección, correo, teléfono y rol de administrador<br>Y los datos son válidos<br>Entonces se recibe una respuesta con Status 201 Created<br>Y se incluye en el Response Body la información del perfil creado<br>Y se asocia al rol de administrador de hotel.<br>**Escenario 2:** Intento de registro sin completar campos obligatorios<br>Dado que el endpoint "/profiles" está disponible<br>Cuando se envía una petición POST con uno o más campos obligatorios faltantes<br>Entonces se recibe una respuesta con Status 400 Bad Request<br>Y se incluye un mensaje en el Response Body indicando los campos faltantes.<br>**Escenario 3:** Correo ya registrado para otro hotel<br>Dado que el endpoint "/profiles" está disponible<br>Cuando se envía una petición POST con un correo ya usado en otro perfil<br>Entonces se recibe una respuesta con Status 409 Conflict<br>Y se incluye un mensaje en el Response Body con valor "El correo ya está en uso". ||
 
 
 ## 3.3. Impact Mapping
@@ -1413,71 +1430,68 @@ Mapa de impacto orientado al Personal Administrativo
 
 ## 3.4. Product Backlog.
 
-Link Trello: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f903a3b4af1efa73604221d6aE9912258/customhost-product-backlog
+En el siguiente link se hizo el desarrollo del product backlog: https://trello.com/invite/b/6807e09feff6aab74b684127/ATTI98b87d9f903a3b4af1efa73604221d6aE9912258/customhost-product-backlog
 
 | Id | StoryID | Title                                                  | Description                                                                                                             | Story Points |
 | -- | ------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1  | US01    | Visualización del Formulario de Registro               | Como huésped, quiero ver un formulario de registro bien estructurado, para poder registrarme en el sistema.             | 2            |
-| 2  | US02    | Validación de Datos de Registro                        | Como huésped, quiero que el sistema valide mis datos al registrarme, para evitar errores en mi cuenta.                  | 3            |
-| 3  | US03    | Configuración de Preferencias de Habitación            | Como huésped, quiero seleccionar mis preferencias de habitación desde la plataforma web, para personalizar mi estadía.  | 3            |
-| 4  | US04    | Personalización de Horarios de Servicio                | Como huésped, quiero establecer mis horarios de preferencia para servicios como limpieza o desayuno.                    | 2            |
-| 5  | US05    | Solicitud de Servicios de Limpieza                     | Como huésped, quiero solicitar un servicio de limpieza desde la plataforma web, para mantener mi habitación limpia.     | 3            |
-| 6  | US06    | Solicitud de Desayuno en la Habitación                 | Como huésped, quiero solicitar un desayuno en mi habitación a través de la plataforma web.                              | 3            |
-| 7  | US07    | Gestión de Solicitudes Pendientes                      | Como personal administrativo, quiero ver las solicitudes pendientes para atenderlas rápidamente.                        | 3            |
-| 8  | US08    | Modificación de Estado de la Solicitud                 | Como personal administrativo, quiero cambiar el estado de una solicitud, para gestionarla mejor.                        | 3            |
-| 9  | US09    | Gráfico de Pagos por Mes y Año                         | Como miembro del staff, quiero un gráfico de pagos por mes y año, para analizar el desempeño financiero del hotel.      | 5            |
-| 10 | US10    | Selección de Año para Pagos                            | Como miembro del staff, quiero seleccionar el año de los pagos, para comparar ingresos de diferentes periodos.          | 3            |
-| 11 | US11    | Gráfico de Pagos Individuales                          | Como miembro del staff, quiero un gráfico de pagos individuales, para detectar tendencias y pagos atípicos.             | 5            |
-| 12 | US12    | Exportar Informe de Pagos                              | Como miembro del staff, quiero exportar el informe de pagos a CSV o PDF, para compartirlo con contabilidad.             | 5            |
-| 13 | US13    | Tasa de Ocupación del Hotel                            | Como miembro del staff, quiero ver un tablero de ocupación, para conocer el porcentaje de habitaciones ocupadas.        | 5            |
-| 14 | US14    | Filtrar Solicitudes de Servicio                        | Como miembro del staff, quiero filtrar solicitudes por tipo y prioridad, para gestionarlas eficientemente.              | 3            |
-| 15 | US15    | Notificación de Solicitud Atendida                     | Como huésped, quiero recibir alertas cuando mi solicitud se atienda, para estar informado.                              | 3            |
-| 16 | US16    | Alerta de Emergencia en el Hotel                       | Como personal, quiero recibir alertas inmediatas sobre emergencias, para reaccionar rápido.                             | 3            |
-| 17 | US17    | Lista de Habitaciones Disponibles                      | Como miembro del staff, quiero ver una lista de habitaciones disponibles, para saber cuáles puedo asignar o limpiar.    | 3            |
-| 18 | US18    | Filtrar Habitaciones por Estado                        | Como miembro del staff, quiero filtrar la lista de habitaciones por estado, para enfocarme en cada categoría.           | 3            |
-| 19 | US19    | Historial de Asignación de Habitaciones                | Como miembro del staff, quiero ver el historial de asignación de habitaciones por huésped, para rastrear cambios.       | 5            |
-| 20 | US20    | Visualización de Información de Servicios              | Como visitante, quiero ver los servicios que ofrece el hotel, para evaluar antes de reservar.                           | 2            |
-| 21 | US21    | Acceso a Información de Contacto (estática)            | Como visitante, quiero acceder fácilmente a los datos de contacto del hotel, para comunicarme si tengo dudas.           | 2            |
-| 22 | US22    | Envío de Consultas mediante Formulario Emergente       | Como visitante, quiero enviar consultas rápidas mediante un formulario emergente, para no abandonar la página.          | 2            |
-| 23 | US23    | Acceso a Testimonios de Huéspedes                      | Como visitante, quiero leer opiniones de otros huéspedes, para ganar confianza al reservar.                             | 3            |
-| 24 | US24    | Acceso Rápido al Formulario de Reserva                 | Como visitante, quiero encontrar un botón fijo para reservar, para iniciar el proceso de forma rápida.                  | 2            |
-| 25 | US25    | Sección “Sobre Nosotros”                               | Como visitante, quiero conocer la historia y valores del hotel, para conectar con la empresa.                           | 2            |
-| 26 | US26    | Ver Lista de Reservas Activas                          | Como huésped, quiero ver la lista de mis reservas activas, para gestionar mis estancias.                                | 3            |
-| 27 | US27    | Crear Nueva Reserva desde la Página Principal          | Como huésped, quiero crear una reserva desde la página principal, para agilizar el proceso.                             | 3            |
-| 28 | US28    | Mensaje Claro si No Hay Reservas o Notificaciones      | Como huésped, quiero un mensaje claro si no tengo datos, para saber mi estado actual.                                   | 1            |
-| 29 | US29    | Enviar Evaluación de Estadía                           | Como huésped, quiero calificar mi experiencia al final de la estadía, para dar retroalimentación al hotel.              | 3            |
-| 30 | US30    | Ver Historial de Evaluaciones                          | Como personal administrativo, quiero consultar las evaluaciones recibidas, para mejorar la calidad del servicio.        | 3            |
-| 31 | US31    | Gráfico de Calificaciones de Huéspedes                 | Como miembro del staff, quiero ver un gráfico de calificaciones, para analizar la satisfacción general.                 | 5            |
-| 32 | US32    | Cambiar Idioma de la Interfaz                          | Como huésped internacional, quiero cambiar el idioma de la interfaz, para comprender mejor la plataforma web.           | 5            |
-| 33 | US33    | Recordar Idioma Seleccionado                           | Como huésped, quiero que la plataforma recuerde mi idioma preferido, para no tener que cambiarlo cada vez.              | 3            |
-| 34 | US34    | Iniciar Chat con Soporte                               | Como huésped, quiero iniciar un chat con soporte, para resolver dudas rápidamente.                                      | 3            |
-| 35 | US35    | Consultar Preguntas Frecuentes                         | Como huésped, quiero revisar preguntas frecuentes, para resolver dudas sin contactar soporte.                           | 3            |
-| 36 | US36    | Saludo Personalizado de Huésped                        | Como huésped, quiero ver un saludo personalizado al ingresar, para sentirme bienvenido en la plataforma.                | 1            |
-| 37 | US37    | Abrir formulario modal para nuevo miembro del personal | Como administrador, quiero abrir un formulario modal para agregar un nuevo miembro, para gestionar el equipo.           | 2            |
-| 38 | US38    | Ingresar datos completos del nuevo personal            | Como administrador, quiero ingresar nombre, apellido, teléfono, email, departamento y contraseña del nuevo personal.    | 3            |
-| 39 | US39    | Seleccionar departamento desde lista                   | Como administrador, quiero seleccionar el departamento desde una lista, para asegurar la asignación de roles.           | 2            |
-| 40 | US40    | Alertar si faltan campos obligatorios                  | Como administrador, quiero recibir una alerta si guardo con campos vacíos, para evitar registros incompletos.           | 2            |
-| 41 | US41    | Cancelar registro sin guardar cambios                  | Como administrador, quiero cancelar el registro en cualquier momento, para cerrar el formulario sin guardar.            | 2            |
-| 42 | US42    | Validar campos obligatorios en formulario de personal  | Como desarrollador, quiero validar que los campos obligatorios estén completos, para evitar registros incompletos.      | 3            |
-| 43 | US43    | Emitir eventos personalizados al guardar o cancelar    | Como desarrollador, quiero emitir eventos personalizados, para que el padre controle visibilidad y flujo de datos.      | 3            |
-| 44 | US44    | Desacoplar select de departamentos mediante prop       | Como desarrollador, quiero recibir departamentos como prop, para desacoplar y facilitar pruebas.                        | 2            |
-| 45 | US45    | Estructurar formulario con clases CSS responsivas      | Como desarrollador, quiero usar filas y columnas con clases CSS, para asegurar una interfaz adaptable.                  | 3            |
-| 46 | US46    | Facilitar extensión futura del formulario              | Como desarrollador, quiero que el formulario sea extensible, para soportar nuevos campos en el futuro.                  | 3            |
-| 47 | US47    | Manejo de estado de carga en registro                  | Como desarrollador, quiero manejar el estado de carga durante el registro, para mostrar feedback visual.                | 2            |
-| 48 | US48    | Mostrar mensajes de error generales en registro        | Como desarrollador, quiero mostrar mensajes de error generales si el registro falla, para informar al usuario.          | 3            |
-| 49 | US49    | Notificaciones en Tiempo Real para Huésped             | Como huésped, quiero recibir notificaciones en tiempo real sobre eventos importantes o cambios de estado.               | 5            |
-| 50 | US50    | Notificaciones en Tiempo Real para Personal            | Como personal administrativo, quiero recibir notificaciones en tiempo real sobre nuevas solicitudes y eventos críticos. | 5            |
-| 51 | US51    | Lista de Dispositivos IoT en Mantenimiento o Inactivos | Como miembro del staff, quiero ver los dispositivos IoT en mantenimiento o inactivos, para dar seguimiento técnico.     | 5            |
-| 52 | US52    | Lista de Tareas Pendientes de Mantenimiento IoT        | Como miembro del staff, quiero ver las tareas de mantenimiento IoT asignadas, para priorizar intervenciones.            | 5            |
-| 53 | US53    | Actualizar Estado de Dispositivo IoT                   | Como miembro del staff, quiero marcar un dispositivo IoT como “Activo” o “En mantenimiento”.                            | 3            |
-| 54 | US54    | Gestión de Datos Personales                            | Como usuario autenticado, quiero actualizar mis datos personales, para mantener mi perfil al día.                       | 3            |
-| 55 | US55    | Gestión de Roles y Permisos                            | Como administrador, quiero asignar y gestionar roles y permisos de usuarios, para controlar accesos y funcionalidades.  | 5            |
+| 1  | US01    | Registrar petición de servicio de huésped              | Como hotel, quiero registrar solicitudes de servicios de los huéspedes para atender sus necesidades según prioridad.      | 3            |
+| 2  | US02    | Asignar personal a peticiones de servicios             | Como hotel, quiero asignar miembros del personal a peticiones pendientes para distribuir tareas eficientemente.          | 2            |
+| 3  | US03    | Registrar petición de servicio como completada         | Como hotel, quiero registrar cuando una petición ha sido resuelta para mantener actualizado el estado de solicitudes.    | 1            |
+| 4  | US04    | Ver lista del personal del hotel                       | Como hotel, quiero ver una lista con nombre, área, teléfono y estado del personal para gestionar disponibilidad.         | 1            |
+| 5  | US05    | Eliminar miembro del personal                          | Como hotel, quiero eliminar a un miembro del personal que ya no trabaja para mantener la lista actualizada.              | 2            |
+| 6  | US06    | Agregar personal al sistema                            | Como hotel, quiero registrar un nuevo miembro del personal para poder asignarle peticiones de servicios.                 | 3            |
+| 7  | US07    | Actualizar estado de habitación                        | Como hotel, quiero cambiar manualmente el estado de una habitación para reflejar disponibilidad o mantenimiento.         | 2            |
+| 8  | US08    | Gestionar tarifas dinámicas                            | Como staff, quiero ajustar precios de habitaciones por tipo/temporada para optimizar ingresos.                           | 8            |
+| 9  | US09    | Crear nueva habitación                                 | Como administrador, quiero registrar nuevas habitaciones en el sistema para expandir la capacidad de alojamiento.         | 3            |
+| 10 | US10    | Eliminar habitación del sistema                        | Como staff, quiero dar de baja habitaciones para mantener el inventario actualizado tras remodelaciones.                  | 2            |
+| 11 | US11    | Eliminar reserva del sistema                           | Como staff, quiero eliminar reservas canceladas o erróneas para mantener la base de datos limpia.                         | 2            |
+| 12 | US12    | Ver detalles completos de reserva                      | Como staff, quiero acceder a información ampliada de reservas para atender consultas específicas.                         | 1            |
+| 13 | US13    | Agregar nuevo dispositivo                              | Como personal del hotel, quiero añadir dispositivos IoT y asignarlos a habitaciones.                                      | 3            |
+| 14 | US14    | Filtrar dispositivos visibles para huésped             | Como personal, quiero ocultar dispositivos en mantenimiento para que huéspedes solo vean funcionales.                    | 3            |
+| 15 | US15    | Editar configuración del dispositivo                   | Como personal, quiero modificar configuraciones de dispositivos IoT para corregir valores inapropiados.                   | 3            |
+| 16 | US16    | Obtener dispositivos funcionales (API)                 | Como desarrollador, necesito una API para obtener dispositivos IoT por habitación.                                       | 5            |
+| 17 | US17    | Obtener modelos de dispositivos (API)                  | Como desarrollador, quiero una API para listar modelos de dispositivos disponibles.                                      | 3            |
+| 18 | US18    | Agregar petición de servicio (API)                     | Como desarrollador, quiero una API para registrar peticiones de servicios desde aplicaciones externas.                   | 3            |
+| 19 | US19    | Obtener peticiones por habitación (API)                | Como desarrollador, quiero una API para consultar peticiones de servicio filtradas por habitación.                       | 3            |
+| 20 | US20    | Asignar personal a petición (API)                      | Como desarrollador, quiero una API para asignar miembros del personal a peticiones de servicio.                          | 3            |
+| 21 | US21    | Establecer petición como resuelta (API)                | Como desarrollador, quiero una API para marcar peticiones como completadas.                                              | 3            |
+| 22 | US22    | Actualizar estado del personal (API)                   | Como desarrollador, quiero una API para modificar el estado (activo/inactivo) del personal.                              | 3            |
+| 23 | US23    | Agregar nuevo personal (API)                           | Como desarrollador, quiero una API para registrar nuevo personal en el sistema.                                          | 5            |
+| 24 | US24    | Obtener habitaciones disponibles (API)                 | Como desarrollador, quiero una API para listar todas las habitaciones disponibles.                                       | 3            |
+| 25 | US25    | Crear habitación (API)                                 | Como desarrollador, quiero una API para registrar nuevas habitaciones en el sistema.                                     | 5            |
+| 26 | US26    | Actualizar información de habitación (API)             | Como desarrollador, quiero una API para modificar detalles de habitaciones existentes.                                   | 3            |
+| 27 | US27    | Eliminar habitación (API)                              | Como desarrollador, quiero una API para eliminar habitaciones del sistema.                                               | 2            |
+| 28 | US28    | Configurar dispositivos como huésped                   | Como huésped, quiero configurar dispositivos IoT de mi habitación para personalizar mi experiencia.                      | 5            |
+| 29 | US29    | Configurar dispositivos IoT (API)                      | Como desarrollador, quiero una API para modificar configuraciones de dispositivos IoT asociados a habitaciones.           | 5            |
+| 30 | US30    | Ver dispositivos asociados a mi habitación             | Como huésped, quiero visualizar los dispositivos IoT de mi habitación para conocer qué puedo controlar.                  | 2            |
+| 31 | US31    | Obtener dispositivos IoT por habitación (API)          | Como desarrollador, quiero una API para listar dispositivos IoT asociados a una habitación específica.                   | 3            |
+| 32 | US32    | Visualizar listado de reservas                         | Como huésped, quiero ver mis reservas activas para gestionar mis estadías.                                              | 1            |
+| 33 | US33    | Eliminar una reserva como huésped                      | Como huésped, quiero cancelar reservas pendientes si aún está permitido.                                                | 2            |
+| 34 | US34    | Obtener reservas del usuario (API)                     | Como desarrollador, quiero una API para consultar las reservas de un usuario específico.                                 | 3            |
+| 35 | US35    | Eliminar reserva del usuario (API)                     | Como desarrollador, quiero una API para cancelar reservas desde aplicaciones externas.                                   | 3            |
+| 36 | US36    | Crear solicitud de servicio al cliente                 | Como huésped, quiero reportar necesidades o incidencias durante mi estadía.                                             | 5            |
+| 37 | US37    | Enviar solicitud de servicio (API)                     | Como desarrollador, quiero una API para registrar solicitudes de servicio al cliente.                                    | 3            |
+| 38 | US38    | Gestionar notificaciones como huésped                  | Como huésped, quiero ver, marcar como leídas y eliminar notificaciones del hotel.                                       | 5            |
+| 39 | US39    | Gestionar notificaciones (API)                         | Como desarrollador, quiero una API para administrar notificaciones de usuarios.                                         | 5            |
+| 40 | US40    | Realizar nueva reservación                             | Como huésped, quiero reservar seleccionando hotel, habitación, fechas y método de pago.                                  | 8            |
+| 41 | US41    | Crear nueva reserva (API)                              | Como desarrollador, quiero una API para registrar reservas desde aplicaciones externas.                                 | 5            |
+| 42 | US42    | Confirmar reserva (API)                                | Como desarrollador, quiero una API para cambiar el estado de una reserva a "confirmada".                                | 3            |
+| 43 | US43    | Obtener todas las reservas (API)                       | Como desarrollador, quiero una API para listar todas las reservas del sistema.                                          | 3            |
+| 44 | US44    | Iniciar sesión                                         | Como usuario, quiero autenticarme con mis credenciales para acceder al sistema según mi rol.                             | 3            |
+| 45 | US45    | Registrar como huésped                                 | Como nuevo usuario, quiero crear una cuenta para hacer reservas y gestionar mis estadías.                                | 5            |
+| 46 | US46    | Registrar un nuevo hotel                               | Como dueño de hotel, quiero crear una cuenta para mi hotel y gestionar sus operaciones.                                  | 8            |
+| 47 | US47    | Iniciar sesión (API)                                   | Como desarrollador, quiero implementar autenticación de usuarios via API.                                               | 3            |
+| 48 | US48    | Registrar huésped (API)                                | Como desarrollador, quiero una API para crear cuentas de nuevos huéspedes.                                              | 5            |
+| 49 | US49    | Registrar hotel (API)                                  | Como desarrollador, quiero una API para registrar nuevos hoteles en el sistema.                                         | 5            |
+| 50 | US50    | Visualización de información de servicios              | Como huésped, quiero ver detalles de los servicios del hotel (SPA, restaurante, etc.).                                   | 1            |
+| 51 | US51    | Acceso a información de contacto                       | Como huésped, quiero encontrar fácilmente los datos de contacto del hotel.                                              | 1            |
+| 52 | US52    | Acceso a testimonios de huéspedes                      | Como huésped, quiero leer opiniones de otros huéspedes sobre el hotel.                                                  | 1            |
+| 53 | US53    | Acceso rápido al formulario de reserva                 | Como huésped, quiero acceder directamente al formulario de reserva desde la página principal.                           | 2            |
+| 54 | US54    | Sección "Sobre Nosotros"                               | Como huésped, quiero conocer la historia y valores del hotel.                                                           | 1            |
 
 ## 3.5. Entity Diagram.
 
 ![Entity Diagram](Assets/img/Chapter-3/class-diagram.png)
-
-## 3.5. Entity Diagram.
 
 
 # Capítulo IV: Product Design
@@ -1709,8 +1723,6 @@ El huesped puede ver las notificaciones importantes relacionadas con su estadía
 ## 4.2. Information Architecture.
 La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
 
-La arquitectura de información que se emplea en CustomHost está diseñada para ofrecer una navegación fluida y lógica tanto para huéspedes como para personal administrativo de hoteles. Esta estructura permitirá a los usuarios personalizar su experiencia de hospedaje, controlar su entorno y al personal del hotel gestionar de manera eficiente las preferencias y el estado de cada habitación, todo desde una plataforma centralizada.
-
 ### 4.2.1. Organization Systems.
 *Organización visual del contenido*
 Se empleará una estructura jerárquica visual clara en la Landing Page y en cada sección de la plataformaweb. Se priorizará la presentación de información clave como el panel de preferencias del huésped, el estado de las habitaciones, y accesos rápidos a funciones como check-in, control domótico o comunicación con el personal.
@@ -1887,6 +1899,7 @@ Los huéspedes de hotel utilizan la plataforma web para reservar habitaciones de
 [Web Applications Wireflow Diagrams - Guest] https://shorturl.at/pFH5e
 ![Web Aplication Wireflow Guest](Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Guest.jpeg)
 
+### Segmento objetivo: Staff
 
 <h4>Segmento Objetivo #2: Staff del Hotel</h4>
 El personal del hotel (administradores, técnicos, recepcionistas) utiliza esta plataforma web para gestionar habitaciones, configurar dispositivos IoT, atender solicitudes de los huéspedes, monitorear reportes, y administrar la información de los empleados.<br><br>
@@ -1966,7 +1979,7 @@ El personal del hotel (administradores, técnicos, recepcionistas) utiliza esta 
 [Web Applications Wireflow Diagrams - Staff] https://shorturl.at/6sbBs
 ![Web Aplication Wireflow Staff](Assets/img/Chapter%204/Wireflow%20Diagrams%20-%20Staff.jpeg)
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 ![Web Aplication Mockup](/Assets/img/chapter-4/login.png)
 
@@ -1978,7 +1991,7 @@ El personal del hotel (administradores, técnicos, recepcionistas) utiliza esta 
 
 ![Web Aplication Mockup](/Assets/img/chapter-4/home%20guest.png)
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 ### **Huésped:**
 
 La presente sección describe el flujo ideal diseñado para el segmento de huéspedes de hotel dentro de la plataforma, centrado en ofrecer una experiencia de reserva y estancia fluida, personalizada y sin fricciones. Este recorrido cubre desde el primer contacto hasta la finalización de la estadía, garantizando que el usuario encuentre opciones adaptadas a sus necesidades y pueda gestionar todos los aspectos de su viaje de manera intuitiva.
@@ -2014,6 +2027,7 @@ URL del Prototipo https://www.figma.com/design/Rti8LYhQHMeIjsfMIQYIdr/Open-Sourc
    
 ### 4.6.2. Software Architecture Container Diagrams.
 ![Container Diagram](/Assets/img/Chapter%204/structurizr-101614-Container-001%20(2)web.png)
+![Container Diagram](/Assets/img/chapter-4/Imagen%20de%20WhatsApp%202025-07-06%20a%20las%2022.36.31_ca114a3e.jpg)
 
 
 ### 4.6.3. Software Architecture Components Diagrams.
@@ -2310,901 +2324,27 @@ supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para co
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
+
+Por cada sprint se ha creado un archivo markdown independiente.
+
 ### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1.
-A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación
-del landing page.
 
-**Sprint Backlog 1**
-<table>
-    <thead>
-        <tr>
-            <th> Sprint #</th>
-            <th> Sprint 1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Date</td>
-            <td> 15/04/2024 </td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Time</td>
-            <td> 17:00 horas (GMT-5)</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Location</td>
-            <td> Modalidad remota por Discord.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Prepared By</td>
-            <td> Softcore team
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Todos los miembros del equipo Softcore.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint n – 0 Review Summary</td>
-            <td> Debido a que es el primer sprint que se ha hecho, no existen sprints pasados a este.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
-            <td>
-        Durante este sprint, se creó el landing page empleando HTML, CSS y JavaScript. También se abordaron las conversaciones sobre el contenido textual que se integró en el landing page, así como el diseño previamente establecido en Figma. Al finalizar este sprint, el landing page se subió a GitHub Pages , permitiendo que cualquier usuario pueda acceder y visualizar la página a través del enlace proporcionado. Además, se realizaron pruebas exhaustivas para asegurar que el sitio esté completamente funcional y se vea correctamente en cualquier dispositivo, garantizando una experiencia óptima tanto en computadoras de escritorio como en tablets y teléfonos móviles.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint 1 Velocity</td>
-            <td> 14
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sum of Story Points</td>
-            <td> 14
-            <td>
-        </tr>
-    </tbody>
-</table>
+https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report/blob/develop/Sprint1.md
 
-#### 5.2.1.2. Aspect Leaders and Collaborators.
-
-|Team Member|GitHub Username|UX-UI<br>Leader(L)/Collaborator(C)| 
-|-|-|-|
-|Arrieta Quispe, Alison Jimena|alisoft08|C|L|C|
-|Ccarita Cruz, Roberto Brayan|hallzyx|C|C|L|
-|Ordoñez Ricaldi, Axel Randall|nOOmzzzz|C|C|C|
-|Panta Castro, Fabrizio Martin|F4brizio24|C|C|C|
-|Santiago Peña, Andreow Jomark|andrew65411|L|C|C|
-
-#### 5.2.1.3. Sprint Backlog 1.
-
-![SprintBacklog n](/Assets/img/Chapter-5/sprint-backlog.jpg)
-
-#### 5.2.1.4. Development Evidence for Sprint Review.
-
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-Sprint 1: En este entregable, hemos logrado desarrollar la Landing Page para nuestra StartUp Sweet Manager. El link de la Landing Page es el siguiente: https://softcore-app-web-1asi0730-2510-4395.github.io/CustomHost/.
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-En este sprint se cumplió el objetivo de desarrollar la Landing Page; sin embargo, al ser Landing Page no requiere de documentación relacionada a Web Services
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
-
-- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del landing page.
-- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del landing page.
-- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del equipo.
-- Github pages: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada para sitios web estáticos.
-
-📄 [Accede aquí para ver el sprint 1 - video ](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo1469626909%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd4a695a-f32d-4974-9e77-a507bb485626&isDarkMode=false)
-
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](/Assets/img/cover/TB1%20commits.png)
-
-
-El equipo desarrolló el sistema de gestión hotelera utilizando una estrategia basada en ramas para cada componente o funcionalidad. Esta metodología permitió que cada miembro del equipo trabajara de forma independiente en elementos como la página de inicio, el selector de idioma, la gestión de peticiones y el panel de administración, sin interferir con el trabajo de los demás. Una vez finalizada cada funcionalidad, se verificó que no existieran conflictos con la rama principal (main) y se generó una pull request para integrar los cambios de forma controlada. A continuación, se adjunta una imagen que evidencia la colaboración del equipo en GitHub.
 ### 5.2.2. Sprint 2
 
-En este sprint como equipo nos hemos enfocado en el desarrollo frontend de la aplicación.
+https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report/blob/develop/Sprint2.md
 
-
-#### 5.2.2.1.Sprint Planning 2.
-
-A continuación se presenta los detalles de la planificación del segundo sprint.
-<table>
-    <thead>
-        <tr>
-            <th> Sprint #</th>
-            <th> Sprint 2</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Date</td>
-            <td> 07/05/2025 </td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Time</td>
-            <td> 14:00 horas (GMT-5)</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Location</td>
-            <td> Lima, Reunion virtual por Discord
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Prepared By</td>
-            <td> Softcore team
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Roberto Brayan Ccarita Cruz <br> Andreow Jomark Santiago Peña <br> Alison Jimena Arrieta Quispe <br> Fabrizio Martin Panta Castro <br> Axel Randall Ordoñez Ricaldi
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
-            <td> Sprint 1: En el anterior sprint hemos diseñado un langing page con seccion hero, beneficios, introduccion, valores y contacto. Hemos cumplido con todas las historias de usuario formuladas.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
-            <td>
-                Sprint 1: En el anterior sprint hemos diseñado una landing page, tuvimos algunos problemas al incio pero luego supimos manejar y ordenar todo por branches y lograr llegar a un buen resultado con uso de html, css y js.  
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint Goal & User Stories</td>
-<td> Desarrollar y completar el frontend de la aplicación, asegurando una interfaz de usuario intuitiva y funcional que cumpla con los requisitos y especificaciones establecidas.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint 2 Velocity</td>
-            <td> 15
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sum of Story Points</td>
-            <td> 23
-            <td>
-        </tr>
-    </tbody>
-</table>
-
-#### 5.2.2.2. Aspect Leaders and Collaborators.
-
-|Team Member|GitHub Username|Performance<br>Leader(L)/Collaborator(C)|UX-UI<br>Leader(L)/Collaborator(C)|Funcionalidad<br>Leader(L)/Collaborator(C)| 
-|-|-|-|-|-|
-|Arrieta Quispe, Alison Jimena|alisoft08|C|L|C|
-|Ccarita Cruz, Roberto Brayan|hallzyx|C|C|L|
-|Ordoñez Ricaldi, Axel Randall|nOOmzzzz|C|C|C|
-|Panta Castro, Fabrizio Martin|F4brizio24|C|C|C|
-|Santiago Peña, Andreow Jomark|andrew65411|L|C|C|
-
-#### 5.2.2.3. Sprint Backlog 2.
-
-Aquí se presenta el backlog desarrollado a partir del Sprint 2.
-
-![SprintBacklog-2](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20074220.png)
-
-#### 5.2.2.4. Development Evidence for Sprint Review.
-Esta sección registra las evidencias del desarrollo del Sprint.
-
-
-| Repository     | Branch                    | Commit Message                          | Committed on (Date) |
-|----------------|----------------------------|------------------------------------------|---------------------|
-| customhost     | develop                    | Merge pull request #5 from feature/home-page | 13/05/2024          |
-| customhost     | feature/basic-routing      | feat: added Angular basic routing module | 10/05/2024          |
-| customhost     | feature/i18n               | feat: integrated ngx-translate and language switcher | 11/05/2024          |
-| customhost     | feature/json               | feat: added assets json for dynamic data | 11/05/2024          |
-| customhost     | feature/guest-experience   | feat: created guest experience component | 12/05/2024          |
-| customhost     | feature/home-page          | feat: designed and structured homepage layout | 13/05/2024          |
-
-#### 5.2.2.5. Execution Evidence for Sprint Review.
-Sprint 2: En este entregable, hemos logrado desarrollar el Frontend de la aplicación para nuestra StartUp Sweet Manager. El link de la aplicación es el siguiente: https://aaaavue-hallzyxs-projects.vercel.app/rooms
-
-![Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113513.png)
-![Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113736.png)
-![Execution-evidence](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20113825.png)
-
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-Durante este sprint se avanzó en el desarrollo de la interfaz de usuario de la aplicación utilizando Vue como lenguaje de front end, enfocándose principalmente en la construcción de componentes visuales y estructurales.
-En esta fase no se integraron servicios reales (API REST), ya que los datos utilizados en los componentes fueron simulados localmente para efectos de diseño y validación visual.
-
-La integración con servicios back-end está prevista para un sprint posterior, una vez finalizada la implementación de la estructura base de la aplicación. Por ello, no se incluye evidencia de documentación de servicios en esta etapa.
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-En este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su despliegue:
-
-- Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del front-end application.
-- GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el desarrollo del front-end application.
-- GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo conjunto del front-end application.
-- Vercel: Utilizado como plataforma para automatizar el despliegue del front-end application.
-
-📄 [Accede aquí para ver el sprint 2 - video ](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo2469626909%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed36acfcf-9788-4434-8ee0-39e3b1266294&isDarkMode=false)
-
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
-
-![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114710.png)
-![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114752.png)
-![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114811.png)
-![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114817.png)
-![Team Collaboration Insights](/Assets/img/Chapter-5/Captura%20de%20pantalla%202025-05-13%20114829.png)
 
 ### 5.2.3. Sprint 3
 
-#### 5.2.3.1. Sprint Planning 3
+https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report/blob/develop/Sprint3.md
 
-A continuación, se presenta el planificación detallada del **Sprint 3**, centrado en el desarrollo técnico y la integración del backend con el frontend previamente construido.
+### 5.2.4. Sprint 4
 
-| Campo | Detalle |
-|-------|---------|
-| **Número de Sprint** | Sprint 3 |
-| **Fecha de inicio** | 08/06/2025 |
-| **Fecha de finalización** | 19/06/2025 |
-| **Duración estimada** | 12 días laborales |
-| **Lugar** | Reuniones virtuales por Discord |
-| **Preparado por** | SoftCore Team |
-| **Asistentes a la planificación** | Todos los miembros del equipo: Axel Ordoñez, Fabrizio Panta, Brayan Ccarita, Alison Arrieta, Andreow Santiago |
-| **Revisión de entregables anteriores** | Sprint 1: Desarrollo de la landing page <br> Sprint 2: Implementación del frontend funcional |
-| **Retrospectiva Sprint 2** | Se validó la importancia de un diseño UX/UI sólido y se avanzó significativamente en componentes visuales, pero se identificó la necesidad de desarrollar e integrar funcionalidades técnicas mediante un backend robusto. |
 
-##### Objetivo del Sprint:
 
-Desarrollar el backend del sistema CustomHost utilizando buenas prácticas de arquitectura modular, seguridad y logs, asegurando su conexión efectiva con el frontend existente. Este sprint también incluyó preparación de guiones para entrevistas de validación y grabación del video "About the Product".
-
----
-
-#### 5.2.3.2. Aspect Leaders and Collaborators
-
-| Miembro del Equipo        | GitHub Username   | Líder / Colaborador en aspectos claves |
-|--------------------------|-------------------|----------------------------------------|
-| **Axel Ordoñez**         | nOOmzzzz          | Líder en diseño de guiones de entrevista |
-| **Fabrizio Panta**       | F4brizio24        | Líder en integración Backend-Frontend |
-| **Brayan Ccarita**       | hallzyx           | Despliegue y verificación del backend |
-| **Alison Arrieta**       | alisoft08         | Configuración de backend siguiendo buenas prácticas |
-| **Andreow Santiago**     | andrew65411       | Desarrollo inicial del backend, documentación y entrega final del informe |
-
----
-
-#### 5.2.3.3. Sprint Backlog 3
-
-Este backlog corresponde a las tareas realizadas durante el Sprint 3:
-
-![SprintBacklog - Sprint 3](/Assets/img/Chapter-5/sprint-backlog-3.png)
-
-Tareas principales:
-- Diseño de guiones para entrevistas de validación.
-- Desarrollo inicial del backend del sistema.
-- Configuración del backend aplicando buenas prácticas (seguridad, logs).
-- Integración exitosa del backend con el frontend existente.
-- Análisis y síntesis de resultados de entrevistas de validación.
-- Deploy del backend a servidor de producción.
-- Actualización de diagramas C4 model.
-- Mejoras en User Stories y Product Backlog.
-- Incorporación de comentarios del docente al informe final.
-- Revisión general y entrega final del informe.
-
----
-
-#### 5.2.3.4. Development Evidence for Sprint Review
-
-Se muestra evidencia del progreso del desarrollo técnico en este sprint:
-
-| Repositorio | Rama | Mensaje del commit | Fecha |
-|------------|------|--------------------|-------|
-| customhost-backend | develop | feat: initial backend structure using Node.js and Express | 14/06/2025 |
-| customhost-backend | develop | feat: security implementation with JWT and logging | 16/06/2025 |
-| customhost-backend | develop | fix: logic improvements based on feedback | 17/06/2025 |
-| customhost-backend | develop | deploy: production server deployment | 17/06/2025 |
-| customhost-frontend | develop | chore: integrate backend API endpoints | 17/06/2025 |
-| customhost | develop | docs: updated mockups and wireframes | 18/06/2025 |
-| customhost | develop | chore: incorporate teacher comments into final report | 18/06/2025 |
-| customhost | develop | docs: final report revision and delivery | 19/06/2025 |
-
-Estos commits reflejan el trabajo técnico constante y distribuido entre todos los miembros del equipo, enfocado en el backend, integración con frontend, despliegue y revisión final del informe.
-
----
-
-#### 5.2.3.5. Execution Evidence for Sprint Review
-
-**Avances alcanzados durante el Sprint 3:**
-
-- **Backend Funcional:** Se implementó la lógica principal del sistema utilizando Node.js, con enfoque en seguridad (JWT), registro de logs y modularidad.
-- **Integración Exitosa:** El backend fue conectado al frontend desarrollado en el Sprint 2, permitiendo comunicación efectiva entre ambas capas del sistema.
-- **Despliegue a Producción:** El backend fue desplegado en un servidor de producción, garantizando disponibilidad para pruebas reales.
-- **Entrevistas de Validación:** Se realizaron entrevistas con huéspedes y staff hotelero para validar funcionalidades y obtener retroalimentación real sobre el producto.
-- **Video Institucional:** Se produjo el video "About the Product" y "About the Team", disponibles en SharePoint.
-
-**URL del sistema funcional (Frontend + Backend):**
-🔗 [https://aaaavue-hallzyxs-projects.vercel.app](https://customhost-app.vercel.app/)
-
-**Vídeo del Sprint 3:**
-📄 [Accede aquí al video del Sprint 3](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362_upc_edu_pe%2FDocuments%2Fvideo2798432421%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e0a06d8-3cbe-4574-9316-b337c5788c56&isDarkMode=true)
-
----
-
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
-
-Durante este sprint se avanzó en la implementación técnica del sistema, por lo que se generaron documentos esenciales relacionados con:
-- Estructura de APIs RESTful.
-- Endpoints funcionales para gestión de usuarios, reservas, preferencias y dispositivos IoT.
-- Documentación técnica del backend y su configuración segura.
-- Diagramas C4 Model actualizados.
-- Guiones para entrevistas de validación de usuario.
-
-Todo esto se complementó con el análisis de resultados obtenidos en las entrevistas de validación y su aplicación directa al diseño final del sistema.
-
----
-
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
-
-El backend fue desplegado en un entorno de producción, utilizando herramientas profesionales y buenas prácticas:
-
-- **Herramientas utilizadas:**
-   - `Node.js` para el desarrollo del backend.
-   - `Express` para crear los endpoints REST.
-   - `MongoDB Atlas` como base de datos en la nube.
-   - `GitHub Actions` para CI/CD.
-   - `Render` o `Railway` para despliegue en producción.
-
-- **Resultados del despliegue:**
-   - Sistema operativo y accesible desde cualquier dispositivo.
-   - Comunicación estable con el frontend.
-   - Logs funcionales y monitoreo de errores activo.
-   - Seguridad implementada con token JWT y protección contra inyecciones.
-
----
-
-#### 5.2.3.8. Team Collaboration Insights during Sprint
-
-La dinámica colaborativa durante el Sprint 3 fue muy activa, con roles bien definidos y participación constante de todos los miembros del equipo:
-
-- **Commits frecuentes y distribuidos:**  
-  ![Commits Sprint 3](Assets/img/cover/TB1%20commits.png)
-
-- **Network Graph:**  
-  ![Network Graph Sprint 3](Assets/img/cover/network-tb2-backend.png)
-
-- **Ramas usadas:**
-   - `develop`: rama principal.
-   - `feature/backend-security`: para configuración de seguridad.
-   - `feature/integration`: para conectar backend con frontend.
-   - `fix/user-stories`: ajustes basados en feedback técnico.
-
-Este flujo de trabajo permitió un desarrollo ordenado, controlado y orientado a calidad, escalabilidad y mantenimiento futuro del sistema.
-
----
-
-## 5.3. Validation Interviews
-
-Tras la finalización del sprint 3, se llevaron a cabo entrevistas de validación con los usuarios de los segmentos de trabajadores y gerentes de hotel para obtener retroalimentación sobre el diseño visual y la usabilidad de la aplicación en desarrollo. A continuación, se presentan los detalles de las entrevistas realizadas, incluyendo el diseño de las preguntas y los registros de las respuestas de los usuarios.
-
-### 5.3.1. Diseño de Entrevistas.
-
-En el diseño de entrevistas, se incluyen las preguntas generales que se usaran para ambos segmentos objetivos, y preguntas específicas hacía cada segmento.
-
-Preguntas generales:
-
-- ¿Qué opinión tiene sobre el diseño visual y la apariencia general de la aplicación en su estado actual?
-- ¿La interfaz visual y el diseño de la aplicación reflejan adecuadamente la imagen y la marca de su hotel?
-- ¿Hay algún aspecto del diseño visual que le gustaría que ajustemos o mejoremos antes de la implementación final?
-- ¿qué impresiones iniciales tiene sobre la dirección en la que estamos llevando el proyecto?
-- ¿Cómo se comparan los avances visuales con sus expectativas iniciales o lo que tenía en mente para el software?
-
-### Segmento Objetivo #1: Huéspedes
-
-Este segmento se enfoca en huéspedes que viajan con frecuencia, valoran la tecnología y esperan experiencias ágiles y digitales.
-
-User Flow - Happy Path
-- Inicio: Login / Registro (Desktop o Mobile)
-- Pantalla de entrada: Home (centro de operaciones)
-- Navegación principal:
-   + Reservar ahora (Book now)
-   + Preferencias (Preferences)
-   + Mis reservas (My bookings)
-   + Atencion al cliente (Customer Service)
-   + Notificaciones (Notifications)
-
-Reservar ahora (Book now)
-- Proceso de creación:
-   + Ingreso a Book now
-   + Escoger el hotel
-   + Escoger la habitacion
-   + Seleccionar fecha de ingreso y salida
-   + Pasar a pagar
-   + Pagar con tarjeta de credito
-   + Confirmar reserva
-
-Preferencias (Preferences)
-- Proceso de creación:
-   + Ingreso a Preferences
-   + Seleccionar preferencias de la habitacion
-   + Seleccionar preferencias de los dispositivos IOT
-   + Guardar preferencias
-
-Mis reservas (My bookings)
-- Proceso de creación:
-   + Ingreso a My bookings
-   + Ver reservas activas
-   + Ver reservas pasadas
-   + Cancelar reserva activa
-
-Atencion al cliente (Customer Service)
-- Proceso de creación:
-    + Ingreso a Customer Service
-    + Seleccionar tipo de solicitud (habitacion, servicio, etc.)
-    + Describir solicitud
-    + Enviar solicitud
-
-Notificaciones (Notifications)
-- Proceso de creación:
-    + Ingreso a Notifications
-    + Ver notificaciones recientes
-    + Marcar notificaciones como leídas
-
-User Flow - Unhappy Path
-
-- Errores de autenticación: credenciales inválidas, campos vacíos, usuario no registrado
-- Fallo en selección de habitación: opciones no visibles, precios incorrectos o sin disponibilidad
-- Problemas en personalización: cambios no guardados, dispositivos no asignables
-- Errores en notificaciones: ausencia de alertas, mensajes irrelevantes o repetitivos
-
-Formulación de las preguntas:
-
-1. ¿Qué le llamó la atención del diseño o funcionalidades ofrecidas en la demostración?
-2. ¿Hubo algo que le generara inquietud o que no le resultara claro cómo usarlo?
-3. ¿Cómo compara lo que vio con otras plataformas tecnológicas que ha usado en otros hoteles o servicios de alojamiento?
-4. ¿Qué funcionalidad le gustaría encontrar disponible desde el momento del check-in hasta el check-out?
-5. ¿Qué tanto valoraría poder personalizar su estancia (ej. elegir habitación, horarios, servicios adicionales) a través de una app o portal web?
-6. ¿Cómo cree que una buena experiencia digital puede influir en su percepción general del hotel?
-7. ¿Qué características del software aumentarían su confianza o sensación de control durante su estancia?
-8. ¿Le gustaría recibir notificaciones personalizadas sobre promociones, servicios o recordatorios durante su estadía?
-9. ¿Cómo cree que esta tecnología podría mejorar su interacción con el personal del hotel?
-
-
-### Segmento Objetivo #2: Empleados del Sector Hotelero
-
-
-Este segmento se enfoca en empleados operativos de distintos departamentos del hotel (recepción, housekeeping, servicio al cliente, cocina, etc.).
-
-User Flow - Happy Path
-- Inicio: Login / Registro (Desktop o Mobile)
-- Pantalla de entrada: Home (centro de operaciones)
-- Navegación principal:
-  + Habitaciones (Rooms)
-  + Dispositivos del personal (Staff Devices)
-  + Solicitudes de clientes(Customer request)
-  + Seguimiento de reservas (Booking tracker)
-  + Solicitar personal (Request Staff)
-
-Habitaciones (Rooms)
-- Proceso de creación:
- + Ingreso a Rooms
- + Ver habitaciones disponibles
- + Asignar habitación a cliente
- + Actualizar estado de habitación (limpia, sucia, en mantenimiento)
- + Añadir o eliminar habitaciones
- + Guardar cambios
- + Ver historial de cambios
- + Ver detalles de cada habitación (precio, tipo, servicios)
- + Actualizar precios de habitaciones
- + Ver reservas actuales y pasadas
-
-Dispositivos del personal (Staff Devices)
-- Proceso de creación:
-    + Ingreso a Staff Devices
-    + Ver dispositivos asignados a los cuartos
-    + Añadir nuevo dispositivo 
-    + Asignar dispositivo al cuarto
-    + Actualizar estado del dispositivo (activo, inactivo, en reparación)
-    + Eliminar dispositivo si ya no es necesario
-    + Guardar cambios
-    + Ver historial de cambios de dispositivos
-
-Solicitudes de clientes(Customer request)
-- Proceso de creación:
- + Ingreso a Customer request
- + Ver solicitudes pendientes
- + Actualizar estado de solicitud (pendiente, en proceso, resuelta)
- + Asignar solicitud a personal correspondiente
- + Añadir comentarios o notas a la solicitud
- + Cerrar solicitud una vez resuelta
-
-Seguimiento de reservas (Booking tracker)
-- Proceso de creación:
-    + Ingreso a Booking tracker
-    + Ver reservas actuales y pasadas
-    + Actualizar estado del check-in de la reserva (confirmada, cancelada, en espera)
-    + Añadir notas o comentarios a la reserva
-    + Ver detalles de cada reserva (cliente, fechas, habitación asignada)
-    + Generar reportes de reservas
-
-Solicitar personal (Request Staff)
-- Proceso de creación:
-    + Ingreso a Request Staff
-    + Seleccionar tipo de personal requerido (limpieza, mantenimiento, cocina, etc.)
-    + Describir la solicitud (motivo, urgencia, cantidad de personal)
-    + Enviar solicitud al supervisor o gerente
-    + Ver estado de solicitudes enviadas
-
-
-User Flow - Unhappy Path
-Problemas iniciales: errores en login, carga incompleta
-Fallas en seguimiento: estados no actualizados, habitaciones duplicadas
-Errores en gestión de dispositivos: falta de retroalimentación tras guardar cambios, dificultad para añadir o eliminar dispositivos
-Fallas en coordinación: solicitudes no recibidas, comunicación entre equipos desorganizada
-
-Formulación de las preguntas:
-
-1. ¿Hay alguna funcionalidad en particular que haya visto durante la demostración que le llame la atención por su utilidad o facilidad de uso?
-2. ¿Alguna parte del software le resultó difícil de entender o poco intuitiva desde su punto de vista como empleado?
-3. ¿Cree que el diseño actual del software sería fácil de aprender para usted o sus compañeros?
-
-4. ¿Qué tipo de información o herramientas le gustaría tener siempre disponibles en un solo lugar dentro del sistema?
-5. ¿Cómo cree que este software podría mejorar la comunicación entre los diferentes equipos de trabajo?
-6. ¿Piensa que una mejor organización de tareas a través de esta plataforma podría reducir el estrés laboral?
-
-
-### 5.3.2. Registro de Entrevistas.
-
-En esta sección se presentan los registros de las entrevistas realizadas a los usuarios de los segmentos de
-empleados del Sector Hotelero y los huéspedes. Se incluye un resumen de las respuestas y 
-las impresiones generales de los entrevistados sobre el software en 
-desarrollo.
-
-Url del video: https://goo.su/CyqIelM
-
-## Segmento Objetivo #1: Huéspedes
-
-### Entrevistado 1: Alessandra Becerra
-- **Edad:** 18 años
-- **Ocupación:** Estudiante de ingeniería de software
-- **Navegador habitual:** Safari y Windows
-- **Dispositivos utilizados:** iPhone y laptop
-- **Distrito:** San Miguel
-
-![Imagen de entrevista](Assets/img/Chapter-5/validacion-ale.png)
-
-- **Instante en el que inicia:** 0:01
-- **Instante en el que finaliza:** 6:50
-
-**Resumen:**  
-Alessandra mostró interés en la landing page por su diseño visual atractivo y la claridad en los servicios ofrecidos. Destacó positivamente la presencia de imágenes llamativas, aunque consideró que podría mejorar el estilo de algunas imágenes usadas. Mostró facilidad al navegar por las opciones de registro e inicio de sesión. Se sintió motivada a usar la plataforma para personalizar su estadía en el hotel.
-
-**Preferencias Tecnológicas:**  
-Prefiere interfaces modernas, con buena carga visual y navegación intuitiva. Considera importante contar con una app móvil complementaria.
-
-**Analisis de entrevista:**
-
-Alessandra mostró una actitud positiva hacia el diseño visual del landing page, destacando su atractivo y claridad. Sin embargo, señaló que algunas imágenes podrían ser reemplazadas por otras más profesionales o representativas del servicio hotelero. Su facilidad al navegar por las opciones de registro e inicio de sesión indica que la interfaz es intuitiva para usuarios nuevos. Además, se mostró motivada por la posibilidad de personalizar su estadía, lo cual refuerza la importancia de esta funcionalidad como valor diferencial.
-
-Este perfil de usuario valora interfaces modernas con buena carga visual y navegación intuitiva, lo que sugiere que el equipo debe priorizar un diseño estético y consistente. También resaltó la necesidad de contar con una aplicación móvil complementaria, lo cual podría convertirse en una futura mejora orientada a satisfacer las expectativas de huéspedes jóvenes y tecnológicos.
-
----
-
-### Entrevistado 2: Fernando San José Zamora Solís
-- **Edad:** 24 años
-- **Ocupación:** Practicante de ingeniería de software
-- **Navegador habitual:** Google Chrome y Opera GX
-- **Dispositivos utilizados:** Celular y computadora
-- **Distrito:** Jesús María
-
-![Imagen de entrevista](Assets/img/Chapter-5/validacion-fab.png)
-
-- **Instante en el que inicia:** 7:26
-- **Instante en el que finaliza:** 18:34
-
-**Resumen:**  
-Fernando realizó una reserva de habitación desde la landing page y destacó la claridad del proceso. Le gustó la opción de elegir fechas y ver el costo total antes del pago. Apreció también la integración IoT para configurar dispositivos previo a su llegada. Sugirió mejorar la retroalimentación visual tras guardar cambios.
-
-**Preferencias Tecnológicas:**  
-Recomendó notificaciones vía correo cuando haya actualizaciones importantes en la reserva o en el estado de los dispositivos.
-
-**Analisis de entrevista:**
-Fernando realizó la reserva de una habitación de forma fluida, lo que valida que el proceso de selección y pago está bien estructurado y fácil de entender. Valoró la integración IoT, considerándola una ventaja competitiva importante que permite anticipar configuraciones personales antes de la llegada al hotel.
-
-Sin embargo, también señaló la necesidad de mejorar la retroalimentación visual tras guardar cambios, lo cual indica que hay espacio para mejorar la experiencia de usuario en términos de feedback inmediato. Como practicante de ingeniería de software, su perspectiva técnica aporta una mirada crítica sobre detalles de usabilidad que pueden pasar desapercibidos para otros usuarios menos experimentados.
-
-Su recomendación de recibir notificaciones vía correo electrónico refuerza la necesidad de mantener al usuario informado sobre actualizaciones importantes relacionadas con su reserva o dispositivos asignados.
-
----
-
-### Entrevistado 3: Luis Córdova
-- **Edad:** 25 años
-- **Ocupación:** Data Science
-- **Navegador habitual:** Google Chrome
-- **Dispositivos utilizados:** Computadora y celular
-- **Distrito:** San Borja
-
-![Imagen de entrevista](Assets/img/Chapter-5/validacion-axel.png)
-
-- **Instante en el que inicia:** 18:34
-- **Instante en el que finaliza:** 27:20
-
-**Resumen:**  
-Luis valoró la funcionalidad de personalización de habitaciones y servicios como un diferenciador importante. Encontró útil la opción de solicitar servicios desde la aplicación sin necesidad de llamar al personal. Sugirió incluir más opciones visuales sobre los tipos de habitaciones disponibles.
-
-**Preferencias Tecnológicas:**  
-Le gustaría recibir notificaciones push en su celular sobre confirmaciones de reservas y recordatorios de check-in/check-out.
-
-**Analisis de entrevista:**
-Luis reconoció la utilidad de poder personalizar la experiencia del huésped desde la aplicación, sin necesidad de interactuar directamente con el personal del hotel. Esto refleja una preferencia por la autonomía y digitalización de servicios, especialmente entre perfiles profesionales como el suyo.
-
-Sugirió incluir más opciones visuales sobre los tipos de habitaciones disponibles, lo que implica que una mayor representación gráfica puede ayudar a tomar decisiones más informadas. Asimismo, manifestó interés en recibir notificaciones push sobre reservas y recordatorios, lo que refuerza la relevancia de implementar canales de comunicación proactiva con el usuario final.
-
-Su perfil como Data Scientist sugiere una alta familiaridad con herramientas digitales, por lo que su aceptación del sistema indica una buena adaptabilidad del producto a usuarios avanzados.
-
----
-
-## Segmento Objetivo #2: Empleados del Sector Hotelero
-
-### Entrevistado 4: Claudia Sifuentes
-- **Edad:** 28 años
-- **Ocupación:** Gerente de operaciones hotelera
-- **Navegador habitual:** Firefox
-- **Dispositivos utilizados:** Laptop
-- **Distrito:** Lince
-
-![Imagen de entrevista](Assets/img/Chapter-5/validacion-clau.png)
-
-- **Instante en el que inicia:** 27:25
-- **Instante en el que finaliza:** 37:17
-
-**Resumen:**  
-Claudia encontró muy útil la capacidad de configurar dispositivos desde la web y comentó que esto facilita la administración de mantenimiento. Recomendó incluir notificaciones automáticas por correo si un dispositivo entra en mantenimiento. Le gustó la claridad de los botones y la organización de la información.
-
-**Desafíos Actuales:**  
-Gestión manual de dispositivos IoT y falta de automatización en tareas repetitivas.  
-**Visión Tecnológica:**  
-Prefiere soluciones digitales que mejoren la experiencia del cliente y agilicen la gestión interna.
-
-**Analisis de entrevista:**
-
-Claudia mostró una comprensión clara del funcionamiento de la plataforma, destacando la simplicidad en la configuración de dispositivos IoT y su utilidad para la administración del mantenimiento. Recomendó incorporar notificaciones automáticas por correo cuando un dispositivo entra en mantenimiento, lo cual refuerza la necesidad de alertas proactivas en entornos hoteleros.
-
-Le gustó la organización de la información y la claridad de los botones, lo cual indica que la arquitectura de información cumple con criterios básicos de usabilidad. Como gerente de operaciones hotelera, su opinión refleja una visión estratégica sobre cómo el sistema puede mejorar tanto la experiencia del cliente como la eficiencia interna.
-
-Su feedback subraya la importancia de automatizar tareas repetitivas y ofrecer herramientas que permitan ahorrar tiempo y evitar errores manuales.
-
----
-
-### Entrevistado 5: Alex Ávila
-- **Edad:** 20 años
-- **Ocupación:** Administrador hotelero
-- **Navegador habitual:** Opera GX y Windows
-- **Dispositivos utilizados:** Laptop y teléfono Android
-- **Distrito:** Jesús María
-
-![Imagen de entrevista](Assets/img/Chapter-5/validacion-alex.png)
-
-- **Instante en el que inicia:** 37:17
-- **Instante en el que finaliza:** 42:06
-
-**Resumen:**  
-Alex valoró la posibilidad de gestionar cuartos y dispositivos IoT desde una sola interfaz. Destacó la utilidad de poder programar ajustes antes de la llegada del huésped. Sugirió añadir un panel de control general para ver todos los dispositivos activos y desactivos.
-
-**Desafíos Actuales:**  
-Dificultad para monitorear el estado real de los dispositivos IoT en tiempo real.  
-**Visión Tecnológica:**  
-Prefiere herramientas centralizadas que permitan ahorrar tiempo y evitar errores manuales.
-
-**Analisis de entrevista:**
-
-Alex valoró la centralización de funciones en una sola interfaz, lo cual le permite manejar cuartos y dispositivos IoT sin necesidad de cambiar constantemente de plataforma. Destacó la utilidad de programar ajustes previos a la llegada del huésped, lo cual facilita la preparación operativa del hotel.
-
-Su propuesta de agregar un panel de control general para ver todos los dispositivos activos y desactivos es una mejora significativa que puede optimizar la gestión de mantenimiento y monitoreo. Su rol como administrador hotelero refleja una necesidad real de herramientas que reduzcan tiempos de trabajo y aumenten la eficiencia operativa.
-
-El análisis sugiere que el sistema tiene potencial para convertirse en una herramienta clave en la gestión diaria de hoteles si se integran mejoras orientadas a la supervisión integral de dispositivos.
-
----
-
-### Entrevistado 6: Joan Talizo
-- **Edad:** 23 años
-- **Ocupación:** Administración hotelera
-- **Navegador habitual:** Google Chrome
-- **Dispositivos utilizados:** Laptop y tablet
-- **Distrito:** Surquillo
-
-![Imagen de entrevista](Assets/img/Chapter-5/validacion-joan.png)
-
-- **Instante en el que inicia:** 42:06
-- **Instante en el que finaliza:** 46:24
-
-**Resumen:**  
-Joan destacó la simplicidad de uso del sistema de configuración de cuartos. Sugirió agregar una sección donde se puedan ver todos los dispositivos disponibles y asignados por hotel. Le gustó la opción de añadir nuevos dispositivos con solo un clic.
-
-**Desafíos Actuales:**  
-Dificultad para hacer un seguimiento de los dispositivos asignados y su estatus actual.  
-**Visión Tecnológica:**  
-Busca herramientas que reduzcan tiempos de configuración y aumenten la eficiencia operativa.
-
-**Analisis de entrevista:**
-
-Joan destacó la simplicidad del sistema de configuración de cuartos, lo cual es clave para empleados que requieren rapidez y precisión en sus labores diarias. Sugirió crear una sección donde se puedan ver todos los dispositivos disponibles y asignados por hotel, lo cual permitiría hacer un seguimiento más eficiente de los recursos.
-
-La opción de añadir nuevos dispositivos con solo un clic fue valorada positivamente, aunque expresó la necesidad de tener un inventario claro de dispositivos disponibles. Esto sugiere que el sistema debe incluir una capa de gestión de inventario IoT para evitar duplicados o pérdidas de equipos.
-
-Como profesional en administración hotelera, Joan representa un perfil operativo que busca herramientas intuitivas y útiles para agilizar procesos. Su opinión refuerza la idea de que el sistema puede escalar para convertirse en una solución integral de gestión hotelera.
-
----
-
-### 5.3.3. Evaluaciones según heurísticas.
-En esta seccion, se presentan las evaluaciones de la aplicacion web segun las heurísticas de Nielsen, con el fin de identificar los problemas de usabilidad y mejorar la aplicacion.
-
-|HEURISTICAS|
-|-|
-|Visibilidad del estado del sistema|
-|Coincidencia entre el sistema y el mundo real|
-|Control y libertad del usuario|
-|Consistencia y estándares|
-|Prevención de errores|
-|Mostrar antes que recordar|
-|Flexibilidad y eficiencia de uso|
-|Diseño estético y minimalista|
-|Comunicar errores con facilidad|
-|Ayuda y documentación|
-
-SITE o APP a evaluar: Custom Host
-Tareas a Evaluar El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-
-1. Registro de un usuario nuevo
-2. Registro de Dormitorios
-3. Registro de Productos
-4. Inicio de sesión
-5. Registro de trabajadores
-6. Actualizar ingresos y egresos
-7. Administración de notificaciones
-8. Registro de pagos
-9. Selección de subscripción
-10. Registro de Trabajadores
-13. Filtrar gráficos
-14. Lista de productos
-15. Lista de Dormitorios
-16. Administración de Routes.
-17. Creación de subscripciones.
-18. Mensajes de alertas
-19. Proceso de pago
-20. Ver perfil
-
-### ESCALA DE SEVERIDAD
-
-Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
-
-|nivel|Descripción|
-|-|-|
-|1|Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
-|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.|
-|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
-|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
-
-TABLA RESUMEN
-
-| # | Problema | Escala de serveridad | Heuristica/Princiopio violada (o)          |
-|---|----------|----------------------|--------------------------------------------|
-| 1 |No existe la opción de ocultar la función de añadir un cuarto a manejar| 2                    | Information Architecture: Is it findable?  |
-| 2 | No existe un mensaje de error cuando se intenta iniciar sesión con una cuenta no existente| 2                    | Usability: Consistencia y estándares       |
-| 3 | No existen opciones de filtro en el manejo de cuartos | 2                    | Information Architecture: Is it findable?  |
-| 4 |Interfaz poco amigable para dispositivos móviles| 3                    | Usability: Libertad y control del usuario  |
-| 5 | Falta de administración de notificaciones         | 3                    | Information Architecture: Is it findable?  |
-| 6 |No hay una opción clara para cambiar o cancelar la suscripción| 4                    | Usability: Libertad y control del usuario. |
-| 7 |No existen opciones de filtro para las estadísticas gráficas | 2                    | Information Architecture: Is it findable?  |
-
-## Descripción de Problemas
-
-### PROBLEMA #1: No existe la opción de ocultar la función de añadir un cuarto a manejar
-**Severidad:** 2  
-**Heurística violada:** Information Architecture – ¿Es localizable?
-
-**Problema:**  
-La interfaz no permite ocultar temporalmente ciertas funciones que pueden distraer al usuario dependiendo del rol. Esto genera sobrecarga cognitiva innecesaria.
-
-**Recomendación:**  
-Incluir un menú desplegable de visibilidad de funciones por rol o área de trabajo.
-
----
-
-### PROBLEMA #2: No existe un mensaje de error cuando se intenta iniciar sesión con una cuenta no existente
-**Severidad:** 2  
-**Heurística violada:** Usabilidad – Consistencia y estándares
-
-**Problema:**  
-Al intentar iniciar sesión con credenciales incorrectas, no aparece ningún mensaje de error que indique qué ocurrió.
-
-**Recomendación:**  
-Agregar un mensaje claro que indique que el usuario o contraseña son incorrectos, manteniendo un tono profesional y útil.
-
----
-
-### PROBLEMA #3: No existen opciones de filtro en el manejo de cuartos
-**Severidad:** 2  
-**Heurística violada:** Information Architecture – ¿Es localizable?
-
-**Problema:**  
-No se puede filtrar por estado (ocupado, disponible, en limpieza, etc.) lo cual dificulta la búsqueda rápida de cuartos específicos.
-
-**Recomendación:**  
-Incluir filtros por estado, tipo de habitación, nivel, etc., para facilitar la gestión.
-
----
-
-### PROBLEMA #4: Interfaz poco amigable para dispositivos móviles
-**Severidad:** 3  
-**Heurística violada:** Usabilidad – Libertad y control del usuario
-
-**Problema:**  
-La interfaz pierde funcionalidad y legibilidad al verse desde dispositivos móviles. Botones pequeños, texto ilegible y elementos mal posicionados.
-
-**Recomendación:**  
-Implementar diseño responsive que adapte la interfaz correctamente a pantallas móviles.
-
----
-
-### PROBLEMA #5: Falta de administración de notificaciones
-**Severidad:** 3  
-**Heurística violada:** Information Architecture – ¿Es localizable?
-
-**Problema:**  
-No hay una sección dedicada a la gestión de notificaciones ni opción de marcar como leído/no leído.
-
-**Recomendación:**  
-Crear un apartado de notificaciones con categorías, orden cronológico y opciones de acción.
-
----
-
-### PROBLEMA #6: No hay una opción clara para cambiar o cancelar la suscripción
-**Severidad:** 4  
-**Heurística violada:** Usabilidad – Libertad y control del usuario
-
-**Problema:**  
-No se encuentra una opción visible o accesible para gestionar la suscripción, lo que genera frustración en el usuario.
-
-**Recomendación:**  
-Incluir una sección de “Suscripción” en el perfil del usuario con opciones claras de modificar, pausar o cancelar.
-
----
-
-### PROBLEMA #7: No existen opciones de filtro para las estadísticas gráficas
-**Severidad:** 2  
-**Heurística violada:** Information Architecture – ¿Es localizable?
-
-**Problema:**  
-No se pueden aplicar filtros a las gráficas para obtener datos más específicos.
-
-**Recomendación:**  
-Agregar opciones de filtro por fecha, tipo de dato, categoría, etc., para personalizar la información mostrada.
-
-# About the team
-Aqui podemos ver el link de nuestro video institucional donde se presenta al equipo y el producto desarrollado.
-
-📄 Accede aquí al video del About the team: [Accede aquí al video del About the Team]()
-
-# About the product
-
-Aqui podemos ver el link del about the product donde se presenta el producto desarrollado y las funcionalidades que ofrece.
-
-📄 Accede aquí al video del About the product: [Accede aquí al video del About the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/EZhsIitl8ZtJs9CizI4GDBsB5zP2JNUFrb3n-GMsK5YDKg?e=GJ0c9j&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-# Video de exposicion:
-Aqui podemos ver el link del video de exposicion donde se presenta el producto desarrollado y las funcionalidades que ofrece.
-
-📄 Accede aquí al video del exposicion: [Accede aquí al video del expo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317362_upc_edu_pe/Ec3JDxqSpmZAhGnJ-HyJ_4cBSoOJaIMBTseu8h3kVxlF7A?e=uS9SCh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-
-# concluciones
+# Conclusiones
 
 El desarrollo del proyecto Custom Host ha permitido consolidar una base metodológica, técnica y colaborativa fundamental para la evolución de la plataforma, validando hipótesis clave sobre personalización hotelera, gestión operativa y adopción tecnológica. A través de un enfoque estructurado en Lean UX , diseño centrado en el usuario, arquitectura orientada al dominio y desarrollo técnico escalable, se logró articular una solución integral que responde a las necesidades reales tanto de huéspedes como del personal administrativo del hotel.
 
@@ -3223,6 +2363,24 @@ La colaboración ágil del equipo fue otro pilar fundamental. Utilizando ramas e
 Este primer ciclo de desarrollo no solo entregó una solución funcional, sino que también marcó las bases para futuras iteraciones donde se abordará la integración con proveedores de tecnología, expansión internacional, automatización de procesos con inteligencia artificial y monitoreo proactivo de dispositivos IoT. Todo ello bajo un marco de trabajo que prioriza la usabilidad, la escalabilidad y la sostenibilidad técnica del sistema.
 
 En síntesis, Custom Host se posiciona como una solución viable y diferenciadora en el mercado hotelero, respaldada por un proceso UX sólido, una arquitectura limpia y un equipo comprometido con la innovación y la calidad en cada entrega.
+
+# About the team
+Aqui podemos ver el link de nuestro video institucional donde se presenta al equipo y el producto desarrollado.
+
+<https://tinyurl.com/about-the-team-video>
+
+# About the product
+
+Aqui podemos ver el link del about the product donde se presenta el producto desarrollado y las funcionalidades que ofrece.
+
+<https://tinyurl.com/about-the-product-video>
+
+# Video de exposicion:
+Aqui podemos ver el link del video de exposicion donde se presenta el producto desarrollado y las funcionalidades que ofrece.
+
+<https://tinyurl.com/customhost-final-expo-video>
+
+
 
 # Bibliografía
 
@@ -3252,24 +2410,22 @@ En síntesis, Custom Host se posiciona como una solución viable y diferenciador
 # Anexos
 
 
-Entrevista 1 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-1-segmento-1](https://bit.ly/entrevista-1-segmento-1)
+Entrevista 1 - Segmento 1 (Huéspedes): <https://bit.ly/entrevista-1-segmento-1>
 
-Entrevista 2 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-2-segmento-1](https://bit.ly/entrevista-2-segmento-1)
+Entrevista 2 - Segmento 1 (Huéspedes): <https://bit.ly/entrevista-2-segmento-1>
 
-Entrevista 3 - Segmento 1 (Huéspedes): [https://bit.ly/entrevista-3-segmento-1](https://bit.ly/entrevista-3-segmento-1)
+Entrevista 3 - Segmento 1 (Huéspedes): <https://bit.ly/entrevista-3-segmento-1>
 
-Entrevista 4 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-4-segmento-2](https://tinyurl.com/entrevista-4-segmento-2)
+Entrevista 4 - Segmento 2 (Dueños de Hoteles): <https://tinyurl.com/entrevista-4-segmento-2>
 <!-- 
 video 5: [https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegmento%201%20%2D%20Luis%20Cordova%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee82cd9e2%2D078e%2D4cb0%2D80cf%2D3200ebfdab04](https://upcedupe-my.sharepoint.com/personal/u202317362_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202317362%5Fupc%5Fedu%5Fpe%2FDocuments%2FSegmento%201%20%2D%20Luis%20Cordova%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee82cd9e2%2D078e%2D4cb0%2D80cf%2D3200ebfdab04) -->
 
 
 <!-- TODO: Falta acortar Entrevista 5 y 6-->
 
-Entrevista 5 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-5-segmento-2](https://tinyurl.com/entrevista-5-segmento-2)
+Entrevista 5 - Segmento 2 (Dueños de Hoteles): <https://tinyurl.com/entrevista-5-segmento-2>
 
-
-
-Entrevista 6 - Segmento 2 (Dueños de Hoteles): [https://tinyurl.com/entrevista-6-segmento-2](https://tinyurl.com/entrevista-6-segmento-2)
+Entrevista 6 - Segmento 2 (Dueños de Hoteles): <https://tinyurl.com/entrevista-6-segmento-2>
 
 A continuación, se presentan los anexos que respaldan la información desarrollada a lo largo del informe. Estos incluyen enlaces a diagramas, mapas de empatía, entrevistas realizadas, artefactos visuales y otros documentos relevantes utilizados durante el proceso de investigación, diseño y desarrollo de Custom Host.
 
@@ -3279,7 +2435,7 @@ A continuación, se presentan los anexos que respaldan la información desarroll
 
 Documento base que define los supuestos iniciales, hipótesis clave, métricas y objetivos del proyecto desde una perspectiva centrada en el usuario.
 
-📄 [Ver documento completo: Lean UX Canvas – CustomHost](https://drive.google.com/drive/folders/1lisWJ5DpLPSO-jhpY3pJzf0qpPOdMhyf?usp=sharing)
+**Enlace a los Lean UX Canvas:** <https://tinyurl.com/customhost-lean-ux-canvas>
 
 ---
 
@@ -3287,7 +2443,7 @@ Documento base que define los supuestos iniciales, hipótesis clave, métricas y
 
 Mapas de empatía desarrollados para los segmentos objetivo, con el fin de comprender sus pensamientos, sentimientos, acciones y frustraciones.
 
-📄 [Acceder a los Empathy Maps completos](https://drive.google.com/drive/folders/1OPzCg6Y12vN8i56YLw9BLcZOWU6m3yZA?usp=sharing)
+**Enlace a los Empathy Maps completos:** <https://tinyurl.com/customhost-empathy-maps>
 
 - **Anexo A2.1:** Empathy Map – Huésped Tecnológico
 - **Anexo A2.2:** Empathy Map – Personal Administrativo
@@ -3298,7 +2454,7 @@ Mapas de empatía desarrollados para los segmentos objetivo, con el fin de compr
 
 Escenarios actuales del flujo de experiencia tanto para huéspedes como para el personal del hotel, mostrando cómo es la interacción actual sin Custom Host.
 
-📄 [Accede aquí al As-is Scenario Mapping](https://drive.google.com/drive/folders/1tNpNBVq5sW-YrK2v5Z9yYgTzjD1_g3Wv?usp=sharing)
+**Enlace al As-is Scenario Mapping:** <https://tinyurl.com/as-is-scenario-mapping>
 
 - **Anexo A3.1:** As-Is Scenario – Huésped Potencial
 - **Anexo A3.2:** As-Is Scenario – Personal del Hotel
@@ -3309,7 +2465,7 @@ Escenarios actuales del flujo de experiencia tanto para huéspedes como para el 
 
 Propuesta de escenarios futuros basados en las mejoras introducidas por Custom Host, enfocados en ofrecer una experiencia más conectada, intuitiva y eficiente.
 
-📄 [Accede aquí al To-be Scenario Mapping](https://drive.google.com/drive/folders/1SmotEHZv7R4b4g4NwnTeehjksSv_uQhR?usp=sharing)
+**Enlace al To-be Scenario Mapping:** <https://tinyurl.com/to-be-scenario-mapping>
 
 - **Anexo A4.1:** To-be Scenario – Huésped Tecnológico
 - **Anexo A4.2:** To-be Scenario – Personal Administrativo
@@ -3320,7 +2476,7 @@ Propuesta de escenarios futuros basados en las mejoras introducidas por Custom H
 
 Representación visual que muestra cómo cada funcionalidad del sistema impacta en los usuarios y contribuye a alcanzar los objetivos del negocio.
 
-📄 [Accede aquí al Impact Mapping](https://lucid.app/lucidchart/0b48881b-37af-4d3f-81f0-5c48f44eff2d/edit?invitationId=inv_e14a7c8d-7849-467d-99ab-528f2398e183&page=0_0#)
+**Enlace al Impact Mapping:** <https://tinyurl.com/customhost-impact-mapping>
 
 - **Anexo A5.1:** Impact Map – Huésped
 - **Anexo A5.2:** Impact Map – Personal del Hotel
@@ -3348,8 +2504,10 @@ Guía detallada de estilos visuales usados en la interfaz del producto, incluyen
 
 Durante el TB2, se grabaron videos explicativos del producto y del equipo detrás del desarrollo de Custom Host.
 
-- 🎬 https://example.com/video-product
-- 🎥 [Video "About the Team"](https://example.com/video-team)
+
+- **Video About the Product:** https://goo.su/v0tlyf
+- **Video About the Team:** https://goo.su/vlMEjmX
+- **Video de Exposición:** https://youtu.be/O6vJNbZutoI
 
 ---
 
@@ -3357,8 +2515,11 @@ Durante el TB2, se grabaron videos explicativos del producto y del equipo detrá
 
 A continuación, se listan los repositorios utilizados durante el desarrollo del proyecto:
 
-- 🔗 [Repositorio del Frontend - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend)
-- 🔗 [Repositorio del Reporte Técnico - CustomHost](https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/CustomHost)
+- **Reporte:** <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-project-report>
+- **Landing Page:** <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-landing-page>
+- **Frontend:** <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend>
+- **Backend:** <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-backend>
+
 
 ---
 
