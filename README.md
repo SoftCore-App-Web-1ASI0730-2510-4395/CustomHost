@@ -2857,18 +2857,18 @@ En síntesis, Custom Host se posiciona como una solución viable y diferenciador
 # About the team
 Aqui podemos ver el link de nuestro video institucional donde se presenta al equipo y el producto desarrollado.
 
-<https://tinyurl.com/about-the-team-video>
+<https://goo.su/vlMEjmX>
 
 # About the product
 
 Aqui podemos ver el link del about the product donde se presenta el producto desarrollado y las funcionalidades que ofrece.
 
-<https://tinyurl.com/about-the-product-video>
+<https://goo.su/v0tlyf>
 
 # Video de exposicion:
 Aqui podemos ver el link del video de exposicion donde se presenta el producto desarrollado y las funcionalidades que ofrece.
 
-<https://tinyurl.com/customhost-final-expo-video>
+<https://youtu.be/O6vJNbZutoI>
 
 
 
