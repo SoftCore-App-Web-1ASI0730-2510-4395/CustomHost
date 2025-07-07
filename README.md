@@ -2504,9 +2504,10 @@ Guía detallada de estilos visuales usados en la interfaz del producto, incluyen
 
 Durante el TB2, se grabaron videos explicativos del producto y del equipo detrás del desarrollo de Custom Host.
 
-- **Video About the Product:** <https://tinyurl.com/about-the-product-video>
-- **Video About the Team:** <https://tinyurl.com/about-the-team-video>
-- **Video de Exposición:** <https://tinyurl.com/expo-video>
+
+- **Video About the Product:** https://goo.su/v0tlyf
+- **Video About the Team:** https://goo.su/vlMEjmX
+- **Video de Exposición:** https://youtu.be/O6vJNbZutoI
 
 ---
 
