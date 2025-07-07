@@ -95,6 +95,24 @@ En este sprint, se completó el desarrollo de la Frontend Application y se utili
 
 **Video del Sprint 2:** <https://tinyurl.com/sprint-2-video>
 
+En las siguientes imagenes se muestra el proceso de despliegue de la Frontend Application en Vercel:
+
+En la siguiente imagen se muestra el primer paso que es importar el repositorio de GitHub a Vercel:
+
+![Deployment Evidence](Assets/img/Chapter-5/sprint2-deploy-1.jpg)
+
+En la siguiente imagen se muestra el segundo paso que es seleccionar el branch a desplegar:
+
+![Deployment Evidence](Assets/img/Chapter-5/sprint2-deploy-2.jpg)
+
+En la siguiente imagen se muestra el tercer paso que es configurar las variables de entorno:
+
+![Deployment Evidence](Assets/img/Chapter-5/sprint2-deploy-3.jpg)
+
+En la siguiente imagen se muestra el cuarto paso que es iniciar el despliegue:
+
+![Deployment Evidence](Assets/img/Chapter-5/sprint2-deploy-4.jpg)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Las siguientes capturas se sacaron del repositorio front-end de la Organización Github: <https://github.com/SoftCore-App-Web-1ASI0730-2510-4395/customhost-frontend>
